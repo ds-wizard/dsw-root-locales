@@ -6,7 +6,7 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-15 13:38+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/cs/>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-15 13:41+0000\nLast-Translator: Marek Suchánek <marek.suchanek@gmail.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/cs/>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -3117,7 +3117,7 @@ msgstr ""
 #: answer:fe80319d-f761-49ac-9faf-d4c5a9b349da:label
 #: answer:feb5bdea-9317-4fdd-8781-c26ce6e55fbf:label
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: answer:2271d2cd-de50-460b-85a1-dddf9d28776c:label
 msgid "No special planning is needed for the initial data"
@@ -6345,7 +6345,7 @@ msgstr ""
 #: answer:fd6d72e5-b927-4576-a903-75fb3072082b:label
 #: answer:fe8ed36b-40e8-483b-ab31-061f6168d7ad:label
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #: answer:88f9fb7b-12a9-481a-9239-cbf43206056e:label
 msgid "Yes, (almost) all our concepts are either from common ontologies, or mapped to common ontologies"
