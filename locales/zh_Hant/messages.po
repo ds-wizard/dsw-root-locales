@@ -4,8 +4,9 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 # Marek Suchánek <marek.suchanek@gmail.com>, 2026.
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-16 14:03+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-16 14:03+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -834,8 +835,9 @@ msgid "DMEG on Storage"
 msgstr ""
 
 #: answer:48062bc9-0ffb-4509-bec6-e90641a30569:label
+#, fuzzy
 msgid "DOI"
-msgstr ""
+msgstr "DOI"
 
 #: question:432c867e-8f29-47e6-9078-05bdf3d3fcb0:title
 msgid "DPIA"
@@ -858,8 +860,9 @@ msgid "Data Protection Officer"
 msgstr ""
 
 #: choice:3022098b-0e2c-4fad-9f28-cf2e1325521d:label
+#, fuzzy
 msgid "Data Steward"
-msgstr ""
+msgstr "資料管家"
 
 #: url-reference:35bcd464-9a68-49f3-8365-677fca660b17:label
 #: url-reference:b2db3b93-3ce7-4c3c-a80e-866671a9103a:label
@@ -1021,8 +1024,9 @@ msgstr ""
 
 #: question:934f6592-a032-4ada-91b2-4448d740d157:title
 #: question:b3d9b6ca-bd24-4fa3-a3bd-d15005b9ae8b:title
+#, fuzzy
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: question:c730b703-82cf-4a0e-a1dc-d910d73d1ed9:title
 msgid "Description of how and why you are using this policy or process"
@@ -1407,8 +1411,9 @@ msgid "Each person contributing to creating or executing the data management pla
 msgstr ""
 
 #: choice:100daf28-b55e-4b04-8295-f2aa83d0c734:label
+#, fuzzy
 msgid "Editor"
-msgstr ""
+msgstr "編輯者"
 
 #: question:f646ba6e-21bc-4e66-8265-c8fdbe115c1f:title
 msgid "Elaborate on your other safeguards"
@@ -2823,8 +2828,9 @@ msgstr ""
 #: question:235b36a8-3df7-44b7-9d0f-2ced3e4281a3:title
 #: question:6155ad47-3d1e-4488-9f2a-742de1e56580:title
 #: question:9a7e42c3-eed2-46da-bf45-52acbf1eb50f:title
+#, fuzzy
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 #: question:b141a560-a823-48a7-9ed2-933eee397ae2:title
 msgid "Name and contact details for the rightsholder of this data"
@@ -3352,8 +3358,9 @@ msgid "Open: The data will be shared with anyone, as long as they obey condition
 msgstr ""
 
 #: question:b9619bee-6d69-4111-b1e0-6c3ea50e01f8:title
+#, fuzzy
 msgid "Organization"
-msgstr ""
+msgstr "組織"
 
 #: answer:24e9cc13-b462-45fd-b242-d7122176fc9a:label
 #: answer:2a84c15c-f5ca-4471-b1fe-10f3d1231f24:label
@@ -3852,8 +3859,9 @@ msgid "Research funding organisations more and more demand that you search for e
 msgstr ""
 
 #: choice:c81c63b6-bec0-4e12-b9cd-247fa4338c1f:label
+#, fuzzy
 msgid "Researcher"
-msgstr ""
+msgstr "研究人員"
 
 #: answer:0c630b6f-8aec-4153-818d-90fbb559072f:label
 #: answer:9270c716-f997-43e1-bc2a-55687e149dbd:label
@@ -3877,8 +3885,9 @@ msgid "Rights Holder"
 msgstr ""
 
 #: question:829dcda6-db8a-40ac-819a-92b9b52490f5:title
+#, fuzzy
 msgid "Role"
-msgstr ""
+msgstr "角色"
 
 #: question:829dcda6-db8a-40ac-819a-92b9b52490f5:text
 msgid ""
@@ -4592,8 +4601,9 @@ msgid "Timing archival of raw data"
 msgstr ""
 
 #: question:7098b454-bc5e-4f83-a95d-970aa42e1479:title
+#, fuzzy
 msgid "Title"
-msgstr ""
+msgstr "標題"
 
 #: question:a30f5047-33c1-45a7-8b3f-b1b90c364fc9:text
 msgid "To ensure that the personal data that you process in the project is protected at an appropriate level, you should apply technical and procedural safeguards to ensure that the rights of the data subjects are not violated. Examples of such measures include, but are not limited to, pseudonymisation and encryption of data, the use of computing and storage environments with heightened security, and clear and documented procedures for project members to follow."
@@ -4627,8 +4637,9 @@ msgid "TranSMART"
 msgstr ""
 
 #: answer:7a1d3b28-5f85-48b8-b052-2448c276d9fc:label
+#, fuzzy
 msgid "URL"
-msgstr ""
+msgstr "網址"
 
 #: question:9e0fb0fd-0268-4cf3-8dfa-ba0b2a1e8e89:title
 msgid "Under what GDPR category does the project data fall?"
