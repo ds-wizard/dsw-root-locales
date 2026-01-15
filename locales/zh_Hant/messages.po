@@ -3,8 +3,9 @@
 # This file is distributed under the same license as the Common DSW Knowledge Model project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 # Marek Suchánek <marek.suchanek@gmail.com>, 2026.
+# Weblate <noreply-mt-weblate@weblate.org>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-16 14:03+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -133,8 +134,9 @@ msgid "Advice: Use the same identifiers for sample IDs etc throughout the entire
 msgstr ""
 
 #: question:68530470-1f1c-4448-8593-63a288713a66:title
+#, fuzzy
 msgid "Affiliation"
-msgstr ""
+msgstr "所屬機構"
 
 #: answer:45a2acbe-0ebc-40f7-b2e4-c7c87af6faa8:label
 msgid "After all our processing has finished"
@@ -3606,8 +3608,9 @@ msgid "Project members may need to know about passwords (not sharing accounts, u
 msgstr ""
 
 #: question:f0ef08fd-d733-465c-bc66-5de0b826c41b:title
+#, fuzzy
 msgid "Project name"
-msgstr ""
+msgstr "專案名稱"
 
 #: question:56163eb0-0101-40b4-b1c1-580875196b5c:title
 msgid "Project number"
