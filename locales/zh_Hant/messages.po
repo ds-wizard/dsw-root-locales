@@ -7,7 +7,7 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-22 06:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-23 07:04+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -125,15 +125,16 @@ msgstr "新增引用參考（reference）至既有的協議。"
 
 #: question:15573266-7ddf-4c6b-962e-45691d34cf61:text
 msgid "Adding more than the strict minimum metadata about your experiment will possibly allow more wide re-use of your data, with associated higher data citation rates. Please note that it is not easy for yourself to see all other ways in which others could be reusing your data."
-msgstr ""
+msgstr "為您的實驗新增多於必要的後設資料，有機會提升您資料被更廣泛再利用的可能性，並可能帶來更高的資料引用率。要預想他人未來可能以哪些方式再利用您的資料並不容易，因此提供較完整的後設資料尤為重要。"
 
 #: chapter:1e85da40-bbfc-4180-903e-6c569ed2da38:title
 msgid "Administrative information"
-msgstr ""
+msgstr "行政資訊"
 
 #: question:37d0367b-3b69-4b3e-9303-71e628b1f360:text
+#, fuzzy
 msgid "Advice: Use the same identifiers for sample IDs etc throughout the entire project."
-msgstr ""
+msgstr "建議：在整個專案中，樣本 ID 等識別碼請一致使用同一套編號方式。"
 
 #: question:68530470-1f1c-4448-8593-63a288713a66:title
 #, fuzzy
@@ -142,78 +143,78 @@ msgstr "所屬機構"
 
 #: answer:45a2acbe-0ebc-40f7-b2e4-c7c87af6faa8:label
 msgid "After all our processing has finished"
-msgstr ""
+msgstr "在所有處理作業完成後"
 
 #: answer:428ccd38-fb39-4e18-9d5c-92d80ba019ee:label
 msgid "After initial cleanup"
-msgstr ""
+msgstr "在初步清理完成後"
 
 #: question:99a48a1a-5c27-4e15-9da0-515da815b4b8:text
 msgid "After what period will restrictions on the reuse of data (except ethical and legal restrictions) fall away?"
-msgstr ""
+msgstr "除倫理與法規限制外，資料再利用的限制將在多久之後解除？"
 
 #: question:69be6695-152b-48ba-a1fd-6662476e39b7:text
 msgid "Aggregated data, where typically at least 15 individuals are in any data point, are considered sufficiently anonymous. This is an alternative way of making data openly available for future research."
-msgstr ""
+msgstr "彙整後的資料（通常每一個資料點至少包含 15 個個體）被視為具有足夠的匿名性。這也是一種能公開資料給未來研究的替代作法。"
 
 #: question:bd886f8e-7825-4f98-afb2-6079ae15c8ed:title
 msgid "Agreement"
-msgstr ""
+msgstr "協議"
 
 #: answer:dc8dbe60-43e8-4ed4-ab11-13bb74aea820:label
 msgid "All analyses will be redone with the new version"
-msgstr ""
+msgstr "所有分析都將以新版本重新執行"
 
 #: answer:c861d005-a681-4a3a-a54b-7a229b6662ee:label
 msgid "All at once with the results at the end of the project"
-msgstr ""
+msgstr "在專案結束時一併完成並提供結果"
 
 #: answer:278810f9-6396-4203-9fa6-6cd3a003159c:label
 msgid "All data elsewhere is adequately backed up"
-msgstr ""
+msgstr "所有他處資料皆已適當備份"
 
 #: answer:766e16e4-21c7-4030-9eda-1973f51061d4:label
 msgid "All essential data is also stored elsewhere"
-msgstr ""
+msgstr "所有重要資料亦儲存於他處"
 
 #: answer:407560bc-705a-4885-85d6-4f61fe58eeed:label
 msgid "All immediately in digital form"
-msgstr ""
+msgstr "全部立即以數位形式呈現"
 
 #: answer:be99bdcc-76f2-43c3-b277-064062360dc1:label
 msgid "All steps of the workflow will be performed at central computing locations"
-msgstr ""
+msgstr "工作流程的所有步驟都會在中央運算環境中執行"
 
 #: answer:423f7c77-c3bd-4ece-a9f6-ad9e3d0428a1:label
 msgid "Already have a copy"
-msgstr ""
+msgstr "已有一份副本"
 
 #: answer:45aa7af4-137a-4db6-abd7-2260e32f40a5:label
 msgid "Alternatives exist, but we prefer to develop our own"
-msgstr ""
+msgstr "有替代選項，不過我們偏好自己開發"
 
 #: question:69999c2c-2710-480e-b8ac-8a8fc6f582e5:text
 #: question:aee03da5-b399-4274-8db4-fac82c6210d3:text
 msgid ""
 "Although there is no world-wide rule for the application of copyright on data sets (copyright only applies to things that require a so-called \"creative step\"), it is wise to check for an explicit permission to use a data set and not to assume that data can be used freely just because you can access it. \n"
 "Note that copyright laws explicitly *forbid* the use of a copyrighted work, *except* if you get permission. Such a permission is called a \"licence\". So: if you can not find a licence, you have to assume you can not use the data."
-msgstr ""
+msgstr "儘管在資料集著作權的適用上並沒有全球一致的規範（著作權僅適用於需要所謂「創作性步驟」的內容），但在使用前，確認資料集是否有明確的使用授權仍是明智之舉，不應因爲資料可以被取得就假設其可自由使用。\n請注意著作權法明確「禁止」使用有著作權保護的作品，*除非*您有取得使用權利。如此的使用權被稱為「授權條款（license）」。因此，如果您無法找到授權條款，就必須假定您不能使用該資料。"
 
 #: question:e53fdad9-7799-4eb4-8b4d-fa9aa05f9d2d:title
 msgid "Amount"
-msgstr ""
+msgstr "數量"
 
 #: answer:d65ddfda-9b08-4ab6-90e5-07df748d7929:label
 msgid "An advanced processing service"
-msgstr ""
+msgstr "進階處理服務"
 
 #: answer:12ae8bdc-a6eb-4db9-9a1a-7e6fed7f9ace:label
 msgid "An extension of existing ethical approval under research ethics laws will be needed"
-msgstr ""
+msgstr "將會需要依研究倫理相關法規，申請延長現有的倫理審查核准"
 
 #: answer:290d7b18-f851-41eb-8024-e23bba79592e:label
 msgid "An institutional data steward"
-msgstr ""
+msgstr "一個機構內的資料管理者"
 
 #: question:7cc7b00c-6f1e-4ad9-9742-f02df552dbee:text
 msgid ""
@@ -221,15 +222,15 @@ msgid ""
 "\n"
 "Pseudonymisation refers to the processing of personal data in such a manner that the personal data can no longer be attributed to a specific person without the use of additional information, i.e. any identifying characteristics are replaced with\n"
 "a pseudonym."
-msgstr ""
+msgstr "匿名化（Anonymization）指的是，以某種方式處理個人資料，使他人無法從資料中識別出個人。例如，資料可被降為較概括的層級（如彙整後的資料），或轉換為統計資料，讓任何人都無法再從中辨識出個人身分。\n\n\n假名化（Pseudonymization）則是指，以某種方式處理個人資料，使其在未搭配額外資訊的情況下，無法再將資料歸屬於特定個人，也就是將任何可識別個人的特徵以「假名」取代。"
 
 #: answer:820c78f6-81d0-442f-80c7-bfa3d04b282a:label
 msgid "Another period"
-msgstr ""
+msgstr "另一個期間"
 
 #: answer:ab19f42e-6204-409e-aa6d-6d87783cce44:label
 msgid "Another reason"
-msgstr ""
+msgstr "另一個原因"
 
 #: answer:f748624d-8d28-4d07-91c7-28b33db1fabd:label
 msgid "Any filtering or selection will be well documented"
