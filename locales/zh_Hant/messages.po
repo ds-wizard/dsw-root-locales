@@ -5,122 +5,123 @@
 # Marek Suchánek <marek.suchanek@gmail.com>, 2026.
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
+# Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-16 14:03+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-22 06:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
-msgstr ""
+msgstr "10 年"
 
 #: answer:c0c80589-203d-4564-8f00-89d5cd538fae:label
 msgid "15 years"
-msgstr ""
+msgstr "15 年"
 
 #: answer:15f9c764-1aaa-4de1-b65d-b92ae6bd3fb8:label
 msgid "5 years"
-msgstr ""
+msgstr "5 年"
 
 #: answer:f357ae1a-6563-48dd-add2-580e1f1a565d:label
 msgid "A bit of both"
-msgstr ""
+msgstr "兩者兼具"
 
 #: answer:4505bb3f-63b0-4c28-97a8-d12fbafb2b7a:advice
 msgid "A collaboration agreement is really something to consider."
-msgstr ""
+msgstr "擬訂協作協議是值得考慮的一件事。"
 
 #: answer:1dc412c6-da92-4cc2-8639-316c0c6ec5ff:label
 msgid "A domain-specific repository"
-msgstr ""
+msgstr "特定領域的儲存庫"
 
 #: answer:d3886c3e-6cf7-4b3e-8bc7-307b47719871:label
 msgid "A general-purpose repository (e.g., Zenodo)"
-msgstr ""
+msgstr "通用型儲存庫（如 Zenodo）"
 
 #: answer:839c00ed-b7e6-46f0-a78e-9a1b6826a9d6:advice
 msgid ""
 "A great resource for particle physics data:\n"
 "* [CERN Open Data Portal](https://opendata.cern.ch/)"
-msgstr ""
+msgstr "粒子物理資料的重要資源：\n* [CERN 開放資料平台](https://opendata.cern.ch/)"
 
 #: question:cacee0fd-7de5-4e07-aa94-1661cb853558:text
 msgid "A human being quickly 'understands' data items and their relations. For good data reusability, it is necessary that computers can understand your data too."
-msgstr ""
+msgstr "人類可以快速「理解」資料項目及與其他資料彼此之間的關係；為了好的資料可再用性，讓電腦也能夠理解你的資料是必要的。"
 
 #: question:6ab36a2a-23ca-484d-b3d7-0c1a4eea821a:text
 msgid "A label like 'temperature' only makes sense to a computer if it is also clear what the units are and what temperature has been measured. In many cases, it is also important how it was measured."
-msgstr ""
+msgstr "像「溫度」這樣的標籤，對電腦而言只有在清楚標示使用的單位以及測量的是哪一種溫度時才有意義。在許多情況下，測量方法也相當重要。"
 
 #: answer:9a0cfd22-adce-46e6-b7ec-8ed581ac95be:label
 msgid "A large volume of intermediate data will be in the work space"
-msgstr ""
+msgstr "大量的中介資料將會存於工作空間中"
 
 #: answer:50eb4b5d-2455-48aa-b1f1-b4abca495e4d:label
 msgid "A project data steward or principle investigator"
-msgstr ""
+msgstr "專案資料管理人員（project data steward）或計畫主持人（principal investigator）"
 
 #: question:f876a937-c295-4a12-9dfb-6ffc7395c8db:text
 msgid "A qualified reference is a cross-reference that explains its intent. For example, X is regulator of Y is a much more qualified reference than X is associated with Y, or X see also Y. The goal therefore is to create as many meaningful links as possible between (meta)data resources to enrich the contextual knowledge about the data."
-msgstr ""
+msgstr "一個合格的參照（qualified reference）指的是一個能夠說明清楚其意義的交叉參照。舉例來說，「X 是 Y 的調節器（regulator）」比「X 跟 Y 有關聯」或是「X 另見 Y」 更加適合作為參照。因此，參照的目標在於在（後設/詮釋）資料與資料之間，製造有意義的連結，越多越好，以此豐富我們對資料的脈絡了解。"
 
 #: answer:da6725a2-62bb-4fe7-a76f-a4e396646b19:label
 msgid "A search and simple access interface"
-msgstr ""
+msgstr "搜尋與簡易存取的介面"
 
 #: answer:27db87e3-46b2-4705-b98c-47ddf4b4cd56:label
 msgid "A spare copy needs to be deployed quickly"
-msgstr ""
+msgstr "需要快速部署一份預備的副本"
 
 #: answer:afd9f4d5-20e0-4fa0-a42a-376c132ff5b0:label
 msgid "A special-purpose repository for the project"
-msgstr ""
+msgstr "此專案特殊用途的儲存庫"
 
 #: answer:9d51aae1-ca1b-4267-b0df-d43dc85f5bc6:label
 msgid "A specialized team"
-msgstr ""
+msgstr "專業團隊"
 
 #: answer:b308b8bb-83ed-4599-ae28-39c5c1218cbf:label
 msgid "A structured domain specific file with data and metadata fields"
-msgstr ""
+msgstr "包含資料與後設資料欄位的一個屬於特定領域的結構化檔案"
 
 #: answer:e8334918-27f8-4e1c-aa9f-5e8191b7fabb:label
 msgid "A table or set of tables (consisting of 'data records')"
-msgstr ""
+msgstr "一個表格或一組表格（由「資料紀錄」組成）"
 
 #: answer:5e5babe4-a37d-449e-9929-887614d55a3a:label
 msgid "AGPL 3.0 or later"
-msgstr ""
+msgstr "AGPL 3.0 以上版本"
 
 #: answer:c353f027-823b-4242-9149-37dca26cf4bc:label
 msgid "ARK"
-msgstr ""
+msgstr "資源典藏碼 ARK（Archival Resource Key）"
 
 #: cross-reference:decf61b1-7afa-447d-aeae-0b8e55d87abd:description
 msgid "Access rights to the archive"
-msgstr ""
+msgstr "檔案庫的取用權"
 
 #: answer:d12bd4e1-2fed-4ea0-b428-fe6f735d740a:label
 msgid "Accurate is more important"
-msgstr ""
+msgstr "準確更為重要"
 
 #: question:4e0c1edf-660c-4ebf-81f5-9fa959dead30:text
 msgid "Add all the data sets you will be producing. Give each a short name, sufficient for yourself to know what data it is about. It is useful to think about a data set as some collection of data that will be ending up in the same place."
-msgstr ""
+msgstr "新增所有您會產製的資料集。給每個資料集一個簡短的名稱，讓自己知道這份資料是什麼。將資料集視為最終會存於相同位置的資料彙集，有助於您管理資料。"
 
 #: question:36a87eac-402d-43fb-a0df-ac5963bdf87d:text
 msgid "Add all the funding that are part of this project."
-msgstr ""
+msgstr "新增所有此專案的資金來源。"
 
 #: question:81d3095e-a530-40a4-878e-ced42fabc4cd:text
 msgid "Add each of the locations where this data set will be made available. Give each of these a short name that identifies it to yourself."
-msgstr ""
+msgstr "請列出此資料集將會提供取用的每個位置。並為每個位置設定一個您能辨識的簡短名稱。"
 
 #: question:c3dabaaf-c946-4a0d-889c-ede966f97667:text
 msgid "Add each of the research project(s) that you are (or will be) working on and for which the data and work are described in this DMP. Give each project a small identifying name for yourself."
-msgstr ""
+msgstr "請列出您正在進行或未來將參與、且其資料與工作內容已在本資料管理計畫（DMP）中的每個研究計畫。並為每個計畫設定一個您能辨識的簡短名稱。"
 
 #: question:bd886f8e-7825-4f98-afb2-6079ae15c8ed:text
 msgid "Add reference to established agreement."
-msgstr ""
+msgstr "新增引用參考（reference）至既有的協議。"
 
 #: question:15573266-7ddf-4c6b-962e-45691d34cf61:text
 msgid "Adding more than the strict minimum metadata about your experiment will possibly allow more wide re-use of your data, with associated higher data citation rates. Please note that it is not easy for yourself to see all other ways in which others could be reusing your data."
