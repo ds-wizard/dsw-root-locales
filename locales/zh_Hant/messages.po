@@ -7,7 +7,7 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-23 07:04+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.12.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-27 08:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -234,80 +234,80 @@ msgstr "另一個原因"
 
 #: answer:f748624d-8d28-4d07-91c7-28b33db1fabd:label
 msgid "Any filtering or selection will be well documented"
-msgstr ""
+msgstr "任何篩選與選取的過程都會完整記錄起來"
 
 #: answer:a639ec31-e226-404e-97fb-567d2f52e321:label
 msgid "Any user needs to be able to restore an old copy instantaneously"
-msgstr ""
+msgstr "任何使用者都必須能夠即時還原舊版副本"
 
 #: answer:b19ba76a-4b6a-45f6-8ab5-8bbfb92c7b2c:label
 msgid "Anyone in the institute can read data, only project members can request write access"
-msgstr ""
+msgstr "機構內的任何人皆可讀取資料，不過只有專案成員可申請寫入權限"
 
 #: answer:154cd5fc-a79f-4c2e-be67-6985813bbc8d:label
 msgid "Anyone in the institute has read access to the data; all project members have read/write access."
-msgstr ""
+msgstr "機構內的任何人都可以讀取資料；所有專案成員皆有讀與寫的權限。"
 
 #: answer:8d3c3ffa-f194-4930-8cc5-ffa1f8f77fd7:label
 msgid "Apache 2.0"
-msgstr ""
+msgstr "Apache 2.0 版本"
 
 #: answer:85fad342-a89d-414b-bc83-286a7417bb78:label
 #: answer:d0308e38-13ee-44e7-8fa3-a29e0d0bfe86:label
 msgid "Applied"
-msgstr ""
+msgstr "已套用"
 
 #: question:b3ace89e-ca0b-4f62-b356-6001b5501e6d:title
 msgid "Approval status"
-msgstr ""
+msgstr "審核狀態"
 
 #: question:50f9d580-3e62-434b-81ff-86daed56aca8:text
 msgid "Archival and working with data have different requirements. You want archived information to be in a form that others could read and in a format that is also understandable in a number of years. When working with the data, you need to be able to address it efficiently. If the two differ, you need to plan for conversions."
-msgstr ""
+msgstr "資料典藏與應用在操作上有不同的要求。您會希望典藏的資料在多年後他人仍能讀取、理解的格式。因此您處理資料時，需要有效地回應這些需求。如果兩者（典藏與應用）的資料處理方式不同，您將需要為資料轉換做規劃。"
 
 #: cross-reference:4edaeeb8-0e4d-4ae7-b1c6-2e324bebdfd6:description
 msgid "Archival during the project"
-msgstr ""
+msgstr "專案期間的典藏"
 
 #: cross-reference:b0430030-df3e-4d67-897f-335fa6185858:description
 msgid "Archive encryption"
-msgstr ""
+msgstr "典藏加密"
 
 #: cross-reference:7d1b6960-92db-4074-b908-74132bce1444:description
 msgid "Archiving data when the project is finished"
-msgstr ""
+msgstr "當專案完成後典藏資料"
 
 #: cross-reference:3575556d-82dd-43bd-b9f1-5f1f28dbee86:description
 msgid "Archiving raw data from the working area"
-msgstr ""
+msgstr "將工作區域中的原始資料進行典藏"
 
 #: question:26c19dc0-3e75-4ff6-a3b8-126ac54894aa:title
 msgid "Are accounts on laptops password protected?"
-msgstr ""
+msgstr "筆記型電腦上的帳號是否有密碼保護？"
 
 #: question:cacee0fd-7de5-4e07-aa94-1661cb853558:title
 msgid "Are all column headers unambiguous?"
-msgstr ""
+msgstr "是否所有欄位名稱都清楚且不具歧義？"
 
 #: question:6aff9a57-acea-4f6d-ac98-9a067e03cc8e:title
 msgid "Are all data carriers encrypted?"
-msgstr ""
+msgstr "是否所有資料載體皆已加密？"
 
 #: question:39d8dad9-7666-405c-b35c-9e430c9691ed:title
 msgid "Are all project web services addressed via secure http (https://)?"
-msgstr ""
+msgstr "所有專案的網頁服務是否皆透過安全的 http（https://）存取？"
 
 #: question:56bc8ebb-aba5-4745-8034-17ed3fe4fe07:title
 msgid "Are all software tools in the work flow professionally maintained, with version control?"
-msgstr ""
+msgstr "工作流程中使用的所有軟體工具是否皆有專業維護，並採用版本控制？"
 
 #: question:3196c225-2842-4766-9768-381fd6ee1e05:title
 msgid "Are all the URIs in the RDF resolving to common ontologies?"
-msgstr ""
+msgstr "RDF 中的所有的 URI 是否皆可解析至通用本體論（ontologies）？"
 
 #: question:bdaba73c-02e0-4ff1-acb3-a68df891c36a:title
 msgid "Are all the relations between the column headers explicit?"
-msgstr ""
+msgstr "所有欄位名稱之間的關係是否皆已明確定義？"
 
 #: question:df3aff84-acf9-4614-996b-e69f7ddb96de:title
 msgid "Are all tools you use under your complete control?"
@@ -392,43 +392,43 @@ msgstr ""
 
 #: question:85a9d872-3d41-4560-82c4-b850a6e2d5ac:title
 msgid "Are there business reasons why (some of your) data can not be completely open?"
-msgstr ""
+msgstr "是否有商業因素，使您（部分）的資料無法完全公開？"
 
 #: question:ee59664e-4026-4796-a42a-e8003df6dadf:text
 msgid "Are there easily accessible specialized service providers for data capture?"
-msgstr ""
+msgstr "是否有容易取用、且專門提供資料擷取服務的供應商？"
 
 #: question:c010e830-bd89-460d-9498-cb41e7ffeb87:title
 msgid "Are there legal reasons why (some of your) data can not be completely open?"
-msgstr ""
+msgstr "是否因為法律因素，使您（部分）的資料無法完全公開？"
 
 #: question:c10f9098-5b1c-4abc-adaa-bdef2fb537ca:title
 msgid "Are there other reasons why (some of your) data can not be completely open?"
-msgstr ""
+msgstr "是否有其他原因使您（部分）的資料無法完全公開？"
 
 #: question:019db0b3-9067-4134-8bfd-76db3cfc572a:title
 msgid "Are there privacy reasons why your data can not be open?"
-msgstr ""
+msgstr "是否因隱私因素使您的資料無法公開？"
 
 #: question:f876a937-c295-4a12-9dfb-6ffc7395c8db:title
 msgid "Are there qualified references to other data sets?"
-msgstr ""
+msgstr "是否有指向其他資料集合適的參照？"
 
 #: question:754148c2-6019-4318-8d44-d73becc989f4:title
 msgid "Are there restrictions on where the data need to be stored?"
-msgstr ""
+msgstr "資料在儲存位置 / 地點上是否有任何限制？"
 
 #: question:e458d2eb-ba1e-4c4c-8619-5f8f431715b4:title
 msgid "Are you calibrating measurements?"
-msgstr ""
+msgstr "您是否有對測量進行校準？"
 
 #: question:01b70401-021b-4fe7-9073-570ecb3b320c:text
 msgid "Are you checking that data that is entered e.g. in forms is satisfying criteria of reasonability?"
-msgstr ""
+msgstr "您是否有確認輸入的資料（例如表單資料）符合合理性標準（criteria of reasonability）？"
 
 #: question:01b70401-021b-4fe7-9073-570ecb3b320c:title
 msgid "Are you doing Data Entry validation?"
-msgstr ""
+msgstr "您是否有驗證輸入的資料？"
 
 #: question:1b919e1e-a4fe-4be6-a976-862b82aab9b0:title
 msgid "Are you measuring samples for which the outcome is known in order to monitor consistency?"
@@ -475,11 +475,11 @@ msgstr ""
 
 #: question:4baf405e-262e-4f1a-bfdc-fe72fc628650:text
 msgid "Are you using any commercially licensed products to keep data, software or documents available, for which a regular fee must be paid?"
-msgstr ""
+msgstr "您是否使用任何需定期付費的商業授權產品，來確保資料、軟體或文件的可存取性？"
 
 #: question:839ea5fc-9cc1-497e-91bf-c05b34847a5e:title
 msgid "Are you using any other quality processes?"
-msgstr ""
+msgstr "您是否採用其他品質管控的流程？"
 
 #: question:e2401b56-5d7e-42c6-bb97-c8bede39b4b0:title
 msgid "Are you using controlled vocabularies where possible?"
@@ -491,39 +491,42 @@ msgstr ""
 
 #: question:65730a4d-40db-46c9-b6d2-2b44b35f617e:text
 msgid "Are you using e.g. an Electronic Lab Notebook (ELN) or Electronic Data Capture (EDC) application? Such applications often have their own data structure that can only be accessed through the application."
-msgstr ""
+msgstr "您是否使用電子實驗室筆記本（Electronic Lab Notebook ）或電子資料擷取（EDC）系統等工具？這類應用程式通常具有其專屬的資料結構，且僅能透過該應用程式存取。"
 
 #: question:811965f0-b1b7-4b4b-92a6-01cd83b08fa2:title
 msgid "Are your data sources using linked data?"
-msgstr ""
+msgstr "您的資料來源是否使用鏈結資料（linked data）？"
 
 #: question:532ddc6a-3415-4df8-8fa1-002ee486fd42:title
 msgid "Are your sources using the same vocabularies or ontologies where possible?"
-msgstr ""
+msgstr "您的資料來源是否盡可能地使用同樣的詞彙或本體論（ontologies）？"
 
 #: answer:59305ef2-2dd0-4553-8d7b-29186e0b8cd5:label
 msgid "As long as technically possible"
-msgstr ""
+msgstr "技術條件允許"
 
 #: answer:fbe7ef0d-3199-47de-ad28-1b9299200156:label
+#, fuzzy
 msgid "As soon as it comes in, in chunks"
-msgstr ""
+msgstr "資料進入後即分批進行"
 
 #: answer:92dc2ba0-2cac-4710-8dc7-c1cf6e573235:label
 msgid "As soon as it has all arrived, in one session"
-msgstr ""
+msgstr "待資料齊全後，於單一階段處理"
 
 #: answer:58468158-3e03-4f3d-a262-6fffb05bf08f:label
 msgid "As soon as possible after collecting it"
-msgstr ""
+msgstr "在資料蒐集完成後儘快進行"
 
 #: answer:37f92ce2-48e9-4437-bb34-b034b69ad4a2:label
+#, fuzzy
 msgid "Authors of similar alternatives are not willing to work with us"
-msgstr ""
+msgstr "開發其他類似替代方案的作者不願與我們合作"
 
 #: choice:cee31df6-624a-4569-ae32-fad3d74dc169:label
+#, fuzzy
 msgid "Automated-decision making with legal or similar significant effect on data subjects."
-msgstr ""
+msgstr "對資料主體具有法律效果或類似重大影響的自動化決策。"
 
 #: chapter:82fd0cce-2b41-423f-92ad-636d0872045c:text
 msgid ""
