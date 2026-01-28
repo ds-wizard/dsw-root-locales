@@ -7,7 +7,7 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-27 08:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-28 15:57+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -311,31 +311,31 @@ msgstr "所有欄位名稱之間的關係是否皆已明確定義？"
 
 #: question:df3aff84-acf9-4614-996b-e69f7ddb96de:title
 msgid "Are all tools you use under your complete control?"
-msgstr ""
+msgstr "您使用的所有軟體工具，您是否能全然掌握？"
 
 #: question:655180dc-1cb9-41f6-8a36-7c6ecf02009a:title
 msgid "Are all versions of all tools, including built-in tools, under total control of the project?"
-msgstr ""
+msgstr "所有工具（包括內建工具）的所有版本是否全然由專案掌控？"
 
 #: question:6b3f13db-407a-44e0-9d23-e6dd6a20ad59:title
 msgid "Are data integrity and reliability requirements also met by the other storage spaces used in the project?"
-msgstr ""
+msgstr "專案中使用的其他儲存空間是否也同樣符合資料完整性（integrity）與可靠性（reliability）的要求？"
 
 #: question:c1e83bdf-5914-44c2-8414-0a4e7fbaf272:title
 msgid "Are data that project members and partners store themselves adequately backed up and traceable?"
-msgstr ""
+msgstr "專案成員與合作夥伴自行儲存的資料是否有適當的備份機制，且可回溯？"
 
 #: question:d5990471-0618-42cd-92cb-bbbfd4f61532:title
 msgid "Are personal data sufficiently protected?"
-msgstr ""
+msgstr "個人資料是否有充分保護？"
 
 #: question:a12aa967-28a5-4a9b-8df8-f7c533205ea4:text
 msgid "Are some of the data in the project stored in a filesystem with files and folders?"
-msgstr ""
+msgstr "專案中部分的資料是否儲存在以檔案與資料夾組織的檔案系統中？"
 
 #: question:c534c029-cb42-46a9-a118-87abfe3b54da:title
 msgid "Are the criteria for application to access the data openly available?"
-msgstr ""
+msgstr "申請資料取用的審查條件是否是公開的？"
 
 #: question:c47d330a-2eb4-472e-be48-d06b3ec9b8e8:title
 msgid "Are the limitations to allowed data values in each column explicit?"
@@ -369,26 +369,27 @@ msgid ""
 msgstr ""
 
 #: question:426bdcb5-d012-4f1d-b99e-36dc3efe6e50:title
+#, fuzzy
 msgid "Are there any other outputs of your project that might be valuable to some other entities (researchers, researcher groups, institutes)?"
-msgstr ""
+msgstr "您的專案成果是否可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question:ee81402b-aefa-4cb6-9743-bb5de655e76d:title
 msgid "Are there any other outputs of your project, besides software, that could be valuable to other entities (such as researchers, research groups, or institutes)?"
-msgstr ""
+msgstr "除了軟體之外，您的專案產出是否還有可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question:ee81402b-aefa-4cb6-9743-bb5de655e76d:text
 msgid ""
 "Are there any other outputs of your project, besides software, that could be valuable to other entities (such as researchers, research groups, or institutes)?\n"
 "\n"
-msgstr ""
+msgstr "除了軟體之外，您的專案產出是否可能對其他對象有再利用價值（如研究人員、研究團隊或研究機構）？\n\n"
 
 #: question:4baf405e-262e-4f1a-bfdc-fe72fc628650:title
 msgid "Are there any other recurring fees to keep data or documents available?"
-msgstr ""
+msgstr "是否還有其他為維持資料或文件可取用而定期支付的費用？"
 
 #: question:8df5fdb2-e358-4c27-bbe8-efdca150702b:title
 msgid "Are there any software packgages you will be publishing?"
-msgstr ""
+msgstr "您是否將發布任何軟體套件？"
 
 #: question:85a9d872-3d41-4560-82c4-b850a6e2d5ac:title
 msgid "Are there business reasons why (some of your) data can not be completely open?"
@@ -432,15 +433,15 @@ msgstr "您是否有驗證輸入的資料？"
 
 #: question:1b919e1e-a4fe-4be6-a976-862b82aab9b0:title
 msgid "Are you measuring samples for which the outcome is known in order to monitor consistency?"
-msgstr ""
+msgstr "您是否會測量結果已知的樣本，以監測結果的一致性？"
 
 #: question:46e07a92-2070-4212-96ea-8b98da488292:title
 msgid "Are you representing the graph in RDF?"
-msgstr ""
+msgstr "您是否會以 RDF 形式呈現圖表？"
 
 #: question:d5ab8298-9382-455c-8241-f64d3cc54ffe:title
 msgid "Are you running repeat samples or are you repeating measurements in order to monitor consistency of the results?"
-msgstr ""
+msgstr "您是否透過重複樣本（repeat samples）或重複量測（repeating measurements），以監測結果的一致性？"
 
 #: question:ecdc6c3f-249a-4d82-822c-649754201981:title
 msgid "Are you running standardized data capture or recording?"
