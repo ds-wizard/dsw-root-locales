@@ -6,8 +6,9 @@
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
+# Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-31 01:03+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-31 01:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -339,15 +340,15 @@ msgstr "申請資料取用的審查條件是否是公開的？"
 
 #: question:c47d330a-2eb4-472e-be48-d06b3ec9b8e8:title
 msgid "Are the limitations to allowed data values in each column explicit?"
-msgstr ""
+msgstr "各欄位允許之資料值的限制是否明確？"
 
 #: question:0ebd660b-364a-4357-9044-c4dc0293a9ba:text
 msgid "Are the raw data encrypted or otherwise protected from theft or leaks at either site or during transport? You could e.g. use a light path or a virtual private network if you transport the data over the net."
-msgstr ""
+msgstr "存放站點或傳輸過程中的原始資料，是否經過加密或採取其他防止竊取與外洩的保護措施？例如：若透過網路傳輸，是否使用光通道網路或虛擬私人網路。"
 
 #: question:3788d53f-c79f-43d2-b67b-7479f05cddb0:text
 msgid "Are the risks of data leaks covered?"
-msgstr ""
+msgstr "資料外洩風險是否得到保障？"
 
 #: question:a18d79d2-74b1-4524-a3c7-2c1a87b66a75:title
 #, fuzzy
@@ -356,21 +357,20 @@ msgstr "是否因隱私因素使您的資料無法公開？"
 
 #: question:98d9789b-32fc-4e2f-876a-47760ad7c7ec:text
 msgid "Are there any data files e.g. on laptops of project members? Also: supercomputing centers and other high performance computer centers often write in their terms of use that you need to take care of your own backups."
-msgstr ""
+msgstr "專案成員的筆記型電腦等設備中是否存有任何資料檔案？此外，超級運算中心及其他高效能運算中心通常會在使用條款中註明，使用者須自行負責資料備份。"
 
 #: question:efc80cc8-8318-4f8c-acb7-dc1c60e491c1:text
 msgid "Are there any data sets available in the world that are relevant to your planned research?"
-msgstr ""
+msgstr "世界上是否存在任何與您計畫中的研究相關的可用資料集？"
 
 #: question:63b6e695-2371-412c-bed3-f13e157da0b4:text
 msgid ""
 "Are there any limitations on the data use e.g. only for research on certain types of diseases, sharing only within certain geographical boundaries, etc.?\n"
 "\n"
 "Describing data use in a formalised way by using the data use ontology (DUO) greatly improves the data reusability."
-msgstr ""
+msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類型疾病的研究、僅限在特定地理範圍內共享等？\n\n藉由資料使用本體論（data use ontology），以正式化方式描述資料使用，能大幅提升資料的可重用性。"
 
 #: question:426bdcb5-d012-4f1d-b99e-36dc3efe6e50:title
-#, fuzzy
 msgid "Are there any other outputs of your project that might be valuable to some other entities (researchers, researcher groups, institutes)?"
 msgstr "您的專案成果是否可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
@@ -446,34 +446,34 @@ msgstr "您是否透過重複樣本（repeat samples）或重複量測（repeati
 
 #: question:ecdc6c3f-249a-4d82-822c-649754201981:title
 msgid "Are you running standardized data capture or recording?"
-msgstr ""
+msgstr "您是否正在執行標準化的資料獲取或記錄？"
 
 #: question:b2fb6b4e-2961-40a4-a9ec-faf4e49a978b:title
 msgid "Are you running the project in a collaboration between different groups or institutes?"
-msgstr ""
+msgstr "您的專案是否與不同的團隊或機構協作？"
 
 #: question:65730a4d-40db-46c9-b6d2-2b44b35f617e:title
 msgid "Are you storing (some of your) data in an application specific manner?"
-msgstr ""
+msgstr "您是否使用特定應用程式儲存（部分）資料？"
 
 #: answer:309ee279-cd5a-47dd-ad11-7b111d0ac1ff:advice
 msgid "Are you sure the data set would not be re-usable in another context? Or that it could be valuable to prevent others having to perform the same experiment and coming to the same negative results?"
-msgstr ""
+msgstr "您確定該資料集無法在其他情境中重複使用嗎？或者，該數據集是否能避免他人重複進行相同的實驗並得到相同的負面結果？"
 
 #: question:3a076e83-73b0-4cdd-bb71-c5d41469a191:title
 msgid "Are you sure you will not need a backup of the data stored on the scratch file systems (any scratch you use)?"
-msgstr ""
+msgstr "您確定不會需要對儲存在暫存檔案系統（Scratch File Systems，包括您使用的任何暫存空間）中的資料備份嗎？"
 
 #: answer:f040fdff-e9d4-4777-a482-af584fd7b3ba:advice
 msgid ""
 "Are you sure? \n"
 "\n"
 "There may be very different reasons to reuse a data set than you can think of! E.g. an interview recording can be used for voice analysis or for studying the acoustics of a room, which is not what the interviewer had in mind when it was made."
-msgstr ""
+msgstr "您確定嗎？\n\n重新利用資料集的原因可能遠超您的想像！例如：訪談錄音可以用於語音分析或研究室內聲學，這並非訪談者在錄音時所預想的用途。"
 
 #: question:a12aa967-28a5-4a9b-8df8-f7c533205ea4:title
 msgid "Are you using a filesystem with files and folders?"
-msgstr ""
+msgstr "您是否正在使用包含檔案與資料夾的檔案系統？"
 
 #: question:4baf405e-262e-4f1a-bfdc-fe72fc628650:text
 msgid "Are you using any commercially licensed products to keep data, software or documents available, for which a regular fee must be paid?"
@@ -485,11 +485,11 @@ msgstr "您是否採用其他品質管控的流程？"
 
 #: question:e2401b56-5d7e-42c6-bb97-c8bede39b4b0:title
 msgid "Are you using controlled vocabularies where possible?"
-msgstr ""
+msgstr "您是否盡可能地使用控制詞彙？"
 
 #: question:56354f8a-31df-40fc-aeae-67d45af560b5:title
 msgid "Are you using data peer review?"
-msgstr ""
+msgstr "您是否採用資料同儕審查（Data Peer Review）？"
 
 #: question:65730a4d-40db-46c9-b6d2-2b44b35f617e:text
 msgid "Are you using e.g. an Electronic Lab Notebook (ELN) or Electronic Data Capture (EDC) application? Such applications often have their own data structure that can only be accessed through the application."
@@ -535,67 +535,68 @@ msgid ""
 "Before you decide to embark on any new study, it is good practice to check all options to re-use existing available data, either collected or generated by yourself in an earlier project, or data from others (Barend Mons calls this \"Other PEople's Data And Services\" or OPEDAS). This can include reusable data that have been created for an earlier study, and also so-called \"reference data\" which is used by many projects.\n"
 "\n"
 "It is not because we can generate massive amounts of data that we always need to do so. Creating data with public money is bringing with it the responsibility to treat those data well and (if potentially useful) make them available for re-use by others. And the circle is only complete if such data is actually re-used."
-msgstr ""
+msgstr "在您決定開始任何新研究之前，最好檢查所有現有的可用資料，作為可重複使用的選項。這些資料可能是您在早期專案中收集或產生的，也可能是來自他人的資料（Barend Mons 將其稱為「他人的資料與服務」或 OPEDAS）。這可以包括為早期研究建立的可重用資料，以及許多專案都會使用的所謂「參考資料」。\n\n我們並非因為能夠產生海量資料就必須總是這麼做。利用公帑產出資料，也隨之帶來了妥善處理這些資料的責任，並且（若具備潛在用途）應將其提供給他人重複使用。而唯有當這些資料確實被重複使用時，這個循環才算完整。"
 
 #: question:3d09f311-07dd-49a0-8445-5eab8f9548fc:text
+#, fuzzy
 msgid "Below listed are 9 criteria - provided by the EC - that might indicate that your project constitutes **high risk processing**.  Please check the indicators that apply your project. Consult the linked EC Guideline for explanations of indicators."
-msgstr ""
+msgstr "以下列出由歐洲聯盟執行委員會（EC）提供的 9 項準則，這些準則可能顯示您的專案構成高風險處理。  請勾選適用於您專案的指標。指標的詳細說明請參閱連結裡的 EC 指南。"
 
 #: question:934f6592-a032-4ada-91b2-4448d740d157:text
 msgid "Briefly describe the contents of this data set"
-msgstr ""
+msgstr "請簡要描述此資料集的內容"
 
 #: question:1d1ac8bb-66c8-4b9e-bfc9-4c26f3598062:text
 msgid "By publishing either exactly what you did or (better) make sure that the harmonized data is available for reuse, you may save others the effort."
-msgstr ""
+msgstr "透過公開您的付出，或（更好地）確保整合後的資料可供重複使用，您可以為他人節省精力。"
 
 #: answer:15e7beff-1d71-4515-9517-26e222e672e5:label
 msgid "By request to the contact person"
-msgstr ""
+msgstr "按照聯絡人的請求"
 
 #: question:349c806a-6527-4d58-933a-dd53a31d831f:title
 msgid "By whom it might be reused?"
-msgstr ""
+msgstr "哪些對象可能會重複使用這些資料？"
 
 #: question:20a9685a-5560-43dc-bb13-73c434f8d666:title
 msgid "Can all data be brought into the same format, e.g. RDF?"
-msgstr ""
+msgstr "是否能將所有資料轉換為相同格式，例如資源描述框架（RDF）？"
 
 #: question:3788d53f-c79f-43d2-b67b-7479f05cddb0:title
 msgid "Can all data be legally transported and processed at the computing site?"
-msgstr ""
+msgstr "所有資料是否都能合法地傳輸至該運算地點並進行處理？"
 
 #: question:37531bec-1488-4204-807d-762794b538e9:title
 msgid "Can all of the data you want to couple be captured in that format?"
-msgstr ""
+msgstr "您所有想要進行關聯（Couple）的資料，是否都能以此格式擷取？"
 
 #: question:a549d10b-aa46-4c0c-863f-30219ac5ecce:title
 msgid "Can all of your data become completely open over time?"
-msgstr ""
+msgstr "隨著時間推移，您的所有資料是否將會完全公開？"
 
 #: question:1a754b08-2a93-4d90-ac52-96f2a69097bf:title
 msgid "Can the archival period be extended?"
-msgstr ""
+msgstr "檔案保存期限（Archival period）是否可以延長？"
 
 #: question:b16e76a9-34a8-4ba5-9420-b58bebaeac8d:title
 msgid "Can the original data be regenerated?"
-msgstr ""
+msgstr "原始資料是否可以重新產生？"
 
 #: question:3d942d91-39a2-4d2f-a27a-6fe57deb87ff:text
 msgid "Can the volume of data be accommodated by the standard network connection? Has a special network connection (e.g. light path) that is needed been reserved?"
-msgstr ""
+msgstr "現有的標準網路連線是否足以容納此資料量？是否已預留所需的特殊網路連線（例如：光通道網路）？"
 
 #: question:ba0000c2-65e0-4af3-95c3-bdcc1d3de291:title
 msgid "Can the work flow be annotated to make it understandable?"
-msgstr ""
+msgstr "工作流程（Workflow）是否可以加上註解，使其易於理解？"
 
 #: question:2e7af465-4852-4411-8d8e-7f0ff64d8b25:title
 msgid "Can you and will you use the complete existing data set?"
-msgstr ""
+msgstr "您是否能夠且願意使用完整的現有資料集？"
 
 #: question:0548db0c-bd34-40ce-be73-7a13a5e8eb7d:title
 msgid "Can you handle it when the work space is off line for a while?"
-msgstr ""
+msgstr "當工作空間（Workspace）暫時離線時，您是否有能力應對？"
 
 #: question:bdce5cee-2930-4b30-b3d5-d503ab0b5d1a:title
 msgid "Can you make a decision for the workflow engine based on the criteria deemed important?"
