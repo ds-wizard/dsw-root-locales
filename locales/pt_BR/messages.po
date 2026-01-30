@@ -4,35 +4,35 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 # José Geraldo de Carvalho Pereira <zgcarvalho@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: pt_BR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-31 01:03+0000\nLast-Translator: José Geraldo de Carvalho Pereira <zgcarvalho@gmail.com>\nLanguage-Team: Portuguese (Brazil) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/pt_BR/>\nLanguage: pt_BR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
-msgstr ""
+msgstr "10 anos"
 
 #: answer:c0c80589-203d-4564-8f00-89d5cd538fae:label
 msgid "15 years"
-msgstr ""
+msgstr "15 anos"
 
 #: answer:15f9c764-1aaa-4de1-b65d-b92ae6bd3fb8:label
 msgid "5 years"
-msgstr ""
+msgstr "5 anos"
 
 #: answer:f357ae1a-6563-48dd-add2-580e1f1a565d:label
 msgid "A bit of both"
-msgstr ""
+msgstr "Um pouco de ambos"
 
 #: answer:4505bb3f-63b0-4c28-97a8-d12fbafb2b7a:advice
 msgid "A collaboration agreement is really something to consider."
-msgstr ""
+msgstr "Um acordo de colaboração é realmente algo a se considerar."
 
 #: answer:1dc412c6-da92-4cc2-8639-316c0c6ec5ff:label
 msgid "A domain-specific repository"
-msgstr ""
+msgstr "Um repositório domínio-específico"
 
 #: answer:d3886c3e-6cf7-4b3e-8bc7-307b47719871:label
 msgid "A general-purpose repository (e.g., Zenodo)"
-msgstr ""
+msgstr "Um repositório de propósito geral (e.g., Zenodo)"
 
 #: answer:839c00ed-b7e6-46f0-a78e-9a1b6826a9d6:advice
 msgid ""
