@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-31 01:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-31 01:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -6641,11 +6641,11 @@ msgstr ""
 
 #: question:a20ddc5d-e883-4bc4-9948-36a2cb477d10:text
 msgid "Your institute may have a generic risk assessment; you should be informed about this."
-msgstr ""
+msgstr "您的機構可能已有通用的風險評估機制；您應了解相關內容。"
 
 #: question:9a1c0153-3eae-40d5-8e91-66e108ef1fe8:text
 msgid "Your workflow may be available in components from different sources. Specify the different parts that you recognize and that you will each acquire in a different way."
-msgstr ""
+msgstr "您的工作流程可能由不同來源的細項構成。請說明您能辨識的部分，並說明您會以什麼方式取得它們。"
 
 #: question:eccb8305-b78e-4e60-a4ee-094c70003b7a:text
 msgid "[Article 4](https://gdpr-info.eu/art-4-gdpr/) (7): *“**‘controller’** means the natural or legal person, public authority, agency or other body which, alone or jointly with others, **determines the purposes** and means of the processing of personal data; […].”* The Controller is typically the university employer of the PI, and the PI should act as a representative of her university employer and is responsible for ensuring that personal data is handled correctly in her projects. For cross-border collaborative projects the controllers of different datasets should be identified. Also, if joint controllership is considered, make sure that all parties understand their obligations, and it is probably good to define the terms for this in an agreement between the parties."
@@ -6677,7 +6677,7 @@ msgstr ""
 #: answer:bb3a8a14-7f1c-4cb3-bfb3-67346191195a:advice
 #: answer:ea62d905-0751-49ac-b74e-3600280f867d:advice
 msgid "_We are interested to receive your expertise on this topic. You can use the feedback button if you have resources that we could list here_"
-msgstr ""
+msgstr "_我們希望能收到您在此主題上的專業意見。若您有可供我們列出的相關資源，歡迎使用回饋按鈕與我們分享_"
 
 #: url-reference:27700b2e-3022-4c21-8d30-6d9968491d26:label
 msgid "chipster"
@@ -6689,7 +6689,7 @@ msgstr ""
 
 #: answer:f2784b7e-b0ed-4973-9d68-954c5c24e8bb:advice
 msgid "consider making them partner in the project"
-msgstr ""
+msgstr "可考慮邀請他們成為專案合作夥伴"
 
 #: url-reference:d6215b18-f046-49d7-8fdc-b4aafa12314e:label
 msgid "galaxy"
@@ -6701,7 +6701,7 @@ msgstr ""
 
 #: answer:00e67874-dbe8-41a4-b9fc-0a4429765fce:advice
 msgid "make sure you can guarantee longevity of this repository!"
-msgstr ""
+msgstr "請務必確保您能保障此儲存庫的長期存續性！"
 
 #: url-reference:da0ff396-4320-44e9-ae1d-4ebc29207bb1:label
 msgid "molgenis"
