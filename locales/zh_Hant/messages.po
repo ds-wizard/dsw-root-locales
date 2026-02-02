@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-01-31 01:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-02 17:18+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -695,152 +695,168 @@ msgstr ""
 
 #: answer:15e7beff-1d71-4515-9517-26e222e672e5:advice
 msgid "Consider what will happen if the contact person moves jobs."
-msgstr ""
+msgstr "請考慮若該聯絡人換工作，後續將如何處理。"
 
 #: choice:2c6ee59d-4dc9-4dcb-ac13-d969c317a117:label
 msgid "Contact Person"
-msgstr ""
+msgstr "聯絡人"
 
 #: question:b1492627-9cb6-465a-945a-a2a7ff9a8189:text
 msgid "Contacting the repository early may be useful to establish conditions, formats, and metadata requirements for submission. It may also be necessary to establish whether the repository can accommodate your data"
-msgstr ""
+msgstr "在研究初期儘早與儲存庫（Repository）聯繫，可能有助於確立提交的條件、格式和後設資料要求。此外，這也有助於確認該儲存庫是否有能力容納您的數據"
 
 #: question:73d686bd-7939-412e-8631-502ee6d9ea7b:title
 msgid "Contributors"
-msgstr ""
+msgstr "貢獻者"
 
 #: cross-reference:df070071-38a9-4250-a035-445c12f95af3:description
 msgid "Control over tools in the workflow engine"
-msgstr ""
+msgstr "對工作流程引擎（Workflow engine）中工具的控制權"
 
 #: question:e2401b56-5d7e-42c6-bb97-c8bede39b4b0:text
 msgid "Controlled vocabularies should be used to limit what can be entered in most text fields. "
-msgstr ""
+msgstr "應使用控制詞彙（Controlled vocabularies）來限制大多數文字欄位的輸入內容。 "
 
 #: question:6cc336d2-2ae1-4ba7-92bf-00307c48dbdf:title
+#, fuzzy
 msgid "Controller"
-msgstr ""
+msgstr "管理者"
 
 #: cross-reference:468bad94-ef86-4d24-8e97-d635fb1f68b0:description
 msgid "Copying data into and out of the main working area of the project"
-msgstr ""
+msgstr "將資料複製進和複製出專案的主要工作區"
 
 #: answer:acec64f8-f20b-4295-85d6-a8831ee6a1a3:label
 msgid "Copying or network delays are considered to be acceptable"
-msgstr ""
+msgstr "複製或網路的延遲被認為是可以接受的"
 
 #: question:028909e8-7392-4385-96a3-467d79c43a42:title
 msgid "Cost allocation"
-msgstr ""
+msgstr "成本分配"
 
 #: question:353eeaca-45fa-4958-a33c-ec6de3075701:title
 msgid "Costs"
-msgstr ""
+msgstr "成本"
 
 #: question:15ee1921-1fea-4f22-b462-b3cf7cdd4646:title
 msgid "Could anonymization be used to make the data more openly available?"
-msgstr ""
+msgstr "是否可以透過匿名化（Anonymization）使資料更加公開可用？"
 
 #: question:a25b30f4-2d0f-4132-9b8e-0950f0b0ed66:title
 msgid "Could pseudonymization be used to make the data more openly available?"
-msgstr ""
+msgstr "是否可以透過假名化（pseudonymization）使資料更加公開可用？"
 
 #: question:6b3d62a5-1d4d-49e1-aaf1-0a8b398a7ac3:title
 msgid "Could the coupling of data create a danger of re-identification of pseudo- or anonymized personal data?"
-msgstr ""
+msgstr "資料關聯（Data Coupling）是否會導致假名化或匿名化的個人資料產生被重新識別的危害？"
 
 #: question:69be6695-152b-48ba-a1fd-6662476e39b7:title
 msgid "Could you use data aggregation to make the data openly available?"
-msgstr ""
+msgstr "您是否可以透過資料聚合（Data Aggregation）使資料更加開放可用？"
 
 #: chapter:b1df3c74-0b1f-4574-81c4-4cc2d780c1af:title
 msgid "Creating and collecting data"
-msgstr ""
+msgstr "建立與收集資料"
 
 #: cross-reference:37fcb07e-a791-40ef-934b-33dedece5b0c:description
 msgid "Creating reference data"
-msgstr ""
+msgstr "建立參考資料"
 
 #: choice:21047dec-71ee-40e4-868a-3ed75a027ff6:label
 msgid "Creator of DMP"
-msgstr ""
+msgstr "資料管理計畫（DMP）的撰寫者"
 
 #: choice:4e4a40fa-cf4d-4de2-8959-fc2d651be3f5:label
 msgid "Criminal convictions and offences"
-msgstr ""
+msgstr "刑事判決與犯罪"
 
 #: question:ac1f8f04-17a2-49e9-b2ad-2a9f8e44efb3:title
 msgid "Currency"
-msgstr ""
+msgstr "貨幣"
 
 #: url-reference:c3371a36-cc69-430d-b1e4-eb7a98ebe10e:label
 msgid "DDI metadata documentation"
-msgstr ""
+msgstr "DDI 後設資料文檔"
 
 #: question:9320bf04-824b-46b3-ae8b-55240e2d04b9:text
 msgid "DDI metadata is more extensive than Dublin Core and DataCite, it details more of what is in the data and really can help other researchers locate your data set as an interesting source."
-msgstr ""
+msgstr "DDI 後設資料比 Dublin Core 和 DataCite 更為全面，它進一步細述了資料，能確實協助其他研究者將您的資料集定位為有趣的來源。"
 
 #: url-reference:ba9fdb42-1524-4d68-8aa9-c3ab72b54dc5:label
+#, fuzzy
 msgid "DMEG on Access to Data"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的資料存取"
 
 #: url-reference:aa54555f-b312-41a5-9c24-609b2d7d9346:label
+#, fuzzy
 msgid "DMEG on Backups"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的備份"
 
 #: url-reference:26ecbf8d-d40a-476a-b527-9e9c7896eb48:label
+#, fuzzy
 msgid "DMEG on Copyright"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的版權"
 
 #: url-reference:87c7169d-f8bf-4616-bdb4-d1db922746d3:label
+#, fuzzy
 msgid "DMEG on Data Discovery"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的資料探索"
 
 #: url-reference:4cbf4d06-9b4f-4088-b5e4-ab0813c5d853:label
+#, fuzzy
 msgid "DMEG on Data Integrity"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的資料完整性"
 
 #: url-reference:15f661c7-2bfa-4687-823e-80692f3efd61:label
+#, fuzzy
 msgid "DMEG on Data Protection"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的資料保護"
 
 #: url-reference:abcc180f-fb2f-4c97-99ce-70d96275bfdf:label
+#, fuzzy
 msgid "DMEG on Data Quality"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的資料品質"
 
 #: url-reference:c653312c-e9b1-4d3c-b23f-26ba0c429cd4:label
+#, fuzzy
 msgid "DMEG on Ethical Process Review"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的倫理流程審查"
 
 #: url-reference:525e23cd-1c2e-4698-8c23-b5f7671149ca:label
+#, fuzzy
 msgid "DMEG on File Naming and Folder Structure"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的檔案命名與資料夾結構"
 
 #: url-reference:1d5185e5-b4f3-40c5-8a6e-b8f3dfe098f5:label
+#, fuzzy
 msgid "DMEG on File Structure"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的檔案結構"
 
 #: url-reference:6c37835d-2aa5-4a40-92e7-28c3a8cc6752:label
+#, fuzzy
 msgid "DMEG on Fomats and Conversion"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的格式與轉換"
 
 #: url-reference:ce21ae0b-3efa-4249-941f-b1f3f18b2799:label
+#, fuzzy
 msgid "DMEG on Licensing"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的授權"
 
 #: url-reference:3e04aff9-3f6d-4b04-bc86-058ee0c2c81b:label
+#, fuzzy
 msgid "DMEG on Metadata"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的後設資料"
 
 #: url-reference:4c559ae4-fbde-45a9-bb03-53fb626198ec:label
+#, fuzzy
 msgid "DMEG on Personal Data"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的個人資料"
 
 #: url-reference:2757f8e9-e3a8-44fb-af90-f650570305c0:label
 #: url-reference:ed8502b4-0043-4847-8db5-62377f135a3e:label
+#, fuzzy
 msgid "DMEG on Storage"
-msgstr ""
+msgstr "DMEG （Data Management Expert Guide）中的儲存"
 
 #: answer:48062bc9-0ffb-4509-bec6-e90641a30569:label
 #, fuzzy
@@ -849,23 +865,23 @@ msgstr "DOI"
 
 #: question:432c867e-8f29-47e6-9078-05bdf3d3fcb0:title
 msgid "DPIA"
-msgstr ""
+msgstr "資料保護影響評估(DPIA)"
 
 #: choice:fc789e2d-01ee-432d-82f9-1b659f58eaf8:label
 msgid "Data Collector"
-msgstr ""
+msgstr "資料收集者"
 
 #: choice:618cb529-0c24-4762-a739-7983004d1b2b:label
 msgid "Data Curator"
-msgstr ""
+msgstr "資料策展人"
 
 #: choice:627ab8dc-8026-498d-ba7a-3df122e29ede:label
 msgid "Data Manager"
-msgstr ""
+msgstr "資料管理員"
 
 #: choice:bc82b138-9816-46dd-8ff8-cea2826a3ad4:label
 msgid "Data Protection Officer"
-msgstr ""
+msgstr "資料保護長"
 
 #: choice:3022098b-0e2c-4fad-9f28-cf2e1325521d:label
 #, fuzzy
@@ -875,7 +891,7 @@ msgstr "資料管家"
 #: url-reference:35bcd464-9a68-49f3-8365-677fca660b17:label
 #: url-reference:b2db3b93-3ce7-4c3c-a80e-866671a9103a:label
 msgid "Data Use Ontology"
-msgstr ""
+msgstr "資料使用本體論（Data Use Ontology）"
 
 #: question:948b5fd8-c1bd-457d-8f81-ea2fd093f541:text
 msgid ""
