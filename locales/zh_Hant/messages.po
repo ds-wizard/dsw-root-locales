@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-02 17:18+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-02 17:18+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -663,35 +663,35 @@ msgid ""
 "Complicated (binary) file formats tend to change over time, and software may not stay compatible with older versions. Also, some formats (e.g. DOC, XLS) hamper long term usability by making use of patents or being hampered by restrictive licensing. \n"
 "\n"
 "Ideally a format should be simple, text only, completely described, not restricted by copyrights, and implemented in different software packages."
-msgstr ""
+msgstr "複雜的（二進位）檔案格式往往會隨時間改變，而軟體也可能無法持續相容於舊版本。此外，某些格式（如 DOC、XLS）因涉及專利或受限於嚴格的授權條款，會妨礙資料的長期可用性。 \n\n理想的檔案格式應具備以下特性：結構簡單、純文字、規格完整公開、不受著作權限制，且可在不同軟體中應用。"
 
 #: cross-reference:83081d6a-7e18-4ccf-97cd-f89193e73382:description
 msgid "Compute capacity planning"
-msgstr ""
+msgstr "運算資源規劃"
 
 #: answer:272e49e3-688f-4a52-90fb-399be6ce7282:label
 msgid "Computer savvy operators"
-msgstr ""
+msgstr "熟悉電腦的操作者"
 
 #: answer:59bc5ee8-71c9-497f-a09a-7b0736c40d74:label
 msgid "Consent"
-msgstr ""
+msgstr "同意"
 
 #: answer:eb17ff9a-c57e-4fd4-b3bd-89edb31c6568:label
 msgid "Consent given by the research subject"
-msgstr ""
+msgstr "研究對象所給予的知情同意"
 
 #: answer:fe13a1d8-06be-430c-a486-7346b769b48f:advice
 msgid "Consider changing this!"
-msgstr ""
+msgstr "考慮修改這部分！"
 
 #: question:89f78871-68bd-4190-9ee7-57ec3b4c2356:text
 msgid "Consider storing only the workflow parameters if the data itself could be reproduced quickly."
-msgstr ""
+msgstr "若資料本身可快速重製，可考慮僅儲存工作流程的參數。"
 
 #: question:f78fb7e9-2f26-493c-a19b-04e153c17274:text
 msgid "Consider that users of a data set will need to be able to get access several years after the project is finished. The best way to arrange this is to put the responsibility for checking the rights to access the data with a fixed body in an organisation, a data access committee, rather than one of the investigators of the project."
-msgstr ""
+msgstr "請考量資料集的使用者可能需要在專案結束數年後仍能存取資料。為了妥善安排這一點，最好的做法是將資料取用權限的審核責任，交由機構內的固定單位（例如資料取用委員會）負責，而非由專案中的研究人員負責。"
 
 #: answer:15e7beff-1d71-4515-9517-26e222e672e5:advice
 msgid "Consider what will happen if the contact person moves jobs."
@@ -900,31 +900,31 @@ msgid ""
 "Re-users of the data also need this information to decide whether the data can be used for their purpose.\n"
 "\n"
 "In computing, systems like Galaxy and (Jupyter) notebooks often automatically keep provenance information."
-msgstr ""
+msgstr "資料分析通常是逐步進行的，因此對所有資料而言，完整記錄其來源，以及所有處理與篩選步驟相當重要；否則，分析結果將無法再製。\n\n資料的再利用者（re-users）同樣需要這些資訊，才能判斷資料是否適合他們的使用目的。\n\n在運算環境中，像是 Galaxy 與（Jupyter）筆記本等系統，往往能自動保留資料的來源與處理歷程（provenance）資訊。"
 
 #: cross-reference:1fa0cc82-65e6-492f-b982-19ea2636ed95:description
 msgid "Data archive setup"
-msgstr ""
+msgstr "資料典藏設置"
 
 #: choice:bccae922-5281-48f8-aa9b-f1497acc9106:label
 msgid "Data concerning health"
-msgstr ""
+msgstr "與健康相關的資料"
 
 #: choice:7dd41e34-b8fb-4d4a-9dde-eb0954d9718f:label
 msgid "Data concerning vulnerable data subjects including minors, employees, elderly, mentally incapacitated, patients receiving care. "
-msgstr ""
+msgstr "這筆資料涉及弱勢的資料對象，如未成年人、受僱者、高齡者、心智能力受限者，以及正在接受照護的病患。 "
 
 #: question:e0759fdc-7ce9-4020-816d-73119f634c7e:text
 msgid "Data corruption or mistakes can happen with large amounts of files or large files. Keeping a *master list* with data checksums can be helpful to prevent expensive mistakes, because it will help detect early when data files are damaged or mixed up. It can also be helpful to keep the list under version control so that all changes are well documented."
-msgstr ""
+msgstr "在處理大量檔案或較大的檔案時，有可能發生資料毀損或錯誤。建立一份包含檔案核對和（checksums）的「主清單（master list）」，有助於及早偵測檔案是否受損或被混用，從而避免代價高昂的錯誤。此外，將此清單納入版本控制，也能確保所有變更能被完整記錄。"
 
 #: question:f00cf643-5368-458a-97d4-b463c2000c66:title
 msgid "Data format/type"
-msgstr ""
+msgstr "資料格式/類型"
 
 #: answer:24219df8-dfb8-4c7d-94fa-fd329e9468b7:label
 msgid "Data in the database will be read-only"
-msgstr ""
+msgstr "資料庫中的資料將為唯讀模式"
 
 #: question:46039bea-87e6-4c61-8567-4e819404b4d0:text
 msgid ""
@@ -997,80 +997,79 @@ msgstr ""
 
 #: url-reference:fffcd354-ac6e-4905-b74b-f1a6b180bcff:label
 msgid "Datacite Search"
-msgstr ""
+msgstr "搜尋 Datacite"
 
 #: question:fa72bb87-0403-4953-9536-4ac836843763:title
 msgid "Dataset"
-msgstr ""
+msgstr "資料集"
 
 #: question:d21fdb06-22bf-418e-aa40-dc5ef1485f56:text
 msgid ""
 "Datasets can be assigned persistent identifiers. Just like journal articles get assigned DOIs, these are often also used for data sets. Note that the DOI of a paper is not a persistent identifier for its supplementary information.\n"
 "\n"
 "Many repositories make sure that your data get a persistent and resolvable identifiers. In other cases, you should take care of this yourself."
-msgstr ""
+msgstr "資料集可被賦予持續識別碼（persistent identifiers）。就如同期刊論文會被賦予 DOI 一樣（DOI 也常被用於資料集）。請注意，論文的 DOI 並不等同於其補充資料的持續識別碼。\n\n許多儲存庫可以用來確保您的資料有可解析（resolvable）且持續的識別碼。在其他狀況下則需要由您自行管理資料。"
 
 #: answer:42fb53ea-76ed-494b-8582-f080d952a3ed:label
 msgid "Days"
-msgstr ""
+msgstr "天數"
 
 #: question:361c38f0-ce75-4157-94f1-804e4d7986c2:title
 msgid "Describe how data subjects exercise their rights to their data"
-msgstr ""
+msgstr "請描述資料主體如何行使其對自身資料的權利"
 
 #: question:9ff389f0-2236-48cf-880c-040ea1bb0d2f:text
 msgid "Describe how everyone in the project will be naming files and folders, and what folder structure you will use."
-msgstr ""
+msgstr "請說明專案中每位成員會如何命名檔案與資料夾，以及您們將採用怎樣的資料夾結構。"
 
 #: question:87964502-4401-45e5-9084-d6c84a417acf:title
 msgid "Describe national / funder / sectorial / departmental policies and procedures for data management that you will be using."
-msgstr ""
+msgstr "請說明您將採用國家層級的 / 資助單位的 / 領域別的 / 或部門層級的資料管理相關政策與程序。"
 
 #: question:db902645-6aef-426a-aa2c-30e96a4b3afb:title
 msgid "Describe the measures put in place to protect data "
-msgstr ""
+msgstr "請說明您採取的資料保護措施。 "
 
 #: question:db902645-6aef-426a-aa2c-30e96a4b3afb:text
 msgid "Describe the measures put in place to protect data during the transfer as well as the measures taken to ensure GDPR compliance by third parties, e.g. by establishing agreements."
-msgstr ""
+msgstr "請說明在資料傳輸過程中所採取的保護措施，以及為確保第三方符合 GDPR 而採行的措施（例如透過簽訂協議）。"
 
 #: question:c6579da8-496a-4468-b567-9fb6ce472bf9:title
 msgid "Describe the procedure for obtaining consent from data subjects"
-msgstr ""
+msgstr "請說明取得資料主體知情同意的程序"
 
 #: question:ecca7dd6-62f2-4714-a85a-8d79bbca402a:title
 msgid "Describe the procedure for users to access private data"
-msgstr ""
+msgstr "請描述使用者取用非公開資料的程序"
 
 #: question:024bb661-70d4-4da6-a938-934a3935b16a:title
 msgid "Describe the structure of the data"
-msgstr ""
+msgstr "請描述資料的結構"
 
 #: question:934f6592-a032-4ada-91b2-4448d740d157:title
 #: question:b3d9b6ca-bd24-4fa3-a3bd-d15005b9ae8b:title
-#, fuzzy
 msgid "Description"
 msgstr "描述"
 
 #: question:c730b703-82cf-4a0e-a1dc-d910d73d1ed9:title
 msgid "Description of how and why you are using this policy or process"
-msgstr ""
+msgstr "說明您如何以及為何採用此政策或流程"
 
 #: question:205a886d-83d7-4359-ae63-7103e05357c3:title
 msgid "Description of the data set"
-msgstr ""
+msgstr "資料集的描述"
 
 #: question:63b020de-664a-4271-807c-a6f4361d6439:title
 msgid "Did you already select the variables on which you will join the data sets?"
-msgstr ""
+msgstr "您是否已選定哪些變數要用來串接（join）不同的資料集？"
 
 #: question:f691ad73-1284-4c7d-999d-34bb0612dd42:title
 msgid "Did you arrange for system administration (at least security updates) and hardware maintenance for the server(s)?"
-msgstr ""
+msgstr "您是否有安排伺服器的系統管理作業（至少包含資安更新）及硬體維護？"
 
 #: question:a205f751-cbb6-4f58-a692-2ba450e1e133:title
 msgid "Did you arrange who will make the data digitally available to you?"
-msgstr ""
+msgstr "您是否有安排是誰會負責將資料以數位形式提供給您？"
 
 #: question:13a7eeae-09f5-42bf-8e62-b2c1fe1b86f7:title
 msgid "Did you budget for the time and effort it will take to prepare the data for publication?"
@@ -6728,12 +6727,13 @@ msgid "moteur"
 msgstr ""
 
 #: answer:1f53a431-ec8d-4a16-875a-c2f7843a2294:advice
+#, fuzzy
 msgid "really?"
-msgstr ""
+msgstr "真的嗎？"
 
 #: url-reference:6d361ca6-784f-493e-a7f7-afaaac80123e:label
 msgid "snakemake"
-msgstr ""
+msgstr "snakemake"
 
 #: url-reference:6d58f5ef-474d-4fbb-8bf0-2b48acc71eb6:label
 msgid "taverna"
