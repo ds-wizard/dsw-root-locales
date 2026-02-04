@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-02 17:18+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-04 04:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -600,63 +600,63 @@ msgstr "當工作空間（Workspace）暫時離線時，您是否有能力應對
 
 #: question:bdce5cee-2930-4b30-b3d5-d503ab0b5d1a:title
 msgid "Can you make a decision for the workflow engine based on the criteria deemed important?"
-msgstr ""
+msgstr "您是否能依據重要的評估準則（criteria），為工作流程引擎做決定？"
 
 #: question:5db6bd58-5d1d-4d02-9497-972cbef64c16:title
 msgid "Can you make use of an existing 'trusted third party' for pseudonymization?"
-msgstr ""
+msgstr "您是否能利用現有的「可信任第三方」來進行假名化（pseudonymization）？"
 
 #: question:2122d8b6-ab79-4a20-9016-d2ab8d154a58:title
 msgid "Can you reach out to the developers? Is there a contact?"
-msgstr ""
+msgstr "您是否可以聯繫此工具的開發者？是否有聯絡窗口？"
 
 #: question:588e3c1f-e9fd-411f-954e-f7a9b1cff1de:title
 msgid "Can you use the data in a format that is available?"
-msgstr ""
+msgstr "您是否能使用目前可取得的資料格式？"
 
 #: question:a0d52f2d-6828-42b0-a1f1-cda4ed7dad3b:title
 msgid "Can your work flow and work flow system make use of \"trivial\" parallelism in the computations?"
-msgstr ""
+msgstr "您的工作流程及其系統是否能在運算中利用 \"trivial\" 方式平行化？"
 
 #: question:bd0dd2d0-b3ef-410d-be1f-8f4bf0bbd9d5:title
 msgid "Case number"
-msgstr ""
+msgstr "案件編號"
 
 #: answer:6bda04d8-1f32-4ace-ab8b-1121ea7c526e:advice
 msgid "Check whether there is a way to explicitly limit data values."
-msgstr ""
+msgstr "請確認是否有方法能明確限制資料值的範圍。"
 
 #: answer:7108a5e7-f804-4410-b40d-cabed6b3da15:advice
 msgid "Check whether you can find a data type (potentially in a data type registry) for each of your data items"
-msgstr ""
+msgstr "請確認您是否能為每一個資料項目找到對應的資料類別（或可參考資料類別登錄冊）"
 
 #: answer:1485ec8b-094c-49bb-8de1-ce214c83790f:advice
 msgid "Check whether you can find an ontology for each of your data items"
-msgstr ""
+msgstr "請確認您是否能為每一個資料項目找到合適的本體論（ontology）"
 
 #: question:0184bfcc-69ab-48c8-9d62-e23ae73a60be:text
 msgid "Choose from the predefined list of licenses. If you cannot find the one you need, please fill it in manually."
-msgstr ""
+msgstr "請從預先定義的授權清單中選擇。若找不到所需的授權，請自行手動填寫。"
 
 #: answer:3e5ef321-76f3-4c65-a49f-4e03f6a23def:advice
 msgid "Choose the ontologies before you start."
-msgstr ""
+msgstr "請在開始之前先選定要使用的本體論（ontologies）。"
 
 #: answer:a8adc972-a2b6-4f5b-837b-20f83a685ed6:label
 msgid "Closed: This is an archive, it is not meant to share the data with anyone"
-msgstr ""
+msgstr "關閉（Closed）：此為典藏用途，並非用於與他人分享的資料"
 
 #: answer:ff6ea5fb-c987-4391-bca7-c3c3e7a95964:label
 msgid "Closely attached to the data in the data management system"
-msgstr ""
+msgstr "在資料管理系統中與資料密切相關"
 
 #: answer:626fd6e7-8f74-4675-a097-5416f40685e2:label
 msgid "Completeness of the mapping is most important"
-msgstr ""
+msgstr "對應關係的完整性最為重要"
 
 #: answer:d7911ab4-d3cc-4dc2-95cc-4aba7b0d010a:label
 msgid "Complex data, like a graph"
-msgstr ""
+msgstr "複雜的資料，例如圖譜（graph）"
 
 #: question:ced5a7c2-4034-4763-a1d5-3cb815cdfddb:text
 msgid ""
@@ -933,7 +933,7 @@ msgid ""
 "Data sets can be mentioned in multiple data catalogues without the need for duplicating the data: the data catalogues point to where the actual data can be found.\n"
 "\n"
 "An example is [Narcis](https://dans.knaw.nl/nl/over/diensten/narcis) (for research data in the Netherlands)."
-msgstr ""
+msgstr "資料有時不好找到，尤其是當資料未存放於領域專門的儲存庫時。資料目錄（data catalogues）有助於提升可查找性（findability）：資料目錄將分散於不同位置的資料集後設資料集中於同一個、且該領域研究人員熟悉的平台。\n\n資料集可以同時被收錄於多個資料目錄，無需重複儲存資料本身：資料目錄可提供指引，連結至實際存放資料的位置。\n\n一個例子是 [Narcis](https://dans.knaw.nl/nl/over/diensten/narcis)（荷蘭的研究資料目錄）。"
 
 #: choice:63285783-9635-4c55-a781-33f81eff6e9d:label
 msgid ""
@@ -943,57 +943,57 @@ msgstr ""
 
 #: answer:01a9f738-7950-4ee0-b9d0-ecd0df8fa7f2:label
 msgid "Data security is not an issue"
-msgstr ""
+msgstr "資料安全沒有顧慮"
 
 #: question:a077aec4-83d2-45c2-8d9f-75a391bdee20:title
 #: question:b0949d09-d179-4491-9fb4-14b0deb9f862:title
 #: question:d87a239f-9aee-4d6a-a5f6-fa83c73e67e1:title
 msgid "Data set:"
-msgstr ""
+msgstr "資料集："
 
 #: question:bc5e3dbf-2923-4025-a49a-f204b01d4018:title
 msgid "Data storage systems and file naming conventions"
-msgstr ""
+msgstr "資料儲存系統和檔案命名規範"
 
 #: question:63ed4349-9743-4fd1-96df-73dbb7e4f05b:title
 msgid "Data type"
-msgstr ""
+msgstr "資料類型"
 
 #: question:63b6e695-2371-412c-bed3-f13e157da0b4:title
 msgid "Data use restrictions"
-msgstr ""
+msgstr "資料使用限制"
 
 #: question:4ae6452a-4ca6-434c-8453-7e3872e41847:title
 msgid "Data volume in Gigabytes"
-msgstr ""
+msgstr "資料量（以 GB 為單位）"
 
 #: cross-reference:b289c48c-b586-419f-8099-db94ce323398:description
 msgid "Data warehousing tools"
-msgstr ""
+msgstr "資料倉儲工具"
 
 #: answer:340ae978-4435-4b20-87bf-0d65d82ac7b2:label
 msgid "Data will always be encrypted"
-msgstr ""
+msgstr "資料皆會進行加密"
 
 #: answer:94f0f330-54fd-425f-a644-b8a7c674026f:label
 msgid "Data will be available at the start of the project, no waiting needed"
-msgstr ""
+msgstr "資料於專案開始時即可取得，無需等待"
 
 #: answer:374974a6-2c51-4508-aa93-9ef8f1ef65fd:label
 msgid "Data will first be on paper"
-msgstr ""
+msgstr "資料將最初會是紙本形式"
 
 #: answer:2359684e-be7f-4990-8f2e-84079ceb48c3:label
 msgid "Data will not be on systems owned by workflow developers"
-msgstr ""
+msgstr "資料將不會儲存在由工作流程開發者持有的系統上"
 
 #: url-reference:fc019db2-da4a-4346-b22f-850a7b821c89:label
 msgid "DataCite metadata schema"
-msgstr ""
+msgstr "DataCite 後設資料標準（metadata schema）"
 
 #: question:bf52613c-1bfb-47b6-87cc-42f54de79129:text
 msgid "Database systems can be configured to keep all data, so that it is possible to reconstruct any past state of the data. How are changes in the data handled by your database?"
-msgstr ""
+msgstr "資料庫系統可被設定為保留所有資料，藉此可以重建資料在任何過去時間點的狀態。請說明您的資料庫是如何處理資料變更的？"
 
 #: url-reference:fffcd354-ac6e-4905-b74b-f1a6b180bcff:label
 msgid "Datacite Search"
@@ -1073,59 +1073,59 @@ msgstr "您是否有安排是誰會負責將資料以數位形式提供給您？
 
 #: question:13a7eeae-09f5-42bf-8e62-b2c1fe1b86f7:title
 msgid "Did you budget for the time and effort it will take to prepare the data for publication?"
-msgstr ""
+msgstr "您是否已考量為發表目的而準備資料所需投入的時間與人力成本？"
 
 #: question:a1c37c05-57ff-499c-b58c-e90f511241fa:title
 msgid "Did you choose the workflow engine you will be using?"
-msgstr ""
+msgstr "您是否已選好工作流程使用的引擎？"
 
 #: answer:62028d39-f35d-4b09-ad7a-a0772d45573e:advice
 msgid "Did you consider collaborating to improve an existing solution?"
-msgstr ""
+msgstr "您是否考慮過透過協作來改進既有的解決方案？"
 
 #: question:99f4a43c-9848-488a-9b99-ff8dd6a4269c:title
 msgid "Did you consider existing options?"
-msgstr ""
+msgstr "您是否考量了現有的選項？"
 
 #: question:67c34ee1-2e71-423c-97a7-fe6aa3723465:title
 msgid "Did you consider the possible impact to the project or organization if information is lost?"
-msgstr ""
+msgstr "您是否考量了資訊遺失可能對專案或組織造成的影響？"
 
 #: question:8cd49d8f-9af0-4ea9-985a-5d45142ac388:title
 msgid "Did you consider the possible impact to the project or organization if information is vandalized?"
-msgstr ""
+msgstr "您是否已考量若資訊遭到破壞，可能對專案或組織造成的影響？"
 
 #: question:a20ddc5d-e883-4bc4-9948-36a2cb477d10:title
 msgid "Did you consider the possible impact to the project or organization if information leaks?"
-msgstr ""
+msgstr "您是否已考量若資訊外洩可能對專案或組織造成的影響？"
 
 #: question:a2e22a59-4747-4c29-84c0-3a9cbd859249:title
 msgid "Did you document how you manage file versioning?"
-msgstr ""
+msgstr "您是否有記錄檔案版本（file versioning）管理的方式？"
 
 #: question:15eb6fe6-7b21-493b-a5a0-09ac63212ab6:title
 msgid "Did you make a conscious decision to be either accurate or complete?"
-msgstr ""
+msgstr "您是否有意識地在準確性（accuracy）與完整性（completeness）之間做出取捨？"
 
 #: question:d4fe0b55-4aee-4d05-88d4-a3f4cad2cfa9:title
 msgid "Did you make appointments in the project on how to name files and folders?"
-msgstr ""
+msgstr "您是否已在專案中約定檔案與資料夾的命名方式？"
 
 #: question:c0944ac9-f286-48f2-b864-4641d0fcdd55:title
 msgid "Did you plan how much intermediate data you will get during analysis and how long each step needs to be kept?"
-msgstr ""
+msgstr "您是否已規劃分析過程中會產生多少中介資料（intermediate data），以及各階段資料需要保存多久？"
 
 #: question:a39fb276-8c46-49e7-bfb9-af8ba876726f:title
 msgid "Did you plan the required network capacity between storage and compute services?"
-msgstr ""
+msgstr "您是否有規劃儲存與運算（storage and compute）服務之間所需的網路頻寬容量？"
 
 #: answer:a23664b1-a17c-41fe-855c-db274984b355:advice
 msgid "Did you really check a service like fairsharing.org to verify this?"
-msgstr ""
+msgstr "您是否確實查核，像用 fairsharing.org 這樣的服務來加以驗證？"
 
 #: question:30027b9a-2077-4c74-9048-f0532ada9b03:text
 msgid "Did you run pilot jobs? Do you know this information from comparable projects? Did you test whether the work scales up as you expected if you run more than one job?"
-msgstr ""
+msgstr "您是否做過前導測試（pilot jobs）？這些資訊是否來自可相互比較的專案？以及，您是否測試過，在同時執行多個作業時，工作是否能如預期擴展（scale up）？"
 
 #: question:15ee1921-1fea-4f22-b462-b3cf7cdd4646:text
 msgid "Different anonymization techniques exist. Disadvantage of anonymization is that data integration becomes virtually impossible, but it may be the only way to open up your data for other research."
