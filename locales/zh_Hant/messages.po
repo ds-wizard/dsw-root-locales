@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-04 04:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-05 05:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -865,7 +865,7 @@ msgstr "DOI"
 
 #: question:432c867e-8f29-47e6-9078-05bdf3d3fcb0:title
 msgid "DPIA"
-msgstr "資料保護影響評估(DPIA)"
+msgstr "資料保護影響評估（Data Protection Impact Assessment，DPIA）"
 
 #: choice:fc789e2d-01ee-432d-82f9-1b659f58eaf8:label
 msgid "Data Collector"
@@ -920,7 +920,7 @@ msgstr "在處理大量檔案或較大的檔案時，有可能發生資料毀損
 
 #: question:f00cf643-5368-458a-97d4-b463c2000c66:title
 msgid "Data format/type"
-msgstr "資料格式/類型"
+msgstr "資料格式 / 類型"
 
 #: answer:24219df8-dfb8-4c7d-94fa-fd329e9468b7:label
 msgid "Data in the database will be read-only"
@@ -939,7 +939,7 @@ msgstr "資料有時不好找到，尤其是當資料未存放於領域專門的
 msgid ""
 "Data processed on a large scale: data of proportion of the relevant population, long term processing, wide geographical scale, large volume or range of data "
 "."
-msgstr ""
+msgstr "大規模資料處理：涉及相關族群中有一定比例的資料、長期的資料處理、跨地理範圍，以及大量或多樣化的資料。"
 
 #: answer:01a9f738-7950-4ee0-b9d0-ecd0df8fa7f2:label
 msgid "Data security is not an issue"
@@ -1129,84 +1129,85 @@ msgstr "您是否做過前導測試（pilot jobs）？這些資訊是否來自�
 
 #: question:15ee1921-1fea-4f22-b462-b3cf7cdd4646:text
 msgid "Different anonymization techniques exist. Disadvantage of anonymization is that data integration becomes virtually impossible, but it may be the only way to open up your data for other research."
-msgstr ""
+msgstr "現行有多種匿名化的方式。雖然匿名化的缺點是使得資料幾乎無法整合，但可能是將資料開放給其他研究使用的唯一方式。"
 
 #: answer:4e6d2cb0-1901-41dd-9902-6066739c9ab5:label
 msgid "Differently"
-msgstr ""
+msgstr "不同地"
 
 #: answer:df0b2ee3-8e4d-42a1-9bb2-c69228074406:advice
 #: answer:fb96d008-f31a-4a1a-b203-b3f9bb32fcc8:advice
 msgid "Disadvantage of a general purpose repository is the lack of data-specific features (e.g. 'play' instead of 'download' for an audio file) and limited findability"
-msgstr ""
+msgstr "通用型資料庫的缺點在於，它缺乏專屬於特定資料類型的功能（例如，音訊檔只能播放，無法直接下載），且資料的可查找性有限"
 
 #: answer:18f50141-094d-426b-8a75-4c4fce59389b:label
 msgid "Disk"
-msgstr ""
+msgstr "硬碟"
 
 #: choice:27dccf06-3b67-4c75-8888-6549e4da2d31:label
 msgid "Distributor"
-msgstr ""
+msgstr "發布者 / 單位"
 
 #: question:6ab36a2a-23ca-484d-b3d7-0c1a4eea821a:title
 msgid "Do all columns/headers have a data type?"
-msgstr ""
+msgstr "是否所有欄位／標頭都有對應的資料類別？"
 
 #: question:a454fffd-f4a4-426d-b758-6d70bc4ee96b:title
 msgid "Do all data centers where project data is stored carry sufficient certifications?"
-msgstr ""
+msgstr "所有存放專案資料的資料中心是否都有足夠的相關認證？"
 
 #: question:abaf4a70-17d4-449c-9b95-5b3bcfed7e9b:title
+#, fuzzy
 msgid "Do project members carry data with them?"
-msgstr ""
+msgstr "專案成員是否會留存資料？"
 
 #: question:2d57daa6-df2e-4bf9-b024-710e74781d88:title
 msgid "Do project members send project data or reports per e-mail or other messaging services?"
-msgstr ""
+msgstr "專案成員是否會透過電子郵件或其他即時通訊服務傳送專案資料或報告？"
 
 #: question:90324a7b-f3c9-4ed8-b301-edc9869cb7b3:title
 msgid "Do project members store data or software on computers in the lab or external hard drives connected to those computers?"
-msgstr ""
+msgstr "專案成員是否會將資料或軟體儲存在實驗室電腦上，或連接於這些電腦的外接硬碟中？"
 
 #: question:84ec46bd-e714-4d98-8525-cdd0d58777ef:title
 msgid "Do project members store project data in cloud accounts?"
-msgstr ""
+msgstr "專案成員是否將專案資料儲存在雲端帳戶中？"
 
 #: question:6226d7f2-565f-4991-94b3-c00be6aca20e:title
 msgid "Do suitable 'Minimal Metadata About ...' (MIA...) standards exist for your experiments?"
-msgstr ""
+msgstr "是否存在適用於您實驗的「最少後設資料描述（Minimal Metadata About …，MIA…）」相關標準？"
 
 #: question:8330c11f-4a4f-4ed6-a088-58b50acfea62:title
 msgid "Do work flows need to be run on remote computers?"
-msgstr ""
+msgstr "您的工作流程是否需要在遠端電腦上執行？"
 
 #: question:acc82522-327a-4c76-8c24-f8034f7dc1d4:title
 msgid "Do you have a contingency plan?"
-msgstr ""
+msgstr "您是否有突發事件的應變計劃？"
 
 #: question:44a9d6c0-f96c-47d2-8c7a-902a9c222067:title
 msgid "Do you have a good idea of what metadata is needed to make it possible for others to read and interpret your data in the future?"
-msgstr ""
+msgstr "您是否知道需要哪些後設資料，可讓他人在未來能夠讀取並理解您的資料？"
 
 #: question:dc4f1dc7-4608-45f9-8503-aa05536f4d97:title
 msgid "Do you have all tools to couple the necessary data types?"
-msgstr ""
+msgstr "您是否有需要用來串接（couple）所需的資料類別的工具？"
 
 #: question:129f74a4-dc91-4cc7-aee3-b384c8ea30dd:text
 msgid "Do you have any means of identifying whether the raw data has been transferred error free and has not been tampered with?"
-msgstr ""
+msgstr "您是否有方法可確認原始資料在傳輸過程中未發生錯誤，且未遭到竄改？"
 
 #: question:f038bd46-ee4e-4f53-b7ea-482381c2c855:title
 msgid "Do you have any non-equipment data capture?"
-msgstr ""
+msgstr "您是否有不透過儀器設備進行的資料擷取？"
 
 #: question:ed872b74-6bf7-4cba-8f36-4da4509e4a4f:title
 msgid "Do you know how and when you will be collecting the necessary metadata?"
-msgstr ""
+msgstr "是否知道您會如何蒐集所需的後設資料？何時蒐集？"
 
 #: question:30027b9a-2077-4c74-9048-f0532ada9b03:title
 msgid "Do you know how much CPU power, memory and I/O band width a typical analysis will take?"
-msgstr ""
+msgstr "您是否清楚一次分析需要多少 CPU 運算能力、記憶體與 input/output 頻寬？"
 
 #: question:7b8c75c0-8d5c-4fde-9898-ded8b91f7f1f:title
 msgid "Do you know in what format the reference data is available?"
