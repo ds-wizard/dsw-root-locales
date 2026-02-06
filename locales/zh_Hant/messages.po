@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-05 05:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-07 05:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1211,95 +1211,95 @@ msgstr "您是否清楚一次分析需要多少 CPU 運算能力、記憶體與 
 
 #: question:7b8c75c0-8d5c-4fde-9898-ded8b91f7f1f:title
 msgid "Do you know in what format the reference data is available?"
-msgstr ""
+msgstr "您是否清楚引用資料是以何種格式提供？"
 
 #: question:588e3c1f-e9fd-411f-954e-f7a9b1cff1de:text
 msgid "Do you know the data format of the data? Is this suitable for your work? Does it need to be converted?"
-msgstr ""
+msgstr "您是否清楚您資料的格式？該格式是否適合您的操作？是否需要轉檔？"
 
 #: question:7b8c75c0-8d5c-4fde-9898-ded8b91f7f1f:text
 msgid "Do you know the data format of the reference data? Is this suitable for your work? Does it need to be converted?"
-msgstr ""
+msgstr "您是否清楚參考資料的格式？該格式是否適合您的作業？是否需要轉檔？"
 
 #: question:56354f8a-31df-40fc-aeae-67d45af560b5:text
 msgid "Do you make sure all collected is cross-checked by colleagues?"
-msgstr ""
+msgstr "您是否確保所有蒐集到的資料都有經同事交叉檢查？"
 
 #: question:8915bd25-db22-4ed6-bcc8-b1bbdc52989e:title
 msgid "Do you need a Data Protection Impact Assessment?"
-msgstr ""
+msgstr "您是否需要進行資料保護影響評估（Data Protection Impact Assessment, DPIA）？"
 
 #: question:1147485f-b9a9-486c-8341-27e05718c508:title
 msgid "Do you need frequent backups?"
-msgstr ""
+msgstr "您是否需要頻繁備份？"
 
 #: question:726e4a24-6d81-440b-8a70-5d36fa65c3a9:title
 msgid "Do you need guidance to find existing data?"
-msgstr ""
+msgstr "您是否需要指引來查找既有資料？"
 
 #: question:d8150021-19d7-4e92-90c3-d9c3d62d188e:text
 msgid "Do you need the compute capacity also for development? Can you start developing locally and start with a deployment test later?"
-msgstr ""
+msgstr "您在開發階段是否也需要運算資源？是否可以先在本機端進行開發，之後再進行部署測試？"
 
 #: question:0d13a230-a3eb-4f5e-b9c2-2f64a5d9c033:title
 msgid "Do you need the same workflow to run next year? Durability against 'workflow decay'?"
-msgstr ""
+msgstr "您明年是否仍需要執行一樣的工作流程？您是否有考量「工作流程會隨時間衰變（workflow decay）」的耐久性？"
 
 #: question:f6e66f4f-7b11-420f-a4b6-5fc972bc66d9:title
 msgid "Do you need the work space to be close to the compute capacity?"
-msgstr ""
+msgstr "您的工作空間是否需要靠近運算資源？"
 
 #: question:ff6f53f1-1adc-4401-bbda-a159d283a8eb:title
 msgid "Do you need the workflow engine to be run high-throughput?"
-msgstr ""
+msgstr "您的工作流程引擎是否需要以高通量（high-throughput）方式執行？"
 
 #: question:28b10fd8-28a6-49b8-822d-f3d47780ab20:title
 msgid "Do you need the workflow engine to produce provenance information automatically?"
-msgstr ""
+msgstr "您是否需要工作流程引擎來自動產製溯源（provenance）資訊？"
 
 #: question:92cab7ad-92ff-44ec-9678-8e5c95d66816:title
 msgid "Do you need to be able to export/import workflows (e.g. in the Common Workflow Language, CWL)?"
-msgstr ""
+msgstr "您是否需要能夠匯出／匯入工作流程（例如使用 Common Workflow Language，CWL）？"
 
 #: question:b211f896-b363-4978-9423-212644ff5d72:title
 msgid "Do you need to create vocabularies or ontologies for any of your data items?"
-msgstr ""
+msgstr "您是否需要為任何資料項目建立詞彙表或本體論（ontology）？"
 
 #: question:e87ef779-2c4b-4c0d-a1f1-821290123a3c:title
 msgid "Do you need to do compute capacity planning?"
-msgstr ""
+msgstr "您是否需要規劃運算資源容量？"
 
 #: question:c961b59a-b635-4a77-87ba-bc1b449bb012:title
 msgid "Do you need to exchange your data with others?"
-msgstr ""
+msgstr "您的資料是否需要與他人交換？"
 
 #: question:8cedcf93-7676-4397-b3fc-a81167ff1853:title
 msgid "Do you need to harmonize different sources of existing data?"
-msgstr ""
+msgstr "您是否需要一致化（harmonize）不同來源的既有資料（existing data）？"
 
 #: question:f59d2d89-fe27-4a8a-b3e6-2782bcc2fb97:title
 msgid "Do you need to request access to the data"
-msgstr ""
+msgstr "您是否需要申請資料存取權限"
 
 #: question:558f01a3-2563-4114-9244-812b212c9791:title
 msgid "Do you plan taking special measures to guarantee the integrity of tools in the workflow?"
-msgstr ""
+msgstr "您是否計劃採取特別措施，來確保工作流程中工具的完整性（integrity）？"
 
 #: question:15ade1cb-af43-40be-b8b1-2b801812dab1:title
 msgid "Do you plan to transfer data outside the EU/EEA?"
-msgstr ""
+msgstr "您是否計畫將資料傳輸至歐盟／歐洲經濟區（EU/EEA）以外？"
 
 #: question:09c7c989-6461-417f-b09e-228491c051c6:title
 msgid "Do you require hardware or software in addition to what is usually available in the institute?"
-msgstr ""
+msgstr "您是否需要您研究機構未提供的硬體或軟體？"
 
 #: question:75af1eb3-1e0e-4be8-b0b6-cdb0883c791b:title
 msgid "Do you want your workflow engine to be professionally hosted by a specialized party?"
-msgstr ""
+msgstr "您是否希望由專業的第三方來代管（host）您的工作流程引擎？"
 
 #: question:ba381732-f499-419f-8744-e13807af83e3:title
 msgid "Do your raw data need to be archived?"
-msgstr ""
+msgstr "您的原始資料是否需要進行典藏／封存起來？"
 
 #: question:f67a9910-4ea3-4280-b503-386dff3b8305:title
 msgid "Do your samples need to be submitted to a public repository?"
