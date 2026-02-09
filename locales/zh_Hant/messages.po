@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-07 05:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-10 04:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1303,99 +1303,99 @@ msgstr "您的原始資料是否需要進行典藏／封存起來？"
 
 #: question:f67a9910-4ea3-4280-b503-386dff3b8305:title
 msgid "Do your samples need to be submitted to a public repository?"
-msgstr ""
+msgstr "您的樣本是否需要提交至公開的儲存庫？"
 
 #: question:abaf4a70-17d4-449c-9b95-5b3bcfed7e9b:text
 msgid "Does anyone carry project data on laptops, USB sticks or other external media?"
-msgstr ""
+msgstr "是否有成員將專案資料儲存在筆記型電腦、USB 隨身碟或其他外部儲存媒介中？"
 
 #: question:6bfde30e-90e7-4422-b984-d571196194e0:title
 msgid "Does each column have a header?"
-msgstr ""
+msgstr "每一個欄位是否都有欄位名？"
 
 #: question:ccaaf562-ebed-4d94-b168-b8398ed25546:title
 msgid "Does each row have an identifier?"
-msgstr ""
+msgstr "每一筆資料列是否都有識別碼？"
 
 #: question:5a83b169-3e41-42a5-8a4e-5c8c78111d0e:title
 msgid "Does it need  support collaborative editing of workflows?"
-msgstr ""
+msgstr "是否需要支援協同編輯工作流程？"
 
 #: question:5179b194-aef6-47c5-bfb0-a21a0ba950ef:title
 msgid "Does it need  support for nested workflows?"
-msgstr ""
+msgstr "是否需要支援巢狀工作流程（nested workflows）？"
 
 #: question:d8833614-8fb5-4535-b448-8e657d17ad44:title
 msgid "Does it need native support for specific data types?"
-msgstr ""
+msgstr "是否需要對特定資料類型提供內建支援（native support）？"
 
 #: question:74d6de0c-8c7d-4001-8019-2a29391afed1:title
 msgid "Does it need support for complex control structures like conditionals and/or loops?"
-msgstr ""
+msgstr "是否需要支援複雜的控制結構（control structures）如條件判斷（conditionals）及／或迴圈（loops）等？"
 
 #: question:0567eb3f-3a55-4b8d-b61b-c530f8a52223:title
 msgid "Does it need support for specific kinds of data processing or data integration pipelines?"
-msgstr ""
+msgstr "是否需要支援特定類型的資料處理或資料整合流程（pipelines）？"
 
 #: question:f1609178-599a-4da6-b93b-776e4f9b626c:title
 msgid "Does it need to be easy to support new tools in a workflow?"
-msgstr ""
+msgstr "是否需要能夠容易的在工作流程中支援新增工具？"
 
 #: question:b464593d-fb92-4ad9-88e1-764306bb3051:title
 msgid "Does the collection of data involve human subjects?"
-msgstr ""
+msgstr "資料的蒐集是否包含人類受試者？"
 
 #: question:28e7c4f7-7ade-42b2-a68e-63ab4f67b960:title
 msgid "Does the consent cover your data reuse?"
-msgstr ""
+msgstr "研究對象的知情同意是否涵蓋資料的再利用（reuse）？"
 
 #: question:50864250-7dad-421a-9f6c-303114fe6e6c:title
 msgid "Does the data set include personal data?"
-msgstr ""
+msgstr "該資料集是否包含個人資料？"
 
 #: question:f038bd46-ee4e-4f53-b7ea-482381c2c855:text
 msgid "Does the data you collect contain non-equipment captured data such as questionnaires, case report forms, electronic patient records?"
-msgstr ""
+msgstr "您所蒐集的資料是否包含非由設備取得的資料，例如問卷、個案報告表（case report forms）或電子病歷？"
 
 #: question:8018e15f-6c7e-433a-8686-ae0d695c7fc7:title
 msgid "Does the domain specific format come with its own suite of integration tools that you will use?"
-msgstr ""
+msgstr "您所使用的該特定領域資料格式，是否同時提供其所需的整合工具套件？"
 
 #: question:dbb99f35-bdd9-4637-890e-23ba5bc19d6a:title
 msgid "Does the project require ethical approval? "
-msgstr ""
+msgstr "該專案是否需要倫理審查？ "
 
 #: question:15e6148f-f4e0-4bbc-93c5-6fdf4fe47608:title
 msgid "Does the provenance need to be stored or converted to some standard format?"
-msgstr ""
+msgstr "是否需要保存溯源資訊（provenance），或將之轉換為某種標準格式？"
 
 #: question:6ed1691c-9298-48d7-aaf8-224bca512419:title
 msgid "Does the running of work flows need to be controlled via a GUI?"
-msgstr ""
+msgstr "工作流程的執行是否需要透過圖形使用者介面（GUI）來控制？"
 
 #: question:f3c858ab-a89f-4f08-9c17-ca45e38f9340:title
 msgid "Does the workflow engine need a developer GUI?"
-msgstr ""
+msgstr "工作流程引擎是否需要開發者的圖形使用者介面（GUI）？"
 
 #: question:20fa4bb1-ff56-4050-b20e-3544beb02c17:title
 msgid "Does the workflow engine need standard tools for administrators?"
-msgstr ""
+msgstr "工作流程引擎是否需要提供管理員使用的標準工具（standard tools）？"
 
 #: question:c1cbd221-6881-42be-b6d6-8b842f3f05db:title
 msgid "Does the workflow engine need to support a particular compute back end you will use?"
-msgstr ""
+msgstr "工作流程引擎是否需要支援您會使用的特定的運算後端（compute back end）？"
 
 #: question:ced5a7c2-4034-4763-a1d5-3cb815cdfddb:title
 msgid "Does this data format enable sharing and long term archiving?"
-msgstr ""
+msgstr "此資料格式是否有助於資料分享與長期典藏？"
 
 #: question:a1d76760-053c-4706-80a2-cfb6c6a061f3:title
 msgid "Does this dataset contain personal data?"
-msgstr ""
+msgstr "此資料集是否有個人資料？"
 
 #: question:cc95b399-7d8d-4232-bccf-686f78c91bff:title
 msgid "Does this dataset contain sensitive information?"
-msgstr ""
+msgstr "此資料集是否有敏感資訊？"
 
 #: question:80a682bd-8a5c-4a52-935d-680509838a4e:text
 msgid ""
