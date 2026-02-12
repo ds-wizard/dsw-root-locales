@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-10 04:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-12 22:28+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1404,31 +1404,31 @@ msgid ""
 "Many repositories are listed in https://fairsharing.org/\n"
 "\n"
 "If a repository offers to give your data set a DOI or alternative persistent identifier it is a good idea to use that option."
-msgstr ""
+msgstr "領域特定儲存庫（Domain repositories）通常具備使資料易於檢索與重複使用的最佳功能：儘管看似將資料存放在通用型儲存庫（generic repository）有助於讓跨領域的使用者發現，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多儲存庫都收錄於 https://fairsharing.org/\n\n如果儲存庫提供數位物件識別號（DOI）或其他永久識別碼給您的資料集，建議務必採用該選項。"
 
 #: answer:dc1082fd-1c90-492c-833c-3e0909c643bb:label
 msgid "Download only"
-msgstr ""
+msgstr "僅供下載"
 
 #: url-reference:bbd5f0c7-dc42-4b41-9c40-806aa8bfd8a7:label
 msgid "Dublin Core Initiative"
-msgstr ""
+msgstr "柏林後設資料組織"
 
 #: url-reference:f69905ca-8af4-44eb-9563-2d3248eb25a7:label
 msgid "Dublin Core Metadata Terms"
-msgstr ""
+msgstr "都柏林核心後設資料術語"
 
 #: question:8d3b85e0-1683-48a5-a650-9f0d9bf8a1a4:text
 msgid "Dublin Core is a standard documenting domain independent aspects of a resource; including who has created it, audience, function, formatting and licensing. Does your documentation follow the Dublin Core standard? "
-msgstr ""
+msgstr "都柏林核心集是一套用來記錄資源跨領域通用特性的標準，包含創作者、受眾、功能、格式及授權等資訊。您的文件是否遵循都柏林核心集標準？ "
 
 #: question:3a2ffc13-6a0e-4976-bb34-14ab6d938348:title
 msgid "E-mail address"
-msgstr ""
+msgstr "電子郵件地址"
 
 #: url-reference:8fe4a165-09a6-4e5d-835d-3255db21d0de:label
 msgid "EC Guidelines on DPIAs"
-msgstr ""
+msgstr "歐盟資料保護影響評估（DPIAs）的準則"
 
 #: question:73d686bd-7939-412e-8631-502ee6d9ea7b:text
 msgid "Each person contributing to creating or executing the data management plan should be added as a contributor. A project probably should have a Contact Person, and a Data Curator."
@@ -1465,47 +1465,47 @@ msgstr ""
 
 #: question:b1f62b06-e69a-41be-8d16-1d73b9b75cd2:text
 msgid "Especially for large projects, referring to data internally via a persistent identifier system can be helpful as such a system can help to keep track of data that moves to a new location."
-msgstr ""
+msgstr "對於大型專案而言，透過永久識別碼（persistent identifier）系統在內部引用資料特別有幫助，因為此類系統能協助追蹤遷移至新位置的資料。"
 
 #: question:4c7cd15f-90f9-4ab3-8082-38da4f642de1:text
 msgid "Especially if analysis and processing of data in the project is done on multiple different computers by different people, it is a good idea to have your own repository of reference data versions."
-msgstr ""
+msgstr "特別是當專案中的資料分析與處理是由不同人員在多台不同的電腦上進行時，建立自己的引用數據版本的儲存庫會是一個好主意。"
 
 #: question:decb7c9c-c6dc-4027-8c0e-18934c852ca6:text
 msgid "Especially if analysis and processing of data in the project is done on multiple different computers by different people, it is a good idea to have your own repository of tools and their blessed versions."
-msgstr ""
+msgstr "特別是當專案中的資料分析與處理是由不同人員在多台不同的電腦上進行時，建立自己的工具及其穩定發布版本的儲存庫會是一個好主意。"
 
 #: question:974f3ad3-90b3-4e00-b751-8c5a5629b2cf:title
 msgid "Estimated data volume in Gigabytes"
-msgstr ""
+msgstr "預估資料量（GB）"
 
 #: choice:1f758ac9-71c1-4dfb-85a6-09e2a206ab9a:label
 msgid "Ethical approval"
-msgstr ""
+msgstr "倫理核准"
 
 #: choice:5c331845-fc91-40a0-b8b0-4d55a0664b7b:label
 msgid "Evaluation or scoring on aspects concerning the data subject's performance at work, economic situation, health, personal preferences or interests, reliability or behavior, location or movements."
-msgstr ""
+msgstr "針對資料主體（data subject）之工作表現、經濟狀況、健康情形、個人偏好或興趣、可靠性或行為、地理位置或行蹤等面向進行評估或評分。"
 
 #: question:ae235844-e3b6-461c-8c1d-668148dbf53b:text
 msgid "Even if the data format you are using is unique to your project, the discrete data items should be reused or reusable as much as possible. Data type registries can help with that."
-msgstr ""
+msgstr "即使您使用的資料格式是該專案所特有的，各個離散資料項仍應盡可能地被重複使用或具備可重用性。資料類型註冊表（Data type registries）能對此有所幫助。"
 
 #: question:be872000-cb98-442f-999c-ca3ef58dcfe8:text
 msgid "Even if you will be producing your own data, you often will also be relying on existing data sets (e.g. from your own earlier projects). You may need to integrate your new data with an existing data set or retrieve additional information from related data bases. Will you be doing such things?"
-msgstr ""
+msgstr "即便您將自行產生資料，通常仍會依賴既有的資料集（例如源自您先前自己的專案）。您可能需要將新資料與現有資料集進行整合，或是從相關資料庫中檢索額外資訊。您是否會進行這類操作？"
 
 #: question:595978f2-2973-4658-afa0-7efd004d16b4:title
 msgid "Exemption"
-msgstr ""
+msgstr "豁免權"
 
 #: answer:62028d39-f35d-4b09-ad7a-a0772d45573e:label
 msgid "Existing solutions are not suitable"
-msgstr ""
+msgstr "既有解決方案不合適"
 
 #: answer:eb0b9a82-0379-47c3-967f-b35b40129af2:label
 msgid "Experts in the project, at a specialized infrastructure"
-msgstr ""
+msgstr "專案中的專家，在專門的基礎設施"
 
 #: answer:44ef09a4-5a78-439d-9fb4-940d3d84bfab:label
 msgid "Experts in the project, with our own equipment"
