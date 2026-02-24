@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-12 22:28+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-24 06:43+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1432,7 +1432,7 @@ msgstr "歐盟資料保護影響評估（DPIAs）的準則"
 
 #: question:73d686bd-7939-412e-8631-502ee6d9ea7b:text
 msgid "Each person contributing to creating or executing the data management plan should be added as a contributor. A project probably should have a Contact Person, and a Data Curator."
-msgstr ""
+msgstr "每位參與資料管理計畫撰寫或執行的人員，皆應列為貢獻者（contributor）。一個專案通常會指定一名聯絡人（Contact Person）及一名資料策展人（Data Curator）。"
 
 #: choice:100daf28-b55e-4b04-8295-f2aa83d0c734:label
 #, fuzzy
@@ -1441,27 +1441,27 @@ msgstr "編輯者"
 
 #: question:f646ba6e-21bc-4e66-8265-c8fdbe115c1f:title
 msgid "Elaborate on your other safeguards"
-msgstr ""
+msgstr "請詳細說明您其他保障措施"
 
 #: question:cabc6f07-6015-454e-b97a-c34db4ec0c60:title
 msgid "Ending date of the project"
-msgstr ""
+msgstr "專案截止日期"
 
 #: choice:9ffe7d27-a04c-481e-8e20-09b6afd8fabf:label
 msgid "Ensuring accessibility of data"
-msgstr ""
+msgstr "確保資料的可取用性（accessibility）"
 
 #: choice:d84664d4-9bb6-40ff-bde5-3c1ed58ce522:label
 msgid "Ensuring findability of data"
-msgstr ""
+msgstr "確保資料的可查找性（findability）"
 
 #: choice:8258c093-d1c8-4d41-801e-44e2c8ce6c86:label
 msgid "Ensuring interoperability of data"
-msgstr ""
+msgstr "確保資料的可相互操作程度（interoperability）"
 
 #: choice:350a6e85-d4b2-4a44-831d-4562e5668208:label
 msgid "Ensuring re-usability of data"
-msgstr ""
+msgstr "確保資料的可再利用性（re-usability）"
 
 #: question:b1f62b06-e69a-41be-8d16-1d73b9b75cd2:text
 msgid "Especially for large projects, referring to data internally via a persistent identifier system can be helpful as such a system can help to keep track of data that moves to a new location."
@@ -1509,7 +1509,7 @@ msgstr "專案中的專家，在專門的基礎設施"
 
 #: answer:44ef09a4-5a78-439d-9fb4-940d3d84bfab:label
 msgid "Experts in the project, with our own equipment"
-msgstr ""
+msgstr "專案內的專家，並使用自有設備"
 
 #: question:61d21b4f-332b-4257-a345-bbf51b10d357:text
 msgid ""
@@ -1519,7 +1519,7 @@ msgid ""
 "\n"
 "If the processing operation is exempted from the right to information according to the GDPR, provide a justification.\n"
 "Mention the relevant document in which the responsibilities regarding the information of data subjects are indicated."
-msgstr ""
+msgstr "請說明將如何告知資料主體（data subjects）相關資訊，以及如何處理他們所提出的請求。\n\n資料主體必須被告知研究目的、研究的利益、所蒐集的資料類型，以及他們可能承受的潛在風險。\n\n若該資料處理活動依據《一般資料保護規則》（GDPR）可免除告知義務，請提供相關說明。\n並請指出載明資料主體告知責任之相關文件。"
 
 #: question:61d21b4f-332b-4257-a345-bbf51b10d357:title
 msgid "Explain how data subjects will be informed. "
