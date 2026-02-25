@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-24 06:43+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-25 06:34+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1543,123 +1543,123 @@ msgstr ""
 #: answer:d8ecede2-f952-4b08-8a68-20d97849733f:label
 #: answer:f7f2ff16-eee0-42a7-a89a-bd7291cef5fc:label
 msgid "Explore"
-msgstr ""
+msgstr "探索"
 
 #: answer:f2784b7e-b0ed-4973-9d68-954c5c24e8bb:label
 msgid "External party"
-msgstr ""
+msgstr "外部團體"
 
 #: url-reference:c57507b2-9581-465d-ba9a-7dcd8cfab8c0:label
 msgid "FAIR principle \"I3\""
-msgstr ""
+msgstr "FAIR 原則 \"I3\" （Interoperability 第三項）"
 
 #: url-reference:c0f78b3d-af6c-4083-8398-688984178536:label
 msgid "FAIRCookbook introduction to terminologies and ontologies"
-msgstr ""
+msgstr "FAIRCookbook 的術語與本體論介紹"
 
 #: url-reference:6c277217-8bc7-4768-94e2-be019571c94b:label
 msgid "FAIRCookbook on Data Licenses"
-msgstr ""
+msgstr "FAIRCookbook 的資料授權資訊"
 
 #: url-reference:0dfcc19c-aa2f-4054-a44d-3a95e2d7c628:label
 msgid "FAIRCookbook on Data Protection Impact Assessment"
-msgstr ""
+msgstr "FAIRCookbook 的資料保護影響評估資訊"
 
 #: url-reference:692f635c-22a5-48e6-a3af-07ff881c3701:label
 msgid "FAIRCookbook on FAIR and the notion of Metadata "
-msgstr ""
+msgstr "FAIRCookbook 對於 FAIR 原則與後設資料觀念的資訊 "
 
 #: url-reference:412739e0-2dd4-475d-b4aa-0c5cb2e3d3bc:label
 msgid "FAIRCookbook on Interlinking data using mappings"
-msgstr ""
+msgstr "FAIRCookbook  利用對應（mappings）來互連資料"
 
 #: url-reference:dea35444-c8b4-4282-be9c-72e8092d01ed:label
 msgid "FAIRCookbook on Licensing"
-msgstr ""
+msgstr "FAIRCookbook 的授權資訊"
 
 #: url-reference:7abea09a-913f-431e-9c4d-5bbcf2cf7c07:label
 msgid "FAIRCookbook on Provenance information"
-msgstr ""
+msgstr "FAIRCookbook 的溯源資訊說明"
 
 #: url-reference:06211161-75e4-43b7-8e80-c470fccb2893:label
 #: url-reference:ae26faa3-f8ad-4f5d-8bd3-b3d16c526ceb:label
 msgid "FAIRCookbook on Selecting an ontology lookup service"
-msgstr ""
+msgstr "FAIRCookbook 選擇本土論（ontology）查詢服務的資訊"
 
 #: url-reference:250662f3-6a33-4dbf-8fb4-abb91be3314b:label
 msgid "FAIRCookbook on Software Licensing"
-msgstr ""
+msgstr "FAIRCookbook 於軟體授權的資訊"
 
 #: url-reference:7be357bc-b820-42af-a512-95d68cb78d79:label
 msgid "FAIRCookbook on creating a data/variable dictionary"
-msgstr ""
+msgstr "FAIRCookbook 創建資料 / 變數字典的資訊"
 
 #: url-reference:b0955b59-a0a1-47ef-9850-348bc9f2d1ee:label
 msgid "FAIRCookbook on creating checksum files"
-msgstr ""
+msgstr "FAIRCookbook 於產製核對和（checksum）檔案的資訊"
 
 #: url-reference:b0f4ce3b-4dcd-467f-92e1-07c4f97004b7:label
 #: url-reference:e9091f21-22a1-4f5e-b8e1-6e3e4b2f8dca:label
 msgid "FAIRCookbook on creating resolvable identifiers"
-msgstr ""
+msgstr "FAIRCookbook 建立可解析識別碼的資訊"
 
 #: url-reference:b07291f6-fc6d-4e05-8d72-0a41ea5fa6ba:label
 msgid "FAIRCookbook on depositing to a generic repository like Zenodo"
-msgstr ""
+msgstr "FAIR Cookbook 將資料存放於通用型儲存庫（如 Zenodo）的資訊"
 
 #: url-reference:f4b4c1a4-95df-4803-a601-2ac1843d0658:label
 msgid "FAIRCookbook on licensing"
-msgstr ""
+msgstr "FAIRCookbook 授權許可相關資訊"
 
 #: url-reference:0d83c012-eb25-4078-a5e2-139fe6b31cb7:label
 msgid "FAIRCookbook on making Workflows FAIR"
-msgstr ""
+msgstr "FAIRCookbook 讓工作流程符合 FAIR 原則的資訊"
 
 #: url-reference:7c4f4af7-abaf-481c-b1c5-ab43b5b82c2c:label
 msgid "FAIRCookbook on permitted uses of data"
-msgstr ""
+msgstr "FAIRCookbook 資料允許使用範圍的資訊"
 
 #: url-reference:bc1a7f76-a2e4-426b-a360-48ea0a6cce80:label
 msgid "FAIRCookbook on selecting an ontology lookup service"
-msgstr ""
+msgstr "FAIRCookbook 選擇本體論查詢服務的資訊"
 
 #: url-reference:5669ca15-3bab-46b5-9b0d-9e1013e6172b:label
 msgid "FAIRCookbook on selecting terminologies and ontologies"
-msgstr ""
+msgstr "FAIRCookbook 選擇術語與本體論的資訊"
 
 #: url-reference:f57c5313-6ccb-4eb4-b79a-fdbd3c72bc48:label
 msgid "FAIRCookbook on tools to convert data to RDF"
-msgstr ""
+msgstr "FAIRCookbook 將資料轉換為 RDF 格式的工具"
 
 #: url-reference:2e0ed21b-2180-4497-8c41-fd2609904400:label
 msgid "FAIRSharing"
-msgstr ""
+msgstr "FAIRSharing（https://fairsharing.org/）"
 
 #: url-reference:2bdad98e-ef5f-4645-9ec7-bf5101e0b4c1:label
 #: url-reference:67a39c34-fe6f-415e-93d1-998fc2911748:label
 #: url-reference:cab1617b-adf5-46c0-9e55-66348e35961f:label
 msgid "FAIRsharing repository of standards"
-msgstr ""
+msgstr "FAIRsharing 的儲存庫標準"
 
 #: question:a972fba5-7586-4156-bdf8-8251288dc341:text
 msgid "File formats like VCF (for genetics) and TIFF (for images) have possibilities to document metadata in the file header. It is a good idea to use work flow tools that use these fields to document what was done to obtain the data."
-msgstr ""
+msgstr "像 VCF（用於基因資料） 和 TIFF（用於影像） 這類檔案格式，都可以在檔案標頭（file header）中記錄後設資料（metadata）。建議使用能夠利用這些欄位的工作流程工具（workflow tools），記錄資料取得的過程及處理步驟。"
 
 #: answer:7b5f059a-ae7e-4f7f-92e8-119911e568b2:label
 msgid "For a fixed period (prepaid)"
-msgstr ""
+msgstr "於固定期間內（預付制）"
 
 #: question:bdaba73c-02e0-4ff1-acb3-a68df891c36a:text
 msgid "For a good understanding of tabular data, you need to make the relationship between each pair of columns explicit. E.g. if one column is 'disease' and another is 'treatment', you want to make sure that this is the chosen treatment that this person is undergoing for the given disease."
-msgstr ""
+msgstr "為了正確理解表格型資料（tabular data），您需要明確說明各欄位之間的關係。例如，若一個欄位是「疾病（disease）」，另一個欄位是「治療方式（treatment）」，您需要清楚表示，此治療方式確實是此人因為該疾病所接受的療程。"
 
 #: question:b211f896-b363-4978-9423-212644ff5d72:text
 msgid "For good interoperability the use of controlled vocabularies for each discrete data item is advisable. If such vocabularies exist, it is best to reuse those."
-msgstr ""
+msgstr "為了達到好的可相互操作性（interoperability），我們建議每一個單獨的資料項目都使用控制詞彙（controlled vocabularies）。若相關的控制詞彙存在，應優先利用。"
 
 #: question:075e934b-e9a3-45b6-a91e-5e19a1e56e06:title
 msgid "For how many years will the archive minimally be kept?"
-msgstr ""
+msgstr "典藏檔案（archive）至少會保存多少年？"
 
 #: question:d4e6a244-07fb-4573-b93f-c20a9409ac7c:text
 msgid "For optimum reusability data needs to be available for as long as possible. There may be financial reasons why you can't keep the data any longer; there may be legal, contractual or regulatory reasons requiring you to delete the data."
