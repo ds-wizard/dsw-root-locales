@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-02-25 06:34+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-05 04:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1663,144 +1663,143 @@ msgstr "典藏檔案（archive）至少會保存多少年？"
 
 #: question:d4e6a244-07fb-4573-b93f-c20a9409ac7c:text
 msgid "For optimum reusability data needs to be available for as long as possible. There may be financial reasons why you can't keep the data any longer; there may be legal, contractual or regulatory reasons requiring you to delete the data."
-msgstr ""
+msgstr "為達到最佳的可再利用性（reusability），資料需盡可能長期維持可取用性。然而，可能因財務因素而無法繼續保存資料；也可能因法律、合約或法規要求，而必須刪除資料。"
 
 #: question:361c38f0-ce75-4157-94f1-804e4d7986c2:text
 msgid "For projects involving data collection from subjects, it must be ensured the subjects can exercise all their rights."
-msgstr ""
+msgstr "凡涉及向研究對象搜集資料的專案，皆需確保研究對象得以完整行使其相關權利。"
 
 #: question:8c962e6f-17ee-4b22-8ebb-9f06f779e3b3:text
 msgid "For the re-usability of your data by yourself or others at a later stage, a lot of information about the data – for example how it was collected and how it can be used – should be stored with the data. Such *data about the data* is called **metadata**, and this set of questions are about this metadata."
-msgstr ""
+msgstr "為確保您資料在未來能被自己或他人在未來的可再利用度，應將與資料相關的資訊一併保存——例如資料的蒐集方式，以及其可被使用的方式等。這類「關於資料的資料」稱為後設資料（metadata），本組問題是跟這些後設資料相關的題目。"
 
 #: question:192fc5d3-dc2a-495c-8f24-f59a4c5d95c9:text
 msgid "Formats like XLS or SQL are very flexible; they can be adapted to many different uses, and this makes them good for interoperability. However, their flexibility also makes that it is not immediately obvious from the file structure how it can be used. The data needs a proper *description* in order for others (or yourself at a later time) to be able to unambiguously understand what it contains."
-msgstr ""
+msgstr "XLS 或 SQL 這類格式相當有彈性；它們可以因應不同用途進行調整，因此在可相互操作性上（interoperability）具有優勢。然而，正因為這種彈性，單從檔案結構本身往往無法立即理解資料可以如何被使用。因此，資料必須搭配適當的描述（description），他人（或未來的自己）才能清楚且不產生歧義地理解檔案內容。"
 
 #: question:28d494ef-26c0-4632-956e-5cafcc498a32:text
 msgid "From which date will data be available under this license?"
-msgstr ""
+msgstr "資料將自何日期起依本授權條款提供？"
 
 #: answer:1dfe0a6d-4281-4d5e-bcaa-5e20fa28a591:label
 msgid "Fulfil contract"
-msgstr ""
+msgstr "履行合約"
 
 #: question:0b12fb8c-ee0f-40c0-9c53-b6826b786a0c:title
 msgid "Funder"
-msgstr ""
+msgstr "資助單位"
 
 #: question:36a87eac-402d-43fb-a0df-ac5963bdf87d:title
 msgid "Funding"
-msgstr ""
+msgstr "資金"
 
 #: answer:8e7cd80f-9a32-48a6-a65c-0d3a0f0a6d3a:label
 msgid "Funding grant"
-msgstr ""
+msgstr "補助計劃"
 
 #: question:54ff3b18-652f-4235-8f9f-3c87e2d63169:title
 msgid "Funding status"
-msgstr ""
+msgstr "資助狀態"
 
 #: choice:caac09f2-be5c-4ba4-82dc-7f0ee33ab67d:label
 msgid "GDPR"
-msgstr ""
+msgstr "歐盟「一般個人資料保護規則」（GDPR，General Data Protection Regulation）"
 
 #: url-reference:f093edb7-f08c-4742-8b0e-8abe0bf6c34f:label
 msgid "GDPR Chapter 3: Rights of the data subject"
-msgstr ""
+msgstr "《一般個人資料保護規則》（GDPR）第三章：資料主體之權利"
 
 #: answer:7e87b33a-4ba9-494a-b2f0-62ac6ad62ae8:label
-#, fuzzy
 msgid "GPL 3.0 or later"
-msgstr "AGPL 3.0 以上版本"
+msgstr "GPL 3.0 以上版本"
 
 #: question:c8687abf-ac88-4bef-b1cc-7070bd039a07:title
 msgid "General Data Protection Regulation (GDPR) considerations"
-msgstr ""
+msgstr "《一般個人資料保護規則》（GDPR）考量"
 
 #: choice:039eceea-640e-4e6c-89fb-40965956a2e7:label
 msgid "Genetic data"
-msgstr ""
+msgstr "遺傳資料"
 
 #: question:e13bf3cb-cf78-486e-b844-2c12320919c4:title
 msgid "Give a link/reference to the policy or process"
-msgstr ""
+msgstr "請提供該政策或程序的連結／參考來源"
 
 #: question:682da8d1-c109-4f62-8cf1-dadd8908af77:text
 msgid "Give a name for the data set."
-msgstr ""
+msgstr "請為資料集命名。"
 
 #: question:a797cab9-0829-4787-a096-1b5cedc9147f:text
 msgid ""
 "Give each type of data a name that you recognise.\n"
 "\n"
 "If you have data in many different structures, integrating the data may be more challenging."
-msgstr ""
+msgstr "請為每種類型的資料取一個您可以辨識的名稱。\n\n若資料存在多種不同的結構形式，資料整合可能較有挑戰。"
 
 #: chapter:6be88f7c-f868-460f-bba7-91e1c659adfd:title
 msgid "Giving access to data"
-msgstr ""
+msgstr "提供資料取用權限"
 
 #: url-reference:9b5581d7-9226-446a-be68-1754a5cbd6a9:label
 msgid "Google dataset search"
-msgstr ""
+msgstr "Google 資料集搜尋"
 
 #: question:1ccbd0bb-4263-4240-9dc5-936ef09eef53:title
 msgid "Grant number"
-msgstr ""
+msgstr "補助編號"
 
 #: answer:dcbeab22-d188-4fa0-b50b-5c9d1a2fbefe:label
 #: answer:e0a59549-b078-4d7c-9ead-4b37f1549b82:label
 msgid "Granted"
-msgstr ""
+msgstr "已核准"
 
 #: url-reference:06ca6750-b48d-42fc-b350-8d98b462b458:label
 msgid "Handbook on Persistent Identifiers"
-msgstr ""
+msgstr "持續識別碼手冊"
 
 #: answer:b93a037a-006a-486f-87e0-6bef5c28879b:label
 msgid "Handle"
-msgstr ""
+msgstr "Handle"
 
 #: question:0dda3f9c-7567-47c8-8726-23fdfbe67e33:title
 msgid "Has a joint controllership agreement between the parties been established?"
-msgstr ""
+msgstr "各參與方是否已建立共同資料控制者協議（joint controllership agreement）？"
 
 #: question:4eb1bd6f-5d10-4b0a-aab1-715facc29cbb:title
 msgid "Has access to the electronic patient records been arranged?"
-msgstr ""
+msgstr "是否已安排電子病歷的取用方式？"
 
 #: question:b7cb192b-349a-4966-b37d-b63903bf2204:title
 msgid "Has auditing for the re-use been arranged?"
-msgstr ""
+msgstr "是否已安排再利用（re-use）的稽核機制？"
 
 #: question:feb954c1-c38e-4615-addd-4c714a06809a:title
 msgid "Has authority over the data been arranged for when the project is finished (potentially long after)?"
-msgstr ""
+msgstr "是否已安排專案結束後（可能是很久以後）資料管理的權責歸屬？"
 
 #: question:aa27852a-00f4-44a4-a85c-0e0fd3ac20d1:title
 msgid "Has formal ownership of the data been established?"
-msgstr ""
+msgstr "是否已建立資料的正式所有權（formal ownership）？"
 
 #: question:2dd94cbc-42f3-4077-b6da-83e0275290c5:title
 msgid "Has it been established how long the archived data need to be kept? For each of the different parts of the archive (raw data / results)?"
-msgstr ""
+msgstr "是否已確定歸檔資料需保存多久？是否針對不同類型的資料（如原始資料／研究結果）分別訂定保存期限？"
 
 #: question:47559455-2969-41f4-aee8-e9ce558ab2f0:title
 msgid "Has it been established who can ask for a restore during the project?"
-msgstr ""
+msgstr "是否已確立專案期間內，誰有權申請資料還原？"
 
 #: question:b7d9008e-9691-44f0-a026-0f63d808db39:title
 msgid "Has it been established who has access to the archive, and how fast?"
-msgstr ""
+msgstr "是否已確立誰有檔案庫的取用權限，以及取用的處理時程？"
 
 #: question:f0a474ac-21b5-4b6a-9fd5-b9c3f8882055:title
 msgid "Has responsibility for long term safe keeping of the raw data been established? Who will deal with data publication?"
-msgstr ""
+msgstr "是否已確立長期保存原始資料的負責單位或人員？誰會將資料公開發布（data publication）？"
 
 #: question:2c5fd209-1ff5-4c34-b6e4-2bf1228e97de:text
 msgid "Has the storage and transport format of the primary data been established between the people responsible for the measurement and the people responsible for the processing?"
-msgstr ""
+msgstr "初級資料（primary data）的儲存與傳輸格式，是否已在測量人員與資料處理人員之間確立？"
 
 #: question:31da89a7-4d04-4345-a414-ea1226377df7:text
 msgid "Has time been reserved on any tape/disk reading and writing stations?"
