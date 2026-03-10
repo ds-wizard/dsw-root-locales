@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-05 04:03+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-10 06:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1523,11 +1523,11 @@ msgstr "請說明將如何告知資料主體（data subjects）相關資訊，�
 
 #: question:61d21b4f-332b-4257-a345-bbf51b10d357:title
 msgid "Explain how data subjects will be informed. "
-msgstr ""
+msgstr "請說明您會如何向資料主體提供相關資訊。 "
 
 #: question:ecca7dd6-62f2-4714-a85a-8d79bbca402a:text
 msgid "Explain the procedure for authorized users to access private (e.g., personal) data (who is allowed to access it, what is required from them, etc.)."
-msgstr ""
+msgstr "請說明獲得授權的使用者取用私人資料（例如個人資料）的程序（像是哪些人可取用、需符合哪些條件等）。"
 
 #: answer:00842b33-a854-4e25-8bed-05e2462fecf1:label
 #: answer:0d64d3c6-4312-47a9-92ad-0bc9440d6e45:label
@@ -1803,179 +1803,179 @@ msgstr "初級資料（primary data）的儲存與傳輸格式，是否已在測
 
 #: question:31da89a7-4d04-4345-a414-ea1226377df7:text
 msgid "Has time been reserved on any tape/disk reading and writing stations?"
-msgstr ""
+msgstr "是否已預留磁帶（tape）／磁碟（disk）讀寫設備的使用時段？"
 
 #: question:6cc96576-2535-46b3-8c9b-a12703ee96cc:title
 msgid "Have Data Protection Impact Assessments (DPIA) been performed for the personal data?"
-msgstr ""
+msgstr "是否已針對個人資料進行資料保護影響評估（Data Protection Impact Assessments, DPIA）？"
 
 #: question:c6e30ba1-10d6-4f3c-b81a-5f2b362f74cd:title
 msgid "Have data processing agreements been (or will they be) established between the data controller(s) and any data processors?"
-msgstr ""
+msgstr "資料控制者與任何資料處理者之間，是否已（或即將）訂立資料處理協議？"
 
 #: question:a2b1fa38-792a-4628-9765-93476a38cffb:title
 msgid "Have informed consents been collected from the research subjects?"
-msgstr ""
+msgstr "是否已取得研究對象的知情同意？"
 
 #: question:dc327e53-cf4f-44e7-8e66-40ddf1b4ae0a:title
 msgid "Have project members been instructed about the risks (generic and specific to the project)?"
-msgstr ""
+msgstr "是否已向專案成員說明相關風險（包括一般性風險及本專案特有的風險）？"
 
 #: question:18f9b8ec-bf1b-4035-8eac-3fd329613a7c:title
 msgid "Have these been collected with sufficiently identical protocols?"
-msgstr ""
+msgstr "這些資料是否依據一致的作業規程（protocols）蒐集而來？"
 
 #: question:d8150021-19d7-4e92-90c3-d9c3d62d188e:title
 msgid "Have you established with the provider when will you need the compute capacity?"
-msgstr ""
+msgstr "您是否已與服務提供者確認何時會使用到計算資源？"
 
 #: question:b08fe063-33f8-4380-b3a9-ba1e586dedf2:text
 msgid ""
 "Have you identified types of data that you will use that are used by others too? Some types of data (for example \"images\" or \"tables\") are used by many different projects. For such data, often common standards exist (in our example \"JPG\" and \"CSV\" [comma separated values]) that help to make these data reusable. Are you using such common data formats?\n"
 "\n"
 "Please make sure you list all the data types that are important for your project. You should make sure also to list the formats used in any data sets that you are re-using."
-msgstr ""
+msgstr "您是否已識別出在本專案中使用、且同樣被其他研究或專案使用的資料類型？有些資料類型（例如「影像」或「表格」）會被許多不同專案使用。對於這類資料，通常已有通用的標準格式（例如「JPG」或「CSV〔逗號分隔值〕」），可協助提升資料的可再利用性。您是否採用了類似的通用資料格式？\n\n請確認您列出所有本專案中重要的資料類型。同時，也請列出您所再利用的任何資料集所使用的資料格式。"
 
 #: question:12baa8af-db59-43a5-8ec7-0941c58ff89a:text
 msgid "Horizon Europe demands that metadata is completely open, e.g. provided under a CC0 license, and that any deviation from this is clarified."
-msgstr ""
+msgstr "Horizon Europe 要求後設資料必須完全開放，例如以 CC0 授權提供；若有任何偏離此原則的情況，請加以說明。"
 
 #: answer:91463928-1cf4-43e0-bb4e-d1fc7b077ac8:label
 msgid "Hours"
-msgstr ""
+msgstr "小時"
 
 #: url-reference:94544b24-90e3-4d95-a0c0-bfed45cbdac9:label
 msgid "How CSC restored 850 million temporary files"
-msgstr ""
+msgstr "CSC 如何復原 8.5 億個暫存檔案"
 
 #: question:cb7d17a8-30c0-489d-a43c-702b27d97611:title
 msgid "How are the rights of the collected data arranged?"
-msgstr ""
+msgstr "對於所蒐集資料的權利是如何規劃安排的？"
 
 #: question:b171ec17-d7b5-4726-ae22-0d892b106cf8:title
 msgid "How available/reliable should must the work space be?"
-msgstr ""
+msgstr "工作空間需要具備多高的可用性（available）與可靠性（reliable）？"
 
 #: question:eb698404-004a-4cdf-a599-be01e0eb7fd2:title
 msgid "How do you decide which additional research outputs should be retained?"
-msgstr ""
+msgstr "您如何決定哪些額外的研究成果需要保留？"
 
 #: question:9ff389f0-2236-48cf-880c-040ea1bb0d2f:title
 msgid "How do you name files in the project?"
-msgstr ""
+msgstr "您會怎麼命名專案中的檔案？"
 
 #: question:25e06912-08a2-40e4-af76-cfbc5ada9925:title
 msgid "How do you prevent a total loss of data in the work space?"
-msgstr ""
+msgstr "您會如何預防工作空間中的資料完全遺失？"
 
 #: question:1ca28160-8b73-48fe-8b74-18c0f5cb56df:title
 #: question:41a1b4ba-8cd5-47fe-a7be-06cccf9a1688:title
 msgid "How do you think other researchers can use this data?"
-msgstr ""
+msgstr "您認為其他研究者可以怎樣使用這份資料？"
 
 #: question:4ee4d67d-62c5-47f0-a741-f2629b65cf8a:title
 msgid "How does the storage need change over time?"
-msgstr ""
+msgstr "資料儲存需求將如何隨時間改變？"
 
 #: question:06655161-9a91-47f4-af3b-9d2a5e6db19b:title
 msgid "How else is the intellectual property for the data collected in the project arranged?"
-msgstr ""
+msgstr "對於本專案所蒐集資料的智慧財產權，是否有其他相關規劃或安排？"
 
 #: question:59748a7b-f729-404d-babe-3147e2c6b247:title
 msgid "How is pseudonymization handled?"
-msgstr ""
+msgstr "資料的假名化處理方式為何？"
 
 #: question:0b42bbcc-5102-4619-b8e3-9409dbc0379a:title
 msgid "How is the archival period arranged?"
-msgstr ""
+msgstr "資料的典藏期限是如何規劃的？"
 
 #: question:87fe7235-0a0f-4788-8f44-04523461655f:title
 msgid "How is this data structured?"
-msgstr ""
+msgstr "資料結構是如何組織的？"
 
 #: question:b66496d0-6fd4-4854-8f07-961045de4b7c:title
 msgid "How is your experience with this software?"
-msgstr ""
+msgstr "您使用此軟體方面的經驗為何？"
 
 #: question:6531dd45-f628-4aa7-a2c5-82c639b79ab8:title
 msgid "How long can you wait for a restore if the storage fails?"
-msgstr ""
+msgstr "若儲存系統故障，您可接受的資料還原等待時間有多長？"
 
 #: question:aacf28a0-aab9-4436-8b2b-95ef755ae32a:title
 msgid "How long can you wait for a restore if you accidentally damage a file?"
-msgstr ""
+msgstr "若您不慎損毀某個檔案，您可承受的資料還原時間有多長？"
 
 #: question:346118ee-265f-4104-8409-161ea9a57f75:title
 msgid "How long will the data be kept?"
-msgstr ""
+msgstr "資料會被保留多久？"
 
 #: question:d4e6a244-07fb-4573-b93f-c20a9409ac7c:title
 msgid "How long will this data set be kept?"
-msgstr ""
+msgstr "這個資料集會被保留多久？"
 
 #: question:2a0cf686-63ed-44b6-ae74-38ddd39ac741:title
 msgid "How much have you budgeted for making data or other research outputs FAIR?"
-msgstr ""
+msgstr "您目前編列了多少相關經費使資料或其他研究成果符合 FAIR 原則？"
 
 #: question:01cd836b-915e-4751-b543-b326bf812594:title
 msgid "How much of the raw data do you need to keep in the work space?"
-msgstr ""
+msgstr "在工作空間中，您需要保留多少原始資料？"
 
 #: question:38ebf5d0-f7a3-4cf5-93eb-6ee3143c8a69:title
 msgid "How much storage space will the project require for all data and software, including temporary storage?"
-msgstr ""
+msgstr "本專案總共需要多少儲存空間，包含所有資料、軟體以及暫存空間？"
 
 #: question:46cd176a-138a-4f6c-8cd5-dfcb1f23f04a:title
 msgid "How this cost will be covered?"
-msgstr ""
+msgstr "這筆費用會如何負擔？"
 
 #: question:80d403f3-3f29-4f37-9040-b901ae9afa37:title
 msgid "How will access to the work space be controlled?"
-msgstr ""
+msgstr "工作空間的進出權限會如何控管？"
 
 #: question:d206fcaf-a238-48ef-925e-6f006d39f2af:title
 msgid "How will data security be dealt with?"
-msgstr ""
+msgstr "您會如何處理資料安全？"
 
 #: question:27769a31-717b-4204-8468-175ac93b195a:text
 msgid "How will maintenance be paid for in the long run? Will you host it yourself or deposit it with a repository? How will you deal with requests for help? And with requests for adding data?"
-msgstr ""
+msgstr "您會如何負擔長期維護的費用？您會自己存放維護資料，還是將資料存放於資料儲存庫（repository）？您會如何協助資料請求？另外，若有人提出新增資料的要求，您會如何應對？"
 
 #: question:2ed7b5c7-2452-4087-b4ed-d15ca31a4e65:title
 msgid "How will project partners access the work space?"
-msgstr ""
+msgstr "專案合作夥伴可以怎樣進到專案工作空間？"
 
 #: question:f78fb7e9-2f26-493c-a19b-04e153c17274:title
 msgid "How will re-users be able to get access?"
-msgstr ""
+msgstr "資料再利用者會如何取用資料？"
 
 #: question:4e84a44f-e66b-42f5-bb42-7e6c4bd3b79b:title
 msgid "How will the data be captured?"
-msgstr ""
+msgstr "資料會如何被擷取？"
 
 #: question:deb9d6b3-4f11-4aa8-b016-52d1612c002a:title
 msgid "How will the old version be available?"
-msgstr ""
+msgstr "您會如何提供舊的版本？"
 
 #: question:2e8d6e55-36ea-46eb-a921-65e550bce5dc:title
 msgid "How will the raw data be transported?"
-msgstr ""
+msgstr "原始資料會如何傳輸？"
 
 #: question:2679736a-800e-4eaa-a70f-818070540c48:title
 msgid "How will the release schedule be?"
-msgstr ""
+msgstr "發布時程會如何安排？"
 
 #: question:da0d28e6-1c6e-44d8-ba47-d834aeca847b:title
 msgid "How will the samples be identified?"
-msgstr ""
+msgstr "樣本可以怎樣被識別？"
 
 #: question:05655914-e1f4-4578-a7d4-bae17579fce8:title
 msgid "How will the versions be recognised?"
-msgstr ""
+msgstr "不同版本將如何被辨識？"
 
 #: question:73bf7531-3490-4c0f-b6a2-a9f4f2bc3e1a:title
 msgid "How will you balance the extra efforts with the potential for added reusability?"
-msgstr ""
+msgstr "您會如何在提升資料可再利用性的潛在效益與所需投入的額外努力之間取得平衡？"
 
 #: question:62ddfc73-1680-4bbf-b198-6a7231875fb1:title
 msgid "How will you be accessing the data?"
@@ -2007,126 +2007,126 @@ msgstr ""
 
 #: question:bf52613c-1bfb-47b6-87cc-42f54de79129:title
 msgid "How will you handle changes in the data?"
-msgstr ""
+msgstr "您會如何處理資料的變更？"
 
 #: question:cd44886c-877f-4387-b299-f8d81b559f73:title
 msgid "How will you handle upgrades to tools?"
-msgstr ""
+msgstr "您將如何處理工具的升級？"
 
 #: question:27769a31-717b-4204-8468-175ac93b195a:title
 msgid "How will you maintain it?"
-msgstr ""
+msgstr "您會如何維護它？"
 
 #: question:12762d00-f02a-40f7-b175-c7e4c92f5f54:title
 msgid "How will you make sure the same reference data will be available to reproduce your results?"
-msgstr ""
+msgstr "您將如何確保相同的參考資料在未來仍可取得，以再製（reproduce）您的研究結果？"
 
 #: question:1991077f-04ae-4808-90a5-e4b2f82e30bf:title
 msgid "How will you make sure to know what exactly has been run?"
-msgstr ""
+msgstr "您會如何確認實際執行了哪些內容？"
 
 #: question:6e0704a2-cea3-4ae7-8ab5-5eb6db163639:title
 msgid "How will you pay for these costs?"
-msgstr ""
+msgstr "您會如何支付這些費用？"
 
 #: question:f9572d3c-c91f-4945-a56b-ccfb32750fe9:title
 msgid "How will you store any applicable restrictions?"
-msgstr ""
+msgstr "您會如何儲存任何適用的限制條件？"
 
 #: question:918d5fd1-ea37-468f-8acd-ca3e80203900:title
 msgid "How will you validate the integrity of the results?"
-msgstr ""
+msgstr "您會如何驗證研究結果的完整性（integrity）？"
 
 #: question:df36fb68-131c-4f31-a42b-684abf523bbc:title
 msgid "How will you work with your data?"
-msgstr ""
+msgstr "您會如何操作與使用您的資料？"
 
 #: question:f4065e54-d27a-45de-be4c-10384feacd0d:title
 msgid "How will your first data come in?"
-msgstr ""
+msgstr "您的第一批資料會如何進到專案？"
 
 #: answer:2c2a9b84-b140-4e17-8026-56d5372064d0:label
 #: answer:4831f187-8660-4641-9a32-a6f4f569614f:label
 msgid "I can directly use it"
-msgstr ""
+msgstr "我可以直接使用它"
 
 #: answer:24dbd191-2d0c-4267-b858-d9063b21a486:label
 msgid "I can specify the number of files/subjects and the size of each"
-msgstr ""
+msgstr "我可以具體說明檔案／研究主題的數量，以及每個項目的大小"
 
 #: answer:c2bc3d0b-a11b-4831-bd2c-5235dbf868b7:label
 #: answer:ec502175-376d-4bf3-a055-c4f7d7639103:label
 msgid "I can specify the total amount"
-msgstr ""
+msgstr "我可以具體說明總量"
 
 #: answer:3da33836-eff3-4166-898b-3c2c3d3989a8:label
 #: answer:9de86d7b-9c60-47d6-8cb1-bfca13d6f619:label
 msgid "I need to convert it before using"
-msgstr ""
+msgstr "我使用前需要轉檔"
 
 #: answer:018fc8a0-c51e-48f4-99d5-77e8c9dcf51f:label
 msgid "I will collect all metadata I can gather and document the data set beyond minimal standards"
-msgstr ""
+msgstr "我會盡可能蒐集完整的後設資料，並在最低標準之上，加強資料集的記錄"
 
 #: answer:9832a3a5-e24d-4db1-b48f-4d171c1402ae:label
 msgid "I will keep a copy and make it available with my results"
-msgstr ""
+msgstr "我將保留一份副本，並在發表研究結果時一起提供使用"
 
 #: answer:cba7c977-986d-4673-9bbc-fb3f7fed95c6:label
 msgid "I will make sure the selected subset will be available together with my results"
-msgstr ""
+msgstr "我會確保所選取的資料子集能與我的研究結果一起提供使用"
 
 #: answer:bbef3d6c-7a90-4d5e-8d72-1fea083f6410:label
 msgid "I will need it only at the beginning"
-msgstr ""
+msgstr "我只會在剛開始時需要它"
 
 #: answer:b2ca0d26-7fdd-44f1-b064-bc4cd4c45661:label
 msgid "I will only add the metadata that is \"required\" in the standard."
-msgstr ""
+msgstr "我僅會新增標準中「必要」的後設資料。"
 
 #: answer:3002eaed-c31f-4bdd-83ed-49262ae79165:label
 msgid "I will see what I can do"
-msgstr ""
+msgstr "我會看看我能做些什麼"
 
 #: answer:b4334e27-3e6c-4215-b4cb-f60eabd9c61e:label
 msgid "I will use a Linked Data format"
-msgstr ""
+msgstr "我會使用 Linked Data 格式"
 
 #: answer:974fa3ea-4047-4006-a49c-f7972bf9c961:label
 msgid "I will use a completely custom data format"
-msgstr ""
+msgstr "我會使用完全自訂的資料格式"
 
 #: answer:e6ddd126-0878-4831-9450-8c5f3e9126dd:label
 msgid "I will use a downloaded version"
-msgstr ""
+msgstr "我會使用下載的版本"
 
 #: answer:7ef32aea-b6a7-4297-92bd-0869a13276ad:label
 msgid "I will use preselected additional standard modules of metadata"
-msgstr ""
+msgstr "我會使用預先選定的額外標準後設資料模板"
 
 #: answer:2076afb5-3c5c-4f42-8f77-9b78fec76a62:label
 msgid "I will use the complete data set"
-msgstr ""
+msgstr "我會使用完整的資料集"
 
 #: answer:930599c4-d002-42b7-bc0b-fa9565382d8c:label
 msgid "Identifiable"
-msgstr ""
+msgstr "可辨識的"
 
 #: question:cf727a0a-78c4-45a7-aa9b-cf7650ae873a:title
 msgid "Identifier of the data set"
-msgstr ""
+msgstr "資料集的可識別碼"
 
 #: question:abb6ac92-6508-4a24-b262-5d64db4ae731:title
 msgid "Identifier of the data set that will be referred to"
-msgstr ""
+msgstr "被引用的資料集的識別碼"
 
 #: question:434b28c1-dbc0-4dd0-bb53-6d6ad51b86f4:text
 msgid "If anyone wants to see whether they can re-use your data, it must be possible to see what information in contains. For this, a data dictionary can play an important role."
-msgstr ""
+msgstr "若有人想看看是否能再利用您的資料，他們必須能夠了解資料中有什麼資訊。為此，資料字典（data dictionary）可以發揮重要作用。"
 
 #: question:532ddc6a-3415-4df8-8fa1-002ee486fd42:text
 msgid "If sources are using different semantic resources, you will need to plan time to find or make the right mappings."
-msgstr ""
+msgstr "若資料來源使用不同的語意（semantic）資源，您需要預留時間來尋找或建立適當的對應（mapping）。"
 
 #: question:b3caa015-cdd5-4812-84b5-596855a30545:text
 msgid "If the 'master copy' of the data is available on line, it should probably be protected against being tampered with."
