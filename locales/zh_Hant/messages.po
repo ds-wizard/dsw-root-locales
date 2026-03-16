@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-16 08:09+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-16 09:10+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -2208,11 +2208,11 @@ msgstr ""
 
 #: answer:033e0538-5322-49c8-b537-9375eb86fd90:advice
 msgid "If you are working with multiple people on a complex project, it could be causing problems if changes are made to e.g. sample identifiers half-way the project. If there is no central information keeping, not everyone may be aware of important changes, and updates of partially run workflows could be forgotten."
-msgstr ""
+msgstr "若你與多人共同參與一項複雜專案，則在專案進行途中變更例如樣本識別碼等資訊，可能會造成問題。若沒有集中管理資訊的機制，相關人員未必都能掌握這些重要變更，而對於僅部分執行完成的工作流程，其後續更新也可能被忽略。"
 
 #: question:f6e66f4f-7b11-420f-a4b6-5fc972bc66d9:text
 msgid "If you have large volumes of data that are intensely and repeatedly used by the computing work flow, it may be needed to keep the storage in the same place as where the computing takes place."
-msgstr ""
+msgstr "如果你有大量資料會在運算工作流程中被密集且反覆使用，那麼可能需要將儲存設置於與運算執行相同的位置。"
 
 #: question:a0d52f2d-6828-42b0-a1f1-cda4ed7dad3b:text
 msgid "If you need to perform many similar calculations of different input data (e.g. samples or simulations), these can often be executed at the same time on different nodes in a compute system. This is sometimes called \"trivial parallelism\". Even though it is named \"trivial\", this still requires that the work flow and workflow system support this (e.g. by making sure all file names are unique, and that not many threads are trying to read or write the same file at the same time). \n"
