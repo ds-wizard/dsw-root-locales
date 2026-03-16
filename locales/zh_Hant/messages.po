@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-11 08:03+0000\nLast-Translator: Hilary Shiue <hshiue@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-16 08:09+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1983,27 +1983,27 @@ msgstr "您會如何取用資料？"
 
 #: question:8c962e6f-17ee-4b22-8ebb-9f06f779e3b3:title
 msgid "How will you be collecting and keeping your metadata?"
-msgstr ""
+msgstr "你將如何蒐集並保存你的後設資料？"
 
 #: question:948b5fd8-c1bd-457d-8f81-ea2fd093f541:title
 msgid "How will you be keeping track of the \"provenance\" of the data?"
-msgstr ""
+msgstr "你將如何追蹤資料的出處？"
 
 #: question:edc9b6d9-c121-4e00-ba83-710330c2e18d:title
 msgid "How will you be paying for these services?"
-msgstr ""
+msgstr "你將如何支付這些服務的費用？"
 
 #: question:94898b30-877d-4776-a03a-c57c93a725ac:title
 msgid "How will you deal with the situation where support for a tool is dropped?"
-msgstr ""
+msgstr "當某項工具停止支援時，你將如何因應？"
 
 #: question:a9103296-915a-4bdf-b259-116775d5e676:title
 msgid "How will you design your new data format?"
-msgstr ""
+msgstr "你將如何設計你的新資料格式？"
 
 #: question:8e886b55-3287-48e7-b353-daf6ab40f7d8:title
 msgid "How will you do file naming and file organization?"
-msgstr ""
+msgstr "你將如何進行檔案命名與檔案整理？"
 
 #: question:bf52613c-1bfb-47b6-87cc-42f54de79129:title
 msgid "How will you handle changes in the data?"
@@ -2130,23 +2130,23 @@ msgstr "若資料來源使用不同的語意（semantic）資源，您需要預�
 
 #: question:b3caa015-cdd5-4812-84b5-596855a30545:text
 msgid "If the 'master copy' of the data is available on line, it should probably be protected against being tampered with."
-msgstr ""
+msgstr "如果資料的「主版本」可在線上存取，通常應加以保護，以避免遭人竄改。"
 
 #: question:3782d32b-91b5-432f-8f93-92bb22868a22:text
 msgid "If the answer is positive, you should have specified the relevant ethical review details under the \"Research Project\" question in the Administrative information chapter."
-msgstr ""
+msgstr "如果答案為是，你應已在行政資訊章節中「研究計畫」問題下填寫相關的倫理審查細節。"
 
 #: question:15eb6fe6-7b21-493b-a5a0-09ac63212ab6:text
 msgid "If the coupling parameters are lenient, you will find more connections than when they are strict. But you may find that they are less accurate. This is a balance."
-msgstr ""
+msgstr "如果耦合參數設定得較寬鬆，你會找到比設定嚴格時更多的連結；但你可能也會發現，這些連結的準確性較低。這之間需要取得平衡。"
 
 #: answer:69b0dc80-4b80-4fe6-b162-2a3eff9e133e:advice
 msgid "If the data is published in a standard repository, that repository will tell you which metadata standards to use."
-msgstr ""
+msgstr "如果資料是發布於標準的儲存庫中，該儲存庫會告訴你應使用哪些後設資料標準。"
 
 #: question:3d837696-3a99-4362-86a3-f460dd878b75:title
 msgid "If the data is voluminous, will the project be able to cope with the time needed for a restore?"
-msgstr ""
+msgstr "如果資料量龐大，該專案是否能夠承受資料還原所需的時間？"
 
 #: question:c15710f6-1c7f-43a0-97e7-ab70f6b5a115:text
 msgid "If the data that you will re-use is coupled to people, the ethical approval that was originally obtained may not be covering your current research. In that case an extension of the original approval, or a new approval, may be necessary."
@@ -2197,7 +2197,7 @@ msgstr ""
 
 #: question:8cedcf93-7676-4397-b3fc-a81167ff1853:text
 msgid "If you are combining data from different sources, harmonization may be required. You may need to re-analyse some original data."
-msgstr ""
+msgstr "如果你正在整合來自不同來源的資料，可能需要進行資料的一致化處理。你也可能需要重新分析部分原始資料。"
 
 #: question:109ed7ea-ef1d-4719-b2b4-eb4f7202c65c:text
 msgid ""
