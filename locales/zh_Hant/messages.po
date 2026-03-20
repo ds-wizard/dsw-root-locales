@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-20 20:19+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-20 20:19+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -349,9 +349,8 @@ msgid "Are the risks of data leaks covered?"
 msgstr "資料外洩風險是否得到保障？"
 
 #: question:a18d79d2-74b1-4524-a3c7-2c1a87b66a75:title
-#, fuzzy
 msgid "Are there IP reasons why your data can not be open?"
-msgstr "是否因隱私因素使您的資料無法公開？"
+msgstr "是否因智慧財產權（IP）方面的原因使您的資料無法公開？"
 
 #: question:98d9789b-32fc-4e2f-876a-47760ad7c7ec:text
 msgid "Are there any data files e.g. on laptops of project members? Also: supercomputing centers and other high performance computer centers often write in their terms of use that you need to take care of your own backups."
@@ -440,7 +439,7 @@ msgstr "您是否會以 RDF 形式呈現圖表？"
 
 #: question:d5ab8298-9382-455c-8241-f64d3cc54ffe:title
 msgid "Are you running repeat samples or are you repeating measurements in order to monitor consistency of the results?"
-msgstr "您是否透過重複樣本（repeat samples）或重複量測（repeating measurements），以監測結果的一致性？"
+msgstr "您是否透過重複樣本（repeat samples）或重複測量（repeating measurements），以監測結果的一致性？"
 
 #: question:ecdc6c3f-249a-4d82-822c-649754201981:title
 msgid "Are you running standardized data capture or recording?"
@@ -506,9 +505,8 @@ msgid "As long as technically possible"
 msgstr "技術條件允許"
 
 #: answer:fbe7ef0d-3199-47de-ad28-1b9299200156:label
-#, fuzzy
 msgid "As soon as it comes in, in chunks"
-msgstr "資料進入後即分批進行"
+msgstr "資料進入後即分批處理"
 
 #: answer:92dc2ba0-2cac-4710-8dc7-c1cf6e573235:label
 msgid "As soon as it has all arrived, in one session"
@@ -519,12 +517,10 @@ msgid "As soon as possible after collecting it"
 msgstr "在資料蒐集完成後儘快進行"
 
 #: answer:37f92ce2-48e9-4437-bb34-b034b69ad4a2:label
-#, fuzzy
 msgid "Authors of similar alternatives are not willing to work with us"
-msgstr "開發其他類似替代方案的作者不願與我們合作"
+msgstr "其他類似替代方案的作者不願意與我們合作"
 
 #: choice:cee31df6-624a-4569-ae32-fad3d74dc169:label
-#, fuzzy
 msgid "Automated-decision making with legal or similar significant effect on data subjects."
 msgstr "對資料主體具有法律效果或類似重大影響的自動化決策。"
 
@@ -536,9 +532,8 @@ msgid ""
 msgstr "在您決定開始任何新研究之前，最好檢查所有現有的可用資料，作為可重複使用的選項。這些資料可能是您在早期專案中收集或產生的，也可能是來自他人的資料（Barend Mons 將其稱為「他人的資料與服務」或 OPEDAS）。這可以包括為早期研究建立的可重用資料，以及許多專案都會使用的所謂「參考資料」。\n\n我們並非因為能夠產生海量資料就必須總是這麼做。利用公帑產出資料，也隨之帶來了妥善處理這些資料的責任，並且（若具備潛在用途）應將其提供給他人重複使用。而唯有當這些資料確實被重複使用時，這個循環才算完整。"
 
 #: question:3d09f311-07dd-49a0-8445-5eab8f9548fc:text
-#, fuzzy
 msgid "Below listed are 9 criteria - provided by the EC - that might indicate that your project constitutes **high risk processing**.  Please check the indicators that apply your project. Consult the linked EC Guideline for explanations of indicators."
-msgstr "以下列出由歐洲聯盟執行委員會（EC）提供的 9 項準則，這些準則可能顯示您的專案構成高風險處理。  請勾選適用於您專案的指標。指標的詳細說明請參閱連結裡的 EC 指南。"
+msgstr "以下列出由歐洲聯盟執行委員會（EC）提供的 9 項準則，這些準則可能顯示您的專案構成高風險處理。  請勾選適用於您專案的指標。指標的詳細說明請參閱連結裡的歐洲聯盟執行委員會（EC）指南。"
 
 #: question:934f6592-a032-4ada-91b2-4448d740d157:text
 msgid "Briefly describe the contents of this data set"
@@ -1361,7 +1356,7 @@ msgstr "您所使用的該特定領域資料格式，是否同時提供其所需
 
 #: question:dbb99f35-bdd9-4637-890e-23ba5bc19d6a:title
 msgid "Does the project require ethical approval? "
-msgstr "該專案是否需要倫理審查？ "
+msgstr "該專案是否需要倫理審查核准？ "
 
 #: question:15e6148f-f4e0-4bbc-93c5-6fdf4fe47608:title
 msgid "Does the provenance need to be stored or converted to some standard format?"
@@ -1479,7 +1474,7 @@ msgstr "預估資料量（GB）"
 
 #: choice:1f758ac9-71c1-4dfb-85a6-09e2a206ab9a:label
 msgid "Ethical approval"
-msgstr "倫理核准"
+msgstr "倫理審查核准"
 
 #: choice:5c331845-fc91-40a0-b8b0-4d55a0664b7b:label
 msgid "Evaluation or scoring on aspects concerning the data subject's performance at work, economic situation, health, personal preferences or interests, reliability or behavior, location or movements."
@@ -1569,7 +1564,7 @@ msgstr "FAIRCookbook 對於 FAIR 原則與後設資料觀念的資訊 "
 
 #: url-reference:412739e0-2dd4-475d-b4aa-0c5cb2e3d3bc:label
 msgid "FAIRCookbook on Interlinking data using mappings"
-msgstr "FAIRCookbook  利用對應（mappings）來互連資料"
+msgstr "FAIRCookbook  利用對映（mappings）來互連資料"
 
 #: url-reference:dea35444-c8b4-4282-be9c-72e8092d01ed:label
 msgid "FAIRCookbook on Licensing"
@@ -2124,7 +2119,7 @@ msgstr "若有人想看看是否能再利用您的資料，他們必須能夠了
 
 #: question:532ddc6a-3415-4df8-8fa1-002ee486fd42:text
 msgid "If sources are using different semantic resources, you will need to plan time to find or make the right mappings."
-msgstr "若資料來源使用不同的語意（semantic）資源，您需要預留時間來尋找或建立適當的對應（mapping）。"
+msgstr "若資料來源使用不同的語意（semantic）資源，您需要預留時間來尋找或建立適當的對映（mapping）。"
 
 #: question:b3caa015-cdd5-4812-84b5-596855a30545:text
 msgid "If the 'master copy' of the data is available on line, it should probably be protected against being tampered with."
@@ -2148,11 +2143,11 @@ msgstr "如果資料量龐大，該專案是否能夠承受資料還原所需的
 
 #: question:c15710f6-1c7f-43a0-97e7-ab70f6b5a115:text
 msgid "If the data that you will re-use is coupled to people, the ethical approval that was originally obtained may not be covering your current research. In that case an extension of the original approval, or a new approval, may be necessary."
-msgstr ""
+msgstr "如果您將再利用的資料與個人有關聯，則原先取得的倫理審查核准可能不涵蓋您目前的研究。在這種情況下，可能需要申請原核准的延長，或重新取得新的核准。"
 
 #: question:28e7c4f7-7ade-42b2-a68e-63ab4f67b960:text
 msgid "If the data that you will re-use is coupled to people, the informed consent that was originally obtained from those people may not be covering your current research. In that case re-consent may be necessary."
-msgstr ""
+msgstr "如果您將再利用的資料與個人有關聯，則原先向這些人取得的同意可能不涵蓋您目前的研究。在這種情況下，可能需要重新取得同意。"
 
 #: answer:70442fd3-bea2-4e97-81f5-e9b33eec6cac:advice
 msgid ""
@@ -2167,31 +2162,31 @@ msgstr ""
 
 #: question:375792f1-d7c3-4c8d-bf9e-f15ffa38e2fb:text
 msgid "If the license is available as a text on the internet, please specify its URL here."
-msgstr ""
+msgstr "如果該授權條款的內文可於網路上取得，請在此填寫其網址。"
 
 #: question:dbb99f35-bdd9-4637-890e-23ba5bc19d6a:text
 msgid "If the project involves testing on animals or processing of personal data, an approval is likely needed. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation."
-msgstr ""
+msgstr "如果專案涉及動物試驗或個人資料處理，則很可能需要取得核准。研究人員有責任確保專案及其相關資料符合現行法規。"
 
 #: question:481d0157-6d89-4f68-9f3b-cf1b05f8f15d:text
 msgid "If the reference changes while you are working on your research project, you need to decide whether you will follow these changes. Most likely that will mean that you have to do some analyses again, so you will need to make sure enough resources are available to do so. You can decide to stay with the version that you started with; this can have the disadvantage that you will not benefit from added information or added consistency."
-msgstr ""
+msgstr "如果您在進行研究專案期間，引用參考發生變更，您需要決定是否要跟隨這些變更。這很可能表示您必須重新進行部分分析，因此您需要確保有足夠的資源可供執行。您也可以選擇維持使用專案開始時所採用的版本；但這樣的缺點是，您將無法受益於後續新增的資訊或提升的一致性。"
 
 #: question:bce52f7f-2256-4afc-9801-2e4da8111470:text
 msgid "If the technology is very much under development, you may want to come back later to understand exactly how the measurements have been made. Is the measurement equipment and protocol sufficiently standard that you will be able to explain how it is done or refer to a standard explanation?"
-msgstr ""
+msgstr "如果該技術仍處於高度開發中的階段，您之後可能會需要回頭確認量測究竟是如何進行的。量測設備與規程是否已充分標準化，以致您將來能夠說明其進行方式，或引用一套標準的說明？"
 
 #: question:f00a28fb-ac77-4110-b285-c73c8bc62630:text
 msgid "If there are different versions available, you have to decide with all project partners together which version you will be using. Probably you will go for the latest release as of the date of the start of your research project. However, if you have other data from older projects that need to be merged, you may need to consider using the same release you used for a previous project."
-msgstr ""
+msgstr "如果有不同版本可供選擇，您必須與所有專案合作夥伴共同決定要使用哪一個版本。一般而言，您大概會選擇在研究專案開始當日所能取得的最新版本。不過，若您需要合併早期專案的資料，則可能需要考慮沿用先前專案所使用的同一個版本。"
 
 #: question:c47d330a-2eb4-472e-be48-d06b3ec9b8e8:text
 msgid "If there are reasonable limitations to the values in a column, or even a limited set of allowed values, it is very good for data validation and reusability if these limitations are explicit, and e.g. software used for data entry and editing will not allow anything else."
-msgstr ""
+msgstr "如果某一欄位中的數值有合理的限制範圍，或甚至只允許有限的一組值，那麼若能將這些限制明確規定下來，將非常有助於資料驗證與再利用；例如，用於資料輸入與編輯的軟體就不應允許輸入其他不符合規定的值。"
 
 #: answer:de969453-db1e-48b3-9024-6ed9fc23152f:label
 msgid "If there is potentially a better result"
-msgstr ""
+msgstr "如果可能有更好的結果"
 
 #: question:8cedcf93-7676-4397-b3fc-a81167ff1853:text
 msgid "If you are combining data from different sources, harmonization may be required. You may need to re-analyse some original data."
@@ -2202,7 +2197,7 @@ msgid ""
 "If you are getting different types of data from different sources and want to use them together it is likely that you will need to match items and glue everything together. This can be done with traditional table database technology, but it is also possible to use Linked Data and RDF.\n"
 "\n"
 "You may also need to use \"mappings\" to match data together."
-msgstr ""
+msgstr "如果您從不同來源取得不同類型的資料，並希望將它們結合使用，那麼很可能需要先將各個項目進行對應，並把所有資料整合在一起。這可以透過傳統的表格式資料庫技術來完成，也可以使用 Linked Data 與 RDF。\n\n您也可能需要使用對映（mappings）來將資料彼此對應並整合起來。"
 
 #: answer:033e0538-5322-49c8-b537-9375eb86fd90:advice
 msgid "If you are working with multiple people on a complex project, it could be causing problems if changes are made to e.g. sample identifiers half-way the project. If there is no central information keeping, not everyone may be aware of important changes, and updates of partially run workflows could be forgotten."
@@ -2230,54 +2225,54 @@ msgstr "如果你使用的標準未收錄於 FAIRsharing，請註明其 PID 或 
 
 #: question:2e7af465-4852-4411-8d8e-7f0ff64d8b25:text
 msgid "If you use any filtering, how will you make sure that your results will be reproducible by yourself and others at a later time?"
-msgstr ""
+msgstr "如果您使用任何篩選方式，您將如何確保您自己以及其他人之後仍能重現您的結果？"
 
 #: question:2bac9020-99cf-4463-8d34-0b0eb2781cd1:text
 msgid "If you want to facilitate interoperability of your data with data you get from elsewhere, and facilitate re-use of your own data later, it is handy if you use standard ways to encode certain data. Such standard encodings are sometimes called terminologies or ontologies."
-msgstr ""
+msgstr "如果您希望提升您的資料與其他來源資料之間的互通性，並促進您自己的資料在日後被再利用，那麼採用標準方式來編碼某些資料會很有幫助。這類標準化的編碼方式有時稱為術語（terminologies）或本體（ontologies）。"
 
 #: question:5607d0bb-6b9e-4211-821c-785acc3aa25e:text
 msgid "If your work space is run and maintained by specialists, e.g. the ICT department of one of the institutes involved in the projects, this means that backup and restore as well as access management is properly addressed."
-msgstr ""
+msgstr "如果您的工作空間是由專業人員負責營運與維護，例如由參與專案之一的機構其資訊與通訊技術（ICT）部門管理，這表示備份，還原以及存取權限管理，都已妥善處理。"
 
 #: answer:13d7f11e-c329-45e8-8912-63755c8524d5:label
 msgid "Images, audio or video tracks, with some structured metadata attached"
-msgstr ""
+msgstr "附帶一些結構化後設資料的影像、音軌或影片檔"
 
 #: question:44a9d6c0-f96c-47d2-8c7a-902a9c222067:text
 msgid ""
 "Imagine yourself trying to interpret a similar data set from a colleague in a few years. \n"
 "Is there any way in which the data could be misinterpreted? Does everyone in the field do things in exactly the same way? And will that still be known in 10 years?\n"
 "How can such misinterpretation be avoided?"
-msgstr ""
+msgstr "請想像幾年後，您要嘗試解讀一位同事所產出的類似資料集\n這些資料是否有任何可能被誤解的地方？這個領域中的每個人是否都完全以相同的方式處理事情？而且這些做法在 10 年後仍然眾所周知嗎？\n如何避免這類誤解？"
 
 #: answer:00e67874-dbe8-41a4-b9fc-0a4429765fce:label
 msgid "In a dedicated repository"
-msgstr ""
+msgstr "在專用儲存庫中"
 
 #: answer:09f8f08d-04ae-463a-bbe0-f5ce05595777:label
 msgid "In a domain repository (like EBI's and CRG's EGA) that arranges restricted access"
-msgstr ""
+msgstr "在設有受限存取的領域型儲存庫中（例如 EBI 與 CRG 的 EGA）"
 
 #: answer:46a96e04-4d2a-41e8-90e7-b6afa3f318fd:label
 msgid "In a national or institutional repository that arranges restricted access"
-msgstr ""
+msgstr "在設有受限存取的國家或機構的儲存庫中"
 
 #: answer:5458a4cb-b4b1-400f-bc7e-df45bbeb42af:label
 msgid "In a specialised registry or catalogue"
-msgstr ""
+msgstr "在專門的登錄冊或目錄中"
 
 #: question:6bfde30e-90e7-4422-b984-d571196194e0:text
 msgid "In a table, the data items are arranged in columns. Is there a header for each of these describing what is in there?"
-msgstr ""
+msgstr "在表格中，資料項目是以欄排列的。這些欄位是否各自都有一個標題說明欄位內是什麼？"
 
 #: answer:0cdaa526-aa38-47d6-aa28-e8eaa8a3b127:label
 msgid "In another way"
-msgstr ""
+msgstr "以另一種方式"
 
 #: question:c9ed4379-19e2-4ce3-8962-5c2fca69b6cd:text
 msgid "In one case in the past, all documents that had been assembled by a project in a documentation system had to be deleted because not a single person could decide to move them to a new platform when the documentation system was going off-line."
-msgstr ""
+msgstr "過去曾發生過這樣一個案例，某個專案在一套文件系統中彙整的所有文件，最後都得刪除，因為當該文件系統即將下線時，竟沒有任何一個人有權決定將這些文件移轉到新的平台。"
 
 #: question:e1dba221-ad5a-474e-a2e3-9b4e472959fa:text
 msgid ""
