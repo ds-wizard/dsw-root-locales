@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-20 20:19+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-24 03:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -2368,15 +2368,15 @@ msgstr ""
 
 #: question:fdeb19c8-393c-4c4e-8c88-58a9c4d19e2b:title
 msgid "Is ease of development of the workflow engine itself an issue for you?"
-msgstr ""
+msgstr "工作流程引擎的開發容易度，對您來說是否是個問題？"
 
 #: question:f5b2b4d2-2031-47da-95ff-6d10792c841f:title
 msgid "Is ease of development of the workflows an issue for you?"
-msgstr ""
+msgstr "工作流程的開發容易度，對您來說是否是個問題？"
 
 #: question:add9596e-eaad-4720-9a11-f779fe1e6538:title
 msgid "Is ease of use an issue for you?"
-msgstr ""
+msgstr "易用性您來說是否是個問題？"
 
 #: question:0259866a-50b2-4f77-858f-982c9e16091d:title
 msgid "Is it clear what a row in the table represents?"
@@ -2392,7 +2392,7 @@ msgstr ""
 
 #: question:b4f9916a-c846-49ff-bfd2-f5d1346de553:title
 msgid "Is it clear who owns data and documents?"
-msgstr ""
+msgstr "是否清楚誰擁有資料與文件？"
 
 #: question:deb647ec-a001-4370-87b8-a5b1e2479f87:title
 msgid "Is it possible to store intermediate temporary data on a separate (scratch) area that is not backed up?"
@@ -2400,47 +2400,47 @@ msgstr ""
 
 #: question:28b99b8e-3a0c-45c5-8d2b-b778a7d43323:title
 msgid "Is special care needed to get the raw data ready for processing?"
-msgstr ""
+msgstr "為了讓原始資料能進行後續處理，是否需要特別處理？"
 
 #: question:3d942d91-39a2-4d2f-a27a-6fe57deb87ff:title
 msgid "Is sufficient network capacity available?"
-msgstr ""
+msgstr "是否有充足的網路容量（network capacity）？"
 
 #: question:31da89a7-4d04-4345-a414-ea1226377df7:title
 msgid "Is sufficient writing and reading capacity available for the physical media?"
-msgstr ""
+msgstr "實體儲存媒體（physical media）是否具備足夠的讀寫能力？"
 
 #: question:c659c36f-d142-4453-8d8b-db7c05f31371:title
 msgid "Is the archived data changing over time, needing re-archival?"
-msgstr ""
+msgstr "已歸檔的資料是否會隨時間發生變化，而需要重新歸檔？"
 
 #: question:3782d32b-91b5-432f-8f93-92bb22868a22:title
 msgid "Is the collection covered by ethical review?"
-msgstr ""
+msgstr "這項資料蒐集是否已納入倫理審查範圍？"
 
 #: question:ebcbf4c6-ce25-4a0b-9e82-039a88498203:title
 msgid "Is the data collection subject to ethical legislation?"
-msgstr ""
+msgstr "這項資料蒐集是否受倫理法規所規範？"
 
 #: question:2c5fd209-1ff5-4c34-b6e4-2bf1228e97de:title
 msgid "Is the data format established?"
-msgstr ""
+msgstr "資料格式是否已經確立？"
 
 #: question:3b088f38-81bd-46f9-8066-90513740b662:title
 msgid "Is the data set fixed, or will it be updated in the future?"
-msgstr ""
+msgstr "資料集是固定不變的，還是未來還會更新？"
 
 #: question:3b088f38-81bd-46f9-8066-90513740b662:text
 msgid "Is the data set you will reuse a fixed data set (with a persistent identifier), or is it a data set that is being worked on (by others) and may be updated during your project or after?"
-msgstr ""
+msgstr "您將再利用的資料集，是一個固定不變的資料集（具有永久識別碼），還是一個仍在由他人持續處理、並可能在您的專案期間或之後更新的資料集？"
 
 #: question:bce52f7f-2256-4afc-9801-2e4da8111470:title
 msgid "Is the equipment completely standard and well described?"
-msgstr ""
+msgstr "設備是否完全標準化，且已有完善的說明？"
 
 #: question:9e238002-da35-4f9b-a9b7-8fe3613a3c03:text
 msgid "Is the identifier of your physical sample present in the metadata for the digital data that associates to it? Will you be able to locate the physical sample if you have the digital data? And how about the reverse?\n"
-msgstr ""
+msgstr "與您的數位資料相對應的後設資料中，是否包含該實體樣本的識別碼？如果您手上有數位資料，是否能夠據此找到對應的實體樣本？反過來也是如此嗎？\n"
 
 #: question:10b6548c-21cd-44c8-a8de-47415e7b012e:title
 msgid "Is the reference database or dataset versioned?"
@@ -2491,69 +2491,69 @@ msgstr ""
 
 #: question:19640692-1c97-4574-8b3d-f4f6e1e6b564:title
 msgid "Is there software in the work space? Can it also be restored quickly?"
-msgstr ""
+msgstr "工作空間中是否有軟體？若有，是否也能夠快速還原？"
 
 #: question:851a72ac-9497-4d8a-ae1a-6509d021a20b:title
 msgid "Is there sufficient experience with the chosen computing platform in the project, and sufficient time to support the project partners?"
-msgstr ""
+msgstr "專案中是否有足夠的經驗來使用所選定的運算平台，並且也有足夠的時間支援各專案合作夥伴？"
 
 #: question:9e34d326-5f7b-494b-bc2e-2131eef6f844:title
 msgid "Is there sufficient network capacity to the other computing locations?"
-msgstr ""
+msgstr "是否有足夠的網路容量（network capacity）可連接至其他運算地點？"
 
 #: question:c83097bb-e057-4cde-848d-a2e57d6ee3c9:title
 msgid "Is this a recognised reusable open source license?"
-msgstr ""
+msgstr "這是否是一種公認、可再利用的開源授權？"
 
 #: question:ecff019a-d4e6-44c6-a8fe-c84eb15ed8b7:title
 msgid "Is this a standard data format widely used by researchers in this field?"
-msgstr ""
+msgstr "這是否是一種在本領域研究人員之間被廣泛使用的標準資料格式？"
 
 #: question:192fc5d3-dc2a-495c-8f24-f59a4c5d95c9:title
 msgid "Is this data format completely described?"
-msgstr ""
+msgstr "這種資料格式是否已有完整的描述？"
 
 #: question:04b92f1a-2045-475f-b988-5d2d397fcbe3:title
 msgid "Is this output available?"
-msgstr ""
+msgstr "這項輸出是否可以取得？"
 
 #: question:d4fe0b55-4aee-4d05-88d4-a3f4cad2cfa9:text
 msgid "It can help if everyone in the project uses the same naming scheme."
-msgstr ""
+msgstr "如果專案中的每個人都使用相同的命名規則，將會有所幫助。"
 
 #: answer:aff2edcd-4d18-4311-9a03-3b6b676c9277:label
 msgid "It is a fixed data set, this will not influence reproducibility of my results"
-msgstr ""
+msgstr "這是一個固定不變的資料集，因此不會影響我研究結果的可重現性"
 
 #: question:bc5e3dbf-2923-4025-a49a-f204b01d4018:text
 msgid "It is a good idea to pre-define how data will be organised in the project work space, and to set conventions for how any data files and folders will be named."
-msgstr ""
+msgstr "預先規劃資料在專案工作空間中的組織方式，並制定資料檔案與資料夾的命名慣例，是一個很好的做法。"
 
 #: question:530124a4-c7e9-4821-b26d-32a8ecd0d978:text
 msgid "It is advisable to make the result of your efforts available in a standard repository. If you answer 'yes' here, do not forget to mention the dataset under the chapter 'giving access to data'."
-msgstr ""
+msgstr "建議將您的成果存放於標準的儲存庫中並對外提供。若您在此回答是，請別忘了在提供資料存取章節中提及該資料集。"
 
 #: answer:3116fe33-8baf-4085-a8ba-688e8b062b78:label
 msgid "It is arranged in a different way"
-msgstr ""
+msgstr "它是以其他方式安排的"
 
 #: question:d0e029ee-aee0-420f-bc6f-ad471410ad42:text
 msgid ""
 "It is important for re-users to know what consent items you asked exactly from participants.\n"
 "\n"
 "Note that the answers from participants is personal data that requires protection!"
-msgstr ""
+msgstr "對再利用者而言，清楚知道您當初究竟向參與者徵求了哪些具體的同意事項，是非常重要的\n\n請注意，參與者所提供的回答屬於個人資料，必須受到保護。"
 
 #: question:9f081091-0810-4f12-be7f-0a22ee928a14:text
 msgid ""
 "It is important to think early about ownership and permissions. Who will have the authority to decide later about the use of the reference data? Will a single person or single organisation be responsible for this?\n"
 "\n"
 "Please note as well that many kinds of data can not be \"owned\"; you can only have copyrights on specific data collections, and those data base rights are not as universal as creative rights on other works."
-msgstr ""
+msgstr "及早思考所有權與權限問題是很重要的。日後誰將有權決定這些參考資料的使用方式？此事是否將由單一個人或單一機構負責？\n\n另請注意，許多類型的資料其實無法被「擁有」；您只能對特定的資料彙編享有著作權，而這類資料庫權利也不像其他作品上的創作權利那樣具有普遍適用性。"
 
 #: answer:cf378a0e-9efe-4221-a7a7-c0631fd71c3e:label
 msgid "It is intermediate data that is easily reproduced"
-msgstr ""
+msgstr "這是容易重新產生的中間資料（intermediate data）"
 
 #: question:4ba3304e-225c-4916-bbf7-754de381253c:text
 msgid "It is likely that you will be developing or modifying the workflow for data processing. There are a lot of aspects of this workflow that can play a role in your data management, such as the use of an existing work flow engine, the use of existing software vs development of new components, and whether every run needs human intervention or whether all data processing can be run in bulk once the work flow has been defined."
@@ -2620,45 +2620,45 @@ msgstr ""
 
 #: answer:aee14c30-46a4-4a8f-8918-acc98a31043e:label
 msgid "It will be available both from the provider and together with my data"
-msgstr ""
+msgstr "該參考資料既可由提供者處取得，也會隨我的資料一併提供"
 
 #: choice:4071f707-d2c0-4102-9916-2dcab77c27a8:label
 msgid "It will be based on available budget"
-msgstr ""
+msgstr "這將取決於可用預算"
 
 #: choice:f6d68b58-7996-453f-a033-71272aa01204:label
 msgid "It will be based on the actual use of the archived data"
-msgstr ""
+msgstr "這將取決於已歸檔資料的實際使用情況"
 
 #: choice:b84a59dd-73a3-48f9-9556-04ce3750df73:label
 msgid "It will be based on the predicted use of the archived data"
-msgstr ""
+msgstr "這將取決於對已歸檔資料預期使用情況"
 
 #: answer:3aabde57-dabd-456f-b351-1b81a74bb2d5:label
 msgid "It will be paid from the grant"
-msgstr ""
+msgstr "將由補助經費支付"
 
 #: answer:2171b472-3569-468a-911f-5df375cb244f:label
 msgid "It will be paid out of departmental budgets from one or more of the project participants"
-msgstr ""
+msgstr "將由一位或多位專案參與者所屬部門的預算支應"
 
 #: answer:88ae749b-9736-46b7-b6af-24e77f3ba481:label
 #: answer:a5515ccb-d529-41dd-b5f5-50b242cf67cf:label
 msgid "Its conditions of use do not allow us to use it"
-msgstr ""
+msgstr "它的使用條件不允許我們使用它"
 
 #: answer:e862d2cb-967d-4f3b-b845-403259c79751:label
 #: answer:f5a4d36c-4ce8-4ab6-8e5e-d7a2418c77c7:label
 msgid "Just us"
-msgstr ""
+msgstr "只有我們"
 
 #: cross-reference:0b35da3b-4d5f-446c-a50a-b876668c2360:description
 msgid "Keeping a log of every step in the analysis workflow that has been run"
-msgstr ""
+msgstr "記錄分析工作流程中每一個已執行的步驟"
 
 #: cross-reference:0c4383ec-211b-4937-9e63-31eb3a2bea8b:description
 msgid "Keeping provenance metadata"
-msgstr ""
+msgstr "保留資料來源的後設資料"
 
 #: answer:7785de46-4011-43b0-8b90-3a088c829d2c:label
 #, fuzzy
@@ -2668,19 +2668,19 @@ msgstr "GPL 3.0 以上版本"
 #: answer:18db88c7-97c9-416e-b1ae-763bf018345e:label
 #: answer:f10de3a8-2751-42c7-afaa-92eed4833f8e:label
 msgid "Legal requirement"
-msgstr ""
+msgstr "法定要求"
 
 #: question:a25b30f4-2d0f-4132-9b8e-0950f0b0ed66:text
 msgid "Legally, pseudonymous data (which means that someone has the key to reverse the process) is still considered privacy sensitive information. However, the EU is working on special cases where the data can still be opened as long as the key availability is sufficiently limited."
-msgstr ""
+msgstr "從法律上來說，假名化資料（也就是仍有人持有可將該處理過程還原之金鑰的資料）仍被視為隱私敏感資訊。不過，歐盟目前正研議某些特殊情況，只要該金鑰的可取得性受到充分限制，這類資料仍可能可以開放。"
 
 #: answer:9d5e3104-2b6b-4d95-848e-253ef069d8b3:label
 msgid "Legitimate interest"
-msgstr ""
+msgstr "合法利益"
 
 #: answer:526db9ec-a5a1-4431-9cc3-751fc6625217:label
 msgid "Less well described or not completely standard"
-msgstr ""
+msgstr "描述較不完整，或尚未完全標準化"
 
 #: answer:c42196af-a4eb-4026-8a4a-8e46012ac47f:label
 msgid "Library or archive staff will decide"
