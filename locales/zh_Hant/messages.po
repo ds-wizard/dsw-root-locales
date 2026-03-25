@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-24 03:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-25 04:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -2684,11 +2684,11 @@ msgstr "描述較不完整，或尚未完全標準化"
 
 #: answer:c42196af-a4eb-4026-8a4a-8e46012ac47f:label
 msgid "Library or archive staff will decide"
-msgstr ""
+msgstr "將由圖書館或檔案館人員決定"
 
 #: question:3d89e23d-ff5c-45da-97a8-169ad8c39be6:title
 msgid "Licenses under which this distribution of the data set will be available"
-msgstr ""
+msgstr "此資料集的本次發布版本所適用的授權條款"
 
 #: question:a00ae929-d5cf-43c0-8e9e-cdb12ebde717:title
 msgid "Link to a project proposal or another description of the methods used in the project"
@@ -2756,36 +2756,36 @@ msgstr ""
 
 #: question:3d0e0a6e-24c0-421c-8656-fc7c1e6f79be:text
 msgid "Make sure names are relatively short, and avoid spaces and special characters. You can use underscore characters, and consider using unique identifiers for the samples/experiments. You can consider to add versioning using the date in YYYYMMDD format."
-msgstr ""
+msgstr "請確保名稱相對簡短，並避免使用空格與特殊字元。您可以使用底線，並可考慮為樣本／實驗使用唯一識別碼。您也可以考慮以 YYYYMMDD 格式的日期加入版本標示。"
 
 #: answer:e856c626-bf9e-4550-997c-c6d0f66205e4:advice
 msgid "Make sure that you are not missing out on alternatives that would have better properties for the project"
-msgstr ""
+msgstr "請確認您沒有忽略那些對本專案而言可能具有更佳特性的替代方案"
 
 #: question:3b0f752e-e46b-4c8b-835f-14c426036ece:text
 msgid "Make sure the license is compatible with all components you use, and also make sure the license is made explicit in the repository."
-msgstr ""
+msgstr "請確保該授權與您所使用的所有元件皆相容，並且也要確保該授權已在儲存庫中明確標示。"
 
 #: answer:5951120f-af93-4f15-b15a-b2be9a89efff:advice
 msgid "Make sure this will be kept running by the department or institute. It is best to also have a backup plan, being able to move data and documents to a different place if a service is discontinued. For this, you may need to arrange permission from all project partners beforehand."
-msgstr ""
+msgstr "請確保此服務將持續由該部門或機構維運。最好也要預先準備備援方案，以便在某項服務停止提供時，仍能將資料與文件移轉至其他地方。為此，您可能需要事先取得所有專案合作夥伴的同意。"
 
 #: answer:d65ddfda-9b08-4ab6-90e5-07df748d7929:advice
 msgid "Make sure to budget sufficient compute resources for the users"
-msgstr ""
+msgstr "請確保為使用者編列足夠的運算資源"
 
 #: answer:7b450ee7-8783-4adc-9955-fd667fac5a56:advice
 msgid "Make sure to make the notes available in electronic form along with your data"
-msgstr ""
+msgstr "請確保將這些筆記以電子形式提供，並與您的資料一併附上"
 
 #: answer:7e0cd029-7588-4a94-9bfc-506dda26066d:advice
 #: answer:de969453-db1e-48b3-9024-6ed9fc23152f:advice
 msgid "Make sure to take that into account when calculating the need for compute resources"
-msgstr ""
+msgstr "請務必在估算所需運算資源時，將該因素納入考量"
 
 #: answer:b5e75eac-3db1-4736-8b22-7f8ed99218ab:advice
 msgid "Make sure your users are aware of the risks of cloud storage (not so much that the cloud is unreliable, but there is no protection against \"accidentally\" sharing a cloud folder with people outside the project)."
-msgstr ""
+msgstr "請務必讓您的使用者了解雲端儲存的風險（倒不見得是雲端本身不可靠，而是對於不小心將雲端資料夾分享給專案外的人，沒有防護機制）。"
 
 #: question:5db6bd58-5d1d-4d02-9497-972cbef64c16:text
 msgid "Making use of the same pseudonymization for different studies makes it possible to integrate information later. Obviously it also raises the risk of re-identification."
@@ -2821,23 +2821,23 @@ msgstr ""
 
 #: question:f0ca4f37-ef70-452e-b620-434d52fb5924:title
 msgid "Minimal Information Standard"
-msgstr ""
+msgstr "最低資訊標準"
 
 #: answer:7f3ccbe5-7650-4c85-b60f-141e269b5976:label
 msgid "Modifications will be made by Expiring the existing data and Adding updated data"
-msgstr ""
+msgstr "修改將以將現有資料設為失效，並新增更新資料的方式進行"
 
 #: answer:bb00eb32-e1c2-4288-a874-02264f757cb3:label
 msgid "More guidance is desired"
-msgstr ""
+msgstr "需要更多指引"
 
 #: answer:d988687b-41e9-4be4-8472-031938d13c37:label
 msgid "More people will capture data"
-msgstr ""
+msgstr "將會有更多人蒐集資料"
 
 #: question:d5784d24-0e66-4821-bd62-a711fb6d7a40:text
 msgid "Much of the raw data you have will need to be archived for your own later use somewhere. This is often done off-line on tape, not on the disks of the compute facility. Please note that this does not refer to the data publication."
-msgstr ""
+msgstr "您所擁有的大部分原始資料，之後都需要在某處加以歸檔，以供您日後自行使用。這通常是在離線環境下以磁帶進行，而不是存放在運算設施的磁碟上。請注意，這裡指的並不是資料公開發表。"
 
 #: question:fcc51962-08df-4f4c-85ad-6bb932107010:text
 msgid "Much of todays data is used in comparison with reference data. You may be comparing your own data with a \"standard set\" which is maintained as a collection by someone else. Or you could be determining differences to a standard (for example in bioinformatics, a genome is often compared with a reference genome to identify genomic variants). If you use reference data, there are several specific issues that you should consider. What are the reference data sets that you will use?"
@@ -2873,7 +2873,7 @@ msgstr "所有分析都將以新版本重新執行"
 
 #: answer:5374139c-f125-4d04-bce2-3ef6d4b34a2a:label
 msgid "New consent will be needed to cover our usage of the data"
-msgstr ""
+msgstr "需要重新取得同意，才能涵蓋我們對該資料的使用"
 
 #: answer:6dd1142d-f76f-4d0b-9c38-999f7d8a229b:label
 msgid "New ethical approval under research ethics laws will be needed to cover our usage of the data"
@@ -3136,32 +3136,32 @@ msgstr ""
 #: answer:fe80319d-f761-49ac-9faf-d4c5a9b349da:label
 #: answer:feb5bdea-9317-4fdd-8781-c26ce6e55fbf:label
 msgid "No"
-msgstr ""
+msgstr "不"
 
 #: answer:2271d2cd-de50-460b-85a1-dddf9d28776c:label
 msgid "No special planning is needed for the initial data"
-msgstr ""
+msgstr "對於初始資料，不需要特別規劃"
 
 #: answer:d45f521d-f541-4f40-a3d8-d4a9ecdc65e3:label
 msgid "No special provisions are needed"
-msgstr ""
+msgstr "無須特別提供"
 
 #: answer:489c3813-c010-4197-b54a-41e742aa8f35:label
 msgid "No transport is needed, analysis is done where it is obtained"
-msgstr ""
+msgstr "不需要傳送資料，分析就在取得資料的地方進行"
 
 #: answer:5797b252-0550-46e1-bf13-c65edd2df45e:label
 msgid "No waiting is possible, a hot copy must be ready to take over"
-msgstr ""
+msgstr "不能有等待時間，必須備有可立即接管的硬拷貝"
 
 #: answer:8fee76df-9eef-4912-9b11-31ebad574ced:label
 #: answer:bdf255fd-6dd6-4f1e-a9e2-d6aec9d01678:label
 msgid "No, all data processing will be done in the same environment (virtual research environment)"
-msgstr ""
+msgstr "不會，所有資料處理都將在同一個環境中進行（虛擬研究環境）"
 
 #: answer:82f84d7e-338c-46bc-9785-42df560c01ed:label
 msgid "No, all data will be opened as soon as legal restrictions are falling away"
-msgstr ""
+msgstr "不會，一旦法律限制解除，所有資料都將予以公開"
 
 #: answer:d7a60a9d-75f6-4d0a-8a3d-0661d30f9a93:label
 msgid "No, all data will be opened immediately"
@@ -3193,11 +3193,11 @@ msgstr ""
 
 #: answer:904859c4-b9bf-44b6-9a64-933e489089e6:label
 msgid "No, it is also stored elsewhere can be recovered easily"
-msgstr ""
+msgstr "不會，它也儲存在其他地方，因此可以輕易復原"
 
 #: answer:c30318bd-f2ca-4328-ae27-a14870916543:label
 msgid "No, not needed"
-msgstr ""
+msgstr "不，不需要"
 
 #: answer:1d6ba101-fd62-43c8-ab53-76bc31847f58:label
 msgid "No, participants in the project each have different collections of data and tools"
@@ -3209,7 +3209,7 @@ msgstr ""
 
 #: answer:ad3ab129-dab0-421c-9840-e35b53931768:label
 msgid "No, the data does not need protection"
-msgstr ""
+msgstr "不，該資料無須保護"
 
 #: answer:aaae5c5b-0aa9-4619-bb68-de0cd27f14da:label
 msgid "No, the data will be stored in a repository that is the prime source of data for re-use in the field"
