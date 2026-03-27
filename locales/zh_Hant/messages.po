@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-25 04:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-28 03:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -3217,7 +3217,7 @@ msgstr ""
 
 #: answer:df53b7a2-1b1e-4f5d-99df-b9a7a1da91e9:label
 msgid "No, the file names in the project are an essential part of the metadata"
-msgstr ""
+msgstr "不，專案中的檔案名稱是後設資料中不可或缺的一部分"
 
 #: answer:57a9a008-d0b0-4716-bf26-13e6eb80dc36:label
 msgid "No, there is only one controller"
@@ -3225,35 +3225,35 @@ msgstr ""
 
 #: answer:b541e78e-3300-4e7d-ac36-93d7b5ebf031:label
 msgid "No, this is all fine"
-msgstr ""
+msgstr "不，這一切都沒有問題"
 
 #: answer:057e84be-3329-4fa2-9cc8-d37f53a44cd0:label
 msgid "No, this is not needed"
-msgstr ""
+msgstr "不，這不需要"
 
 #: answer:2c2cd046-89e0-4f55-bafa-92eb5f77c3a8:label
 msgid "No, this should not be allowed"
-msgstr ""
+msgstr "不，這不應該被允許"
 
 #: answer:c86c80b4-72b3-4194-956a-27e40d3c23eb:label
 msgid "No, this submission is routine both for us and the repository"
-msgstr ""
+msgstr "不，這項提交對我們以及該儲存庫來說都是例行作業"
 
 #: answer:3da39a55-18e5-4b0a-8da1-5b7fc5260ad1:label
 msgid "No, unrestricted data will be open immediately, restricted data will be indefinitely limited"
-msgstr ""
+msgstr "不，不受限制的資料將會立即公開；受限制資料則將無限期受到限制"
 
 #: answer:945aae79-4eed-4115-ac19-d295158a19f6:label
 msgid "No, we exclusively refer to our own ontologies for some classes of objects"
-msgstr ""
+msgstr "不，對於某些類別的物件，我們只會參考我們自己的本體"
 
 #: answer:30a6e365-dbf6-4567-96c3-b7301d0fd0ca:label
 msgid "No, we made our own ontologies for our work; concepts are not mapped to common ontologies"
-msgstr ""
+msgstr "不，我們為自身的工作建立了自己的本體；相關概念並未對應到通用本體"
 
 #: answer:af507b8a-824b-4198-9adf-c54f984f4fb5:label
 msgid "No, we use tools maintained by others"
-msgstr ""
+msgstr "不，我們使用的是由他人維護的工具"
 
 #: question:682da8d1-c109-4f62-8cf1-dadd8908af77:title
 msgid "Non-reference data set"
@@ -3294,15 +3294,15 @@ msgstr ""
 
 #: answer:c732f0b9-2f66-47f4-902f-724a44cdfd4b:advice
 msgid "Note that scientific research is not considered public interest in many jurisdictions."
-msgstr ""
+msgstr "請注意，在許多司法管轄區中，科學研究並不被視為公共利益。"
 
 #: answer:a8adc972-a2b6-4f5b-837b-20f83a685ed6:advice
 msgid "Note that there are questions later specific to archival."
-msgstr ""
+msgstr "請注意，後面還有一些專門針對歸檔的問題。"
 
 #: answer:d5575f62-2083-403f-b41c-5560a5387da8:advice
 msgid "Note that using the data that is stored in such a system will need to be exported in some standard way before it becomes available for other data analysis tools."
-msgstr ""
+msgstr "請注意，儲存在此類系統中的資料，在可供其他資料分析工具使用之前，必須先以某種標準方式匯出。"
 
 #: question:c6e30ba1-10d6-4f3c-b81a-5f2b362f74cd:text
 msgid ""
@@ -3322,59 +3322,59 @@ msgstr ""
 
 #: answer:2bfd3b78-6013-42b3-ba13-51041aac5618:label
 msgid "Nothing like this has ever been done before"
-msgstr ""
+msgstr "以前從來沒有做過這樣的事"
 
 #: question:448403e9-578b-4155-9017-d4aa9119ea6a:title
 msgid "Number of files/subjects"
-msgstr ""
+msgstr "檔案／受試者數量"
 
 #: question:6295a55d-48d7-4f3c-961a-45b38eeea41f:title
 msgid "ORCID Identifier"
-msgstr ""
+msgstr "ORCID 識別碼"
 
 #: question:7f55274c-a5f5-4f6a-94d8-531ea0077462:text
 msgid "Often a persistent identifier will be put as the last part of a URL to *resolve* it to either a page with metadata or directly to the data itself."
-msgstr ""
+msgstr "持久識別碼通常會被放在 URL 的最後一部分，以便將其解析到一個包含後設資料的頁面，或直接解析到資料本身。"
 
 #: question:ed872b74-6bf7-4cba-8f36-4da4509e4a4f:text
 msgid "Often it is easiest to make sure you collect the metadata as early as possible."
-msgstr ""
+msgstr "確保盡早蒐集後設資料通常是最容易的做法。"
 
 #: answer:8c9c3d59-cd51-4303-9202-519e30998e1a:label
 msgid "On physical media"
-msgstr ""
+msgstr "在實體儲存媒體（physical media）上"
 
 #: answer:9660950a-41d7-4c3b-a6fd-97e58c8fa412:label
 msgid "One of the members of the project team"
-msgstr ""
+msgstr "專案團隊的其中一名成員"
 
 #: answer:1c805499-e407-489c-81ee-87ac76b6b2b6:label
 msgid "One of the principle investigators involved in the project will decide"
-msgstr ""
+msgstr "參與本專案的其中一位計畫主持人將作出決定"
 
 #: answer:ed47c9b7-9c2b-48ab-bdf4-efd8913f673e:label
 msgid "One of the project members will authorize"
-msgstr ""
+msgstr "其中一位專案成員將負責授權"
 
 #: answer:302e4b9b-9a9c-4fb0-9745-5f8ff4cca746:label
 msgid "Only all project members have read/write access to the data"
-msgstr ""
+msgstr "只有所有專案成員才對該資料擁有讀寫權限"
 
 #: answer:b21c9f70-78e7-4975-b776-59e372285662:label
 msgid "Only project members will have read access; only selected project members will be able to write data"
-msgstr ""
+msgstr "只有專案成員具有讀取權限；只有經指定的專案成員可以寫入資料"
 
 #: answer:dc921fac-cf77-4d3d-bb9c-907d37f838ef:advice
 msgid "Oops! That would mean that it is possible that the data will no longer be available for re-use after a while? Consider alternative options for publishing the data set."
-msgstr ""
+msgstr "糟了！那將表示這些資料過一段時間後，可能就無法再被取得以供再利用。請考慮其他可發布該資料集的方式。"
 
 #: question:36938ca8-e22d-47a6-8859-a52f536101c5:text
 msgid "Open Source licenses give a series of permissions (and guarantees) to users of your software. There are a number of different open source licenses to choose from."
-msgstr ""
+msgstr "開源授權會賦予你的軟體使用者一系列的使用權限（以及相應的保障）。可供選擇的開源授權種類有很多。"
 
 #: answer:1fd3e838-f92a-4086-8308-de17f6fa9d73:label
 msgid "Open: The data will be shared with anyone, as long as they obey conditions of the license"
-msgstr ""
+msgstr "開放：資料將與任何人分享，只要其遵守授權條款的條件即可"
 
 #: question:b9619bee-6d69-4111-b1e0-6c3ea50e01f8:title
 #, fuzzy
@@ -3390,44 +3390,44 @@ msgstr "組織"
 #: choice:64f2af8d-6703-4b76-b4d1-4786d0bdc995:label
 #: choice:e957ecd5-baa2-4a3c-aaf1-735d416e5e11:label
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 #: chapter:70cc627a-779b-432e-b928-fd263f1ab24f:title
 msgid "Other outputs"
-msgstr ""
+msgstr "其他成果"
 
 #: answer:1566d3af-666b-456a-9ace-daee8d690d6e:label
 #: answer:515cac06-d101-4af1-95ef-33fd6a2da8b0:label
 msgid "Other researchers working in the same field of research"
-msgstr ""
+msgstr "在相同研究領域工作的其他研究人員"
 
 #: answer:68dc8368-d1fd-4bd5-8677-abc9ac7aa4b4:label
 msgid "Our computing workflow system keeps provenance information "
-msgstr ""
+msgstr "我們的運算工作流程系統會保存出處資訊（provenance information） "
 
 #: answer:f310952b-e946-4315-bb32-bf127d1bf96a:label
 msgid "Our data is legally not copyrightable, there is no legal rightsholder"
-msgstr ""
+msgstr "依法律規定，我們的資料法律上不受著作權保護，不存在合法的權利人"
 
 #: answer:df0b2ee3-8e4d-42a1-9bb2-c69228074406:label
 msgid "Our institutional repository"
-msgstr ""
+msgstr "我們機構的儲存庫"
 
 #: answer:fb96d008-f31a-4a1a-b203-b3f9bb32fcc8:label
 msgid "Our national repository"
-msgstr ""
+msgstr "我們國家的儲存庫"
 
 #: answer:0fb8abbe-26fa-4756-a1e9-43476e5e1fd1:label
 msgid "Our people will be able to call for help"
-msgstr ""
+msgstr "我們的人員將能夠尋求協助"
 
 #: answer:379327e3-485d-4121-a9ec-d790ae6f5bcf:label
 msgid "Output data"
-msgstr ""
+msgstr "輸出資料"
 
 #: question:f29e2dbd-8edc-4ac3-92ba-96a6d507789b:title
 msgid "PID for the software, or URL where the software can be found"
-msgstr ""
+msgstr "該軟體的 PID，或可找到該軟體的網址"
 
 #: answer:395c9651-9d92-48f7-b1fc-cdccbd681f57:label
 msgid "Partly"
