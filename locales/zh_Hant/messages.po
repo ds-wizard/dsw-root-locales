@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-28 03:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-31 03:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -3539,83 +3539,83 @@ msgstr ""
 
 #: question:fa591173-c9e5-426f-8bee-6e6082108169:title
 msgid "Please specify the reason why you will not be using this reference data"
-msgstr ""
+msgstr "請具體說明您將不使用此參考資料的原因"
 
 #: question:dbf05c2a-0108-4cae-947d-c0383140f006:title
 msgid "Please specify the software repository you use for development"
-msgstr ""
+msgstr "請具體說明您用於開發的軟體儲存庫"
 
 #: question:0ac70ded-3864-4c7e-90a1-ea13a5fc9975:title
 msgid "Please specify what the restrictions are"
-msgstr ""
+msgstr "請具體說明有哪些限制"
 
 #: question:30426255-b153-4f3e-bf20-f13573160a64:text
 msgid "Please summarise the restrictions. Note that it is a good idea to publish the final conditions for use of the data openly, so that interested researchers can know beforehand whether they will be able to get access to the data before actually placing a request."
-msgstr ""
+msgstr "請總結這些限制。請注意，公開發布資料最終的使用條件是個好主意，如此一來，有興趣的研究人員在正式提出申請之前，便能事先了解自己是否能能獲准存取該資料。"
 
 #: choice:5e214079-f16b-4832-ac04-f4c038c48157:label
 msgid "Political opinions, religious or ideological convictions or trade union membership"
-msgstr ""
+msgstr "政治觀點、宗教或意識形態上的信念，或工會成員身分"
 
 #: question:b94df3e7-a32e-4e3b-81fe-93a039409b10:text
 msgid "Preferably answer with a URL, alternatively explain."
-msgstr ""
+msgstr "最好以網址作答；若無法提供，請另作說明。"
 
 #: question:6b5d7d2e-c117-4e61-a597-5207bc7fc057:text
 msgid "Preferably give a web pointer to the license."
-msgstr ""
+msgstr "最好提供指向該授權的網頁連結。"
 
 #: question:dbf05c2a-0108-4cae-947d-c0383140f006:text
 msgid "Preferably use a direct URL other users could use"
-msgstr ""
+msgstr "最好使用其他使用者也可以直接使用的網址"
 
 #: chapter:d5b27482-b598-4b8c-b534-417d4ad27394:title
 msgid "Preserving data"
-msgstr ""
+msgstr "保存資料"
 
 #: answer:b6da4858-f72c-498b-a827-d4632a458098:label
 msgid "Problems during the evenings and weekends can not wait for work hours to be repaired"
-msgstr ""
+msgstr "若問題發生在晚上或週末，不能等到上班時間再處理"
 
 #: answer:626a610e-34ac-40ca-8bf6-7926f580ae80:label
 msgid "Processed data leading to published results"
-msgstr ""
+msgstr "用於產出已發表成果的處理後資料"
 
 #: answer:4fa0c31a-bd3b-4ae0-8f56-639ae2212124:label
 msgid "Processed data leading to unpublishable results"
-msgstr ""
+msgstr "產生無法發表成果的處理後資料"
 
 #: chapter:10a10ffd-bfe1-4c6b-bbb6-3dfb1e63a5d5:title
 msgid "Processing data"
-msgstr ""
+msgstr "資料處理"
 
 #: question:de72effc-807a-4081-b842-1e77ecc9c43f:text
 msgid "Processing of certain categories of personal data is not allowed unless there are exemptions in law to allow this. Among these categories (“sensitive data”) are *“‘[...] data revealing racial or ethnic origin, [...] genetic data, [...] data concerning health’”*. Most types of personal data collected in biomedical research will fall under these categories. [Article 9](https://gdpr-info.eu/art-9-gdpr/) (2) lists a number of exemptions that apply, of which *consent* and *scientific research* are most likely to be relevant for research. Please consult with your Data Protection Officer of your organisation."
-msgstr ""
+msgstr "除非法律另有例外允許，否則不得處理某些類別的個人資料。在這些類別（即「敏感資料」）之中，包括：『揭露種族或族裔來源的資料、基因資料、健康相關資料』。在生物醫學研究中蒐集的大多數個人資料，通常都屬於這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/)（第 2 項）列出若干可適用的例外情形，其中與研究最可能相關的是同意與科學研究**。請向貴機構的資料保護官洽詢。"
 
 #: choice:9e3d02c8-3a93-4e95-b724-36ed315efb69:label
 msgid "Processing that prevents data subjects from exercising a right or using a service or a contract."
-msgstr ""
+msgstr "該專案涉及可能妨礙資料當事人行使權利，或使用某項服務或契約的資料處理行為。"
 
 #: question:8c27e2cc-d2a7-45da-9829-aa22566bb34b:title
 msgid "Processor"
-msgstr ""
+msgstr "資料處理者"
 
 #: choice:2085d67e-e144-4ec2-a788-1b26ac1cd7ab:label
 msgid "Producer"
-msgstr ""
+msgstr "製作人"
 
 #: choice:2d433965-55e3-4540-aae4-f85639d4e4fc:label
 msgid "Project Leader"
-msgstr ""
+msgstr "專案主持人"
 
 #: choice:cd2d1e0d-c5ad-4d0e-afa2-5ed143323cb7:label
 msgid "Project Manager"
-msgstr ""
+msgstr "專案管理者"
 
 #: choice:3d166766-6511-407b-a3e9-9565628fe05a:label
 msgid "Project Member"
-msgstr ""
+msgstr "專案成員"
 
 #: question:22583d74-3c98-4e0a-b363-26d767c88212:title
 msgid "Project abstract"
@@ -3708,21 +3708,21 @@ msgstr ""
 #: url-reference:92c92ca3-f15d-4460-8c63-461f1e801196:label
 #: url-reference:e20ad7f1-602e-4e9c-be05-e69914501c91:label
 msgid "RDMkit on Data Preservation"
-msgstr ""
+msgstr "RDMkit 中的資料保存"
 
 #: url-reference:7aa33891-6563-4cd3-bb08-2f0d3b6f818a:label
 #: url-reference:dddd6258-9d36-4d5c-9fe3-15369f825b04:label
 msgid "RDMkit on Data Processing"
-msgstr ""
+msgstr "RDMkit 中的資料處理"
 
 #: url-reference:148f612f-722b-420f-b1ca-e9ac6a6be8cb:label
 #: url-reference:5414f646-58a7-403d-b269-09526c8a19fa:label
 msgid "RDMkit on Data Quality"
-msgstr ""
+msgstr "RDMkit 中的資料品質"
 
 #: url-reference:0b460273-3e3b-4289-8194-19c7cf1b05b1:label
 msgid "RDMkit on Data Security"
-msgstr ""
+msgstr "RDMkit 中的資料安全"
 
 #: url-reference:00af9ed1-2627-45d7-89e8-63876fd92a2f:label
 #: url-reference:3fe12009-cd7c-4e4e-a7f8-2617c25c33c7:label
@@ -3731,7 +3731,7 @@ msgstr ""
 #: url-reference:86f7c739-cfdf-4b3a-a032-3bda9bbf6404:label
 #: url-reference:f22531ad-862e-48fa-a521-18e6998b1f7d:label
 msgid "RDMkit on Data Sensitivity"
-msgstr ""
+msgstr "RDMkit 中的資料敏感性"
 
 #: url-reference:bc4bc2de-eb60-4f7d-bec9-6c8207a43a3d:label
 msgid "RDMkit on Data Sharing"
@@ -3757,47 +3757,47 @@ msgstr ""
 #: url-reference:42a7b822-5644-48f5-aa9a-9a9e3119a028:label
 #: url-reference:ba4eb06a-2d61-4755-bb51-8232b349d0a1:label
 msgid "RDMkit on GDPR Compliance"
-msgstr ""
+msgstr "RDMkit 中的 GDPR 法遵"
 
 #: url-reference:2a6ffbc9-6a07-4d5a-8df6-e7c44ce2356c:label
 #: url-reference:612660d5-dedc-4c4d-9176-06a887b47f14:label
 #: url-reference:9090a519-777e-40e8-98ce-75760ff90244:label
 msgid "RDMkit on Human Data"
-msgstr ""
+msgstr "RDMkit中的人類資料"
 
 #: url-reference:5c6e0a81-4a69-4542-a667-f3e67d56392e:label
 #: url-reference:bdf3a93e-4413-42ad-8a33-c977e6a0c4f5:label
 msgid "RDMkit on Identifiers"
-msgstr ""
+msgstr "RDMkit 中的識別碼"
 
 #: url-reference:6df6b71d-d85d-4ca6-bb8f-7136b7bd73fa:label
 #: url-reference:ae5e819c-7d9f-4f1d-9433-81c20171f86e:label
 msgid "RDMkit on Licensing"
-msgstr ""
+msgstr "RDMkit 中的授權"
 
 #: url-reference:ae540a5d-7f3c-4bf0-99a4-539d70a1dc6e:label
 msgid "RDMkit on Machine Actionability"
-msgstr ""
+msgstr "RDMkit 中的機器可操作性（Machine Actionability）"
 
 #: url-reference:257d126a-611d-475d-a86d-752131f7c7e8:label
 msgid "RDMkit on Package management systems"
-msgstr ""
+msgstr "RDMkit 中的套件管理系統"
 
 #: url-reference:7e8d2692-7da6-4f29-a97c-1cf09e2cbb06:label
 msgid "RDMkit on Reusing Data"
-msgstr ""
+msgstr "RDMkit 中的資料再利用"
 
 #: url-reference:ff3b29fc-fa24-4799-aa2c-29fabc5fc584:label
 msgid "RDMkit on Sharing Human Data"
-msgstr ""
+msgstr "RDMkit 中的人體資料共享"
 
 #: url-reference:f733a466-0a9f-44ce-a3e9-69573246be41:label
 msgid "RDMkit on Storage"
-msgstr ""
+msgstr "RDMkit 中的儲存"
 
 #: url-reference:e5762c40-7b10-4915-89f8-c71180049f13:label
 msgid "RDMkit on Toxicology"
-msgstr ""
+msgstr "RDMkit 中的毒理學"
 
 #: url-reference:4cb74793-c4c8-4013-aeb4-2a60a36396a5:label
 #: url-reference:8652cd42-4f7c-4b50-9828-5c7b71034ba6:label
@@ -3842,28 +3842,28 @@ msgstr ""
 
 #: answer:0ddd0082-eae1-4c48-ba4a-30912f0643e7:label
 msgid "Raw data will only be loaded in the work space on demand from the primary archives"
-msgstr ""
+msgstr "原始資料只會在有需要時，才從主要檔案庫載入到工作空間中"
 
 #: answer:044ef740-c26d-434c-88a9-9a25ef4c719a:label
 msgid "Raw/Input Data"
-msgstr ""
+msgstr "原始／輸入資料"
 
 #: chapter:82fd0cce-2b41-423f-92ad-636d0872045c:title
 msgid "Re-using data"
-msgstr ""
+msgstr "資料再利用"
 
 #: question:3b769dce-a88f-4339-a0f3-641d0ba22932:title
 msgid "Reference data set"
-msgstr ""
+msgstr "參考資料集"
 
 #: url-reference:e83b0c27-e218-447b-bc0d-7041521e01a1:label
 msgid "Registry of Research data Repositories"
-msgstr ""
+msgstr "研究資料儲存庫的登錄冊"
 
 #: answer:1f2e2b12-97d1-4f72-bad1-8fe6f6075d78:label
 #: answer:8c0c9f28-4672-46ba-a939-48c2c892d790:label
 msgid "Rejected"
-msgstr ""
+msgstr "遭駁回"
 
 #: question:1270ea5a-92a2-46ce-b658-9bf2862b9b57:text
 msgid "Repositories often allow search engines and catalogues to index the metadata in an automated way. Will this be the case for your data?"
