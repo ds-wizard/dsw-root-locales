@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-31 03:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-03-31 13:58+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -118,7 +118,7 @@ msgstr "請列出此資料集將會提供取用的每個位置。並為每個位
 
 #: question:c3dabaaf-c946-4a0d-889c-ede966f97667:text
 msgid "Add each of the research project(s) that you are (or will be) working on and for which the data and work are described in this DMP. Give each project a small identifying name for yourself."
-msgstr "請列出您正在進行或未來將參與、且其資料與工作內容已在本資料管理計畫（DMP）中的每個研究計畫。並為每個計畫設定一個您能辨識的簡短名稱。"
+msgstr "請列出您正在進行或未來將參與、且其資料與工作內容已在本資料管理方案（DMP）中的每個研究專案。並為每個專案設定一個您能辨識的簡短名稱。"
 
 #: question:bd886f8e-7825-4f98-afb2-6079ae15c8ed:text
 msgid "Add reference to established agreement."
@@ -684,7 +684,7 @@ msgstr "若資料本身可快速重製，可考慮僅儲存工作流程的參數
 
 #: question:f78fb7e9-2f26-493c-a19b-04e153c17274:text
 msgid "Consider that users of a data set will need to be able to get access several years after the project is finished. The best way to arrange this is to put the responsibility for checking the rights to access the data with a fixed body in an organisation, a data access committee, rather than one of the investigators of the project."
-msgstr "請考量資料集的使用者可能需要在專案結束數年後仍能存取資料。為了妥善安排這一點，最好的做法是將資料取用權限的審核責任，交由機構內的固定單位（例如資料取用委員會）負責，而非由專案中的研究人員負責。"
+msgstr "請考量資料集的使用者可能需要在專案結束數年後仍能存取資料。為了妥善安排這一點，最好的做法是將資料取用權限的審核責任，交由組織內的固定單位（例如資料取用委員會）負責，而非由專案中的研究人員負責。"
 
 #: answer:15e7beff-1d71-4515-9517-26e222e672e5:advice
 msgid "Consider what will happen if the contact person moves jobs."
@@ -2127,7 +2127,7 @@ msgstr "如果資料的「主版本」可在線上存取，通常應加以保護
 
 #: question:3782d32b-91b5-432f-8f93-92bb22868a22:text
 msgid "If the answer is positive, you should have specified the relevant ethical review details under the \"Research Project\" question in the Administrative information chapter."
-msgstr "如果答案為是，你應已在行政資訊章節中「研究計畫」問題下填寫相關的倫理審查細節。"
+msgstr "如果答案為是，你應已在行政資訊章節中「研究專案」問題下填寫相關的倫理審查細節。"
 
 #: question:15eb6fe6-7b21-493b-a5a0-09ac63212ab6:text
 msgid "If the coupling parameters are lenient, you will find more connections than when they are strict. But you may find that they are less accurate. This is a balance."
@@ -2549,7 +2549,7 @@ msgid ""
 "It is important to think early about ownership and permissions. Who will have the authority to decide later about the use of the reference data? Will a single person or single organisation be responsible for this?\n"
 "\n"
 "Please note as well that many kinds of data can not be \"owned\"; you can only have copyrights on specific data collections, and those data base rights are not as universal as creative rights on other works."
-msgstr "及早思考所有權與權限問題是很重要的。日後誰將有權決定這些參考資料的使用方式？此事是否將由單一個人或單一機構負責？\n\n另請注意，許多類型的資料其實無法被「擁有」；您只能對特定的資料彙編享有著作權，而這類資料庫權利也不像其他作品上的創作權利那樣具有普遍適用性。"
+msgstr "及早思考所有權與權限問題是很重要的。日後誰將有權決定這些參考資料的使用方式？此事是否將由單一個人或單一組織負責？\n\n另請注意，許多類型的資料其實無法被「擁有」；您只能對特定的資料彙編享有著作權，而這類資料庫權利也不像其他作品上的創作權利那樣具有普遍適用性。"
 
 #: answer:cf378a0e-9efe-4221-a7a7-c0631fd71c3e:label
 msgid "It is intermediate data that is easily reproduced"
@@ -3591,7 +3591,7 @@ msgstr "資料處理"
 
 #: question:de72effc-807a-4081-b842-1e77ecc9c43f:text
 msgid "Processing of certain categories of personal data is not allowed unless there are exemptions in law to allow this. Among these categories (“sensitive data”) are *“‘[...] data revealing racial or ethnic origin, [...] genetic data, [...] data concerning health’”*. Most types of personal data collected in biomedical research will fall under these categories. [Article 9](https://gdpr-info.eu/art-9-gdpr/) (2) lists a number of exemptions that apply, of which *consent* and *scientific research* are most likely to be relevant for research. Please consult with your Data Protection Officer of your organisation."
-msgstr "除非法律另有例外允許，否則不得處理某些類別的個人資料。在這些類別（即「敏感資料」）之中，包括：『揭露種族或族裔來源的資料、基因資料、健康相關資料』。在生物醫學研究中蒐集的大多數個人資料，通常都屬於這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/)（第 2 項）列出若干可適用的例外情形，其中與研究最可能相關的是同意與科學研究**。請向貴機構的資料保護官洽詢。"
+msgstr "除非法律另有例外允許，否則不得處理某些類別的個人資料。在這些類別（即「敏感資料」）之中，包括：『揭露種族或族裔來源的資料、基因資料、健康相關資料』。在生物醫學研究中蒐集的大多數個人資料，通常都屬於這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/)（第 2 項）列出若干可適用的例外情形，其中與研究最可能相關的是同意與科學研究**。請向貴組織的資料保護官洽詢。"
 
 #: choice:9e3d02c8-3a93-4e95-b724-36ed315efb69:label
 msgid "Processing that prevents data subjects from exercising a right or using a service or a contract."
@@ -3867,11 +3867,11 @@ msgstr "遭駁回"
 
 #: question:1270ea5a-92a2-46ce-b658-9bf2862b9b57:text
 msgid "Repositories often allow search engines and catalogues to index the metadata in an automated way. Will this be the case for your data?"
-msgstr ""
+msgstr "儲存庫通常會允許搜尋引擎與目錄系統以自動化方式為其中的後設資料建立索引。你的資料也會是這種情況嗎？"
 
 #: question:c3dabaaf-c946-4a0d-889c-ede966f97667:title
 msgid "Research Project(s)"
-msgstr ""
+msgstr "研究專案"
 
 #: question:726e4a24-6d81-440b-8a70-5d36fa65c3a9:text
 msgid "Research funding organisations more and more demand that you search for existing data sets that could have information that you need, before assuming you need to collect all data yourself. You are asked to list what you have been able to locate, and whether you have found it suitable to use in your research. Do you need pointers to find such existing data sets?"
@@ -3921,116 +3921,116 @@ msgstr ""
 
 #: question:faf72b3d-ac29-41d1-97f2-5223b199a086:text
 msgid "Running a small subset of the data repeatedly can be useful to catch unexpected problems that would otherwise be very hard to detect."
-msgstr ""
+msgstr "重複使用一小部分資料進行測試，有助於找出那些原本很難偵測到的意外問題。"
 
 #: answer:a0ced35d-28f4-4208-b4b1-bb524401939d:label
 msgid "Samples will only get an internal code"
-msgstr ""
+msgstr "樣本僅會以內碼加以識別"
 
 #: answer:b0544e61-df56-4d21-bd68-f81f83fdc7c4:label
 msgid "Samples will receive a universally unique persistent identifier (PID)"
-msgstr ""
+msgstr "樣本將會取得一組全球唯一的持久識別碼（PID）"
 
 #: answer:7c215b23-edb9-4fc7-95d1-010ee53f3853:label
 msgid "Scientific research"
-msgstr ""
+msgstr "科學研究"
 
 #: question:e23201aa-df56-4ade-9406-baa1fb6b1c0c:text
 msgid "See also all questions about keeping metadata and data formats. Make sure the metadata is kept close to the data in the archive, and that community supported data formats are used for all long term archiving."
-msgstr ""
+msgstr "另請參閱所有關於保存後設資料與資料格式的問題。請確保在歸檔時，後設資料與資料一同妥善保存，且所有長期歸檔皆使用社群所支持的資料格式。"
 
 #: url-reference:59bd5fee-3d92-4d90-a04e-4aa18a1e07ea:label
 msgid "See also description of Data Sharing in RDMkit"
-msgstr ""
+msgstr "另請參見RDMkit 中關於資料共享的說明"
 
 #: question:2418a1b7-6950-4a19-8e58-6c5089c71b53:title
 msgid "Select exemption"
-msgstr ""
+msgstr "選擇豁免"
 
 #: question:7cc7b00c-6f1e-4ad9-9742-f02df552dbee:title
 msgid "Select level of identifiability for the  stored data"
-msgstr ""
+msgstr "選擇所儲存資料的可識別程度"
 
 #: choice:1b4fef4e-73ba-4f59-8234-92879a6f09d9:label
 msgid "Sensitive data or data of a highly personal nature: which includes racial or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; genetic data; data concerning health; biometric data; sexual orientation. "
-msgstr ""
+msgstr "敏感資料或高度涉及個人隱私性質的資料：包括種族或族裔來源、政治觀點、宗教或哲學信仰、工會會員身分、基因資料、健康相關資料、生物特徵資料，以及性傾向。 "
 
 #: choice:2d654094-e4d1-48be-b2ce-6af94e8bfc1d:label
 msgid "Sexual orientation"
-msgstr ""
+msgstr "性傾向"
 
 #: answer:985366e7-7504-4f67-a8ee-90c340ff977a:label
 msgid "Shared: The data will be shared with a predefined list of people, e.g. coworkers"
-msgstr ""
+msgstr "共享：資料將與預先指定的人員名單共享，例如同事"
 
 #: question:deb9d6b3-4f11-4aa8-b016-52d1612c002a:text
 msgid "Since you want to keep using the old version of the reference data, how will it be available to you?"
-msgstr ""
+msgstr "既然你想繼續使用舊版的參考資料，那麼你將如何取得並使用該版本？"
 
 #: answer:9c0ce039-9762-40b3-96dc-666bd519c723:label
 msgid "So little that it is not a problem"
-msgstr ""
+msgstr "資料量很少，不至於成為問題"
 
 #: answer:7d3857a2-bb7d-4355-b2ca-bd6beb7cc3ea:label
 msgid "So small that it is not a problem"
-msgstr ""
+msgstr "資料量很少，不至於成為問題"
 
 #: question:76254a17-95d4-4f02-826e-eefd360bc38c:title
 #: question:9c08ca3b-7cf9-4275-99c5-7be1aa14659f:title
 msgid "Software component:"
-msgstr ""
+msgstr "軟體組件："
 
 #: answer:1217ef1b-01fd-48e6-900d-60edb99b4621:label
 msgid "Software in the work space is only a copy"
-msgstr ""
+msgstr "工作空間中的軟體僅為副本"
 
 #: answer:aa23e0c5-45ca-4061-9e81-04fc9d56c97c:label
 msgid "Software not listed here"
-msgstr ""
+msgstr "此處未列出的軟體"
 
 #: question:1024bb15-aaf5-4696-9b49-42898b72a16d:title
 msgid "Software package:"
-msgstr ""
+msgstr "軟體套件："
 
 #: question:dc39957e-688a-4f71-a6a8-57f52509e7cf:text
 msgid "Some \"file\" storage systems do not have a tree structure like we know in a file system, but rather have direct pointers to any file in the system. Such systems are called \"object stores\" or \"document stores\". Examples are Amazon S3 and CEPH, or MongoDB."
-msgstr ""
+msgstr "有些『檔案』儲存系統不像一般檔案系統那樣採用我們熟悉的樹狀結構，而是透過可直接指向系統中任一檔案的方式來存取。這類系統稱為『物件儲存』或『文件儲存』，例如 Amazon S3、CEPH 和 MongoDB。"
 
 #: question:a549d10b-aa46-4c0c-863f-30219ac5ecce:text
 msgid "Some data may be subject to a temporary embargo, or need to stay closed for specific reasons. "
-msgstr ""
+msgstr "有些資料可能需要暫時延後公開，或基於特定理由而保持不公開。 "
 
 #: question:1302cb21-6a98-490e-b64d-acf4744a8b1a:text
 msgid "Some data types may be closely coupled to specific software packages. If that is the case for this data set, please name and point out the required software."
-msgstr ""
+msgstr "某些資料類型可能與特定軟體套件密切相關。若此資料集屬於這種情況，請列出並指出所需的軟體。"
 
 #: question:7e77ee02-ce26-4cd9-b07d-3eea03bc35c9:text
 msgid "Some old data may need to be recovered, e.g. from tables in scientific papers or may be punch cards."
-msgstr ""
+msgstr "有些舊資料可能需要另外設法還原，例如從科學論文的表格中整理出來，或者資料本身是穿孔卡片。"
 
 #: question:c6fdeacb-4a1f-4948-988a-0c6458cdf7b9:text
 msgid "Some parameters you select on may have been collected only for a subset of the subjects or data points. An obvious example is if you match on secondary education type, you will bias to people over 18 years old because younger people do not have this field. In many cases the selection bias may be a lot less obvious and special measures exist to verify that the diversity of the sample is not reduced by the integration step."
-msgstr ""
+msgstr "你用來作為篩選條件的某些參數，可能只對部分受試者或部分資料點有被蒐集到。明顯的例子是：如果你以中等教育類型作為配對條件，結果就會偏向 18 歲以上的人，因為年紀較小者並沒有這個欄位。在許多情況下，這種選擇偏差可能沒有那麼明顯，而已有一些專門的方法可用來驗證，樣本的多樣性是否在資料整合這一步驟中被降低。"
 
 #: answer:a2c4514b-61e4-47cf-ae54-7006fea37ec2:label
 msgid "Some steps may be performed at local computing locations"
-msgstr ""
+msgstr "某些步驟可能會在本地端的運算環境中執行"
 
 #: question:91a7c75c-6f0e-4bae-b3f3-1890feaae9b2:text
 msgid "Some workflow systems automatically keep track of which steps were done in data analysis and what options were selected. This can help document the data for reproducibility."
-msgstr ""
+msgstr "有些工作流程系統會自動追蹤資料分析過程中執行了哪些步驟，以及選用了哪些選項。這有助於記錄資料處理過程，從而提升研究的可重現性。"
 
 #: question:01cd836b-915e-4751-b543-b326bf812594:text
 msgid "Sometimes the raw data is relatively large, and it pays of to clean it quickly."
-msgstr ""
+msgstr "有時原始資料相當龐大，因此值得盡快加以清理。"
 
 #: question:5ba53879-eb48-47f2-a73b-f7f7d83bf030:text
 msgid "Sometimes the type of data you collect can not be stored in a commonly used data format. In such cases you may need to make your own, keeping interoperability as high as possible."
-msgstr ""
+msgstr "有時你所蒐集的資料類型無法以常用的資料格式儲存。在這種情況下，你可能需要自行設計格式，並盡可能維持其互操作性。"
 
 #: question:f90914d8-2731-4cd1-bbf8-2710a5e08c43:text
 msgid "Sometimes, and empty field or a zero is indicating a missing value. But is that really unique? Could there be valid empty or zero fields? Has the convention for missing values been made explicit somewhere?"
-msgstr ""
+msgstr "有時候，空欄位或數值 0 會被用來表示缺失值。但這樣的表示方式真的具有唯一性嗎？是否也可能存在有效的空欄位或值為 0 的欄位？對於缺失值的表示慣例，是否已在某處明確說明？"
 
 #: answer:af2e1ca5-9a21-4c3b-a973-e9f41fd613da:label
 msgid "Special care will be taken for the software and configurations"
@@ -4147,15 +4147,15 @@ msgstr ""
 
 #: answer:7cfd3e4a-67e4-4988-804d-81c6589a7046:label
 msgid "Subject matter experts with no affinity for computer solutions"
-msgstr ""
+msgstr "不熟悉電腦化解決方案的領域專家"
 
 #: choice:6dfde2b6-4234-47a0-b7da-ccb7412f8490:label
 msgid "Supervisor"
-msgstr ""
+msgstr "監督者"
 
 #: choice:d2a9d717-c0b2-44ee-8a6d-8476831b6225:label
 msgid "Supporting management of data"
-msgstr ""
+msgstr "支援資料管理工作"
 
 #: question:a3a4ce37-4ced-41df-8ec6-e42d87a6a3f1:text
 msgid "Surrounding all tools in your data processing and analysis workflows with the 'boilerplate' code necessary on the computer system you are using is tedious and error prone. Especially if you are using the same tools in multiple different work flows and/or on multiple different computer architectures. Automated instrumentation, e.g. by using a workflow management system, can prevent many mistakes."
@@ -4171,19 +4171,19 @@ msgstr ""
 
 #: answer:e5bc08e1-815f-44f6-94ea-3a32e1808d51:advice
 msgid "Take this into account when doing the time planning for the critical path"
-msgstr ""
+msgstr "在規劃關鍵路徑的時程時，請將此納入考量"
 
 #: answer:ebbe4ef1-ec2a-44b8-bbc9-f15a743c438f:label
 msgid "Tape"
-msgstr ""
+msgstr "磁帶"
 
 #: answer:dc1082fd-1c90-492c-833c-3e0909c643bb:advice
 msgid "That functionality level can surely be found in another place too!"
-msgstr ""
+msgstr "那種程度的功能，別的地方當然也找得到！"
 
 #: question:3196c225-2842-4766-9768-381fd6ee1e05:text
 msgid "The FAIR principles ask for the use of FAIR ontologies. It is better when using RDF to make use as much as possible of concepts that are in established and well-maintained ontologies on the internet."
-msgstr ""
+msgstr "FAIR 原則要求使用符合 FAIR 的本體（ontologies）。在使用 RDF 時，最好盡可能採用網路上已建立且維護良好的本體中的概念。"
 
 #: question:6516eae1-98b2-48f2-9862-b5fb140cfad7:text
 msgid ""
