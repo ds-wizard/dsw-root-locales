@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-04-01 02:39+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-04-01 04:19+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -4219,15 +4219,15 @@ msgstr ""
 
 #: question:9e13b2d3-5f00-4e19-8a52-5c33c5b1cb07:title
 msgid "The actual identifier"
-msgstr ""
+msgstr "識別碼內容"
 
 #: question:cbbfb0da-caf1-4c04-b72f-de39c4a8fb33:text
 msgid "The amount of funding needed to maintain a repository is strongly dependent on the services offered"
-msgstr ""
+msgstr "維持典藏庫所需的經費額度，很大取決於其所提供的服務"
 
 #: answer:cb6a4747-0bf3-447d-8d7d-dc1b7a077be0:label
 msgid "The archival period is limited by budget"
-msgstr ""
+msgstr "封存期受預算限制"
 
 #: answer:91a03f0c-3d3d-4bfe-a7eb-46749706e749:label
 msgid "The archival period is limited by law or contract"
