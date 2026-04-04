@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-04-01 06:34+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-04-05 12:03+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.15.2\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -2751,8 +2751,9 @@ msgid "Make sure a copy of the version of the input data you use will be availab
 msgstr ""
 
 #: question:7dcf6059-b22c-44e9-8048-c8b8b90764ca:text
+#, fuzzy
 msgid "Make sure names are relatively short, and avoid spaces and special characters. You can use underscore characters, and consider using unique identifiers for the samples/experiments, workflow invocations, and processing steps. You can consider to add versioning using the date in YYYYMMDD format."
-msgstr ""
+msgstr "請確保名稱相對簡短，並避免使用空格與特殊字元。您可以使用底線，並可考慮為樣本／實驗使用唯一識別碼。您也可以考慮以 YYYYMMDD 格式的日期加入版本標示。"
 
 #: question:3d0e0a6e-24c0-421c-8656-fc7c1e6f79be:text
 msgid "Make sure names are relatively short, and avoid spaces and special characters. You can use underscore characters, and consider using unique identifiers for the samples/experiments. You can consider to add versioning using the date in YYYYMMDD format."
@@ -3534,8 +3535,9 @@ msgid "Please specify the Grant ID"
 msgstr ""
 
 #: question:584c3be2-8735-4b37-bbac-1976e1b1c266:title
+#, fuzzy
 msgid "Please specify the reason why you will not be using this non-reference data set"
-msgstr ""
+msgstr "請具體說明您將不使用此參考資料的原因"
 
 #: question:fa591173-c9e5-426f-8bee-6e6082108169:title
 msgid "Please specify the reason why you will not be using this reference data"
@@ -3688,8 +3690,9 @@ msgid "RDF is the graph representation used in the 'semantic web'"
 msgstr ""
 
 #: url-reference:df93fa41-88cb-451a-aa05-95a18cf02e73:label
+#, fuzzy
 msgid "RDMkit about Data Sensitivity"
-msgstr ""
+msgstr "RDMkit 中的資料敏感性"
 
 #: url-reference:d01dcf36-54ad-432d-9751-98abd2dbc2ab:label
 msgid "RDMkit on Collecting Data"
