@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-01 02:41+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-01 04:01+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -294,7 +294,7 @@ msgstr "是否所有資料載體皆已加密？"
 
 #: question:39d8dad9-7666-405c-b35c-9e430c9691ed:title
 msgid "Are all project web services addressed via secure http (https://)?"
-msgstr "所有專案的網頁服務是否皆透過安全的 HTTPS 存取？"
+msgstr "所有專案的網頁服務是否皆透過安全的 https 存取？"
 
 #: question:56bc8ebb-aba5-4745-8034-17ed3fe4fe07:title
 msgid "Are all software tools in the work flow professionally maintained, with version control?"
@@ -696,7 +696,7 @@ msgstr "聯絡人"
 
 #: question:b1492627-9cb6-465a-945a-a2a7ff9a8189:text
 msgid "Contacting the repository early may be useful to establish conditions, formats, and metadata requirements for submission. It may also be necessary to establish whether the repository can accommodate your data"
-msgstr "在研究初期儘早與資料儲存庫聯繫，可能有助於確立提交的條件、格式和後設資料要求。此外，這也有助於確認該資料儲存庫是否能收存您的資料。"
+msgstr "在研究初期儘早與資料儲存庫聯繫，可能有助於確立提交的條件、格式和後設資料要求。此外，這也有助於確認該資料儲存庫是否能收存您的資料"
 
 #: question:73d686bd-7939-412e-8631-502ee6d9ea7b:title
 msgid "Contributors"
@@ -947,7 +947,7 @@ msgstr "資料使用限制"
 
 #: question:4ae6452a-4ca6-434c-8453-7e3872e41847:title
 msgid "Data volume in Gigabytes"
-msgstr "資料量 (GB)"
+msgstr "資料量（十億位元組）"
 
 #: cross-reference:b289c48c-b586-419f-8099-db94ce323398:description
 msgid "Data warehousing tools"
@@ -975,7 +975,7 @@ msgstr "DataCite 後設資料標準（metadata schema）"
 
 #: question:bf52613c-1bfb-47b6-87cc-42f54de79129:text
 msgid "Database systems can be configured to keep all data, so that it is possible to reconstruct any past state of the data. How are changes in the data handled by your database?"
-msgstr "資料庫系統可設定為保留所有資料，以便重建資料在過去任一時間點的狀態。請說明您的資料庫如何處理資料變更。"
+msgstr "資料庫系統可設定為保留所有資料，以便重建資料在過去任一時間點的狀態。請說明您的資料庫如何處理資料變更？"
 
 #: url-reference:fffcd354-ac6e-4905-b74b-f1a6b180bcff:label
 msgid "Datacite Search"
@@ -1120,7 +1120,7 @@ msgstr "其他方式"
 #: answer:df0b2ee3-8e4d-42a1-9bb2-c69228074406:advice
 #: answer:fb96d008-f31a-4a1a-b203-b3f9bb32fcc8:advice
 msgid "Disadvantage of a general purpose repository is the lack of data-specific features (e.g. 'play' instead of 'download' for an audio file) and limited findability"
-msgstr "通用型資料儲存庫的缺點在於缺乏特定資料類型所需的功能（例如，音訊檔只能「下載」，不能直接「播放」），而且資料較不容易被找到。"
+msgstr "通用型資料儲存庫的缺點在於缺乏特定資料類型所需的功能（例如，音訊檔只能「下載」，不能直接「播放」），而且資料較不容易被找到"
 
 #: answer:18f50141-094d-426b-8a75-4c4fce59389b:label
 msgid "Disk"
@@ -1260,7 +1260,7 @@ msgstr "您是否需要調和不同來源的既有資料？"
 
 #: question:f59d2d89-fe27-4a8a-b3e6-2782bcc2fb97:title
 msgid "Do you need to request access to the data"
-msgstr "您是否需要申請資料取用權限？"
+msgstr "您是否需要申請資料取用權限"
 
 #: question:558f01a3-2563-4114-9244-812b212c9791:title
 msgid "Do you plan taking special measures to guarantee the integrity of tools in the workflow?"
@@ -1458,7 +1458,7 @@ msgstr "特別是當專案中的資料分析與處理是由不同人員在多台
 
 #: question:974f3ad3-90b3-4e00-b751-8c5a5629b2cf:title
 msgid "Estimated data volume in Gigabytes"
-msgstr "預估資料量 (GB)"
+msgstr "預估資料量（十億位元組）"
 
 #: choice:1f758ac9-71c1-4dfb-85a6-09e2a206ab9a:label
 msgid "Ethical approval"
@@ -2287,7 +2287,7 @@ msgid ""
 "In this chapter we describe all the sources of data: they can e.g. come from instruments or from questionnaires; data can be newly collected as part of the current project, but it can also be pre-existing data that may need proper contracts with the maintainer, some pre-processing, and quality checks. It can also be reference data that is part of curated resources and (public) databases. \n"
 "\n"
 "For more information see [Collecting in RDMKit](https://rdmkit.elixir-europe.org/collecting)"
-msgstr "本章說明所有資料來源：資料可能來自儀器或問卷；可能是在目前專案中新蒐集的資料，也可能是既有資料，需要與維護者訂定適當契約、進行部分前處理與品質檢查。資料也可能是策展資源與公共資料庫中的參考資料。\n\n更多資訊請參閱 [RDMkit 的資料蒐集頁面](https://rdmkit.elixir-europe.org/collecting)。"
+msgstr "本章說明所有資料來源：資料可能來自儀器或問卷；可能是在目前專案中新蒐集的資料，也可能是既有資料，需要與維護者訂定適當契約、進行部分前處理與品質檢查。資料也可能是策展資源與公共資料庫中的參考資料。\n\n更多資訊請參閱 [RDMkit 的資料蒐集頁面](https://rdmkit.elixir-europe.org/collecting)"
 
 #: chapter:d5b27482-b598-4b8c-b534-417d4ad27394:text
 msgid "In this chapter, issues regarding data publication and long term archiving are addressed."
@@ -2295,11 +2295,11 @@ msgstr "本章處理資料發布與長期典藏相關議題。"
 
 #: answer:94aa40a4-9b14-4923-a26a-3523566329e3:label
 msgid "Initial data will arrive on separate media and will need to be copied to the work space"
-msgstr "初始資料將透過個別儲存媒介送達，並需要複製到工作空間中。"
+msgstr "初始資料將透過個別儲存媒介送達，並需要複製到工作空間中"
 
 #: answer:9ad1d4fd-997d-45a8-8cc4-f594a8e4fdf8:label
 msgid "Initial data will need to be made available through a local network copy"
-msgstr "初始資料需要透過本地網路副本提供使用。"
+msgstr "初始資料需要透過本地網路副本提供使用"
 
 #: choice:f2919725-27cf-4c43-a04b-69a47eb1f852:label
 msgid "Innovative use or applying new technological or organizational solutions, like combining the use of fingerprint and face recognition for physical access control.  "
@@ -2530,7 +2530,7 @@ msgid ""
 "It is important for re-users to know what consent items you asked exactly from participants.\n"
 "\n"
 "Note that the answers from participants is personal data that requires protection!"
-msgstr "對再利用者而言，清楚知道您當初究竟向參與者徵求了哪些具體的同意事項，是非常重要的\n\n請注意，參與者所提供的回答屬於個人資料，必須受到保護。"
+msgstr "對再利用者而言，清楚知道您當初究竟向參與者徵求了哪些具體的同意事項，是非常重要的。\n\n請注意，參與者所提供的回答屬於個人資料，必須受到保護！"
 
 #: question:9f081091-0810-4f12-be7f-0a22ee928a14:text
 msgid ""
@@ -2731,11 +2731,11 @@ msgstr "請列出您將使用的本體"
 
 #: question:f83a9afd-c6de-452b-be9f-bd76e5eb6b54:text
 msgid "Maintaining a repository is a long term commitment that can most of the time not be funded from project money. Think about who will be doing the system maintenance, hardware maintenance, and who will make necessary code changes to accommodate future (safe) versions of the system"
-msgstr "維護資料儲存庫是一項長期承諾，通常無法由專案經費支應。請思考誰會負責系統維護、硬體設備維護，以及誰會進行必要的程式碼修改，以支援系統未來的安全版本。"
+msgstr "維護資料儲存庫是一項長期承諾，通常無法由專案經費支應。請思考誰會負責系統維護、硬體設備維護，以及誰會進行必要的程式碼修改，以支援系統未來的安全版本"
 
 #: answer:d700715e-4ae0-45ed-a1d3-4d79bb32155f:advice
 msgid "Make sure a copy of the version of the input data you use will be available with the results"
-msgstr "請確保您使用的輸入資料版本副本，會與研究結果一併提供。"
+msgstr "請確保您使用的輸入資料版本副本，會與研究結果一併提供"
 
 #: question:7dcf6059-b22c-44e9-8048-c8b8b90764ca:text
 #, fuzzy
@@ -3168,11 +3168,11 @@ msgstr "否，資料很少變動"
 
 #: answer:df08a7fa-61af-418f-9eb8-965ba50efcc8:label
 msgid "No, data format will be archived in the same way we work with it"
-msgstr "不會，資料格式會以我們處理時所使用的相同方式進行典藏。"
+msgstr "不會，資料格式會以我們處理時所使用的相同方式進行典藏"
 
 #: answer:f848f3ec-08c8-4197-bd4f-6d438bac4d70:label
 msgid "No, data will be copied if it needs to be processed elsewhere"
-msgstr "不需要。如果資料需要在其他地方處理，會先複製過去。"
+msgstr "不會，若資料需要在其他地方處理，會先複製過去"
 
 #: answer:e4da5030-9de8-4fe9-81d9-28a75edc09d9:label
 msgid "No, it can be remeasured easily and more cheaply than archiving"
@@ -3297,7 +3297,7 @@ msgid ""
 "GDPR](https://gdpr-info.eu/art-28-gdpr/). The agreement should also regulate the use of any sub-processors.\n"
 "\n"
 "[Article 4](https://gdpr-info.eu/art-4-gdpr/) (8): *“**‘processor’** means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.”* Examples of this is if you use a secure computing environment provided by another organisation to do your analysis or to store the data, along with several other scenarios. In the case that you do, there needs to be a legal agreement established between the controller(s) and processor(s) as defined in [Article 28](https://gdpr-info.eu/art-28-gdpr/) (3): *“Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller. […]”* Article 28 also lists the required contents of such an agreement. Your organisation and/or the processor organisation will probably have agreement templates that you can use."
-msgstr "注意：資料處理協議必須包含 [GDPR 第 28 條第 3 項](https://gdpr-info.eu/art-28-gdpr/) 規定的必要條款。協議也應規範任何次級資料處理者的使用。\n\n[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 8 款將「資料處理者」定義為：「代表資料控制者處理個人資料的自然人、法人、公務機關、機構或其他團體。」例如，若您使用其他組織提供的安全運算環境進行分析或儲存資料，就可能屬於這種情況；其他情境也可能適用。若屬於這種情況，資料控制者與資料處理者之間需要依 [第 28 條](https://gdpr-info.eu/art-28-gdpr/) 第 3 項訂立法律協議：「資料處理者進行的處理，應受歐盟或會員國法律下的契約或其他法律行為約束，該契約或法律行為對資料處理者相對於資料控制者具有拘束力，並列明處理的標的與期間、處理的性質與目的、個人資料類型與資料主體類別，以及資料控制者的義務與權利。……」第 28 條也列出此類協議的必要內容。您的組織及／或資料處理者所屬組織，很可能已有可供使用的協議範本。"
+msgstr "注意：資料處理協議必須包含 [GDPR 第 28 條第 3 項](https://gdpr-info.eu/art-28-gdpr/) 規定的必要條款。\n協議也應規範任何次級資料處理者的使用。\n\n[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 8 款將「資料處理者」定義為：「代表資料控制者處理個人資料的自然人、法人、公務機關、機構或其他團體。」例如，若您使用其他組織提供的安全運算環境進行分析或儲存資料，就可能屬於這種情況；其他情境也可能適用。若屬於這種情況，資料控制者與資料處理者之間需要依 [第 28 條](https://gdpr-info.eu/art-28-gdpr/) 第 3 項訂立法律協議：「資料處理者進行的處理，應受歐盟或會員國法律下的契約或其他法律行為約束，該契約或法律行為對資料處理者相對於資料控制者具有拘束力，並列明處理的標的與期間、處理的性質與目的、個人資料類型與資料主體類別，以及資料控制者的義務與權利。……」第 28 條也列出此類協議的必要內容。您的組織及／或資料處理者所屬組織，很可能已有可供使用的協議範本。"
 
 #: question:a2b1fa38-792a-4628-9765-93476a38cffb:text
 msgid "Note: Be aware that different laws might define the mandatory content of an informed consent in different ways. Therefore, an informed consent that is valid under one law (e.g. ethical legislation), might not be valid under another law (e.g. GDPR). Informed consents acquired before the GDPR might not be valid if consent is to be used as the legal basis for processing."
@@ -3470,7 +3470,7 @@ msgstr "請考慮加入您能蒐集到的後設資料項目。這些資訊可能
 
 #: answer:67bf1b45-722b-44ed-877f-37eaf66dc41b:advice
 msgid "Please consider how you will be solving issues/problems you find yourself and that are fixed in a new release"
-msgstr "請思考當您自行發現問題，而新版本已修復這些問題時，您將如何處理。"
+msgstr "請思考當您自行發現問題，而新版本已修復這些問題時，您將如何處理"
 
 #: answer:640d232f-69bc-4d4e-89ef-2d94db27f65f:advice
 msgid "Please consider how you, one or your colleagues, or a researcher from another lab who has read your publication will be able to find your data, reproduce results and/or continue research on your data. A persistent identifier (following the FAIR principles) is essential for that."
@@ -3614,7 +3614,7 @@ msgstr "專案簡稱"
 
 #: answer:9b723841-1bd4-487c-b45c-f0a369330b3a:label
 msgid "Project management will need to be able to give people access"
-msgstr "專案管理人員需要能夠授予人員取用權限。"
+msgstr "專案管理人員需要能夠授予人員取用權限"
 
 #: question:dc327e53-cf4f-44e7-8e66-40ddf1b4ae0a:text
 msgid "Project members may need to know about passwords (not sharing accounts, using different passwords for each service, and two factor authentication), about security for data they carry (encryption, backups), data stored in their own labs and in personal cloud accounts, and about the use of open WiFi and HTTPS."
@@ -3672,7 +3672,7 @@ msgstr "事先思考檔案命名方式，可以省去日後許多麻煩。 "
 
 #: question:46e07a92-2070-4212-96ea-8b98da488292:text
 msgid "RDF is the graph representation used in the 'semantic web'"
-msgstr "RDF 是「語意網」使用的圖形表示方式。"
+msgstr "RDF 是「語意網」使用的圖形表示方式"
 
 #: url-reference:df93fa41-88cb-451a-aa05-95a18cf02e73:label
 msgid "RDMkit about Data Sensitivity"
@@ -3809,11 +3809,11 @@ msgstr "原始資料"
 
 #: answer:aad7d438-a8af-4462-9728-77e2493bcacc:label
 msgid "Raw data can be cleaned out or archived quickly"
-msgstr "原始資料可以很快清除，或移到典藏儲存空間。"
+msgstr "原始資料可以很快清除，或移到典藏儲存空間"
 
 #: answer:93555e7b-d17c-4341-9ad9-9f2f833a3193:label
 msgid "Raw data do not form a major part of the storage needs"
-msgstr "原始資料不是儲存需求的主要部分。"
+msgstr "原始資料不是儲存需求的主要部分"
 
 #: answer:19755f9d-8ec2-4fd9-8bdf-b25d5889d7ee:label
 msgid "Raw data will come in during the project"
@@ -3825,7 +3825,7 @@ msgstr "原始資料會在專案一開始就進入工作空間"
 
 #: answer:fe62c9a0-a621-46b6-bc42-881d0c3d8719:label
 msgid "Raw data will need to stay in the work space"
-msgstr "原始資料需要保留在工作空間中。"
+msgstr "原始資料需要保留在工作空間中"
 
 #: answer:0ddd0082-eae1-4c48-ba4a-30912f0643e7:label
 msgid "Raw data will only be loaded in the work space on demand from the primary archives"
@@ -3904,7 +3904,7 @@ msgstr "專案中的角色應依照 [DataCite](https://schema.datacite.org/meta/
 
 #: question:624cfadf-6177-47b7-9ba8-b80b68aef0fd:title
 msgid "Rough average size of each file/subject in gigabytes"
-msgstr "每個檔案／每位受試者的概略平均資料量 (GB)"
+msgstr "每個檔案／每位受試者的概略平均資料量（十億位元組）"
 
 #: question:faf72b3d-ac29-41d1-97f2-5223b199a086:text
 msgid "Running a small subset of the data repeatedly can be useful to catch unexpected problems that would otherwise be very hard to detect."
@@ -3952,7 +3952,7 @@ msgstr "共享：資料將與預先指定的人員名單共享，例如同事"
 
 #: question:deb9d6b3-4f11-4aa8-b016-52d1612c002a:text
 msgid "Since you want to keep using the old version of the reference data, how will it be available to you?"
-msgstr "既然您想沿用舊版參考資料，請說明您將如何確保該版本仍可供您使用。"
+msgstr "既然您想沿用舊版參考資料，請說明您將如何確保該版本仍可供您使用？"
 
 #: answer:9c0ce039-9762-40b3-96dc-666bd519c723:label
 msgid "So little that it is not a problem"
@@ -4110,19 +4110,19 @@ msgstr "請說明處理個人資料的目的"
 
 #: answer:014d23a8-93a8-4fd2-ba1c-8656177f37b2:label
 msgid "Storage needs are large at the beginning and will be reduced later"
-msgstr "一開始的儲存需求會比較大，之後會逐漸降低。"
+msgstr "一開始的儲存需求會比較大，之後會逐漸降低"
 
 #: answer:51a8248e-8659-47fd-a8e3-112eed64f65b:label
 msgid "Storage needs are largest in the middle of the project"
-msgstr "儲存需求會在專案中期達到最高。"
+msgstr "儲存需求會在專案中期達到最高"
 
 #: answer:ab40db7f-ea89-4830-b507-4f2f08a9453e:label
 msgid "Storage needs are small at the beginning and will grow later"
-msgstr "一開始的儲存需求較小，之後會逐漸增加。"
+msgstr "一開始的儲存需求較小，之後會逐漸增加"
 
 #: answer:eef277cb-1032-401e-b242-e74afde575dc:label
 msgid "Storage needs will be the same during the whole project"
-msgstr "整個專案期間的儲存需求都會維持不變。"
+msgstr "整個專案期間的儲存需求都會維持不變"
 
 #: answer:eefe3d60-b037-488a-826c-871490357ffc:label
 msgid "Stored in the same folder as the data"
@@ -4166,7 +4166,7 @@ msgstr "磁帶"
 
 #: answer:dc1082fd-1c90-492c-833c-3e0909c643bb:advice
 msgid "That functionality level can surely be found in another place too!"
-msgstr "若僅提供下載功能，對使用者而言，其他地方通常也能提供類似的服務。"
+msgstr "若僅提供下載功能，對使用者而言，其他地方通常也能提供類似的服務！"
 
 #: question:3196c225-2842-4766-9768-381fd6ee1e05:text
 msgid "The FAIR principles ask for the use of FAIR ontologies. It is better when using RDF to make use as much as possible of concepts that are in established and well-maintained ontologies on the internet."
@@ -4190,7 +4190,7 @@ msgid ""
 "Standard personal data  includes e.g. name, date of birth, address, (online) identifiers, contact info, account/personnel/customer or other ID numbers, appearance.\n"
 "\n"
 "Special  category data includes: data concerning health, Genetic data, racial or ethnic origin, sexual orientation, political opinions, religious or ideological convictions or trade union membership, criminal convictions and offences"
-msgstr "GDPR 定義了個人資料的類別與子類別，並期待資料處理者了解並記錄自己所處理的資料類別。\n\n一般個人資料包括姓名、出生日期、地址、線上識別碼、聯絡資訊、帳號／人員／客戶或其他 ID 編號、外貌等。\n\n特殊類別資料包括：健康相關資料、基因資料、種族或族裔出身、性傾向、政治意見、宗教或意識形態信念、工會會員身分、刑事定罪與犯罪資料。"
+msgstr "GDPR 定義了個人資料的類別與子類別，並期待資料處理者了解並記錄自己所處理的資料類別。\n\n一般個人資料包括姓名、出生日期、地址、線上識別碼、聯絡資訊、帳號／人員／客戶或其他 ID 編號、外貌等。\n\n特殊類別資料包括：健康相關資料、基因資料、種族或族裔出身、性傾向、政治意見、宗教或意識形態信念、工會會員身分、刑事定罪與犯罪資料"
 
 #: url-reference:d9ddb6db-2afd-45c0-8d25-f50208c53aa4:label
 msgid "The Handle System"
@@ -4202,7 +4202,7 @@ msgstr "由計畫主持人擔任權利人"
 
 #: question:106df534-f590-416b-8e4a-846edbdc4325:text
 msgid "The W3C Prov standard documents processes (workflow) that were used to produce a resource. This can be used to document e.g. the software (including version) and parameters you use to analyze the data. Will your documentation follow the W3C Prov standard?"
-msgstr "W3C PROV 標準會記錄用來產製資源的流程（工作流程）。這可用來記錄例如您用於分析資料的軟體（包含版本）與參數。您的文件是否會遵循 W3C PROV 標準？"
+msgstr "W3C Prov 標準會記錄用來產製資源的流程（工作流程）。這可用來記錄例如您用於分析資料的軟體（包含版本）與參數。您的文件是否會遵循 W3C Prov 標準？"
 
 #: question:9e13b2d3-5f00-4e19-8a52-5c33c5b1cb07:title
 msgid "The actual identifier"
@@ -4210,7 +4210,7 @@ msgstr "識別碼"
 
 #: question:cbbfb0da-caf1-4c04-b72f-de39c4a8fb33:text
 msgid "The amount of funding needed to maintain a repository is strongly dependent on the services offered"
-msgstr "維運資料儲存庫所需的經費額度，很大程度上取決於該資料儲存庫提供的服務內容。"
+msgstr "維運資料儲存庫所需的經費額度，很大程度上取決於該資料儲存庫提供的服務內容"
 
 #: answer:cb6a4747-0bf3-447d-8d7d-dc1b7a077be0:label
 msgid "The archival period is limited by budget"
@@ -4270,7 +4270,7 @@ msgid ""
 "* Legal requirement: we are legally obliged to do this data processing\n"
 "* Vital interest: we need to do this to protect the vital interests of the data subject\n"
 "* We have a legitimate interest: data subjects all expect us to do this data processing because of who we are"
-msgstr "下列法律依據在研究中處理個人資料時通常較不適用。\n\n各選項的意思如下：\n* 法律要求：我們依法有義務進行這項資料處理。\n* 重大利益：我們需要進行這項處理，以保護資料主體的重大利益。\n* 我們具有合法利益：基於我們的身分，資料主體可合理預期我們會進行這項資料處理。"
+msgstr "下列法律依據在研究中處理個人資料時通常較不適用。\n\n各選項的意思如下：\n* 法律要求：我們依法有義務進行這項資料處理\n* 重大利益：我們需要進行這項處理，以保護資料主體的重大利益\n* 我們具有合法利益：基於我們的身分，資料主體可合理預期我們會進行這項資料處理"
 
 #: question:1147485f-b9a9-486c-8341-27e05718c508:text
 msgid "The general term 'backup' is used for protection against two different kinds of problems: equipment failure and human error. Protections against these two may need different solutions. Both are considered backup for this and subsequent questions."
@@ -4327,7 +4327,7 @@ msgstr "資料相關權利將以其他方式安排"
 
 #: answer:96b1aa0f-56db-4613-b424-3fe33349386b:label
 msgid "The volume of intermediate data will not be significant"
-msgstr "中間資料的資料量不會太大。"
+msgstr "中間資料的資料量不會太大"
 
 #: answer:44810299-8618-4a79-a732-13cc2ff21903:label
 msgid "The work space provides sufficient guarantees"
@@ -4335,7 +4335,7 @@ msgstr "工作空間提供足夠保障"
 
 #: answer:4bb35a94-e387-4460-bcf3-d638f248e52c:label
 msgid "The work space should be connected to a single-sign-on system"
-msgstr "工作空間應連接到單一登入系統。"
+msgstr "工作空間應連接到單一登入系統"
 
 #: question:1440afd6-d516-44f6-9c02-6abb13900b66:text
 msgid "There are a few different standards that are often used to give basic information about your dataset. Which ones of these will you be using?"
@@ -4388,7 +4388,7 @@ msgid ""
 "There are pointers to resources in life sciences at:\n"
 "* [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)\n"
 "* "
-msgstr "生命科學相關資源可參考：\n* [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources) "
+msgstr "生命科學相關資源可參考：\n* [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)\n* "
 
 #: question:df36fb68-131c-4f31-a42b-684abf523bbc:text
 msgid "There are several questions regarding the dynamics of the data in the working area, who works with it, the software that is run on it, etc."
@@ -4433,7 +4433,7 @@ msgstr "另有其他原因"
 #: question:fdeb19c8-393c-4c4e-8c88-58a9c4d19e2b:text
 #: question:ff6f53f1-1adc-4401-bbda-a159d283a8eb:text
 msgid "There is no concrete map of these features to suitable workflow engines at this moment, but filling in these questions can lead you to think about the most important features for the project"
-msgstr "目前尚無明確對照表，可用來將這些功能對應到合適的工作流程引擎；不過，填寫這些問題可協助您釐清本專案最重要的功能需求。"
+msgstr "目前尚無明確對照表，可用來將這些功能對應到合適的工作流程引擎；不過，填寫這些問題可協助您釐清本專案最重要的功能需求"
 
 #: answer:a1ead63a-1bc8-42e6-8bdc-3e1e8a901307:label
 msgid "There is no data elsewhere\\"
@@ -4580,11 +4580,11 @@ msgstr "這由專案參與者自行處理"
 
 #: answer:c7a0181c-1921-4b21-9481-f4274d48876c:label
 msgid "This is not needed"
-msgstr "不需要。"
+msgstr "不需要"
 
 #: answer:899b6dc9-59fa-4246-b152-915d4864f771:advice
 msgid "This puts other demands on the possibility to restore files. Make sure this is covered"
-msgstr "這會對檔案還原能力提出其他要求。請確保已涵蓋這一點。"
+msgstr "這會對檔案還原能力提出其他要求。請確保已涵蓋這一點"
 
 #: question:eb698404-004a-4cdf-a599-be01e0eb7fd2:text
 msgid "This question refers to research outputs beyond datasets, such as code, documentation, lab protocols, questionnaires, reference data, software, or workflows. Please explain how you decide which of these outputs are important to keep — for example, because they are necessary for reproducibility, reuse by others, legal compliance, or future reference. You can also describe any criteria, policies, or team practices used to make these decisions."
@@ -4697,7 +4697,7 @@ msgstr "重大利益"
 
 #: url-reference:074d97c3-b83f-4bc8-b17c-bebaa22a0c4c:label
 msgid "W3C Prov primer"
-msgstr "W3C PROV 入門指南"
+msgstr "W3C Prov 入門指南"
 
 #: answer:2dc09f04-0613-45e5-bba9-18ffe4db8a82:label
 msgid "We accept the risk of different interpretations"
@@ -4875,7 +4875,7 @@ msgstr "我們會交由既有的資料取用委員會負責"
 
 #: answer:202c1232-9f5e-4a68-b0e0-3986a7bc96fa:label
 msgid "We will need a high-speed network connection to copy the initial data"
-msgstr "我們需要高速網路連線來複製初始資料。"
+msgstr "我們需要高速網路連線來複製初始資料"
 
 #: answer:dd72ae3c-6945-463c-8f50-6045561b267c:label
 msgid "We will need more than one engine"
@@ -4991,7 +4991,7 @@ msgstr "我們會使用鏈結資料"
 
 #: answer:55bab6f7-6ab9-4eb7-ae2b-1947cce2da84:label
 msgid "We will use the main work space for temporary data"
-msgstr "我們會使用主要工作空間來存放暫時性資料。"
+msgstr "我們會使用主要工作空間來存放暫時性資料"
 
 #: answer:d1a1cac8-a82c-4ef4-8f25-7dc196bdcf70:label
 msgid "We will use the manual"
@@ -5280,7 +5280,7 @@ msgstr "執行分析時的最新版本"
 
 #: question:90324a7b-f3c9-4ed8-b301-edc9869cb7b3:text
 msgid "When assessing the risk, take into account who has access to the lab, who has (physical) access to the computer hardware itself. Also consider whether data on those systems is properly backed up"
-msgstr "評估風險時，請考量誰可以進入實驗室、誰可以（實體）接觸電腦硬體本身。也請考量這些系統上的資料是否有妥善備份。"
+msgstr "評估風險時，請考量誰可以進入實驗室、誰可以（實體）接觸電腦硬體本身。也請考量這些系統上的資料是否有妥善備份"
 
 #: question:7f8ff791-8593-4e00-93f9-e31c5dff5ffb:title
 msgid "When is the raw data archived?"
@@ -5346,7 +5346,7 @@ msgstr "資料會儲存在哪裡？"
 
 #: question:d488b314-2b5c-4e79-be1e-c5742205d2a5:title
 msgid "Where will the physical samples be stored"
-msgstr "實體樣本將存放在哪裡？"
+msgstr "實體樣本將存放在哪裡"
 
 #: question:87b45400-169d-424d-8e71-d2034618dab5:title
 msgid "Where will the software package be available?"
@@ -5382,7 +5382,7 @@ msgstr "是哪一項其他法律依據？"
 
 #: question:7828d3a0-29bf-450e-aee9-473457a225fd:title
 msgid "Which qualified references to other data sets will be included"
-msgstr "會包含哪些指向其他資料集、且具明確關係說明的參照？"
+msgstr "會包含哪些指向其他資料集、且具明確關係說明的參照"
 
 #: question:a41a57ef-ac45-4f82-96ec-bdb39f54d401:title
 msgid "Which repository?"
@@ -5690,7 +5690,7 @@ msgstr "將在線上使用"
 
 #: question:56bc8ebb-aba5-4745-8034-17ed3fe4fe07:text
 msgid "Will you be able to find and reproduce exactly which version was used for any analysis? Not only for the major tools in the workflows, but also for all 'glue' code and small tools you created especially for the project?"
-msgstr "您是否能查明任一分析所使用的確切版本，並加以重現？這不只包括工作流程中的主要工具，也包括所有串接用程式碼，以及您專為本專案建立的小型工具。"
+msgstr "您是否能查明任一分析所使用的確切版本，並加以重現？這不只包括工作流程中的主要工具，也包括所有串接用程式碼，以及您專為本專案建立的小型工具？"
 
 #: question:f83a9afd-c6de-452b-be9f-bd76e5eb6b54:title
 msgid "Will you be able to support this repository for a sufficiently long time?"
@@ -5898,11 +5898,11 @@ msgstr "您是否會向他人說明新資料格式？"
 
 #: question:9320bf04-824b-46b3-ae8b-55240e2d04b9:title
 msgid "Will you document the data with DDI metadata"
-msgstr "您是否會使用 DDI 後設資料描述資料？"
+msgstr "您是否會使用 DDI 後設資料描述資料"
 
 #: question:035a37e5-1dda-44a1-8b66-d0612e99cd14:title
 msgid "Will you document the data with DataCite metadata"
-msgstr "您是否會使用 DataCite 後設資料描述資料？"
+msgstr "您是否會使用 DataCite 後設資料描述資料"
 
 #: question:8d3b85e0-1683-48a5-a650-9f0d9bf8a1a4:title
 msgid "Will you document the data with Dublin Core metadata? "
@@ -5950,23 +5950,23 @@ msgstr "資料蒐集完成後，您是否會監控資料完整性？"
 
 #: question:a781badf-f7ee-4588-9478-d31470f00c38:title
 msgid "Will you need existing data for toxicology research"
-msgstr "您是否需要毒理學研究的既有資料？"
+msgstr "您是否需要毒理學研究的既有資料"
 
 #: question:17464e0f-f477-4a45-a556-687a97b0e826:title
 msgid "Will you need existing data from Agricultural Sciences"
-msgstr "您是否需要農業科學領域的既有資料？"
+msgstr "您是否需要農業科學領域的既有資料"
 
 #: question:f2bcb8d2-6a73-43a4-a2d3-16f50e4577a5:title
 msgid "Will you need existing data from Engineering and Technology"
-msgstr "您是否需要工程與技術領域的既有資料？"
+msgstr "您是否需要工程與技術領域的既有資料"
 
 #: question:849cb43b-8622-4da0-9ef3-ae845dfe58f1:title
 msgid "Will you need existing data from Humanities"
-msgstr "您是否需要人文學科領域的既有資料？"
+msgstr "您是否需要人文學科領域的既有資料"
 
 #: question:2130427b-2e5e-4282-b703-ee00f1f735c9:title
 msgid "Will you need existing data from Medical and Health Sciences"
-msgstr "您是否需要醫學與健康科學領域的既有資料？"
+msgstr "您是否需要醫學與健康科學領域的既有資料"
 
 #: question:d4191666-21f3-4875-8426-d12a3aa1ffce:title
 msgid "Will you need existing data from Natural Sciences?"
@@ -5974,7 +5974,7 @@ msgstr "您是否需要自然科學領域的既有資料？"
 
 #: question:b19eab58-3b7f-4b66-b6f2-7e9c2c3c3e27:title
 msgid "Will you need existing data from Social Sciences"
-msgstr "您是否需要社會科學領域的既有資料？"
+msgstr "您是否需要社會科學領域的既有資料"
 
 #: question:bc7538cd-2b28-446a-a448-2b316c4f36a2:title
 msgid "Will you need existing data in particle physics?"
@@ -6407,7 +6407,7 @@ msgstr "是，所有個人資料都只會以擬匿名化形式處理"
 
 #: answer:02b8d129-3300-47cb-811a-e86a40c5d8bd:label
 msgid "Yes, archival will require a conversion step"
-msgstr "會，典藏時需要進行一個轉換步驟。"
+msgstr "會，典藏時需要進行一個轉換步驟"
 
 #: answer:6833a1fa-62fe-46b1-bb81-a3e42ff9626d:label
 msgid "Yes, by the repository / repositories"
@@ -6428,7 +6428,7 @@ msgstr "是，實際運算需要高效能資源"
 
 #: answer:6baa53fe-c657-4da3-bb65-9b71f7141c6d:label
 msgid "Yes, for occasional exploration"
-msgstr "是的，用於偶爾進行資料探索。"
+msgstr "是的，用於偶爾進行資料探索"
 
 #: answer:44dfd6cb-b3ce-41a4-bca8-9689be8df67c:label
 #: answer:be674d81-cadb-470a-acf9-7365175b533d:label
@@ -6441,7 +6441,7 @@ msgstr "是，需要進一步檢視"
 
 #: answer:8fa969a0-7477-41be-aefc-a54a8045c954:label
 msgid "Yes, occasionally"
-msgstr "是，偶爾會。"
+msgstr "是，偶爾會"
 
 #: answer:0cfc22ec-5551-4a37-84ec-308c85440af5:label
 msgid "Yes, other business reasons"
@@ -6564,7 +6564,7 @@ msgid ""
 "You can find information on resources for animal assays in the [Toxicology page of RDMkit](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies)\n"
 "\n"
 "You can find information on resources for ecotoxicology in the [Toxicology page of RDMkit](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)"
-msgstr "您可以在 [RDMkit 的毒理學頁面](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies) 找到人體試驗相關資源的資訊。\n\n您可以在 [RDMkit 的毒理學頁面](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies) 找到動物試驗相關資源的資訊。\n\n您可以在 [RDMkit 的毒理學頁面](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data) 找到生態毒理學相關資源的資訊。"
+msgstr "您可以在 [RDMkit 的毒理學頁面](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies) 找到人體試驗相關資源的資訊。\n\n您可以在 [RDMkit 的毒理學頁面](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies) 找到動物試驗相關資源的資訊。\n\n您可以在 [RDMkit 的毒理學頁面](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data) 找到生態毒理學相關資源的資訊"
 
 #: question:b642c31d-a512-4ca7-8743-a2e0254006fa:text
 #: question:f5fef09d-ade5-4019-b089-f05bd89c34bc:text
@@ -6632,7 +6632,7 @@ msgstr "您需要說明原因！"
 
 #: answer:595acdbc-f0d7-4550-9c56-9177f3c5695b:advice
 msgid "You will need to have a header in order to make the data interoperable and reusable"
-msgstr "您需要使用欄位名稱，才能讓資料可相互操作且可再次使用。"
+msgstr "您需要使用欄位名稱，才能讓資料可相互操作且可再次使用"
 
 #: question:a20ddc5d-e883-4bc4-9948-36a2cb477d10:text
 msgid "Your institute may have a generic risk assessment; you should be informed about this."
