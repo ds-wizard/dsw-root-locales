@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-01 02:39+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-01 02:41+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -873,7 +873,7 @@ msgstr "資料託管員"
 #: url-reference:35bcd464-9a68-49f3-8365-677fca660b17:label
 #: url-reference:b2db3b93-3ce7-4c3c-a80e-866671a9103a:label
 msgid "Data Use Ontology"
-msgstr "資料使用本體論（Data Use Ontology）"
+msgstr "資料使用本體"
 
 #: question:948b5fd8-c1bd-457d-8f81-ea2fd093f541:text
 msgid ""
@@ -2655,7 +2655,7 @@ msgstr "LGPL 3.0 或更新版本"
 #: answer:18db88c7-97c9-416e-b1ae-763bf018345e:label
 #: answer:f10de3a8-2751-42c7-afaa-92eed4833f8e:label
 msgid "Legal requirement"
-msgstr "法定要求"
+msgstr "法律要求"
 
 #: question:a25b30f4-2d0f-4132-9b8e-0950f0b0ed66:text
 msgid "Legally, pseudonymous data (which means that someone has the key to reverse the process) is still considered privacy sensitive information. However, the EU is working on special cases where the data can still be opened as long as the key availability is sufficiently limited."
@@ -3718,7 +3718,7 @@ msgstr "RDMkit 中的資料安全"
 #: url-reference:86f7c739-cfdf-4b3a-a032-3bda9bbf6404:label
 #: url-reference:f22531ad-862e-48fa-a521-18e6998b1f7d:label
 msgid "RDMkit on Data Sensitivity"
-msgstr "RDMkit 中的資料敏感性"
+msgstr "RDMkit 的資料敏感性頁面"
 
 #: url-reference:bc4bc2de-eb60-4f7d-bec9-6c8207a43a3d:label
 msgid "RDMkit on Data Sharing"
@@ -3750,7 +3750,7 @@ msgstr "RDMkit 的 GDPR 法遵頁面"
 #: url-reference:612660d5-dedc-4c4d-9176-06a887b47f14:label
 #: url-reference:9090a519-777e-40e8-98ce-75760ff90244:label
 msgid "RDMkit on Human Data"
-msgstr "RDMkit中的人類資料"
+msgstr "RDMkit 的人類資料頁面"
 
 #: url-reference:5c6e0a81-4a69-4542-a667-f3e67d56392e:label
 #: url-reference:bdf3a93e-4413-42ad-8a33-c977e6a0c4f5:label
