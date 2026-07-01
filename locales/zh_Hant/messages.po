@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-01 02:34+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-01 02:39+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -781,14 +781,12 @@ msgid "DMEG on Access to Data"
 msgstr "DMEG （Data Management Expert Guide）中的資料存取"
 
 #: url-reference:aa54555f-b312-41a5-9c24-609b2d7d9346:label
-#, fuzzy
 msgid "DMEG on Backups"
-msgstr "DMEG （Data Management Expert Guide）中的備份"
+msgstr "DMEG 的備份頁面"
 
 #: url-reference:26ecbf8d-d40a-476a-b527-9e9c7896eb48:label
-#, fuzzy
 msgid "DMEG on Copyright"
-msgstr "DMEG （Data Management Expert Guide）中的版權"
+msgstr "DMEG 的著作權頁面"
 
 #: url-reference:87c7169d-f8bf-4616-bdb4-d1db922746d3:label
 #, fuzzy
@@ -796,19 +794,16 @@ msgid "DMEG on Data Discovery"
 msgstr "DMEG （Data Management Expert Guide）中的資料探索"
 
 #: url-reference:4cbf4d06-9b4f-4088-b5e4-ab0813c5d853:label
-#, fuzzy
 msgid "DMEG on Data Integrity"
-msgstr "DMEG （Data Management Expert Guide）中的資料完整性"
+msgstr "DMEG 的資料完整性頁面"
 
 #: url-reference:15f661c7-2bfa-4687-823e-80692f3efd61:label
-#, fuzzy
 msgid "DMEG on Data Protection"
-msgstr "DMEG （Data Management Expert Guide）中的資料保護"
+msgstr "DMEG 的資料保護頁面"
 
 #: url-reference:abcc180f-fb2f-4c97-99ce-70d96275bfdf:label
-#, fuzzy
 msgid "DMEG on Data Quality"
-msgstr "DMEG （Data Management Expert Guide）中的資料品質"
+msgstr "DMEG 的資料品質頁面"
 
 #: url-reference:c653312c-e9b1-4d3c-b23f-26ba0c429cd4:label
 #, fuzzy
@@ -821,24 +816,20 @@ msgid "DMEG on File Naming and Folder Structure"
 msgstr "DMEG （Data Management Expert Guide）中的檔案命名與資料夾結構"
 
 #: url-reference:1d5185e5-b4f3-40c5-8a6e-b8f3dfe098f5:label
-#, fuzzy
 msgid "DMEG on File Structure"
-msgstr "DMEG （Data Management Expert Guide）中的檔案結構"
+msgstr "DMEG 的檔案結構頁面"
 
 #: url-reference:6c37835d-2aa5-4a40-92e7-28c3a8cc6752:label
-#, fuzzy
 msgid "DMEG on Fomats and Conversion"
-msgstr "DMEG （Data Management Expert Guide）中的格式與轉換"
+msgstr "DMEG 的格式與轉換頁面"
 
 #: url-reference:ce21ae0b-3efa-4249-941f-b1f3f18b2799:label
-#, fuzzy
 msgid "DMEG on Licensing"
-msgstr "DMEG （Data Management Expert Guide）中的授權"
+msgstr "DMEG 的授權頁面"
 
 #: url-reference:3e04aff9-3f6d-4b04-bc86-058ee0c2c81b:label
-#, fuzzy
 msgid "DMEG on Metadata"
-msgstr "DMEG （Data Management Expert Guide）中的後設資料"
+msgstr "DMEG 的後設資料頁面"
 
 #: url-reference:4c559ae4-fbde-45a9-bb03-53fb626198ec:label
 #, fuzzy
@@ -847,9 +838,8 @@ msgstr "DMEG （Data Management Expert Guide）中的個人資料"
 
 #: url-reference:2757f8e9-e3a8-44fb-af90-f650570305c0:label
 #: url-reference:ed8502b4-0043-4847-8db5-62377f135a3e:label
-#, fuzzy
 msgid "DMEG on Storage"
-msgstr "DMEG （Data Management Expert Guide）中的儲存"
+msgstr "DMEG 的儲存頁面"
 
 #: answer:48062bc9-0ffb-4509-bec6-e90641a30569:label
 #, fuzzy
@@ -877,9 +867,8 @@ msgid "Data Protection Officer"
 msgstr "資料保護官"
 
 #: choice:3022098b-0e2c-4fad-9f28-cf2e1325521d:label
-#, fuzzy
 msgid "Data Steward"
-msgstr "資料管家"
+msgstr "資料託管員"
 
 #: url-reference:35bcd464-9a68-49f3-8365-677fca660b17:label
 #: url-reference:b2db3b93-3ce7-4c3c-a80e-866671a9103a:label
@@ -1150,9 +1139,8 @@ msgid "Do all data centers where project data is stored carry sufficient certifi
 msgstr "存放專案資料的所有資料中心是否都具備充分的相關認證？"
 
 #: question:abaf4a70-17d4-449c-9b95-5b3bcfed7e9b:title
-#, fuzzy
 msgid "Do project members carry data with them?"
-msgstr "專案成員是否會留存資料？"
+msgstr "專案成員是否會隨身攜帶資料？"
 
 #: question:2d57daa6-df2e-4bf9-b024-710e74781d88:title
 msgid "Do project members send project data or reports per e-mail or other messaging services?"
@@ -2661,9 +2649,8 @@ msgid "Keeping provenance metadata"
 msgstr "保留資料溯源後設資料"
 
 #: answer:7785de46-4011-43b0-8b90-3a088c829d2c:label
-#, fuzzy
 msgid "LGPL 3.0 or later"
-msgstr "GPL 3.0 以上版本"
+msgstr "LGPL 3.0 或更新版本"
 
 #: answer:18db88c7-97c9-416e-b1ae-763bf018345e:label
 #: answer:f10de3a8-2751-42c7-afaa-92eed4833f8e:label
@@ -2868,9 +2855,8 @@ msgid "Name of the policy or process"
 msgstr "政策或程序名稱"
 
 #: answer:069a0976-498c-4a47-b42f-33c6a1e40126:label
-#, fuzzy
 msgid "New analyses will be done with the new version"
-msgstr "所有分析都將以新版本重新執行"
+msgstr "新的分析將使用新版本執行"
 
 #: answer:5374139c-f125-4d04-bce2-3ef6d4b34a2a:label
 msgid "New consent will be needed to cover our usage of the data"
@@ -3535,9 +3521,8 @@ msgid "Please specify the Grant ID"
 msgstr "請填寫補助編號"
 
 #: question:584c3be2-8735-4b37-bbac-1976e1b1c266:title
-#, fuzzy
 msgid "Please specify the reason why you will not be using this non-reference data set"
-msgstr "請具體說明您將不使用此參考資料的原因"
+msgstr "請具體說明您將不使用此非參考資料集的原因"
 
 #: question:fa591173-c9e5-426f-8bee-6e6082108169:title
 msgid "Please specify the reason why you will not be using this reference data"
@@ -3690,9 +3675,8 @@ msgid "RDF is the graph representation used in the 'semantic web'"
 msgstr "RDF 是「語意網」使用的圖形表示方式。"
 
 #: url-reference:df93fa41-88cb-451a-aa05-95a18cf02e73:label
-#, fuzzy
 msgid "RDMkit about Data Sensitivity"
-msgstr "RDMkit 中的資料敏感性"
+msgstr "RDMkit 的資料敏感性頁面"
 
 #: url-reference:d01dcf36-54ad-432d-9751-98abd2dbc2ab:label
 msgid "RDMkit on Collecting Data"
