@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-14 01:31+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-14 02:44+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -897,7 +897,7 @@ msgstr "涉及弱勢資料主體的資料，包括未成年人、受僱者、高
 
 #: question:e0759fdc-7ce9-4020-816d-73119f634c7e:text
 msgid "Data corruption or mistakes can happen with large amounts of files or large files. Keeping a *master list* with data checksums can be helpful to prevent expensive mistakes, because it will help detect early when data files are damaged or mixed up. It can also be helpful to keep the list under version control so that all changes are well documented."
-msgstr "在處理大量檔案或較大的檔案時，有可能發生資料毀損或錯誤。建立一份包含檔案核對和（checksums）的「*主清單（master list）*」，有助於及早偵測檔案是否受損或被混用，從而避免代價高昂的錯誤。此外，將此清單納入版本控制，也能確保所有變更能被完整記錄。"
+msgstr "在處理大量檔案或較大的檔案時，有可能發生資料毀損或錯誤。建立一份包含資料總和檢查碼（checksums）的「*主清單（master list）*」，有助於及早偵測檔案是否受損或被混用，從而避免代價高昂的錯誤。此外，將此清單納入版本控制，也能確保所有變更能被完整記錄。"
 
 #: question:f00cf643-5368-458a-97d4-b463c2000c66:title
 msgid "Data format/type"
@@ -1576,7 +1576,7 @@ msgstr "FAIRCookbook 的「建立資料／變項字典」頁面"
 
 #: url-reference:b0955b59-a0a1-47ef-9850-348bc9f2d1ee:label
 msgid "FAIRCookbook on creating checksum files"
-msgstr "FAIRCookbook 於產製核對和（checksum）檔案的資訊"
+msgstr "FAIRCookbook 的「建立總和檢查碼檔案」頁面"
 
 #: url-reference:b0f4ce3b-4dcd-467f-92e1-07c4f97004b7:label
 #: url-reference:e9091f21-22a1-4f5e-b8e1-6e3e4b2f8dca:label
@@ -3308,7 +3308,7 @@ msgstr "目前沒有類似的東西"
 
 #: answer:2bfd3b78-6013-42b3-ba13-51041aac5618:label
 msgid "Nothing like this has ever been done before"
-msgstr "目前沒有類似的軟體"
+msgstr "過去從未有人做過類似的工作"
 
 #: question:448403e9-578b-4155-9017-d4aa9119ea6a:title
 msgid "Number of files/subjects"
@@ -4225,7 +4225,7 @@ msgstr "目前版本，並且我們會固定使用該版本"
 
 #: answer:2a1261d5-6678-4181-8ab9-b9671546a02a:label
 msgid "The data capture is objective"
-msgstr "資料蒐集過程是客觀的"
+msgstr "資料擷取過程是客觀的"
 
 #: answer:be4cefce-2f81-42ad-a83c-330b4b3bb7b3:label
 msgid "The data will be published after an embargo"
@@ -5781,7 +5781,7 @@ msgstr "您是否會整合不同資料來源，以取得更多樣本或更多資
 
 #: question:e0759fdc-7ce9-4020-816d-73119f634c7e:title
 msgid "Will you be keeping a master list with checksums of certified/correct/canonical/verified data?"
-msgstr "您是否會保存一份主清單，列出已認證／正確／標準／已驗證資料的核對和？"
+msgstr "您是否會保存一份主清單，列出已認證／正確／標準／已驗證資料的總和檢查碼？"
 
 #: question:37d0367b-3b69-4b3e-9303-71e628b1f360:title
 msgid "Will you be keeping the relationships between data clear in the file names?"
