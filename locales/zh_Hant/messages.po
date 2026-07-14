@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-14 03:33+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-14 06:17+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -178,7 +178,7 @@ msgstr "所有重要資料也儲存在其他地方"
 
 #: answer:407560bc-705a-4885-85d6-4f61fe58eeed:label
 msgid "All immediately in digital form"
-msgstr "全部立即以數位形式呈現"
+msgstr "所有資料都會直接以數位形式記錄"
 
 #: answer:be99bdcc-76f2-43c3-b277-064062360dc1:label
 msgid "All steps of the workflow will be performed at central computing locations"
@@ -962,7 +962,7 @@ msgstr "專案開始時即可取用資料，無需等待"
 
 #: answer:374974a6-2c51-4508-aa93-9ef8f1ef65fd:label
 msgid "Data will first be on paper"
-msgstr "資料將最初會是紙本形式"
+msgstr "資料最初會以紙本形式記錄"
 
 #: answer:2359684e-be7f-4990-8f2e-84079ceb48c3:label
 msgid "Data will not be on systems owned by workflow developers"
@@ -1609,7 +1609,7 @@ msgstr "FAIRCookbook 的術語與本體選擇頁面"
 
 #: url-reference:f57c5313-6ccb-4eb4-b79a-fdbd3c72bc48:label
 msgid "FAIRCookbook on tools to convert data to RDF"
-msgstr "FAIRCookbook 將資料轉換為 RDF 格式的工具"
+msgstr "FAIRCookbook 的「將資料轉換為 RDF 的工具」頁面"
 
 #: url-reference:2e0ed21b-2180-4497-8c41-fd2609904400:label
 msgid "FAIRSharing"
@@ -1931,7 +1931,7 @@ msgstr "日後想再次使用資料的人會如何取用資料？"
 
 #: question:4e84a44f-e66b-42f5-bb42-7e6c4bd3b79b:title
 msgid "How will the data be captured?"
-msgstr "資料會如何被擷取？"
+msgstr "您將如何擷取資料？"
 
 #: question:deb9d6b3-4f11-4aa8-b016-52d1612c002a:title
 msgid "How will the old version be available?"
@@ -3743,7 +3743,7 @@ msgstr "RDMkit 的既有資料頁面"
 #: url-reference:42a7b822-5644-48f5-aa9a-9a9e3119a028:label
 #: url-reference:ba4eb06a-2d61-4755-bb51-8232b349d0a1:label
 msgid "RDMkit on GDPR Compliance"
-msgstr "RDMkit 的 GDPR 法遵頁面"
+msgstr "RDMkit 的 GDPR 法規遵循頁面"
 
 #: url-reference:2a6ffbc9-6a07-4d5a-8df6-e7c44ce2356c:label
 #: url-reference:612660d5-dedc-4c4d-9176-06a887b47f14:label
