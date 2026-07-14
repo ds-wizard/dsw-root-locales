@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-09 09:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-14 01:31+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -118,7 +118,7 @@ msgstr "請新增此資料集將可被取用的每個位置，並為每個位置
 
 #: question:c3dabaaf-c946-4a0d-889c-ede966f97667:text
 msgid "Add each of the research project(s) that you are (or will be) working on and for which the data and work are described in this DMP. Give each project a small identifying name for yourself."
-msgstr "請列出您正在進行或未來將參與、且其資料與工作內容已在本資料管理方案（DMP）中的每個研究專案。並為每個專案設定一個您能辨識的簡短名稱。"
+msgstr "請列出您目前或未來將參與，且其資料與工作內容由本資料管理方案（DMP）說明的所有研究計畫。並為每個計畫設定一個您能辨識的簡短名稱。"
 
 #: question:bd886f8e-7825-4f98-afb2-6079ae15c8ed:text
 msgid "Add reference to established agreement."
@@ -197,7 +197,7 @@ msgstr "有替代選項，不過我們偏好自己開發"
 msgid ""
 "Although there is no world-wide rule for the application of copyright on data sets (copyright only applies to things that require a so-called \"creative step\"), it is wise to check for an explicit permission to use a data set and not to assume that data can be used freely just because you can access it. \n"
 "Note that copyright laws explicitly *forbid* the use of a copyrighted work, *except* if you get permission. Such a permission is called a \"licence\". So: if you can not find a licence, you have to assume you can not use the data."
-msgstr "儘管在資料集著作權的適用上並沒有全球一致的規範（著作權僅適用於需要所謂「創作性步驟」的內容），但在使用前，確認資料集是否有明確的使用授權仍是明智之舉，不應因為資料可以被取用，就假設可以自由使用。\n請注意，著作權法明確「禁止」使用受著作權保護的作品，*除非*您已取得許可。這類許可稱為「授權條款」。因此，如果您找不到授權條款，就必須假定您不能使用該資料。"
+msgstr "儘管在資料集著作權的適用上並沒有全球一致的規範（著作權僅適用於需要所謂「創作性步驟」的內容），但在使用前，確認資料集是否有明確的使用授權仍是明智之舉，不應因為資料可以被取用，就假設可以自由使用。\n請注意，著作權法明確*禁止*使用受著作權保護的作品，*除非*您已取得許可。這類許可稱為「授權條款」。因此，如果您找不到授權條款，就必須假定您不能使用該資料。"
 
 #: question:e53fdad9-7799-4eb4-8b4d-fa9aa05f9d2d:title
 msgid "Amount"
@@ -221,7 +221,7 @@ msgid ""
 "\n"
 "Pseudonymisation refers to the processing of personal data in such a manner that the personal data can no longer be attributed to a specific person without the use of additional information, i.e. any identifying characteristics are replaced with\n"
 "a pseudonym."
-msgstr "匿名化（Anonymization）指的是，以某種方式處理個人資料，使他人無法從資料中識別出個人。例如，資料可被降為較概括的層級（如彙整後的資料），或轉換為統計資料，讓任何人都無法再從中辨識出個人身分。\n\n\n假名化（Pseudonymization）則是指，以某種方式處理個人資料，使其在未搭配額外資訊的情況下，無法再將資料歸屬於特定個人，也就是將任何可識別個人的特徵以「假名」取代。"
+msgstr "匿名化（Anonymization）指的是，以某種方式處理個人資料，使他人無法從資料中識別出個人。例如，資料可被降為較概括的層級（如彙整後的資料），或轉換為統計資料，讓任何人都無法再從中辨識出個人身分。\n\n擬匿名化（Pseudonymization）則是指，以某種方式處理個人資料，使其在未搭配額外資訊的情況下，無法再將資料歸屬於特定個人，也就是將任何可識別個人的特徵以「假名」取代。"
 
 #: answer:820c78f6-81d0-442f-80c7-bfa3d04b282a:label
 msgid "Another period"
@@ -365,7 +365,7 @@ msgid ""
 "Are there any limitations on the data use e.g. only for research on certain types of diseases, sharing only within certain geographical boundaries, etc.?\n"
 "\n"
 "Describing data use in a formalised way by using the data use ontology (DUO) greatly improves the data reusability."
-msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類型疾病的研究、僅限在特定地理範圍內共享等？\n\n藉由資料使用本體論（data use ontology），以正式化方式描述資料使用，能大幅提升資料的可重用性。"
+msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類型疾病的研究、僅限在特定地理範圍內共享等？\n\n藉由資料使用本體論（data use ontology），以正式化方式描述資料使用，能大幅提升資料的可再次使用性。"
 
 #: question:426bdcb5-d012-4f1d-b99e-36dc3efe6e50:title
 msgid "Are there any other outputs of your project that might be valuable to some other entities (researchers, researcher groups, institutes)?"
@@ -387,7 +387,7 @@ msgstr "是否還有其他為維持資料或文件可取用而定期支付的費
 
 #: question:8df5fdb2-e358-4c27-bbe8-efdca150702b:title
 msgid "Are there any software packgages you will be publishing?"
-msgstr "您是否將發布任何軟體套件？"
+msgstr "您是否將發布任何軟體包？"
 
 #: question:85a9d872-3d41-4560-82c4-b850a6e2d5ac:title
 msgid "Are there business reasons why (some of your) data can not be completely open?"
@@ -415,7 +415,7 @@ msgstr "是否有指向其他資料集、且明確說明關係的參照？"
 
 #: question:754148c2-6019-4318-8d44-d73becc989f4:title
 msgid "Are there restrictions on where the data need to be stored?"
-msgstr "資料在儲存位置 / 地點上是否有任何限制？"
+msgstr "資料的儲存位置是否有任何限制？"
 
 #: question:e458d2eb-ba1e-4c4c-8619-5f8f431715b4:title
 msgid "Are you calibrating measurements?"
@@ -529,11 +529,11 @@ msgid ""
 "Before you decide to embark on any new study, it is good practice to check all options to re-use existing available data, either collected or generated by yourself in an earlier project, or data from others (Barend Mons calls this \"Other PEople's Data And Services\" or OPEDAS). This can include reusable data that have been created for an earlier study, and also so-called \"reference data\" which is used by many projects.\n"
 "\n"
 "It is not because we can generate massive amounts of data that we always need to do so. Creating data with public money is bringing with it the responsibility to treat those data well and (if potentially useful) make them available for re-use by others. And the circle is only complete if such data is actually re-used."
-msgstr "在您決定開始任何新研究之前，最好檢查所有現有的可用資料，作為可重複使用的選項。這些資料可能是您在早期專案中收集或產生的，也可能是來自他人的資料（Barend Mons 將其稱為「他人的資料與服務」或 OPEDAS）。這可以包括為早期研究建立的可重用資料，以及許多專案都會使用的所謂「參考資料」。\n\n我們並非因為能夠產生海量資料就必須總是這麼做。利用公帑產出資料，也隨之帶來了妥善處理這些資料的責任，並且（若具備潛在用途）應將其提供給他人重複使用。而唯有當這些資料確實被重複使用時，這個循環才算完整。"
+msgstr "在您決定展開任何新研究之前，良好的做法是先確認是否能再次使用現有資料，包括您在先前專案中蒐集或產生的資料，以及他人的資料（Barend Mons 將其稱為「他人的資料與服務」，即 OPEDAS）。這些資料可能包括為先前研究建立、可再次使用的資料，以及許多專案共同使用的「參考資料」。\n\n能夠產生大量資料，並不表示每次都有必要這麼做。使用公帑產生資料，也意味著有責任妥善管理資料，並在資料可能有用時提供他人再次使用。唯有這些資料確實被再次使用，這個循環才算完整。"
 
 #: question:3d09f311-07dd-49a0-8445-5eab8f9548fc:text
 msgid "Below listed are 9 criteria - provided by the EC - that might indicate that your project constitutes **high risk processing**.  Please check the indicators that apply your project. Consult the linked EC Guideline for explanations of indicators."
-msgstr "以下列出由歐盟執委會提供的 9 項準則，這些準則可能顯示您的專案構成高風險處理。請勾選適用於您專案的指標。各項指標的詳細說明，請參閱連結中的 EC 指南。"
+msgstr "以下列出由歐盟執委會提供的 9 項準則，這些準則可能顯示您的專案構成**高風險處理**。請勾選適用於您專案的指標。各項指標的詳細說明，請參閱連結中的 EC 指南。"
 
 #: question:934f6592-a032-4ada-91b2-4448d740d157:text
 msgid "Briefly describe the contents of this data set"
@@ -549,7 +549,7 @@ msgstr "向聯絡人提出請求"
 
 #: question:349c806a-6527-4d58-933a-dd53a31d831f:title
 msgid "By whom it might be reused?"
-msgstr "哪些對象可能會重複使用這些資料？"
+msgstr "哪些對象可能會再次使用這項成果？"
 
 #: question:20a9685a-5560-43dc-bb13-73c434f8d666:title
 msgid "Can all data be brought into the same format, e.g. RDF?"
@@ -597,7 +597,7 @@ msgstr "您是否能依據重要的選用準則，決定要使用哪個工作流
 
 #: question:5db6bd58-5d1d-4d02-9497-972cbef64c16:title
 msgid "Can you make use of an existing 'trusted third party' for pseudonymization?"
-msgstr "您是否能利用現有的「可信任第三方」來進行假名化（pseudonymization）？"
+msgstr "您是否能利用現有的「信任的第三方」進行擬匿名化（pseudonymization）？"
 
 #: question:2122d8b6-ab79-4a20-9016-d2ab8d154a58:title
 msgid "Can you reach out to the developers? Is there a contact?"
@@ -737,7 +737,7 @@ msgstr "是否可以透過匿名化（Anonymization）使資料更加公開可�
 
 #: question:a25b30f4-2d0f-4132-9b8e-0950f0b0ed66:title
 msgid "Could pseudonymization be used to make the data more openly available?"
-msgstr "是否可以透過假名化（pseudonymization）使資料更加公開可用？"
+msgstr "是否可以透過擬匿名化（pseudonymization），讓資料能以更開放的方式提供？"
 
 #: question:6b3d62a5-1d4d-49e1-aaf1-0a8b398a7ac3:title
 msgid "Could the coupling of data create a danger of re-identification of pseudo- or anonymized personal data?"
@@ -749,7 +749,7 @@ msgstr "您是否可以透過資料聚合，使資料更容易公開提供？"
 
 #: chapter:b1df3c74-0b1f-4574-81c4-4cc2d780c1af:title
 msgid "Creating and collecting data"
-msgstr "建立與收集資料"
+msgstr "建立與蒐集資料"
 
 #: cross-reference:37fcb07e-a791-40ef-934b-33dedece5b0c:description
 msgid "Creating reference data"
@@ -769,16 +769,15 @@ msgstr "貨幣"
 
 #: url-reference:c3371a36-cc69-430d-b1e4-eb7a98ebe10e:label
 msgid "DDI metadata documentation"
-msgstr "DDI 後設資料文檔"
+msgstr "DDI 後設資料文件"
 
 #: question:9320bf04-824b-46b3-ae8b-55240e2d04b9:text
 msgid "DDI metadata is more extensive than Dublin Core and DataCite, it details more of what is in the data and really can help other researchers locate your data set as an interesting source."
 msgstr "DDI 後設資料比 Dublin Core 和 DataCite 更為全面，它進一步細述了資料，能確實協助其他研究者將您的資料集定位為有趣的來源。"
 
 #: url-reference:ba9fdb42-1524-4d68-8aa9-c3ab72b54dc5:label
-#, fuzzy
 msgid "DMEG on Access to Data"
-msgstr "DMEG （Data Management Expert Guide）中的資料存取"
+msgstr "DMEG（Data Management Expert Guide）的「取用資料」頁面"
 
 #: url-reference:aa54555f-b312-41a5-9c24-609b2d7d9346:label
 msgid "DMEG on Backups"
@@ -882,7 +881,7 @@ msgid ""
 "Re-users of the data also need this information to decide whether the data can be used for their purpose.\n"
 "\n"
 "In computing, systems like Galaxy and (Jupyter) notebooks often automatically keep provenance information."
-msgstr "資料分析通常是逐步進行的，因此對所有資料而言，完整記錄其來源，以及所有處理與篩選步驟相當重要；否則，分析結果將無法再製。\n\n資料的再利用者（re-users）同樣需要這些資訊，才能判斷資料是否適合他們的使用目的。\n\n在運算環境中，像是 Galaxy 與（Jupyter）筆記本等系統，往往能自動保留資料的來源與處理歷程（provenance）資訊。"
+msgstr "資料分析通常是逐步進行的，因此對所有資料而言，完整記錄其來源，以及所有處理與篩選步驟相當重要；否則，分析結果將無法再製。\n\n資料的再利用者（re-users）同樣需要這些資訊，才能判斷資料是否適合他們的使用目的。\n\n在運算環境中，Galaxy 與（Jupyter）筆記本等系統往往能自動保留資料溯源資訊（provenance information）。"
 
 #: cross-reference:1fa0cc82-65e6-492f-b982-19ea2636ed95:description
 msgid "Data archive setup"
@@ -898,7 +897,7 @@ msgstr "涉及弱勢資料主體的資料，包括未成年人、受僱者、高
 
 #: question:e0759fdc-7ce9-4020-816d-73119f634c7e:text
 msgid "Data corruption or mistakes can happen with large amounts of files or large files. Keeping a *master list* with data checksums can be helpful to prevent expensive mistakes, because it will help detect early when data files are damaged or mixed up. It can also be helpful to keep the list under version control so that all changes are well documented."
-msgstr "在處理大量檔案或較大的檔案時，有可能發生資料毀損或錯誤。建立一份包含檔案核對和（checksums）的「主清單（master list）」，有助於及早偵測檔案是否受損或被混用，從而避免代價高昂的錯誤。此外，將此清單納入版本控制，也能確保所有變更能被完整記錄。"
+msgstr "在處理大量檔案或較大的檔案時，有可能發生資料毀損或錯誤。建立一份包含檔案核對和（checksums）的「*主清單（master list）*」，有助於及早偵測檔案是否受損或被混用，從而避免代價高昂的錯誤。此外，將此清單納入版本控制，也能確保所有變更能被完整記錄。"
 
 #: question:f00cf643-5368-458a-97d4-b463c2000c66:title
 msgid "Data format/type"
@@ -1413,7 +1412,7 @@ msgstr "EC 的 DPIA 指南"
 
 #: question:73d686bd-7939-412e-8631-502ee6d9ea7b:text
 msgid "Each person contributing to creating or executing the data management plan should be added as a contributor. A project probably should have a Contact Person, and a Data Curator."
-msgstr "每位參與資料管理計畫撰寫或執行的人員，皆應列為貢獻者（contributor）。一個專案通常會指定一名聯絡人（Contact Person）及一名資料策展人（Data Curator）。"
+msgstr "每位參與資料管理方案撰寫或執行的人員，皆應列為貢獻者（contributor）。一個專案通常會指定一名聯絡人（Contact Person）及一名資料策展人（Data Curator）。"
 
 #: choice:100daf28-b55e-4b04-8295-f2aa83d0c734:label
 #, fuzzy
@@ -1446,7 +1445,7 @@ msgstr "確保資料可再次使用"
 
 #: question:b1f62b06-e69a-41be-8d16-1d73b9b75cd2:text
 msgid "Especially for large projects, referring to data internally via a persistent identifier system can be helpful as such a system can help to keep track of data that moves to a new location."
-msgstr "對於大型專案而言，透過永久識別碼（persistent identifier）系統在內部引用資料特別有幫助，因為此類系統能協助追蹤遷移至新位置的資料。"
+msgstr "對於大型專案而言，透過持續識別碼（persistent identifier）系統在內部引用資料特別有幫助，因為此類系統能協助追蹤遷移至新位置的資料。"
 
 #: question:4c7cd15f-90f9-4ab3-8082-38da4f642de1:text
 msgid "Especially if analysis and processing of data in the project is done on multiple different computers by different people, it is a good idea to have your own repository of reference data versions."
@@ -1500,7 +1499,7 @@ msgid ""
 "\n"
 "If the processing operation is exempted from the right to information according to the GDPR, provide a justification.\n"
 "Mention the relevant document in which the responsibilities regarding the information of data subjects are indicated."
-msgstr "請說明將如何告知資料主體（data subjects）相關資訊，以及如何處理他們所提出的請求。\n\n資料主體必須被告知研究目的、研究的利益、所蒐集的資料類型，以及他們可能承受的潛在風險。\n\n若該資料處理活動依據《一般資料保護規則》（GDPR）可免除告知義務，請提供相關說明。\n並請指出載明資料主體告知責任之相關文件。"
+msgstr "請說明將如何告知資料主體（data subjects）相關資訊，以及如何處理他們所提出的請求。\n\n資料主體必須被告知研究目的、研究的利益、所蒐集的資料類型，以及他們可能承受的潛在風險。\n\n若該資料處理活動依據歐盟《個人資料保護規則》（GDPR）可免除告知義務，請提供相關說明。\n並請指出載明資料主體告知責任之相關文件。"
 
 #: question:61d21b4f-332b-4257-a345-bbf51b10d357:title
 msgid "Explain how data subjects will be informed. "
@@ -1573,7 +1572,7 @@ msgstr "FAIRCookbook 的軟體授權頁面"
 
 #: url-reference:7be357bc-b820-42af-a512-95d68cb78d79:label
 msgid "FAIRCookbook on creating a data/variable dictionary"
-msgstr "FAIRCookbook 創建資料 / 變數字典的資訊"
+msgstr "FAIRCookbook 的「建立資料／變項字典」頁面"
 
 #: url-reference:b0955b59-a0a1-47ef-9850-348bc9f2d1ee:label
 msgid "FAIRCookbook on creating checksum files"
@@ -1652,11 +1651,11 @@ msgstr "凡涉及向受試者蒐集資料的專案，皆需確保受試者得以
 
 #: question:8c962e6f-17ee-4b22-8ebb-9f06f779e3b3:text
 msgid "For the re-usability of your data by yourself or others at a later stage, a lot of information about the data – for example how it was collected and how it can be used – should be stored with the data. Such *data about the data* is called **metadata**, and this set of questions are about this metadata."
-msgstr "為確保您資料在未來能被自己或他人在未來的可再利用度，應將與資料相關的資訊一併保存——例如資料的蒐集方式，以及其可被使用的方式等。這類「關於資料的資料」稱為後設資料（metadata），本組問題是跟這些後設資料相關的題目。"
+msgstr "為了讓您自己或他人日後能再次使用資料，應將資料的相關資訊一併保存，例如資料的蒐集方式及使用方式。這類「*關於資料的資料*」稱為**後設資料**（metadata），本組問題將探討這些後設資料。"
 
 #: question:192fc5d3-dc2a-495c-8f24-f59a4c5d95c9:text
 msgid "Formats like XLS or SQL are very flexible; they can be adapted to many different uses, and this makes them good for interoperability. However, their flexibility also makes that it is not immediately obvious from the file structure how it can be used. The data needs a proper *description* in order for others (or yourself at a later time) to be able to unambiguously understand what it contains."
-msgstr "XLS 或 SQL 這類格式相當有彈性；它們可以因應不同用途進行調整，因此有助於資料的可相互操作性。然而，正因為這種彈性，單從檔案結構本身往往無法立即理解資料可以如何被使用。因此，資料必須搭配適當描述，他人（或未來的自己）才能清楚且不產生歧義地理解檔案內容。"
+msgstr "XLS 或 SQL 這類格式相當有彈性；它們可以因應不同用途進行調整，因此有助於資料的可相互操作性。然而，正因為這種彈性，單從檔案結構本身往往無法立即理解資料可以如何被使用。因此，資料必須搭配適當的*描述*，他人（或未來的自己）才能清楚且不產生歧義地理解檔案內容。"
 
 #: question:28d494ef-26c0-4632-956e-5cafcc498a32:text
 msgid "From which date will data be available under this license?"
@@ -1684,7 +1683,7 @@ msgstr "資助狀態"
 
 #: choice:caac09f2-be5c-4ba4-82dc-7f0ee33ab67d:label
 msgid "GDPR"
-msgstr "歐盟「一般個人資料保護規則」（GDPR，General Data Protection Regulation）"
+msgstr "歐盟《個人資料保護規則》（GDPR）"
 
 #: url-reference:f093edb7-f08c-4742-8b0e-8abe0bf6c34f:label
 msgid "GDPR Chapter 3: Rights of the data subject"
@@ -1696,7 +1695,7 @@ msgstr "GPL 3.0 或更新版本"
 
 #: question:c8687abf-ac88-4bef-b1cc-7070bd039a07:title
 msgid "General Data Protection Regulation (GDPR) considerations"
-msgstr "《一般個人資料保護規則》（GDPR）考量"
+msgstr "歐盟《個人資料保護規則》（GDPR）相關考量"
 
 #: choice:039eceea-640e-4e6c-89fb-40965956a2e7:label
 msgid "Genetic data"
@@ -1964,11 +1963,11 @@ msgstr "您會如何取用資料？"
 
 #: question:8c962e6f-17ee-4b22-8ebb-9f06f779e3b3:title
 msgid "How will you be collecting and keeping your metadata?"
-msgstr "你將如何蒐集並保存你的後設資料？"
+msgstr "您將如何蒐集並保存後設資料？"
 
 #: question:948b5fd8-c1bd-457d-8f81-ea2fd093f541:title
 msgid "How will you be keeping track of the \"provenance\" of the data?"
-msgstr "你將如何追蹤資料的出處？"
+msgstr "您將如何追蹤資料溯源資訊？"
 
 #: question:edc9b6d9-c121-4e00-ba83-710330c2e18d:title
 msgid "How will you be paying for these services?"
@@ -1984,7 +1983,7 @@ msgstr "您將如何設計新資料格式？"
 
 #: question:8e886b55-3287-48e7-b353-daf6ab40f7d8:title
 msgid "How will you do file naming and file organization?"
-msgstr "你將如何進行檔案命名與檔案整理？"
+msgstr "您將如何進行檔案命名與檔案整理？"
 
 #: question:bf52613c-1bfb-47b6-87cc-42f54de79129:title
 msgid "How will you handle changes in the data?"
@@ -2115,7 +2114,7 @@ msgstr "如果資料的「主要副本」可在線上取用，通常應加以保
 
 #: question:3782d32b-91b5-432f-8f93-92bb22868a22:text
 msgid "If the answer is positive, you should have specified the relevant ethical review details under the \"Research Project\" question in the Administrative information chapter."
-msgstr "如果答案為是，你應已在行政資訊章節中「研究專案」問題下填寫相關的倫理審查細節。"
+msgstr "如果答案為是，您應已在「行政資訊」章節的「研究計畫」問題中填寫相關倫理審查資訊。"
 
 #: question:15eb6fe6-7b21-493b-a5a0-09ac63212ab6:text
 msgid "If the coupling parameters are lenient, you will find more connections than when they are strict. But you may find that they are less accurate. This is a balance."
@@ -2189,7 +2188,7 @@ msgstr "如果您從不同來源取得不同類型的資料，並希望一起使
 
 #: answer:033e0538-5322-49c8-b537-9375eb86fd90:advice
 msgid "If you are working with multiple people on a complex project, it could be causing problems if changes are made to e.g. sample identifiers half-way the project. If there is no central information keeping, not everyone may be aware of important changes, and updates of partially run workflows could be forgotten."
-msgstr "若你與多人共同參與一項複雜專案，則在專案進行途中變更例如樣本識別碼等資訊，可能會造成問題。若沒有集中管理資訊的機制，相關人員未必都能掌握這些重要變更，而對於僅部分執行完成的工作流程，其後續更新也可能被忽略。"
+msgstr "若您與多人共同執行複雜專案，在專案進行期間變更樣本識別碼等資訊，可能會造成問題。若沒有集中管理資訊的機制，相關人員未必都能掌握這些重要變更，而對於僅部分執行完成的工作流程，其後續更新也可能被忽略。"
 
 #: question:f6e66f4f-7b11-420f-a4b6-5fc972bc66d9:text
 msgid "If you have large volumes of data that are intensely and repeatedly used by the computing work flow, it may be needed to keep the storage in the same place as where the computing takes place."
@@ -2582,7 +2581,7 @@ msgstr "成本太高"
 
 #: question:0551adc9-7faa-4ddc-a07b-08fbde2a247b:text
 msgid "It is very likely that data will be moved and copied. At some point people may lose track of the origins. It can be helpful to have the licenses (of course *as open as possible*) stored in close association with the data."
-msgstr "資料很可能會被移動與複製。久而久之，人們可能會無法追蹤其來源。因此將授權條款（當然是盡可能開放的授權條款）與資料一併保存，會很有幫助。"
+msgstr "資料很可能會被移動與複製。久而久之，人們可能會無法追蹤其來源。因此將授權條款（當然是*盡可能開放*的授權條款）與資料一併保存，會很有幫助。"
 
 #: question:0451d421-4c97-452e-b399-4fe278b97147:text
 msgid "It may appear that in a table with 'patients' as rows, a column labeled 'disease' coupled to an ontology has a clear meaning. But that is not always explicit enough! A 'disease' could e.g. be the disease that the patient is suffering from, but it could also be an earlier diagnose, a suspected diagnose, or the disease a family member recently died of."
@@ -2659,7 +2658,7 @@ msgstr "法律要求"
 
 #: question:a25b30f4-2d0f-4132-9b8e-0950f0b0ed66:text
 msgid "Legally, pseudonymous data (which means that someone has the key to reverse the process) is still considered privacy sensitive information. However, the EU is working on special cases where the data can still be opened as long as the key availability is sufficiently limited."
-msgstr "從法律上來說，假名化資料（也就是仍有人持有可將該處理過程還原之金鑰的資料）仍被視為隱私敏感資訊。不過，歐盟目前正研議某些特殊情況，只要該金鑰的可取得性受到充分限制，這類資料仍可能可以開放。"
+msgstr "從法律上而言，擬匿名化資料（亦即仍有人持有可逆轉處理過程之金鑰的資料）仍被視為涉及隱私的敏感資訊。不過，歐盟目前正研議特殊情況：只要金鑰的可取得性受到充分限制，這類資料仍可公開提供。"
 
 #: answer:9d5e3104-2b6b-4d95-848e-253ef069d8b3:label
 msgid "Legitimate interest"
@@ -3297,7 +3296,7 @@ msgid ""
 "GDPR](https://gdpr-info.eu/art-28-gdpr/). The agreement should also regulate the use of any sub-processors.\n"
 "\n"
 "[Article 4](https://gdpr-info.eu/art-4-gdpr/) (8): *“**‘processor’** means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.”* Examples of this is if you use a secure computing environment provided by another organisation to do your analysis or to store the data, along with several other scenarios. In the case that you do, there needs to be a legal agreement established between the controller(s) and processor(s) as defined in [Article 28](https://gdpr-info.eu/art-28-gdpr/) (3): *“Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller. […]”* Article 28 also lists the required contents of such an agreement. Your organisation and/or the processor organisation will probably have agreement templates that you can use."
-msgstr "注意：資料處理協議必須包含 [GDPR 第 28 條第 3 項](https://gdpr-info.eu/art-28-gdpr/) 規定的必要條款。\n協議也應規範任何次級資料處理者的使用。\n\n[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 8 款將「資料處理者」定義為：「代表資料控制者處理個人資料的自然人、法人、公務機關、機構或其他團體。」例如，若您使用其他組織提供的安全運算環境進行分析或儲存資料，就可能屬於這種情況；其他情境也可能適用。若屬於這種情況，資料控制者與資料處理者之間需要依 [第 28 條](https://gdpr-info.eu/art-28-gdpr/) 第 3 項訂立法律協議：「資料處理者進行的處理，應受歐盟或會員國法律下的契約或其他法律行為約束，該契約或法律行為對資料處理者相對於資料控制者具有拘束力，並列明處理的標的與期間、處理的性質與目的、個人資料類型與資料主體類別，以及資料控制者的義務與權利。……」第 28 條也列出此類協議的必要內容。您的組織及／或資料處理者所屬組織，很可能已有可供使用的協議範本。"
+msgstr "注意：資料處理協議必須包含 [GDPR 第 28 條第 3 項](https://gdpr-info.eu/art-28-gdpr/) 規定的必要條款。\n協議也應規範任何次級資料處理者的使用。\n\n[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 8 款將資料處理者定義為：「*所稱**資料處理者**，是指代表資料控制者處理個人資料的自然人、法人、公務機關、機構或其他團體。*」例如，若您使用其他組織提供的安全運算環境進行分析或儲存資料，就可能屬於這種情況；其他情境也可能適用。若屬於這種情況，資料控制者與資料處理者之間需要依 [第 28 條](https://gdpr-info.eu/art-28-gdpr/) 第 3 項訂立法律協議：「*資料處理者進行的處理，應受歐盟或會員國法律下的契約或其他法律行為約束，該契約或法律行為對資料處理者相對於資料控制者具有拘束力，並列明處理的標的與期間、處理的性質與目的、個人資料類型與資料主體類別，以及資料控制者的義務與權利。……*」第 28 條也列出此類協議的必要內容。您的組織及／或資料處理者所屬組織，很可能已有可供使用的協議範本。"
 
 #: question:a2b1fa38-792a-4628-9765-93476a38cffb:text
 msgid "Note: Be aware that different laws might define the mandatory content of an informed consent in different ways. Therefore, an informed consent that is valid under one law (e.g. ethical legislation), might not be valid under another law (e.g. GDPR). Informed consents acquired before the GDPR might not be valid if consent is to be used as the legal basis for processing."
@@ -3357,7 +3356,7 @@ msgstr "糟了！那將表示這些資料過一段時間後，可能就無法再
 
 #: question:36938ca8-e22d-47a6-8859-a52f536101c5:text
 msgid "Open Source licenses give a series of permissions (and guarantees) to users of your software. There are a number of different open source licenses to choose from."
-msgstr "開源授權會賦予你的軟體使用者一系列的使用權限（以及相應的保障）。可供選擇的開源授權種類有很多。"
+msgstr "開源授權會賦予您軟體的使用者一系列權限（以及相應保障）。可供選擇的開源授權有多種類型。"
 
 #: answer:1fd3e838-f92a-4086-8308-de17f6fa9d73:label
 msgid "Open: The data will be shared with anyone, as long as they obey conditions of the license"
@@ -3390,7 +3389,7 @@ msgstr "在相同研究領域工作的其他研究人員"
 
 #: answer:68dc8368-d1fd-4bd5-8677-abc9ac7aa4b4:label
 msgid "Our computing workflow system keeps provenance information "
-msgstr "我們的運算工作流程系統會保存出處資訊（provenance information） "
+msgstr "我們的運算工作流程系統會保存資料溯源資訊（provenance information） "
 
 #: answer:f310952b-e946-4315-bb32-bf127d1bf96a:label
 msgid "Our data is legally not copyrightable, there is no legal rightsholder"
@@ -3578,7 +3577,7 @@ msgstr "資料處理"
 
 #: question:de72effc-807a-4081-b842-1e77ecc9c43f:text
 msgid "Processing of certain categories of personal data is not allowed unless there are exemptions in law to allow this. Among these categories (“sensitive data”) are *“‘[...] data revealing racial or ethnic origin, [...] genetic data, [...] data concerning health’”*. Most types of personal data collected in biomedical research will fall under these categories. [Article 9](https://gdpr-info.eu/art-9-gdpr/) (2) lists a number of exemptions that apply, of which *consent* and *scientific research* are most likely to be relevant for research. Please consult with your Data Protection Officer of your organisation."
-msgstr "除非法律設有例外規定，否則不得處理某些類別的個人資料。這些類別又稱為「敏感資料」，包括可揭露種族或族裔出身的資料、基因資料、健康相關資料等。生物醫學研究所蒐集的個人資料，多半會落入這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/) 第 2 項列出多項可適用的例外規定；其中，與研究最可能相關的是「同意」與「科學研究」。請諮詢您組織的資料保護官。"
+msgstr "除非法律設有例外規定，否則不得處理某些類別的個人資料。這些類別又稱為「敏感資料」，包括「*可揭露種族或族裔出身的資料、基因資料、健康相關資料等*」。生物醫學研究所蒐集的個人資料，多半會落入這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/) 第 2 項列出多項可適用的例外規定；其中，與研究最可能相關的是「*同意*」與「*科學研究*」。請諮詢您組織的資料保護官。"
 
 #: choice:9e3d02c8-3a93-4e95-b724-36ed315efb69:label
 msgid "Processing that prevents data subjects from exercising a right or using a service or a contract."
@@ -3858,7 +3857,7 @@ msgstr "資料儲存庫通常會允許搜尋引擎與目錄系統以自動化方
 
 #: question:c3dabaaf-c946-4a0d-889c-ede966f97667:title
 msgid "Research Project(s)"
-msgstr "研究專案"
+msgstr "研究計畫"
 
 #: question:726e4a24-6d81-440b-8a70-5d36fa65c3a9:text
 msgid "Research funding organisations more and more demand that you search for existing data sets that could have information that you need, before assuming you need to collect all data yourself. You are asked to list what you have been able to locate, and whether you have found it suitable to use in your research. Do you need pointers to find such existing data sets?"
@@ -3916,7 +3915,7 @@ msgstr "樣本僅會以內碼加以識別"
 
 #: answer:b0544e61-df56-4d21-bd68-f81f83fdc7c4:label
 msgid "Samples will receive a universally unique persistent identifier (PID)"
-msgstr "樣本將會取得一組全球唯一的持久識別碼（PID）"
+msgstr "樣本將會取得一組全域唯一的持續識別碼（PID）"
 
 #: answer:7c215b23-edb9-4fc7-95d1-010ee53f3853:label
 msgid "Scientific research"
@@ -3977,7 +3976,7 @@ msgstr "此處未列出的軟體"
 
 #: question:1024bb15-aaf5-4696-9b49-42898b72a16d:title
 msgid "Software package:"
-msgstr "軟體套件："
+msgstr "軟體包："
 
 #: question:dc39957e-688a-4f71-a6a8-57f52509e7cf:text
 msgid "Some \"file\" storage systems do not have a tree structure like we know in a file system, but rather have direct pointers to any file in the system. Such systems are called \"object stores\" or \"document stores\". Examples are Amazon S3 and CEPH, or MongoDB."
@@ -3985,7 +3984,7 @@ msgstr "有些「檔案」儲存系統不像一般檔案系統那樣採用我們
 
 #: question:a549d10b-aa46-4c0c-863f-30219ac5ecce:text
 msgid "Some data may be subject to a temporary embargo, or need to stay closed for specific reasons. "
-msgstr "有些資料可能需要暫時延後公開，或基於特定理由而保持不公開。 "
+msgstr "有些資料可能設有暫時性的延後開放期限，或基於特定理由而保持不公開。 "
 
 #: question:1302cb21-6a98-490e-b64d-acf4744a8b1a:text
 msgid "Some data types may be closely coupled to specific software packages. If that is the case for this data set, please name and point out the required software."
@@ -4373,7 +4372,7 @@ msgid ""
 "* There is metadata that makes the data understandable, e.g. linking to the exact processes used to collect them (is a *body temperature* measured under the tongue or in the rectum?) and units (is a temperature given in Celsius or Fahrenheit?). \n"
 "* There is metadata describing where the data comes from and what it is useful for. For frequently used data types, there are often very well defined metadata standards, in other cases you may need to think about this yourself.\n"
 "For each of these kinds of metadata there are specific standards. There is no single standard that will get you all the metadata needed to make the data as FAIR as possible.\n"
-msgstr "後設資料有許多類型，各有不同用途。以下是您應考量的幾類關鍵後設資料：\n* 有些後設資料有助於識別資料來源，例如建立者與標題。這類資訊通常會使用 [Dublin Core](https://www.dublincore.org)。\n* 有些後設資料能讓其他研究人員更容易發現資料。這通常需要使用關鍵字，或使用描述資料內容的本體術語。\n* 有些後設資料會描述資料可如何再次使用，例如授權條款；若是與人相關的資料，也包括原始同意涵蓋的資料再次使用範圍。\n* 有些後設資料能讓資料更容易理解，例如連結到蒐集資料時使用的確切流程（例如「體溫」是在舌下還是直腸量測？），以及度量單位（溫度是攝氏還是華氏？）。\n* 有些後設資料會描述資料來源，以及資料適合用於哪些目的。對於常見資料類型，通常已有定義完善的後設資料標準；其他情況下，您可能需要自行判斷。\n每一類後設資料都有相應的特定標準。沒有任何單一標準能涵蓋所有讓資料盡可能符合 FAIR 原則所需的後設資料。\n"
+msgstr "後設資料有許多類型，各有不同用途。以下是您應考量的幾類關鍵後設資料：\n* 有些後設資料有助於識別資料來源，例如建立者與標題。這類資訊通常會使用 [Dublin Core](https://www.dublincore.org)。\n* 有些後設資料能讓其他研究人員更容易發現資料。這通常需要使用關鍵字，或使用描述資料內容的本體術語。\n* 有些後設資料會描述資料可如何再次使用，例如授權條款；若是與人相關的資料，也包括原始同意涵蓋的資料再次使用範圍。\n* 有些後設資料能讓資料更容易理解，例如連結到蒐集資料時使用的確切流程（例如「*體溫*」是在舌下還是直腸量測？），以及度量單位（溫度是攝氏還是華氏？）。\n* 有些後設資料會描述資料來源，以及資料適合用於哪些目的。對於常見資料類型，通常已有定義完善的後設資料標準；其他情況下，您可能需要自行判斷。\n每一類後設資料都有相應的特定標準。沒有任何單一標準能涵蓋所有讓資料盡可能符合 FAIR 原則所需的後設資料。\n"
 
 #: answer:010b4ce6-0f52-437d-9971-681acdf37524:label
 msgid "There are no special networking requirements"
@@ -4625,14 +4624,14 @@ msgstr "若要進行容量規劃，了解專案開始與結束時各需要多少
 
 #: answer:eb17ff9a-c57e-4fd4-b3bd-89edb31c6568:advice
 msgid "Traditionally, *consent* has been the basis for processing personal data for research, but under the GDPR there cannot be an imbalance between the processor and the data subject for it to be considered to be freely given. In some countries the use of *consent* as the legal basis for processing by universities for research purposes is therefore not recommended. In those cases, public interest should probably be your legal basis. Note that if your legal basis for processing is consent, [a number of requirements](https://gdpr-info.eu/issues/consent/) exists for the consent to be considered valid under the GDPR. Consents given before the GDPR might not live up to this. "
-msgstr "過去，研究處理個人資料時，通常以「同意」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「同意」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。 "
+msgstr "過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。 "
 
 #: answer:73cd2dda-41ba-456b-9a4e-aa34c78f2fcf:advice
 msgid ""
 "Traditionally, *consent* has been the basis for processing personal data for research, but under the GDPR there cannot be an imbalance between the processor and the data subject for it to be considered to be freely given. In some countries the use of *consent* as the legal basis for processing by universities for research purposes is therefore not recommended. In those cases, public interest should probably be your legal basis. Note that if your legal basis for processing is consent, [a number of requirements](https://gdpr-info.eu/issues/consent/) exists for the consent to be considered valid under the GDPR. Consents given before the GDPR might not live up to this. \n"
 "\n"
 "Note that consent needs to be completely voluntary. If the subject gets any service or good in return for their permission, this is not considered consent. Also note that in European (GDPR) law, a data subject should be able to retract their consent at any moment."
-msgstr "過去，研究處理個人資料時，通常以「同意」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「同意」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n請注意，同意必須完全出於自願。如果受試者因給予同意而取得任何服務或物品，該同意就不會被視為有效同意。也請注意，依歐盟《個人資料保護規則》 (GDPR)，資料主體應能在任何時候撤回同意。"
+msgstr "過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n請注意，同意必須完全出於自願。如果受試者因給予同意而取得任何服務或物品，該同意就不會被視為有效同意。也請注意，依歐盟《個人資料保護規則》 (GDPR)，資料主體應能在任何時候撤回同意。"
 
 #: answer:2756894c-fe93-47da-ba87-3a31a06a1b70:label
 msgid "Training has been arranged"
@@ -5746,7 +5745,7 @@ msgstr "您是否會建立資料字典或變項定義表？"
 
 #: question:106df534-f590-416b-8e4a-846edbdc4325:title
 msgid "Will you be documenting the data with W3C PROV provenance?"
-msgstr "您是否會使用 W3C PROV 記錄資料的來源與處理歷程？"
+msgstr "您是否會使用 W3C PROV 記錄資料溯源資訊？"
 
 #: question:460803f2-cc23-4c57-b50e-c5177a3c11d5:title
 msgid "Will you be doing (automated) knowledge discovery?"
@@ -6644,7 +6643,7 @@ msgstr "您的工作流程可能由來自不同來源的多個軟體元件組成
 
 #: question:eccb8305-b78e-4e60-a4ee-094c70003b7a:text
 msgid "[Article 4](https://gdpr-info.eu/art-4-gdpr/) (7): *“**‘controller’** means the natural or legal person, public authority, agency or other body which, alone or jointly with others, **determines the purposes** and means of the processing of personal data; […].”* The Controller is typically the university employer of the PI, and the PI should act as a representative of her university employer and is responsible for ensuring that personal data is handled correctly in her projects. For cross-border collaborative projects the controllers of different datasets should be identified. Also, if joint controllership is considered, make sure that all parties understand their obligations, and it is probably good to define the terms for this in an agreement between the parties."
-msgstr "[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 7 款指出：「資料控制者」是指單獨或與他人共同決定個人資料處理目的與方式的自然人、法人、公共機關、機構或其他團體。資料控制者通常是計畫主持人任職的大學；計畫主持人應代表其任職大學，並負責確保專案中的個人資料受到妥善處理。對於跨國多方協作計畫，應釐清各資料集分別由誰擔任資料控制者。此外，若考慮由多方共同擔任資料控制者，請確保各方都了解自身義務；也建議各方以協議明定相關條款。"
+msgstr "[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 7 款指出：「*所稱**資料控制者**，是指單獨或與他人共同**決定個人資料處理目的**與方式的自然人、法人、公共機關、機構或其他團體。*」資料控制者通常是計畫主持人任職的大學；計畫主持人應代表其任職大學，並負責確保專案中的個人資料受到妥善處理。對於跨國多方協作計畫，應釐清各資料集分別由誰擔任資料控制者。此外，若考慮由多方共同擔任資料控制者，請確保各方都了解自身義務；也建議各方以協議明定相關條款。"
 
 #: question:c2da0410-ede1-4b0a-a750-09e6e6bd38cf:text
 msgid ""
@@ -6653,7 +6652,7 @@ msgid ""
 "Traditionally, *consent* has been the basis for processing personal data for research, but under the GDPR there cannot be an imbalance between the processor and the data subject for it to be considered to be freely given. In some countries the use of *consent* as the legal basis for processing by universities for research purposes is therefore not recommended. In those cases, public interest should probably be your legal basis. Note that if your legal basis for processing is consent, [a number of requirements](https://gdpr-info.eu/issues/consent/) exists for the consent to be considered valid under the GDPR. Consents given before the GDPR might not live up to this. \n"
 "\n"
 "Also note that even if *public interest* is the legal basis, other laws and research ethics standards might still require you to have consent from the subjects for performing the research."
-msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項列出處理行為在何種條件下可視為合法。其中，與研究相關的通常是「同意」或「公共利益」。您應判斷在您的專案中，處理個人資料適用哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「同意」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「同意」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n也請注意，即使法律依據是「公共利益」，其他法律或研究倫理標準仍可能要求您取得受試者的同意，才能進行研究。"
+msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項列出處理行為在何種條件下可視為合法。其中，與研究相關的通常是「**同意**」或「**公共利益**」。您應判斷在您的專案中，處理個人資料適用哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n也請注意，即使法律依據是「*公共利益*」，其他法律或研究倫理標準仍可能要求您取得受試者的同意，才能進行研究。"
 
 #: question:be4651c9-9a8c-4e10-a158-61b94ca0e139:text
 msgid ""
@@ -6664,7 +6663,7 @@ msgid ""
 "Also note that even if *public interest* is the legal basis, other laws and research ethics standards might still require you to have consent from the subjects for performing the research.\n"
 "\n"
 "Please consult with the Data Protection Officer of your organisation on which legal basis to apply to your data.\n"
-msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項說明在何種情況下，個人資料處理可被視為合法。就研究而言，較常見的法律依據包括「同意」與「公共利益」。請確認您的專案處理個人資料時，是依據哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「同意」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「同意」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n另外，即使您以「公共利益」作為法律依據，其他法律或研究倫理標準仍可能要求您取得受試者同意，才能進行研究。\n\n請諮詢您組織的資料保護官，確認您的資料應適用哪一項法律依據。\n"
+msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項說明在何種情況下，個人資料處理可被視為合法。就研究而言，較常見的法律依據包括「**同意**」與「**公共利益**」。請確認您的專案處理個人資料時，是依據哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n另外，即使您以「*公共利益*」作為法律依據，其他法律或研究倫理標準仍可能要求您取得受試者同意，才能進行研究。\n\n請諮詢您組織的資料保護官，確認您的資料應適用哪一項法律依據。\n"
 
 #: answer:47c2c317-22a8-430d-8bec-617879a2c6f8:advice
 #: answer:5b97c0ce-e1af-4c7b-801c-73845a720ebd:advice
