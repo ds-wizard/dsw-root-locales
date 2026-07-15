@@ -8,7 +8,7 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-14 06:17+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-15 05:45+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -118,7 +118,7 @@ msgstr "請新增此資料集將可被取用的每個位置，並為每個位置
 
 #: question:c3dabaaf-c946-4a0d-889c-ede966f97667:text
 msgid "Add each of the research project(s) that you are (or will be) working on and for which the data and work are described in this DMP. Give each project a small identifying name for yourself."
-msgstr "請列出您目前或未來將參與，且其資料與工作內容由本資料管理方案（DMP）說明的所有研究計畫。並為每個計畫設定一個您能辨識的簡短名稱。"
+msgstr "請列出您目前或未來將參與，且其資料與工作內容由本資料管理方案 (DMP) 說明的所有研究計畫，並為每個計畫設定一個您能辨識的簡短名稱。"
 
 #: question:bd886f8e-7825-4f98-afb2-6079ae15c8ed:text
 msgid "Add reference to established agreement."
@@ -365,7 +365,7 @@ msgid ""
 "Are there any limitations on the data use e.g. only for research on certain types of diseases, sharing only within certain geographical boundaries, etc.?\n"
 "\n"
 "Describing data use in a formalised way by using the data use ontology (DUO) greatly improves the data reusability."
-msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類型疾病的研究、僅限在特定地理範圍內共享等？\n\n藉由資料使用本體論（data use ontology），以正式化方式描述資料使用，能大幅提升資料的可再次使用性。"
+msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類型疾病的研究、僅限在特定地理範圍內共享等？\n\n使用資料使用本體 (Data Use Ontology, DUO) 以正式化方式描述資料使用，能大幅提升資料的可再次使用性。"
 
 #: question:426bdcb5-d012-4f1d-b99e-36dc3efe6e50:title
 msgid "Are there any other outputs of your project that might be valuable to some other entities (researchers, researcher groups, institutes)?"
@@ -788,9 +788,8 @@ msgid "DMEG on Copyright"
 msgstr "DMEG 的著作權頁面"
 
 #: url-reference:87c7169d-f8bf-4616-bdb4-d1db922746d3:label
-#, fuzzy
 msgid "DMEG on Data Discovery"
-msgstr "DMEG （Data Management Expert Guide）中的資料探索"
+msgstr "DMEG (Data Management Expert Guide) 中的資料探索"
 
 #: url-reference:4cbf4d06-9b4f-4088-b5e4-ab0813c5d853:label
 msgid "DMEG on Data Integrity"
@@ -805,14 +804,12 @@ msgid "DMEG on Data Quality"
 msgstr "DMEG 的資料品質頁面"
 
 #: url-reference:c653312c-e9b1-4d3c-b23f-26ba0c429cd4:label
-#, fuzzy
 msgid "DMEG on Ethical Process Review"
-msgstr "DMEG （Data Management Expert Guide）中的倫理流程審查"
+msgstr "DMEG (Data Management Expert Guide) 中的倫理流程審查"
 
 #: url-reference:525e23cd-1c2e-4698-8c23-b5f7671149ca:label
-#, fuzzy
 msgid "DMEG on File Naming and Folder Structure"
-msgstr "DMEG （Data Management Expert Guide）中的檔案命名與資料夾結構"
+msgstr "DMEG (Data Management Expert Guide) 中的檔案命名與資料夾結構"
 
 #: url-reference:1d5185e5-b4f3-40c5-8a6e-b8f3dfe098f5:label
 msgid "DMEG on File Structure"
@@ -831,9 +828,8 @@ msgid "DMEG on Metadata"
 msgstr "DMEG 的後設資料頁面"
 
 #: url-reference:4c559ae4-fbde-45a9-bb03-53fb626198ec:label
-#, fuzzy
 msgid "DMEG on Personal Data"
-msgstr "DMEG （Data Management Expert Guide）中的個人資料"
+msgstr "DMEG (Data Management Expert Guide) 中的個人資料"
 
 #: url-reference:2757f8e9-e3a8-44fb-af90-f650570305c0:label
 #: url-reference:ed8502b4-0043-4847-8db5-62377f135a3e:label
@@ -3393,7 +3389,7 @@ msgstr "我們的運算工作流程系統會保存資料溯源資訊（provenanc
 
 #: answer:f310952b-e946-4315-bb32-bf127d1bf96a:label
 msgid "Our data is legally not copyrightable, there is no legal rightsholder"
-msgstr "依法律規定，我們的資料法律上不受著作權保護，不存在合法的權利人"
+msgstr "我們的資料依法不受著作權保護，因此不存在法律上的權利人"
 
 #: answer:df0b2ee3-8e4d-42a1-9bb2-c69228074406:label
 msgid "Our institutional repository"
@@ -4176,7 +4172,7 @@ msgid ""
 "The FAIR principles do not contain any direction towards \"Openness\". This is done on purpose, because there can be compelling reasons not to make data \"Open\", such as privacy, other sensitive data, or intellectual property protection.\n"
 "\n"
 "The true goal of funding agencies is to create the maximum value for society from their investments. They therefore often add \"As open as possible, as closed as necessary\" to the requirements for funding."
-msgstr "FAIR 原則本身並不要求資料一定要「開放」。這樣設計是有原因的：有時確實有充分理由不能開放資料，例如隱私、其他敏感資料或智慧財產保護。\n\n資助機構真正想達成的目標，是讓投入的資源為社會創造最大價值。因此，它們常會在補助要求中加入「盡可能都開放，視需要再保留」。"
+msgstr "FAIR 原則本身並不要求資料一定要「開放」。這樣設計是有原因的：有時確實有充分理由不能開放資料，例如隱私、其他敏感資料或智慧財產保護。\n\n資助機構真正想達成的目標，是讓投入的資源為社會創造最大價值。因此，它們常會在補助要求中加入「盡可能開放，必要時限制取用」的原則。"
 
 #: question:6cc96576-2535-46b3-8c9b-a12703ee96cc:text
 msgid "The French Data Protection Authority (DPA) has made a [PIA tool](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment) (endorsed by several other DPAs) available that can help in performing these impact assessments. Please also consult your Data Protection Officer of your organization."
