@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-23 09:36+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-23 15:04+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -295,7 +295,7 @@ msgstr "是否所有資料載體皆已加密？"
 
 #: question:39d8dad9-7666-405c-b35c-9e430c9691ed:title
 msgid "Are all project web services addressed via secure http (https://)?"
-msgstr "所有專案的網頁服務是否皆透過安全的 https 存取？"
+msgstr "所有專案的網路服務是否皆透過安全的 HTTP（HTTPS）連線存取？"
 
 #: question:56bc8ebb-aba5-4745-8034-17ed3fe4fe07:title
 msgid "Are all software tools in the work flow professionally maintained, with version control?"
@@ -327,7 +327,7 @@ msgstr "專案成員與合作夥伴自行儲存的資料，是否已妥善備份
 
 #: question:d5990471-0618-42cd-92cb-bbbfd4f61532:title
 msgid "Are personal data sufficiently protected?"
-msgstr "個人資料是否有充分保護？"
+msgstr "個人資料是否受到充分的保護？"
 
 #: question:a12aa967-28a5-4a9b-8df8-f7c533205ea4:text
 msgid "Are some of the data in the project stored in a filesystem with files and folders?"
@@ -1051,7 +1051,7 @@ msgstr "您是否有安排是誰會負責將資料以數位形式提供給您？
 
 #: question:13a7eeae-09f5-42bf-8e62-b2c1fe1b86f7:title
 msgid "Did you budget for the time and effort it will take to prepare the data for publication?"
-msgstr "您是否已編列為資料發布做準備所需的時間與人力成本？"
+msgstr "您是否已預估並編列資料出版前整理與準備所需的時間及人力？"
 
 #: question:a1c37c05-57ff-499c-b58c-e90f511241fa:title
 msgid "Did you choose the workflow engine you will be using?"
@@ -1132,7 +1132,7 @@ msgstr "每個欄位是否都有對應的資料類型？"
 
 #: question:a454fffd-f4a4-426d-b758-6d70bc4ee96b:title
 msgid "Do all data centers where project data is stored carry sufficient certifications?"
-msgstr "存放專案資料的所有資料中心是否都具備充分的相關認證？"
+msgstr "所有存放專案資料的資料中心，是否皆取得符合需求的相關認證？"
 
 #: question:abaf4a70-17d4-449c-9b95-5b3bcfed7e9b:title
 msgid "Do project members carry data with them?"
@@ -1144,7 +1144,7 @@ msgstr "專案成員是否會透過電子郵件或其他即時通訊服務傳送
 
 #: question:90324a7b-f3c9-4ed8-b301-edc9869cb7b3:title
 msgid "Do project members store data or software on computers in the lab or external hard drives connected to those computers?"
-msgstr "專案成員是否會將資料或軟體儲存在實驗室電腦上，或連接於這些電腦的外接硬碟中？"
+msgstr "專案成員是否會將資料或軟體儲存在實驗室的電腦上，或儲存在連接至這些電腦的外接硬碟中？"
 
 #: question:84ec46bd-e714-4d98-8525-cdd0d58777ef:title
 msgid "Do project members store project data in cloud accounts?"
@@ -2436,7 +2436,7 @@ msgstr "每個欄位與紀錄識別碼之間的關係是否清楚？"
 
 #: question:614ab69d-55a6-4214-b384-00ba21ce92a1:title
 msgid "Is the risk of information loss, leaks and vandalism acceptably low?"
-msgstr "資訊遺失、外洩與破壞的風險是否低到可接受？"
+msgstr "資訊遺失、外洩及遭受惡意破壞的風險是否已降至可接受的程度？"
 
 #: question:a5dbea23-b7d6-4e31-a1a5-ec5007ec7848:title
 msgid "Is there a collaboration agreement in the project that describes who can have access to what data?"
@@ -4867,7 +4867,7 @@ msgstr "我們會另作安排"
 
 #: answer:d010e09e-8ce8-47c6-a1f9-f281519ba936:label
 msgid "We will make use of an existing data access committee"
-msgstr "我們會交由既有的資料取用委員會負責"
+msgstr "我們將透過現有的資料存取委員會（Data Access Committee）來管理資料存取"
 
 #: answer:202c1232-9f5e-4a68-b0e0-3986a7bc96fa:label
 msgid "We will need a high-speed network connection to copy the initial data"
@@ -5710,7 +5710,7 @@ msgstr "您是否會允許通過身分驗證後取用資料？"
 
 #: question:d5784d24-0e66-4821-bd62-a711fb6d7a40:title
 msgid "Will you be archiving data (using so-called 'cold storage') for long term preservation already during your project?"
-msgstr "您是否會在專案期間，就以所謂的「冷儲存」方式典藏資料，以利長期保存？"
+msgstr "您是否會在專案進行期間，即將資料封存至所謂的「冷儲存（cold storage）」中，以進行長期保存？"
 
 #: question:f9d84278-b61d-4314-94e9-12644bfa1d00:title
 msgid "Will you be archiving your data in 'cold storage' after the project finishes?"
@@ -5858,7 +5858,7 @@ msgstr "您是否會使用此參考資料集？"
 
 #: question:6516eae1-98b2-48f2-9862-b5fb140cfad7:title
 msgid "Will you be working with the philosophy 'as open as possible' for your data?"
-msgstr "您的資料是否會採用「盡可能開放」的理念？"
+msgstr "您是否會依循「盡可能開放（as open as possible）」的原則來管理您的資料？"
 
 #: question:50f9d580-3e62-434b-81ff-86daed56aca8:title
 msgid "Will you be working with your data in another form than the way it will be archived?"
@@ -6057,7 +6057,7 @@ msgstr "您是否會在關鍵步驟使用獨立開發的重複工具或工作流
 
 #: question:f5c12fcf-15d0-44ba-a53c-49ea9d7f620f:title
 msgid "Will you use temporary restrictions on the reuse of the data (embargo)?"
-msgstr "您是否會設定資料再次使用的延後開放期限？"
+msgstr "您是否會設定資料限制期（embargo），暫時限制他人再利用資料？"
 
 #: question:87abded2-1edb-4f69-bd6c-8b90f7706206:title
 msgid "Will your project require the archives to be available on-line?"
