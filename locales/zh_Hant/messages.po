@@ -7,8 +7,9 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
+# Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-15 05:45+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-23 09:36+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -241,11 +242,11 @@ msgstr "任何使用者都必須能夠即時還原舊版副本"
 
 #: answer:b19ba76a-4b6a-45f6-8ab5-8bbfb92c7b2c:label
 msgid "Anyone in the institute can read data, only project members can request write access"
-msgstr "機構內的任何人皆可讀取資料，不過只有專案成員可申請寫入權限"
+msgstr "機構內任何人皆可讀取資料；只有專案成員可以申請資料的寫入權限"
 
 #: answer:154cd5fc-a79f-4c2e-be67-6985813bbc8d:label
 msgid "Anyone in the institute has read access to the data; all project members have read/write access."
-msgstr "機構內的任何人都可以讀取資料；所有專案成員皆有讀與寫的權限。"
+msgstr "機構內任何人皆具有資料的讀取權限；所有專案成員則具有讀取與寫入權限。"
 
 #: answer:8d3c3ffa-f194-4930-8cc5-ffa1f8f77fd7:label
 msgid "Apache 2.0"
@@ -930,7 +931,7 @@ msgstr "資料集："
 
 #: question:bc5e3dbf-2923-4025-a49a-f204b01d4018:title
 msgid "Data storage systems and file naming conventions"
-msgstr "資料儲存系統和檔案命名規則"
+msgstr "資料儲存系統與檔案命名規範"
 
 #: question:63ed4349-9743-4fd1-96df-73dbb7e4f05b:title
 msgid "Data type"
@@ -942,7 +943,7 @@ msgstr "資料使用限制"
 
 #: question:4ae6452a-4ca6-434c-8453-7e3872e41847:title
 msgid "Data volume in Gigabytes"
-msgstr "資料量（十億位元組）"
+msgstr "資料量（GB）"
 
 #: cross-reference:b289c48c-b586-419f-8099-db94ce323398:description
 msgid "Data warehousing tools"
@@ -1453,7 +1454,7 @@ msgstr "特別是當專案中的資料分析與處理是由不同人員在多台
 
 #: question:974f3ad3-90b3-4e00-b751-8c5a5629b2cf:title
 msgid "Estimated data volume in Gigabytes"
-msgstr "預估資料量（十億位元組）"
+msgstr "預估資料量（單位:GB）"
 
 #: choice:1f758ac9-71c1-4dfb-85a6-09e2a206ab9a:label
 msgid "Ethical approval"
@@ -1830,7 +1831,7 @@ msgstr "對於所蒐集資料的權利是如何規劃安排的？"
 
 #: question:b171ec17-d7b5-4726-ae22-0d892b106cf8:title
 msgid "How available/reliable should must the work space be?"
-msgstr "工作空間需要具備多高的可用性與可靠性？"
+msgstr "工作空間的可用性與可靠性要求為何？"
 
 #: question:eb698404-004a-4cdf-a599-be01e0eb7fd2:title
 msgid "How do you decide which additional research outputs should be retained?"
@@ -1842,7 +1843,7 @@ msgstr "您會怎麼命名專案中的檔案？"
 
 #: question:25e06912-08a2-40e4-af76-cfbc5ada9925:title
 msgid "How do you prevent a total loss of data in the work space?"
-msgstr "您會如何預防工作空間中的資料完全遺失？"
+msgstr "您將如何防止工作空間中的資料發生全面性遺失？"
 
 #: question:1ca28160-8b73-48fe-8b74-18c0f5cb56df:title
 #: question:41a1b4ba-8cd5-47fe-a7be-06cccf9a1688:title
@@ -1907,7 +1908,7 @@ msgstr "這筆費用將如何支付？"
 
 #: question:80d403f3-3f29-4f37-9040-b901ae9afa37:title
 msgid "How will access to the work space be controlled?"
-msgstr "工作空間的取用權限會如何控管？"
+msgstr "工作空間的存取權限將如何管理？"
 
 #: question:d206fcaf-a238-48ef-925e-6f006d39f2af:title
 msgid "How will data security be dealt with?"
@@ -3340,11 +3341,11 @@ msgstr "由其中一位專案成員負責授權"
 
 #: answer:302e4b9b-9a9c-4fb0-9745-5f8ff4cca746:label
 msgid "Only all project members have read/write access to the data"
-msgstr "只有所有專案成員才對該資料擁有讀寫權限"
+msgstr "只有專案成員可以讀取及寫入資料"
 
 #: answer:b21c9f70-78e7-4975-b776-59e372285662:label
 msgid "Only project members will have read access; only selected project members will be able to write data"
-msgstr "只有專案成員具有讀取權限；只有經指定的專案成員可以寫入資料"
+msgstr "只有專案成員具有資料的讀取權限；僅部分指定的專案成員具有資料的寫入權限"
 
 #: answer:dc921fac-cf77-4d3d-bb9c-907d37f838ef:advice
 msgid "Oops! That would mean that it is possible that the data will no longer be available for re-use after a while? Consider alternative options for publishing the data set."
@@ -3899,7 +3900,7 @@ msgstr "專案中的角色應依照 [DataCite](https://schema.datacite.org/meta/
 
 #: question:624cfadf-6177-47b7-9ba8-b80b68aef0fd:title
 msgid "Rough average size of each file/subject in gigabytes"
-msgstr "每個檔案／每位受試者的概略平均資料量（十億位元組）"
+msgstr "每個檔案／每位受試者的概略平均資料量（單位:GB）"
 
 #: question:faf72b3d-ac29-41d1-97f2-5223b199a086:text
 msgid "Running a small subset of the data repeatedly can be useful to catch unexpected problems that would otherwise be very hard to detect."
@@ -4756,7 +4757,7 @@ msgstr "我們會在事後進行驗證"
 
 #: answer:115a165f-9d3f-440d-a822-4bd2795c264e:label
 msgid "We have a consortium agreement that arranges Intellectual Property"
-msgstr "我們已透過聯盟協議書安排智慧財產權事宜"
+msgstr "我們已有聯盟協議（consortium agreement）安排智慧財產權（Intellectual Property, IP）事宜"
 
 #: answer:34bf8a67-6bba-4eab-8264-8d76f97e66c8:label
 msgid "We have a legitimate interest"
@@ -5917,7 +5918,7 @@ msgstr "您是否會將結果與所有處理腳本或工作流程一併保存，
 
 #: question:98d9789b-32fc-4e2f-876a-47760ad7c7ec:title
 msgid "Will you make backup copies of project data that is not in the work space?"
-msgstr "您是否會為工作空間之外的專案資料製作備份？"
+msgstr "對於未儲存在工作空間中的專案資料，您是否會另外建立備份？"
 
 #: question:9e238002-da35-4f9b-a9b7-8fe3613a3c03:title
 msgid "Will you make explicit cross-reference between physical samples and your digital data?"
