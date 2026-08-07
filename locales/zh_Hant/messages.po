@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 13:55+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 14:07+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -366,7 +366,7 @@ msgid ""
 "Are there any limitations on the data use e.g. only for research on certain types of diseases, sharing only within certain geographical boundaries, etc.?\n"
 "\n"
 "Describing data use in a formalised way by using the data use ontology (DUO) greatly improves the data reusability."
-msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類型疾病的研究、僅限在特定地理範圍內共享等？\n\n使用資料使用本體 (Data Use Ontology, DUO) 以正式方法描述資料使用，能大幅提升資料的可再次使用性。"
+msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類型疾病的研究、僅限在特定地理範圍內共享等？\n\n使用「資料使用本體」(Data Use Ontology, DUO) 以正式化方式描述資料使用，能大幅提升資料的可再次使用性。"
 
 #: question:426bdcb5-d012-4f1d-b99e-36dc3efe6e50:title
 msgid "Are there any other outputs of your project that might be valuable to some other entities (researchers, researcher groups, institutes)?"
@@ -657,7 +657,7 @@ msgid ""
 "Complicated (binary) file formats tend to change over time, and software may not stay compatible with older versions. Also, some formats (e.g. DOC, XLS) hamper long term usability by making use of patents or being hampered by restrictive licensing. \n"
 "\n"
 "Ideally a format should be simple, text only, completely described, not restricted by copyrights, and implemented in different software packages."
-msgstr "複雜的（二進位）檔案格式往往會隨時間改變，而軟體也可能無法持續相容於舊版本。此外，某些格式，例如 DOC、XLS 因涉及專利或受限於嚴格的授權條款，會妨礙資料的長期可用性。\n\n理想的檔案格式應具備以下特性：結構簡單、純文字、規格完整公開、不受著作權限制，且可由不同軟體包支援。"
+msgstr "複雜的（二進位）檔案格式往往會隨時間改變，而操作的軟體也可能無法持續相容於舊版本的檔案格式。此外，某些格式，例如 DOC、XLS 因涉及專利或受限於嚴格的授權條款，會妨礙資料的長期可用性。\n\n理想的檔案格式應具備以下特性：結構簡單、純文字、規格完整公開、不受著作權限制，且可由不同軟體套件支援。"
 
 #: cross-reference:83081d6a-7e18-4ccf-97cd-f89193e73382:description
 msgid "Compute capacity planning"
