@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 12:41+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 12:56+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -255,7 +255,7 @@ msgstr "Apache 2.0"
 #: answer:85fad342-a89d-414b-bc83-286a7417bb78:label
 #: answer:d0308e38-13ee-44e7-8fa3-a29e0d0bfe86:label
 msgid "Applied"
-msgstr "已申請"
+msgstr "申請中"
 
 #: question:b3ace89e-ca0b-4f62-b356-6001b5501e6d:title
 msgid "Approval status"
@@ -1727,7 +1727,7 @@ msgstr "補助編號"
 #: answer:dcbeab22-d188-4fa0-b50b-5c9d1a2fbefe:label
 #: answer:e0a59549-b078-4d7c-9ead-4b37f1549b82:label
 msgid "Granted"
-msgstr "已核准"
+msgstr "已核定"
 
 #: url-reference:06ca6750-b48d-42fc-b350-8d98b462b458:label
 msgid "Handbook on Persistent Identifiers"
@@ -3430,7 +3430,7 @@ msgstr "請規劃時間與預算，用於記錄這些資料，或將其轉換為
 #: answer:320eb6c2-c0ef-465b-980f-5c988439eeaf:label
 #: answer:59ed0193-8211-4ee8-8d36-0640d99ce870:label
 msgid "Planned"
-msgstr "已規劃"
+msgstr "構思中"
 
 #: cross-reference:6c8abc44-e975-4e0e-882d-d231f1c45315:description
 msgid "Planning data integration processes"
@@ -3845,7 +3845,7 @@ msgstr "研究資料儲存庫的登錄冊"
 #: answer:1f2e2b12-97d1-4f72-bad1-8fe6f6075d78:label
 #: answer:8c0c9f28-4672-46ba-a939-48c2c892d790:label
 msgid "Rejected"
-msgstr "已駁回"
+msgstr "未獲補助"
 
 #: question:1270ea5a-92a2-46ce-b658-9bf2862b9b57:text
 msgid "Repositories often allow search engines and catalogues to index the metadata in an automated way. Will this be the case for your data?"
