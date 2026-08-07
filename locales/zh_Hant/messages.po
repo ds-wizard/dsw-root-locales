@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 14:07+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 14:31+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -226,7 +226,7 @@ msgstr "匿名化 (Anonymization) 指的是，以某種方式處理個人資料�
 
 #: answer:820c78f6-81d0-442f-80c7-bfa3d04b282a:label
 msgid "Another period"
-msgstr "其他期間"
+msgstr "其他期限"
 
 #: answer:ab19f42e-6204-409e-aa6d-6d87783cce44:label
 msgid "Another reason"
@@ -491,7 +491,7 @@ msgstr "您是否會進行資料的同儕評審？"
 
 #: question:65730a4d-40db-46c9-b6d2-2b44b35f617e:text
 msgid "Are you using e.g. an Electronic Lab Notebook (ELN) or Electronic Data Capture (EDC) application? Such applications often have their own data structure that can only be accessed through the application."
-msgstr "您是否使用電子實驗室記錄本 (ELN) 或電子資料擷取 (EDC) 系統等工具？這類應用程式通常具有其專屬的資料結構，且僅能透過該應用程式存取。"
+msgstr "您是否使用電子實驗室記錄本 (ELN; Electronic Lab Notebook)或電子資料擷取 (EDC; Electronic Data Capture) 系統等工具？這類應用程式通常具有其專屬的資料結構，且僅能透過該應用程式存取。"
 
 #: question:811965f0-b1b7-4b4b-92a6-01cd83b08fa2:title
 msgid "Are your data sources using linked data?"
@@ -1825,7 +1825,7 @@ msgstr "CSC 如何復原 8.5 億個暫存檔案"
 
 #: question:cb7d17a8-30c0-489d-a43c-702b27d97611:title
 msgid "How are the rights of the collected data arranged?"
-msgstr "對於所蒐集資料的權利是如何規劃安排的？"
+msgstr "對於所蒐集資料的權利歸屬是如何規劃安排的？"
 
 #: question:b171ec17-d7b5-4726-ae22-0d892b106cf8:title
 msgid "How available/reliable should must the work space be?"
@@ -2606,7 +2606,7 @@ msgstr "該參考資料可由資料提供者取得，也會隨本研究資料一
 
 #: choice:4071f707-d2c0-4102-9916-2dcab77c27a8:label
 msgid "It will be based on available budget"
-msgstr "這將取決於可用預算"
+msgstr "這將取決於可用的預算"
 
 #: choice:f6d68b58-7996-453f-a033-71272aa01204:label
 msgid "It will be based on the actual use of the archived data"
@@ -3267,7 +3267,7 @@ msgid ""
 "Note that if the raw data is from a public resource, you may be able to avoid storing it altogether and processing it immediately from the public resource. If you have to download it before using, you can store it on a volume that is not backed up, because you can simply reproduce it.\n"
 "\n"
 "If you have a large volume of newly collected raw input data, publishing it as soon as possible into a public resource may reduce the pressure on the storage requirements."
-msgstr "請注意，如果原始資料來自公共資源，您也許可以完全避免儲存，而是直接從公共資源處理。若必須先下載才能使用，可以將其存放在不備份的儲存卷上，因為您可以直接重新產生。\n\n如果新蒐集的原始輸入資料量很大，盡早發布到公共資源中，可能有助於減輕儲存需求的壓力。"
+msgstr "請注意，如果原始資料來自公共資源，您也許可以完全避免儲存，而是直接從公共資源處理。若必須先下載才能使用，可以將其存放在不備份的儲存區上，因為您可以直接重新產生。\n\n如果新蒐集的原始輸入資料量很大，盡早發布到公共資源中，可能有助於減輕儲存需求的壓力。"
 
 #: answer:ca0df149-cb95-404a-a925-0a1fc5052d1d:advice
 msgid "Note that it is very hard to make data anonymous, and GDPR requires that you regularly verify that it is still anonymous."
@@ -3869,7 +3869,7 @@ msgstr "在其他領域工作的研究人員"
 
 #: choice:18605a14-9945-4294-9cb8-e211ccfe5c85:label
 msgid "Restrictions in the consent"
-msgstr "同意中的限制"
+msgstr "同意書中的限制"
 
 #: cross-reference:75f0120d-b3a8-4042-8249-dfe2de83a3d5:description
 msgid "Reuse of existing reference data"
@@ -4426,7 +4426,7 @@ msgstr "另有其他原因"
 #: question:fdeb19c8-393c-4c4e-8c88-58a9c4d19e2b:text
 #: question:ff6f53f1-1adc-4401-bbda-a159d283a8eb:text
 msgid "There is no concrete map of these features to suitable workflow engines at this moment, but filling in these questions can lead you to think about the most important features for the project"
-msgstr "目前尚無明確對照表，可用來將這些功能對應到合適的工作流程引擎；不過，填寫這些問題可協助您釐清本專案最重要的功能需求"
+msgstr "目前尚無具體的途徑對照表可參考，可用來將這些功能對應到合適的工作流程引擎；不過，填寫這些問題可協助您釐清本專案最重要的功能需求"
 
 #: answer:a1ead63a-1bc8-42e6-8bdc-3e1e8a901307:label
 msgid "There is no data elsewhere\\"
@@ -4505,7 +4505,7 @@ msgstr "他們可以在專案完成後要求修改資料（這可能包括刪除
 
 #: answer:4844d32a-be6a-490a-b12e-3a31503d7bd1:label
 msgid "They can start with a subset as soon as our first data comes"
-msgstr "第一批資料可供使用後，他們就可以先使用資料子集"
+msgstr "第一批資料可供使用後，他們就可以先使用這資料的一部份"
 
 #: answer:3996826a-b67a-42e7-9223-f2a438fddbe6:label
 msgid "They can use data from our project"
@@ -4916,43 +4916,43 @@ msgstr "我們會信任新版本並部署"
 
 #: answer:01aaaf8a-ee94-4cd0-8e36-adcb7ac9d18d:label
 msgid "We will use \"flat files\""
-msgstr "我們會使用「扁平檔案」"
+msgstr "我們會使用扁平檔案"
 
 #: answer:eb5addd3-9ae2-47fb-bf5a-2d7adf9a9865:label
 msgid "We will use 'chipster'"
-msgstr "我們會使用「chipster」"
+msgstr "我們會使用chipster"
 
 #: answer:c6068285-a656-4a41-97b0-61a9667c7c70:label
 msgid "We will use 'clcbio'"
-msgstr "我們會使用「clcbio」"
+msgstr "我們會使用clcbio"
 
 #: answer:ce39135b-f399-4d76-a643-e170d7bcedcc:label
 msgid "We will use 'galaxy'"
-msgstr "我們會使用「galaxy」"
+msgstr "我們會使用galaxy"
 
 #: answer:5f111644-6f0e-4930-a551-1ab9c00a43d0:label
 msgid "We will use 'knime'"
-msgstr "我們會使用「knime」"
+msgstr "我們會使用knime"
 
 #: answer:eb286cc2-f632-4c77-9a4d-8f3e8d734516:label
 msgid "We will use 'make'"
-msgstr "我們會使用「make」"
+msgstr "我們會使用 make"
 
 #: answer:560c5520-8dfd-42f1-ac36-7616edb8a4f9:label
 msgid "We will use 'molgenis'"
-msgstr "我們會使用「molgenis」"
+msgstr "我們會使用molgenis"
 
 #: answer:c1b026a4-38cd-41ad-acf9-541784c07567:label
 msgid "We will use 'moteur'"
-msgstr "我們會使用「moteur」"
+msgstr "我們會使用moteur"
 
 #: answer:d827db55-b0c7-4ba0-a692-5a334e29f0a0:label
 msgid "We will use 'snakemake'"
-msgstr "我們會使用「snakemake」"
+msgstr "我們會使用snakemake"
 
 #: answer:d508ff6c-fbce-45b5-918c-0322a4687f2e:label
 msgid "We will use 'taverna'"
-msgstr "我們會使用「taverna」"
+msgstr "我們會使用taverna"
 
 #: answer:3a79dfdf-be0c-4835-bb89-4e1bc899cfbc:label
 msgid "We will use a mix of computing architectures for different parts of the work"
