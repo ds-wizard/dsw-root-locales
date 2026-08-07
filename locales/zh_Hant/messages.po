@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 14:38+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 15:31+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -721,7 +721,7 @@ msgstr "將資料複製進／複製出專案主要工作空間"
 
 #: answer:acec64f8-f20b-4295-85d6-a8831ee6a1a3:label
 msgid "Copying or network delays are considered to be acceptable"
-msgstr "可接受複製或網路傳輸造成的延遲"
+msgstr "可接受資料複製或網路傳輸造成的延遲"
 
 #: question:028909e8-7392-4385-96a3-467d79c43a42:title
 msgid "Cost allocation"
@@ -868,7 +868,7 @@ msgstr "資料託管員(Data Steward)"
 #: url-reference:35bcd464-9a68-49f3-8365-677fca660b17:label
 #: url-reference:b2db3b93-3ce7-4c3c-a80e-866671a9103a:label
 msgid "Data Use Ontology"
-msgstr "資料使用本體"
+msgstr "資料使用知識本體 (ontology)"
 
 #: question:948b5fd8-c1bd-457d-8f81-ea2fd093f541:text
 msgid ""
@@ -1062,7 +1062,7 @@ msgstr "您是否曾考慮與他人合作，改進既有解決方案？"
 
 #: question:99f4a43c-9848-488a-9b99-ff8dd6a4269c:title
 msgid "Did you consider existing options?"
-msgstr "您是否考量了既有選項？"
+msgstr "您是否考量了現有的（軟體）選項？"
 
 #: question:67c34ee1-2e71-423c-97a7-fe6aa3723465:title
 msgid "Did you consider the possible impact to the project or organization if information is lost?"
@@ -1239,7 +1239,7 @@ msgstr "您是否需要能夠匯出或匯入工作流程，例如以通用工作
 
 #: question:b211f896-b363-4978-9423-212644ff5d72:title
 msgid "Do you need to create vocabularies or ontologies for any of your data items?"
-msgstr "您是否需要為任何資料項目建立詞彙表或本體？"
+msgstr "您是否需要為任何資料項目建立詞彙表或知識本體 (ontology)？"
 
 #: question:e87ef779-2c4b-4c0d-a1f1-821290123a3c:title
 msgid "Do you need to do compute capacity planning?"
@@ -1530,7 +1530,7 @@ msgstr "FAIR 原則 I3 頁面"
 
 #: url-reference:c0f78b3d-af6c-4083-8398-688984178536:label
 msgid "FAIRCookbook introduction to terminologies and ontologies"
-msgstr "FAIRCookbook 的術語與本體介紹頁面"
+msgstr "FAIRCookbook 的術語與知識本體 (ontology)介紹頁面"
 
 #: url-reference:6c277217-8bc7-4768-94e2-be019571c94b:label
 msgid "FAIRCookbook on Data Licenses"
@@ -1559,7 +1559,7 @@ msgstr "FAIRCookbook 的溯源資訊說明"
 #: url-reference:06211161-75e4-43b7-8e80-c470fccb2893:label
 #: url-reference:ae26faa3-f8ad-4f5d-8bd3-b3d16c526ceb:label
 msgid "FAIRCookbook on Selecting an ontology lookup service"
-msgstr "FAIRCookbook 的本體查詢服務選擇指南"
+msgstr "FAIRCookbook 的知識本體 (ontology)查詢服務選擇指南"
 
 #: url-reference:250662f3-6a33-4dbf-8fb4-abb91be3314b:label
 msgid "FAIRCookbook on Software Licensing"
@@ -1596,11 +1596,11 @@ msgstr "FAIRCookbook 的資料允許使用範圍頁面"
 
 #: url-reference:bc1a7f76-a2e4-426b-a360-48ea0a6cce80:label
 msgid "FAIRCookbook on selecting an ontology lookup service"
-msgstr "FAIRCookbook 的本體查詢服務選擇指南"
+msgstr "FAIRCookbook 的知識本體 (ontology)查詢服務選擇指南"
 
 #: url-reference:5669ca15-3bab-46b5-9b0d-9e1013e6172b:label
 msgid "FAIRCookbook on selecting terminologies and ontologies"
-msgstr "FAIRCookbook 的術語與本體選擇頁面"
+msgstr "FAIRCookbook 的術語與知識本體 (ontology)選擇頁面"
 
 #: url-reference:f57c5313-6ccb-4eb4-b79a-fdbd3c72bc48:label
 msgid "FAIRCookbook on tools to convert data to RDF"
@@ -1998,7 +1998,7 @@ msgstr "您將如何確保同一份參考資料可供他人取用，以重現您
 
 #: question:1991077f-04ae-4808-90a5-e4b2f82e30bf:title
 msgid "How will you make sure to know what exactly has been run?"
-msgstr "您會如何確認實際執行了哪些內容？"
+msgstr "您會如何確認實際執行了哪些工作？"
 
 #: question:6e0704a2-cea3-4ae7-8ab5-5eb6db163639:title
 msgid "How will you pay for these costs?"
@@ -2211,7 +2211,7 @@ msgstr "如果您使用任何篩選方式，您將如何確保您自己以及其
 
 #: question:2bac9020-99cf-4463-8d34-0b0eb2781cd1:text
 msgid "If you want to facilitate interoperability of your data with data you get from elsewhere, and facilitate re-use of your own data later, it is handy if you use standard ways to encode certain data. Such standard encodings are sometimes called terminologies or ontologies."
-msgstr "如果您希望提升資料與其他來源資料之間的可相互操作性，並促進自身資料日後被再次使用，那麼採用標準方式來編碼某些資料會很有幫助。這類標準化的編碼方式有時稱為術語或本體。"
+msgstr "如果您希望提升資料與其他來源資料之間的可相互操作性，並促進自身資料日後被再次使用，那麼採用標準方式來編碼某些資料會很有幫助。這類標準化的編碼方式有時稱為術語或知識本體 (ontology)。"
 
 #: question:5607d0bb-6b9e-4211-821c-785acc3aa25e:text
 msgid "If your work space is run and maintained by specialists, e.g. the ICT department of one of the institutes involved in the projects, this means that backup and restore as well as access management is properly addressed."
@@ -2322,7 +2322,7 @@ msgstr "中間資料"
 
 #: chapter:83438863-0aa0-4458-b14b-2b2c0d4f811d:title
 msgid "Interpreting data"
-msgstr "資料詮釋"
+msgstr "對資料的解釋"
 
 #: answer:40a6b522-c130-44ec-924b-5316e0826bc2:label
 msgid "Irrevocably anonymised"
@@ -2681,7 +2681,7 @@ msgstr "授權條款全文連結"
 
 #: question:6cf69cc9-bd6c-4e51-98a2-817d1d211720:title
 msgid "Link to the ontology"
-msgstr "本體連結"
+msgstr "知識本體 (ontology)連結"
 
 #: url-reference:e9c41e81-ec67-43e2-aa9c-01e8c8841b12:label
 msgid "Linked data (wikipedia)"
@@ -2717,7 +2717,7 @@ msgstr "請列出技術與程序性保護措施，以確保受試者的隱私受
 
 #: question:a797cab9-0829-4787-a096-1b5cedc9147f:title
 msgid "List the data formats you will be using for interpretation and describe their structure"
-msgstr "請列出您將用於詮釋的資料格式，並描述其結構"
+msgstr "請列出您將用於解釋的資料格式，並描述其結構"
 
 #: question:9d44b89e-300d-4227-8642-c6b38b8b882d:title
 msgid "List the ontologies you will be using"
@@ -2787,7 +2787,7 @@ msgstr "可用的標準資料庫系統很多，而且通常可以用 SQL 進行�
 
 #: question:76cf4d79-dafe-4d89-9958-047ea4b977ee:text
 msgid "Mapping even part of the terms from your own vocabulary to other existing vocabularies or ontologies can make a real difference for the interoperability of your data."
-msgstr "即使只將您自訂詞彙中的部分術語對應至其他既有詞彙表或本體，也能大幅提升資料的可相互操作性。"
+msgstr "即使只將您自訂詞彙中的部分術語對應至其他既有詞彙表或知識本體 (ontology)，也能大幅提升資料的可相互操作性。"
 
 #: choice:fcf05e2f-b25b-45a3-a2fe-460618e3ee7f:label
 msgid "Matching or combining datasets, for example originating from two or more data processing operations performed for different purposes."
@@ -2842,7 +2842,7 @@ msgstr "此資料擁有者的姓名與聯絡資訊"
 
 #: question:212a7e54-557d-4319-9f57-33148ae80a69:title
 msgid "Name of the ontology"
-msgstr "本體名稱"
+msgstr "知識本體 (ontology)名稱"
 
 #: question:34058487-d9e7-41af-be6a-aba67200b8d2:title
 msgid "Name of the policy or process"
@@ -3186,7 +3186,7 @@ msgstr "否，專案參與者各自使用不同的資料與工具"
 
 #: answer:efe50d9c-4dc2-49c5-ae61-1dc8ff0d7655:label
 msgid "No, suitable public controlled vocabularies or ontologies exist for all of my data types"
-msgstr "否，所有資料類型都有合適的公開控制詞彙或本體可用"
+msgstr "否，所有資料類型都有合適的公開控制詞彙或知識本體 (ontology)可用"
 
 #: answer:ad3ab129-dab0-421c-9840-e35b53931768:label
 msgid "No, the data does not need protection"
@@ -3226,11 +3226,11 @@ msgstr "不會，不受限制的資料會立即開放；受限制的資料則會
 
 #: answer:945aae79-4eed-4115-ac19-d295158a19f6:label
 msgid "No, we exclusively refer to our own ontologies for some classes of objects"
-msgstr "不，對於某些類別的物件，我們只會參照我們自己的本體"
+msgstr "不，對於某些類別的物件，我們只會參照我們自己的知識本體 (ontology)"
 
 #: answer:30a6e365-dbf6-4567-96c3-b7301d0fd0ca:label
 msgid "No, we made our own ontologies for our work; concepts are not mapped to common ontologies"
-msgstr "不，我們為自身的工作建立了自己的本體；相關概念並未對應到通用本體"
+msgstr "不，我們為自身的工作建立了自己的本體；相關概念並未對應到通用知識本體 (common ontology)"
 
 #: answer:af507b8a-824b-4198-9adf-c54f984f4fb5:label
 msgid "No, we use tools maintained by others"
@@ -3524,7 +3524,7 @@ msgstr "請具體說明您將不使用此參考資料的原因"
 
 #: question:dbf05c2a-0108-4cae-947d-c0383140f006:title
 msgid "Please specify the software repository you use for development"
-msgstr "請具體說明您用於開發的軟體儲存庫"
+msgstr "請具體說明在開發時，您會用哪個軟體儲存庫 (software repository)"
 
 #: question:0ac70ded-3864-4c7e-90a1-ea13a5fc9975:title
 msgid "Please specify what the restrictions are"
@@ -4139,7 +4139,7 @@ msgstr "支援資料管理工作"
 
 #: question:a3a4ce37-4ced-41df-8ec6-e42d87a6a3f1:text
 msgid "Surrounding all tools in your data processing and analysis workflows with the 'boilerplate' code necessary on the computer system you are using is tedious and error prone. Especially if you are using the same tools in multiple different work flows and/or on multiple different computer architectures. Automated instrumentation, e.g. by using a workflow management system, can prevent many mistakes."
-msgstr "在資料處理與分析工作流程中，若要為每個工具加上您所使用電腦系統所需的「樣板程式碼」，不僅繁瑣，也容易出錯。尤其是在多個不同工作流程，或多種不同電腦架構上使用相同工具時，更是如此。透過工作流程管理系統等方式進行自動化整合，可以避免許多錯誤。"
+msgstr "在資料處理與分析工作流程中，若要為每個工具加入您所使用電腦系統所要求的「樣板程式碼」，不僅繁瑣，也容易出錯。尤其是在多個不同工作流程，或多種不同電腦架構上使用相同工具時，更是如此。透過工作流程管理系統等方式進行自動化整合，可以避免許多錯誤。"
 
 #: choice:41d2caa6-14b5-4536-86d6-63f54999e604:label
 msgid "Systematic monitoring, processing used to observe, monitor or control data subjects, including data collected through networks."
@@ -4163,7 +4163,7 @@ msgstr "若僅提供下載功能，對使用者而言，其他地方通常也能
 
 #: question:3196c225-2842-4766-9768-381fd6ee1e05:text
 msgid "The FAIR principles ask for the use of FAIR ontologies. It is better when using RDF to make use as much as possible of concepts that are in established and well-maintained ontologies on the internet."
-msgstr "FAIR 原則要求使用符合 FAIR 原則的本體。在使用 RDF 時，最好盡可能採用網路上已建立且維護良好的本體中的概念。"
+msgstr "FAIR 原則要求使用符合 FAIR 原則的知識本體 (ontology)。在使用 RDF 時，最好盡可能採用網路上已建立且維護良好的本體中的概念。"
 
 #: question:6516eae1-98b2-48f2-9862-b5fb140cfad7:text
 msgid ""
@@ -4366,7 +4366,7 @@ msgid ""
 "* There is metadata that makes the data understandable, e.g. linking to the exact processes used to collect them (is a *body temperature* measured under the tongue or in the rectum?) and units (is a temperature given in Celsius or Fahrenheit?). \n"
 "* There is metadata describing where the data comes from and what it is useful for. For frequently used data types, there are often very well defined metadata standards, in other cases you may need to think about this yourself.\n"
 "For each of these kinds of metadata there are specific standards. There is no single standard that will get you all the metadata needed to make the data as FAIR as possible.\n"
-msgstr "後設資料有許多類型，各有不同用途。以下是您應考量的幾類關鍵後設資料：\n* 有些後設資料有助於識別資料來源，例如建立者與標題。這類資訊通常會使用 [Dublin Core](https://www.dublincore.org)。\n* 有些後設資料能讓其他研究人員更容易發現資料。這通常需要使用關鍵字，或使用描述資料內容的本體術語。\n* 有些後設資料會描述可以如何再次使用該資料，例如授權條款；若是與人相關的資料，也包括原始同意涵蓋的資料再次使用範圍。\n* 有些後設資料能讓資料更容易理解，例如連結到蒐集資料時使用的確切流程（例如「*體溫*」是在舌下還是直腸量測？），以及度量單位（溫度是攝氏還是華氏？）。\n* 有些後設資料會描述資料來源，以及資料適合用於哪些目的。對於常見資料類型，通常已有定義完善的後設資料標準；其他情況下，您可能需要自行判斷。\n每一類後設資料都有相應的特定標準。沒有任何單一標準能涵蓋所有讓資料盡可能符合 FAIR 原則所需的後設資料。\n"
+msgstr "後設資料有許多類型，各有不同用途。以下是您應考量的幾類關鍵後設資料：\n* 有些後設資料有助於識別資料來源，例如建立者與標題。這類資訊通常會使用 [Dublin Core](https://www.dublincore.org)。\n* 有些後設資料能讓其他研究人員更容易發現資料。這通常需要使用關鍵字，或使用描述資料內容的知識本體 (ontology)術語。\n* 有些後設資料會描述可以如何再次使用該資料，例如授權條款；若是與人相關的資料，也包括原始同意涵蓋的資料再次使用範圍。\n* 有些後設資料能讓資料更容易理解，例如連結到蒐集資料時使用的確切流程（例如「*體溫*」是在舌下還是直腸量測？），以及度量單位（溫度是攝氏還是華氏？）。\n* 有些後設資料會描述資料來源，以及資料適合用於哪些目的。對於常見資料類型，通常已有定義完善的後設資料標準；其他情況下，您可能需要自行判斷。\n每一類後設資料都有相應的特定標準。沒有任何單一標準能涵蓋所有讓資料盡可能符合 FAIR 原則所需的後設資料。\n"
 
 #: answer:010b4ce6-0f52-437d-9971-681acdf37524:label
 msgid "There are no special networking requirements"
@@ -4662,7 +4662,7 @@ msgstr "驗證用輸入資料"
 
 #: question:34a3ef8b-4a17-4030-9157-ed1c1bf60b80:text
 msgid "Validation of results without a golden standard is very hard. One way of doing it is to develop two solutions for a problem (two independent workflows or two independently developed tools) to check whether the results are identical or comparable."
-msgstr "沒有黃金標準時，要驗證結果非常困難。其中一種做法是針對同一個問題開發兩套解法（兩個獨立工作流程，或兩個獨立開發的工具），用來檢查結果是否相同或可比較。"
+msgstr "在沒有黃金標準的情形下，要來驗證結果就非常困難。其中一種做法是針對同一個問題開發兩套解法（兩個獨立工作流程，或兩個獨立開發的工具），用來檢查結果是否相同或可比較。"
 
 #: cross-reference:fbe68369-30cb-422b-b5c1-fd871bb16331:description
 msgid "Validation of tools updates"
@@ -5063,7 +5063,7 @@ msgstr "您將使用哪些既有資料格式或資料類型？"
 
 #: question:2bac9020-99cf-4463-8d34-0b0eb2781cd1:title
 msgid "What existing encodings/terminologies/vocabularies/ontologies will you be using?"
-msgstr "您將使用哪些既有的編碼方式、術語、詞彙表或本體？"
+msgstr "您將使用哪些既有的編碼方式、術語、詞彙表或知識本體 (ontology)？"
 
 #: question:be872000-cb98-442f-999c-ca3ef58dcfe8:title
 msgid "What existing non-reference data sets did you consider re-using?"
@@ -5759,7 +5759,7 @@ msgstr "您會探索工作流程參數，還是批次執行工作流程？"
 
 #: question:c37476ca-0f0f-47a9-87b2-505a67b83558:title
 msgid "Will you be including keywords or relevant ontology references to optimise the possibility for discovery and potential reuse?"
-msgstr "您是否會加入關鍵字或相關本體參照，以提升資料被發現與潛在再次使用的可能性？"
+msgstr "您是否會加入關鍵字或相關知識本體 (ontology)參照，以提升資料被發現與潛在再次使用的可能性？"
 
 #: question:a3a4ce37-4ced-41df-8ec6-e42d87a6a3f1:title
 msgid "Will you be instrumenting the tools into pipelines and workflows using automated tools?"
@@ -5795,7 +5795,7 @@ msgstr "您是否會將資料調和的結果提供給他人？"
 
 #: question:76cf4d79-dafe-4d89-9958-047ea4b977ee:title
 msgid "Will you be mapping your terms to existing vocabularies or ontologies?"
-msgstr "您是否會將您的術語對應至既有詞彙表或本體？"
+msgstr "您是否會將您的術語對應至既有詞彙表或知識本體 (ontology)？"
 
 #: question:f6476ea3-1ec5-447b-a776-4f0bfca38f8f:title
 msgid "Will you be relying on these backups to recover from human error (accidental changes or deletions)?"
@@ -6348,7 +6348,7 @@ msgstr "是"
 
 #: answer:88f9fb7b-12a9-481a-9239-cbf43206056e:label
 msgid "Yes, (almost) all our concepts are either from common ontologies, or mapped to common ontologies"
-msgstr "是，（幾乎）所有概念都來自通用本體，或已對應到通用本體"
+msgstr "是，（幾乎）所有概念都來自通用知識本體 (common ontology)，或已對應到通用本體"
 
 #: answer:cb765913-50c9-482e-bf10-5f5f91d0e473:label
 msgid "Yes, I will add \"optional\" metadata where I can"
@@ -6364,7 +6364,7 @@ msgstr "是，我會建立自己的資料類型登錄冊"
 
 #: answer:668ecd34-4413-4aa9-8921-616325766ec0:label
 msgid "Yes, I will make and publish a vocabulary or ontology for some of my data"
-msgstr "是，我會為部分資料建立並發布詞彙表或本體"
+msgstr "是，我會為部分資料建立並發布詞彙表或知識本體 (ontology)"
 
 #: answer:bf76127e-0497-46eb-8b5d-e4cfcb84f622:label
 msgid "Yes, I will need to use custom formats for some of my data"
@@ -6597,7 +6597,7 @@ msgstr "系統會顯示來自 [FAIRSharing](https://fairsharing.org/) 的建議�
 
 #: question:9a7e42c3-eed2-46da-bf45-52acbf1eb50f:text
 msgid "You will be presented with suggestions from [FAIRSharing](https://fairsharing.org/), but you also have the option to manually enter the vocabulary or ontology that is not listed there."
-msgstr "系統會顯示來自 [FAIRSharing](https://fairsharing.org/) 的建議項目，但您也可以手動輸入未列出的詞彙表或本體。"
+msgstr "系統會顯示來自 [FAIRSharing](https://fairsharing.org/) 的建議項目，但您也可以手動輸入未列出的詞彙表或知識本體 (ontology)。"
 
 #: question:ac1f8f04-17a2-49e9-b2ad-2a9f8e44efb3:text
 msgid "You will be presented with suggestions from [ISO 4217](https://www.iso.org/iso-4217-currency-codes.html), but you also have the option to manually enter the currency."
