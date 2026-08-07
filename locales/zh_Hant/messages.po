@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 13:28+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 13:32+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -3856,7 +3856,7 @@ msgstr "研究計畫"
 
 #: question:726e4a24-6d81-440b-8a70-5d36fa65c3a9:text
 msgid "Research funding organisations more and more demand that you search for existing data sets that could have information that you need, before assuming you need to collect all data yourself. You are asked to list what you have been able to locate, and whether you have found it suitable to use in your research. Do you need pointers to find such existing data sets?"
-msgstr "研究資助機構越來越常要求研究者，在認定必須自行蒐集所有資料之前，先搜尋可能包含所需資訊的既有資料集。請列出您已找到的資料集，以及您認為這些資料集是否適合用於您的研究。您是否需要一些指引，以尋找這類既有資料集？"
+msgstr "研究資助機構越來越常要求研究者，在認定必須自行蒐集所有資料之前，，先搜尋既有資料集有無您所需資訊的資料集。請列出您已找到的資料集，以及您認為這些資料集是否適合用於您的研究。您是否需要一些指引，以尋找這類既有資料集？"
 
 #: choice:c81c63b6-bec0-4e12-b9cd-247fa4338c1f:label
 msgid "Researcher"
