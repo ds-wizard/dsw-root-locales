@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 13:55+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 13:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1809,7 +1809,7 @@ msgid ""
 "Have you identified types of data that you will use that are used by others too? Some types of data (for example \"images\" or \"tables\") are used by many different projects. For such data, often common standards exist (in our example \"JPG\" and \"CSV\" [comma separated values]) that help to make these data reusable. Are you using such common data formats?\n"
 "\n"
 "Please make sure you list all the data types that are important for your project. You should make sure also to list the formats used in any data sets that you are re-using."
-msgstr "您是否已確認本專案會使用、且其他研究或專案也使用的資料類型？有些資料類型（例如「圖像」或「表格」）會被許多不同專案使用。這類資料通常已有通用標準格式，例如 JPG 或 CSV（逗號分隔值），有助於提升資料可再次使用的可能性。您是否會使用這類通用資料格式？\n\n請列出本專案中重要的所有資料類型，也請一併列出您將再次使用的資料集所採用的資料格式。"
+msgstr "您是否已確認本專案會使用的常用資料類型？有些資料類型（例如「圖像」或「表格」）會被許多不同專案使用。這類資料通常已有通用標準格式，例如 JPG 或 CSV（逗號分隔值），有助於提升資料可再次使用的可能性。您是否會使用這類通用資料格式？\n\n請列出本專案中重要的所有資料類型，也請一併列出您將再次使用的資料集所採用的資料格式。"
 
 #: question:12baa8af-db59-43a5-8ec7-0941c58ff89a:text
 msgid "Horizon Europe demands that metadata is completely open, e.g. provided under a CC0 license, and that any deviation from this is clarified."
