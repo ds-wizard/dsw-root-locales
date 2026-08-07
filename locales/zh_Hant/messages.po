@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 14:31+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 14:38+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -303,7 +303,7 @@ msgstr "工作流程中使用的所有軟體工具是否皆有專業維護，並
 
 #: question:3196c225-2842-4766-9768-381fd6ee1e05:title
 msgid "Are all the URIs in the RDF resolving to common ontologies?"
-msgstr "RDF 中所有 URI 是否皆可解析至通用本體？"
+msgstr "RDF 中所有 URI 是否皆可解析至通用知識本體( common ontologies)？"
 
 #: question:bdaba73c-02e0-4ff1-acb3-a68df891c36a:title
 msgid "Are all the relations between the column headers explicit?"
@@ -388,7 +388,7 @@ msgstr "是否還有其他為維持資料或文件可取用而定期支付的費
 
 #: question:8df5fdb2-e358-4c27-bbe8-efdca150702b:title
 msgid "Are there any software packgages you will be publishing?"
-msgstr "您是否將發布任何軟體包？"
+msgstr "您是否將發布任何軟體套件？"
 
 #: question:85a9d872-3d41-4560-82c4-b850a6e2d5ac:title
 msgid "Are there business reasons why (some of your) data can not be completely open?"
@@ -499,7 +499,7 @@ msgstr "您的資料來源是否使用資料連結 (Linked Data)？"
 
 #: question:532ddc6a-3415-4df8-8fa1-002ee486fd42:title
 msgid "Are your sources using the same vocabularies or ontologies where possible?"
-msgstr "您的資料來源是否盡可能使用相同的詞彙表或本體？"
+msgstr "您的資料來源是否盡可能使用相同的詞彙表或知識本體 (ontology)？"
 
 #: answer:59305ef2-2dd0-4553-8d7b-29186e0b8cd5:label
 msgid "As long as technically possible"
@@ -626,7 +626,7 @@ msgstr "請確認您是否能為每一個資料項目找到對應的資料類型
 
 #: answer:1485ec8b-094c-49bb-8de1-ce214c83790f:advice
 msgid "Check whether you can find an ontology for each of your data items"
-msgstr "請確認您是否能為每一個資料項目找到合適的本體"
+msgstr "請確認您是否能為每一個資料項目找到合適的知識本體 (ontology)"
 
 #: question:0184bfcc-69ab-48c8-9d62-e23ae73a60be:text
 msgid "Choose from the predefined list of licenses. If you cannot find the one you need, please fill it in manually."
@@ -634,7 +634,7 @@ msgstr "請從預先定義的授權清單中選擇。若找不到所需的授權
 
 #: answer:3e5ef321-76f3-4c65-a49f-4e03f6a23def:advice
 msgid "Choose the ontologies before you start."
-msgstr "請在開始之前先選定要使用的本體。"
+msgstr "請在開始之前先選定要使用的知識本體 (ontology)。"
 
 #: answer:a8adc972-a2b6-4f5b-837b-20f83a685ed6:label
 msgid "Closed: This is an archive, it is not meant to share the data with anyone"
@@ -745,7 +745,7 @@ msgstr "資料串接是否可能造成擬匿名化或匿名化個人資料被重
 
 #: question:69be6695-152b-48ba-a1fd-6662476e39b7:title
 msgid "Could you use data aggregation to make the data openly available?"
-msgstr "您是否可以透過資料聚合，使資料更容易公開提供？"
+msgstr "您是否可以透過資料聚合 (data aggregation)，使資料更容易公開提供？"
 
 #: chapter:b1df3c74-0b1f-4574-81c4-4cc2d780c1af:title
 msgid "Creating and collecting data"
@@ -1813,7 +1813,7 @@ msgstr "您是否已確認本專案會使用的常用資料類型？有些資料
 
 #: question:12baa8af-db59-43a5-8ec7-0941c58ff89a:text
 msgid "Horizon Europe demands that metadata is completely open, e.g. provided under a CC0 license, and that any deviation from this is clarified."
-msgstr "Horizon Europe 要求後設資料必須完全開放，例如以 CC0 授權提供；若有任何偏離此原則的情況，請加以說明。"
+msgstr "Horizon Europe 要求後設資料必須完全開放，例如以 CC0 公眾領域貢獻宣告提供；若有任何偏離此原則的情況，請加以說明。"
 
 #: answer:91463928-1cf4-43e0-bb4e-d1fc7b077ac8:label
 msgid "Hours"
@@ -2721,7 +2721,7 @@ msgstr "請列出您將用於詮釋的資料格式，並描述其結構"
 
 #: question:9d44b89e-300d-4227-8642-c6b38b8b882d:title
 msgid "List the ontologies you will be using"
-msgstr "請列出您將使用的本體"
+msgstr "請列出您將使用的知識本體 ( ontologies )"
 
 #: question:f83a9afd-c6de-452b-be9f-bd76e5eb6b54:text
 msgid "Maintaining a repository is a long term commitment that can most of the time not be funded from project money. Think about who will be doing the system maintenance, hardware maintenance, and who will make necessary code changes to accommodate future (safe) versions of the system"
@@ -3762,7 +3762,7 @@ msgstr "RDMkit 的機器可操作性頁面"
 
 #: url-reference:257d126a-611d-475d-a86d-752131f7c7e8:label
 msgid "RDMkit on Package management systems"
-msgstr "RDMkit 的軟體包管理系統頁面"
+msgstr "RDMkit 的軟體套件管理系統頁面"
 
 #: url-reference:7e8d2692-7da6-4f29-a97c-1cf09e2cbb06:label
 msgid "RDMkit on Reusing Data"
@@ -3970,7 +3970,7 @@ msgstr "此處未列出的軟體"
 
 #: question:1024bb15-aaf5-4696-9b49-42898b72a16d:title
 msgid "Software package:"
-msgstr "軟體包："
+msgstr "軟體套件："
 
 #: question:dc39957e-688a-4f71-a6a8-57f52509e7cf:text
 msgid "Some \"file\" storage systems do not have a tree structure like we know in a file system, but rather have direct pointers to any file in the system. Such systems are called \"object stores\" or \"document stores\". Examples are Amazon S3 and CEPH, or MongoDB."
@@ -3982,7 +3982,7 @@ msgstr "有些資料可能設有暫時性的延後開放期限，或基於特定
 
 #: question:1302cb21-6a98-490e-b64d-acf4744a8b1a:text
 msgid "Some data types may be closely coupled to specific software packages. If that is the case for this data set, please name and point out the required software."
-msgstr "某些資料類型可能與特定軟體包密切綁定。若此資料集屬於這種情況，請列出所需軟體，並說明可從何處取得。"
+msgstr "某些資料類型可能與特定軟體套件密切綁定。若此資料集屬於這種情況，請列出所需軟體，並說明可從何處取得。"
 
 #: question:7e77ee02-ce26-4cd9-b07d-3eea03bc35c9:text
 msgid "Some old data may need to be recovered, e.g. from tables in scientific papers or may be punch cards."
@@ -4030,7 +4030,7 @@ msgstr "請列出您將產製的資料集"
 
 #: question:1ae8d7b0-4bcd-4914-aaea-fa389fc056f4:title
 msgid "Specify a list of software packages you will be publishing"
-msgstr "請列出您將發布的軟體包"
+msgstr "請列出您將發布的軟體套件"
 
 #: question:7801fe70-a2ac-432b-9470-e326646c249f:text
 msgid "Specify a persistent identifier (e.g., a DOI) or a URL for the dataset. If possible, refer exactly to the version that you are using."
@@ -4042,7 +4042,7 @@ msgstr "請指定此非參考資料集的持續識別碼 (PID)，例如數位物
 
 #: question:1ae8d7b0-4bcd-4914-aaea-fa389fc056f4:text
 msgid "Specify a short name for each software package."
-msgstr "請為每個軟體包指定簡短名稱。"
+msgstr "請為每個軟體套件指定簡短名稱。"
 
 #: question:2a0cf686-63ed-44b6-ae74-38ddd39ac741:text
 msgid "Specify an amount including the relevant"
@@ -5343,7 +5343,7 @@ msgstr "實體樣本將存放在哪裡"
 
 #: question:87b45400-169d-424d-8e71-d2034618dab5:title
 msgid "Where will the software package be available?"
-msgstr "這個軟體包將在哪裡提供？"
+msgstr "這個軟體套件將在哪裡提供？"
 
 #: question:b94df3e7-a32e-4e3b-81fe-93a039409b10:title
 msgid "Where will you make it available?"
@@ -5671,7 +5671,7 @@ msgstr "是否會一併提供此軟體（例如以開放原始碼形式提供）
 
 #: question:3effd452-f0ae-4c25-b971-2b5762889ca4:title
 msgid "Will this software be listed in a catalogue?"
-msgstr "這個軟體包是否會列入目錄？"
+msgstr "這個軟體套件是否會列入目錄？"
 
 #: question:5607d0bb-6b9e-4211-821c-785acc3aa25e:title
 msgid "Will this work space be run by dedicated specialists?"
@@ -5827,7 +5827,7 @@ msgstr "您是否會使用一個包含本專案特定資料與軟體的工作空
 
 #: question:f67e1539-5c7d-4df7-8259-e4f2edfa2685:title
 msgid "Will you be using common ontologies?"
-msgstr "您是否會使用通用本體？"
+msgstr "您是否會使用通用知識本體 (common ontologies)？"
 
 #: question:7e77ee02-ce26-4cd9-b07d-3eea03bc35c9:title
 msgid "Will you be using data that needs to be (re-)made computer readable first?"
