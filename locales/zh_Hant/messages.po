@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 13:39+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 13:55+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -2281,7 +2281,7 @@ msgid ""
 "In this chapter we describe all the sources of data: they can e.g. come from instruments or from questionnaires; data can be newly collected as part of the current project, but it can also be pre-existing data that may need proper contracts with the maintainer, some pre-processing, and quality checks. It can also be reference data that is part of curated resources and (public) databases. \n"
 "\n"
 "For more information see [Collecting in RDMKit](https://rdmkit.elixir-europe.org/collecting)"
-msgstr "本章說明所有資料來源：資料可能來自儀器或問卷；可能是在目前專案中新蒐集的資料，也可能是既有資料，需要與維護者訂定適當契約、進行部分前處理與品質檢查。資料也可能是策展資源與公共資料庫中的參考資料。\n\n更多資訊請參閱 [RDMkit 的資料蒐集頁面](https://rdmkit.elixir-europe.org/collecting)"
+msgstr "本章說明所有的資料來源：資料可能來自儀器或問卷；可能是在目前專案中新蒐集的資料，也可能是既有資料，需要與維護者訂定適當契約、進行部分前處理與品質檢查。資料也可能是來自經過策展的資源以及（公眾）資料庫中的參考資料。\n\n更多資訊請參閱 [RDMkit 的資料蒐集頁面](https://rdmkit.elixir-europe.org/collecting)"
 
 #: chapter:d5b27482-b598-4b8c-b534-417d4ad27394:text
 msgid "In this chapter, issues regarding data publication and long term archiving are addressed."
@@ -2594,7 +2594,7 @@ msgstr "缺少我們需要的資料"
 #: answer:2d28fbe5-3984-42be-a29e-38a7a72103a3:label
 #: answer:d961bef5-234d-49c2-9025-ff3f26e3dc8b:label
 msgid "It misses required aspects"
-msgstr "缺少必要內容"
+msgstr "資料缺少必要內容"
 
 #: answer:f9bd9b58-c400-4a0f-b66f-0ce991e0e3e2:label
 msgid "It was lost"
@@ -3905,7 +3905,7 @@ msgstr "反覆執行一小部分資料，有助於找出那些原本很難偵測
 
 #: answer:a0ced35d-28f4-4208-b4b1-bb524401939d:label
 msgid "Samples will only get an internal code"
-msgstr "樣本僅會以內碼加以識別"
+msgstr "樣本僅會以內部編碼加以識別"
 
 #: answer:b0544e61-df56-4d21-bd68-f81f83fdc7c4:label
 msgid "Samples will receive a universally unique persistent identifier (PID)"
@@ -5067,7 +5067,7 @@ msgstr "您將使用哪些既有的編碼方式、術語、詞彙表或本體？
 
 #: question:be872000-cb98-442f-999c-ca3ef58dcfe8:title
 msgid "What existing non-reference data sets did you consider re-using?"
-msgstr "您考慮再次使用哪些既有的非參考資料集？"
+msgstr "您考慮過再次使用哪些既有的非參考資料集？"
 
 #: question:fcc51962-08df-4f4c-85ad-6bb932107010:title
 msgid "What existing openly available standard reference data did you consider re-using?"
