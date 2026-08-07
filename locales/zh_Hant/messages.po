@@ -9,7 +9,7 @@
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-07-30 11:18+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 12:41+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -119,7 +119,7 @@ msgstr "請新增此資料集將可被取用的每個位置，並為每個位置
 
 #: question:c3dabaaf-c946-4a0d-889c-ede966f97667:text
 msgid "Add each of the research project(s) that you are (or will be) working on and for which the data and work are described in this DMP. Give each project a small identifying name for yourself."
-msgstr "請列出您目前或未來將參與，且其資料與工作內容由本資料管理方案 (DMP) 說明的所有研究計畫，並為每個計畫設定一個您能辨識的簡短名稱。"
+msgstr "請分別列出您目前或未來將參與，且其資料與工作內容由本資料管理方案 (DMP) 描述的研究計畫。並為每個計畫設定一個您能辨識的簡短名稱。"
 
 #: question:bd886f8e-7825-4f98-afb2-6079ae15c8ed:text
 msgid "Add reference to established agreement."
@@ -859,7 +859,7 @@ msgstr "資料管理者"
 
 #: choice:bc82b138-9816-46dd-8ff8-cea2826a3ad4:label
 msgid "Data Protection Officer"
-msgstr "資料保護官"
+msgstr "資料保護人員"
 
 #: choice:3022098b-0e2c-4fad-9f28-cf2e1325521d:label
 msgid "Data Steward"
@@ -1400,7 +1400,7 @@ msgstr "都柏林核心集是一套用來記錄資源跨領域通用特性的標
 
 #: question:3a2ffc13-6a0e-4976-bb34-14ab6d938348:title
 msgid "E-mail address"
-msgstr "電子郵件地址"
+msgstr "電子郵件"
 
 #: url-reference:8fe4a165-09a6-4e5d-835d-3255db21d0de:label
 msgid "EC Guidelines on DPIAs"
@@ -3593,7 +3593,7 @@ msgstr "專案主持人"
 
 #: choice:cd2d1e0d-c5ad-4d0e-afa2-5ed143323cb7:label
 msgid "Project Manager"
-msgstr "專案管理者"
+msgstr "專案經理"
 
 #: choice:3d166766-6511-407b-a3e9-9565628fe05a:label
 msgid "Project Member"
@@ -3895,7 +3895,7 @@ msgid ""
 "Roles in a project should be given as they are defined by [datacite](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf). \n"
 "\n"
 "You should specify at least one \"Contact Person\". If your project has a work package for data management, identify the leader of that work package as \"Data Curator\". At least one \"Creator of the DMP\" must be specified to ensure they are listed as a creator in the final DMP."
-msgstr "專案中的角色應依照 [DataCite](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) 的定義填寫。\n\n您應至少指定一位「聯絡人」。若您的專案設有資料管理工作包，請將該工作包的負責人標示為「資料策展人」。此外，至少必須指定一位「資料管理方案創作者」，以確保其在最終的資料管理方案中列為創作者。"
+msgstr "專案中的角色應依照 [DataCite](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) 的定義填寫。\n\n您應至少指定一位「聯絡人」。若您的專案含有資料管理的分項工作，請將該分項工作的負責人標示為「資料策展人」。此外，至少必須指定一位「資料管理方案創作者」，以確保其在最終的資料管理方案中列為創作者。"
 
 #: question:624cfadf-6177-47b7-9ba8-b80b68aef0fd:title
 msgid "Rough average size of each file/subject in gigabytes"
@@ -6064,7 +6064,7 @@ msgstr "您的專案是否要求典藏資料可線上取用？"
 
 #: choice:ce5476ed-5cc3-42ff-ac9d-d567f28cc2a6:label
 msgid "Work Package Leader"
-msgstr "工作包負責人"
+msgstr "分項工作主持人"
 
 #: question:4ba3304e-225c-4916-bbf7-754de381253c:title
 msgid "Workflow development"
@@ -6607,15 +6607,15 @@ msgstr "系統會提供來自 [ISO 4217](https://www.iso.org/iso-4217-currency-c
 
 #: question:6295a55d-48d7-4f3c-961a-45b38eeea41f:text
 msgid "You will be presented with suggestions from [ORCID](https://orcid.org/), but you also have the option to manually enter the ORCID identifier."
-msgstr "系統會顯示來自 [ORCID](https://orcid.org/) 的建議項目，但您也可以手動輸入 ORCID 識別碼。"
+msgstr "系統會顯示來自 [ORCID](https://orcid.org/) 的建議條目，但您也可以手動輸入 ORCID 識別碼。"
 
 #: question:68530470-1f1c-4448-8593-63a288713a66:text
 msgid "You will be presented with suggestions from [ROR](https://ror.org/), but you also have the option to manually enter the affiliation that is not listed there."
-msgstr "系統會顯示來自 [ROR](https://ror.org/) 的建議項目，但您也可以手動輸入未列出的所屬機構。"
+msgstr "系統會顯示來自 [ROR](https://ror.org/) 的建議條目，但您也可以手動輸入未列出的所屬機構。"
 
 #: question:b9619bee-6d69-4111-b1e0-6c3ea50e01f8:text
 msgid "You will be presented with suggestions from [ROR](https://ror.org/), but you also have the option to manually enter the organization that is not listed there."
-msgstr "系統會顯示來自 [ROR](https://ror.org/) 的建議項目；若組織未列於其中，您也可以手動輸入。"
+msgstr "系統會顯示來自 [ROR](https://ror.org/) 的建議條目；若組織未列於其中，您也可以手動輸入。"
 
 #: question:28712f2b-1775-4c81-8d87-4bf0b95c2a64:text
 msgid "You will be presented with suggestions from [Wikidata](https://www.wikidata.org/), but you also have the option to manually enter the license that is not listed there."
