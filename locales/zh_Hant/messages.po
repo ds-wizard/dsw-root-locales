@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-08 08:08+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-08 16:57+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -758,7 +758,7 @@ msgstr "建立參考資料"
 
 #: choice:21047dec-71ee-40e4-868a-3ed75a027ff6:label
 msgid "Creator of DMP"
-msgstr "資料管理方案創作者(Creator of DMP)"
+msgstr "資料管理方案創作者 (Creator of DMP)"
 
 #: choice:4e4a40fa-cf4d-4de2-8959-fc2d651be3f5:label
 msgid "Criminal convictions and offences"
@@ -847,23 +847,23 @@ msgstr "DPIA"
 
 #: choice:fc789e2d-01ee-432d-82f9-1b659f58eaf8:label
 msgid "Data Collector"
-msgstr "資料蒐集者(Data Collector)"
+msgstr "資料蒐集者 (Data Collector)"
 
 #: choice:618cb529-0c24-4762-a739-7983004d1b2b:label
 msgid "Data Curator"
-msgstr "資料策展人(Data Curator)"
+msgstr "資料策展人 (Data Curator)"
 
 #: choice:627ab8dc-8026-498d-ba7a-3df122e29ede:label
 msgid "Data Manager"
-msgstr "資料管理者(Data Manager)"
+msgstr "資料管理者 (Data Manager)"
 
 #: choice:bc82b138-9816-46dd-8ff8-cea2826a3ad4:label
 msgid "Data Protection Officer"
-msgstr "資料保護人員"
+msgstr "資料保護人員 (Data Protection Officer)"
 
 #: choice:3022098b-0e2c-4fad-9f28-cf2e1325521d:label
 msgid "Data Steward"
-msgstr "資料託管員(Data Steward)"
+msgstr "資料託管員 (Data Steward)"
 
 #: url-reference:35bcd464-9a68-49f3-8365-677fca660b17:label
 #: url-reference:b2db3b93-3ce7-4c3c-a80e-866671a9103a:label
@@ -1123,7 +1123,7 @@ msgstr "硬碟"
 
 #: choice:27dccf06-3b67-4c75-8888-6549e4da2d31:label
 msgid "Distributor"
-msgstr "發布者(Distributor)"
+msgstr "發布者 (Distributor)"
 
 #: question:6ab36a2a-23ca-484d-b3d7-0c1a4eea821a:title
 msgid "Do all columns/headers have a data type?"
@@ -1412,7 +1412,7 @@ msgstr "每位參與資料管理方案撰寫或執行的人員，皆應列為貢
 
 #: choice:100daf28-b55e-4b04-8295-f2aa83d0c734:label
 msgid "Editor"
-msgstr "編輯者(Editor)"
+msgstr "編輯者 (Editor)"
 
 #: question:f646ba6e-21bc-4e66-8265-c8fdbe115c1f:title
 msgid "Elaborate on your other safeguards"
@@ -2732,7 +2732,6 @@ msgid "Make sure a copy of the version of the input data you use will be availab
 msgstr "請確保您使用的輸入資料版本副本，會與研究結果一併提供"
 
 #: question:7dcf6059-b22c-44e9-8048-c8b8b90764ca:text
-#, fuzzy
 msgid "Make sure names are relatively short, and avoid spaces and special characters. You can use underscore characters, and consider using unique identifiers for the samples/experiments, workflow invocations, and processing steps. You can consider to add versioning using the date in YYYYMMDD format."
 msgstr "請確保名稱相對簡短，並避免使用空格與特殊字元。您可以使用底線，並可考慮為樣本／實驗使用唯一識別碼。您也可以考慮以 YYYYMMDD 格式的日期加入版本標示。"
 
@@ -2828,7 +2827,6 @@ msgstr "現今許多資料都會與參考資料進行比較。您可能會將自
 #: question:235b36a8-3df7-44b7-9d0f-2ced3e4281a3:title
 #: question:6155ad47-3d1e-4488-9f2a-742de1e56580:title
 #: question:9a7e42c3-eed2-46da-bf45-52acbf1eb50f:title
-#, fuzzy
 msgid "Name"
 msgstr "名稱"
 
@@ -3358,7 +3356,6 @@ msgid "Open: The data will be shared with anyone, as long as they obey condition
 msgstr "開放：資料將與任何人共享，只要其遵守授權條款的條件即可"
 
 #: question:b9619bee-6d69-4111-b1e0-6c3ea50e01f8:title
-#, fuzzy
 msgid "Organization"
 msgstr "組織"
 
@@ -3584,19 +3581,19 @@ msgstr "資料處理者"
 
 #: choice:2085d67e-e144-4ec2-a788-1b26ac1cd7ab:label
 msgid "Producer"
-msgstr "產製者(Producer)"
+msgstr "產製者 (Producer)"
 
 #: choice:2d433965-55e3-4540-aae4-f85639d4e4fc:label
 msgid "Project Leader"
-msgstr "專案主持人(Project Leader)"
+msgstr "專案主持人 (Project Leader)"
 
 #: choice:cd2d1e0d-c5ad-4d0e-afa2-5ed143323cb7:label
 msgid "Project Manager"
-msgstr "專案經理"
+msgstr "專案經理 (Project Manager)"
 
 #: choice:3d166766-6511-407b-a3e9-9565628fe05a:label
 msgid "Project Member"
-msgstr "專案成員(Project Member)"
+msgstr "專案成員 (Project Member)"
 
 #: question:22583d74-3c98-4e0a-b363-26d767c88212:title
 msgid "Project abstract"
@@ -3615,7 +3612,6 @@ msgid "Project members may need to know about passwords (not sharing accounts, u
 msgstr "專案成員可能需要了解密碼相關事項（例如不共用帳號、每項服務使用不同密碼，以及雙因素身分驗證）、隨身攜帶資料的安全性（加密、備份）、儲存在自己實驗室與個人雲端帳號中的資料，以及開放式 Wi-Fi 與 HTTPS 的使用。"
 
 #: question:f0ef08fd-d733-465c-bc66-5de0b826c41b:title
-#, fuzzy
 msgid "Project name"
 msgstr "專案名稱"
 
@@ -3860,7 +3856,7 @@ msgstr "研究資助機構越來越常要求研究者，在認定必須自行蒐
 
 #: choice:c81c63b6-bec0-4e12-b9cd-247fa4338c1f:label
 msgid "Researcher"
-msgstr "研究人員(Researcher)"
+msgstr "研究人員 (Researcher)"
 
 #: answer:0c630b6f-8aec-4153-818d-90fbb559072f:label
 #: answer:9270c716-f997-43e1-bc2a-55687e149dbd:label
@@ -3881,7 +3877,7 @@ msgstr "Rightfield: Microsoft Excel 中的範本欄位"
 
 #: choice:704ebc65-6932-4679-bbe5-f25c19843f0f:label
 msgid "Rights Holder"
-msgstr "權利人(Rights Holder)"
+msgstr "權利人 (Rights Holder)"
 
 #: question:829dcda6-db8a-40ac-819a-92b9b52490f5:title
 msgid "Role"
@@ -4078,7 +4074,7 @@ msgstr "請指定此資料集將透過哪些位置提供取用"
 
 #: choice:374b887f-dfd8-4763-b360-b2a8aa12051c:label
 msgid "Sponsor"
-msgstr "贊助者(Sponsor)"
+msgstr "贊助者 (Sponsor)"
 
 #: answer:9d5a52da-221f-4cfb-9727-8564a3a0d15b:label
 msgid "Standard personal data"
@@ -4130,7 +4126,7 @@ msgstr "不熟悉電腦化解決方案的領域專家"
 
 #: choice:6dfde2b6-4234-47a0-b7da-ccb7412f8490:label
 msgid "Supervisor"
-msgstr "督導者(Supervisor)"
+msgstr "督導者 (Supervisor)"
 
 #: choice:d2a9d717-c0b2-44ee-8a6d-8476831b6225:label
 msgid "Supporting management of data"
@@ -6059,7 +6055,7 @@ msgstr "您的專案是否要求典藏資料可線上取用？"
 
 #: choice:ce5476ed-5cc3-42ff-ac9d-d567f28cc2a6:label
 msgid "Work Package Leader"
-msgstr "分項工作主持人"
+msgstr "分項工作主持人 (Work Package Leader)"
 
 #: question:4ba3304e-225c-4916-bbf7-754de381253c:title
 msgid "Workflow development"
