@@ -8,8 +8,9 @@
 # Hilary Shiue <hshiue@iis.sinica.edu.tw>, 2026.
 # Chun-Shih Chang <austin20463@gmail.com>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
+# Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-08-07 15:31+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-08 08:08+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -837,7 +838,6 @@ msgid "DMEG on Storage"
 msgstr "DMEG 的儲存頁面"
 
 #: answer:48062bc9-0ffb-4509-bec6-e90641a30569:label
-#, fuzzy
 msgid "DOI"
 msgstr "DOI"
 
@@ -3884,7 +3884,6 @@ msgid "Rights Holder"
 msgstr "權利人(Rights Holder)"
 
 #: question:829dcda6-db8a-40ac-819a-92b9b52490f5:title
-#, fuzzy
 msgid "Role"
 msgstr "角色"
 
@@ -4600,7 +4599,6 @@ msgid "Timing archival of raw data"
 msgstr "安排原始資料的典藏時程"
 
 #: question:7098b454-bc5e-4f83-a95d-970aa42e1479:title
-#, fuzzy
 msgid "Title"
 msgstr "標題"
 
@@ -4636,7 +4634,6 @@ msgid "TranSMART"
 msgstr "TranSMART"
 
 #: answer:7a1d3b28-5f85-48b8-b052-2448c276d9fc:label
-#, fuzzy
 msgid "URL"
 msgstr "網址"
 
@@ -6700,7 +6697,6 @@ msgid "moteur"
 msgstr "moteur"
 
 #: answer:1f53a431-ec8d-4a16-875a-c2f7843a2294:advice
-#, fuzzy
 msgid "really?"
 msgstr "真的嗎？"
 
