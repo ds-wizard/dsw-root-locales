@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-08 16:57+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-09 06:22+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -1530,7 +1530,7 @@ msgstr "FAIR 原則 I3 頁面"
 
 #: url-reference:c0f78b3d-af6c-4083-8398-688984178536:label
 msgid "FAIRCookbook introduction to terminologies and ontologies"
-msgstr "FAIRCookbook 的術語與知識本體 (ontology)介紹頁面"
+msgstr "FAIRCookbook 的術語與知識本體 (ontology) 介紹頁面"
 
 #: url-reference:6c277217-8bc7-4768-94e2-be019571c94b:label
 msgid "FAIRCookbook on Data Licenses"
@@ -1559,7 +1559,7 @@ msgstr "FAIRCookbook 的溯源資訊說明"
 #: url-reference:06211161-75e4-43b7-8e80-c470fccb2893:label
 #: url-reference:ae26faa3-f8ad-4f5d-8bd3-b3d16c526ceb:label
 msgid "FAIRCookbook on Selecting an ontology lookup service"
-msgstr "FAIRCookbook 的知識本體 (ontology)查詢服務選擇指南"
+msgstr "FAIRCookbook 的知識本體 (ontology) 查詢服務選擇指南"
 
 #: url-reference:250662f3-6a33-4dbf-8fb4-abb91be3314b:label
 msgid "FAIRCookbook on Software Licensing"
@@ -1596,11 +1596,11 @@ msgstr "FAIRCookbook 的資料允許使用範圍頁面"
 
 #: url-reference:bc1a7f76-a2e4-426b-a360-48ea0a6cce80:label
 msgid "FAIRCookbook on selecting an ontology lookup service"
-msgstr "FAIRCookbook 的知識本體 (ontology)查詢服務選擇指南"
+msgstr "FAIRCookbook 的知識本體 (ontology) 查詢服務選擇指南"
 
 #: url-reference:5669ca15-3bab-46b5-9b0d-9e1013e6172b:label
 msgid "FAIRCookbook on selecting terminologies and ontologies"
-msgstr "FAIRCookbook 的術語與知識本體 (ontology)選擇頁面"
+msgstr "FAIRCookbook 的術語與知識本體 (ontology) 選擇頁面"
 
 #: url-reference:f57c5313-6ccb-4eb4-b79a-fdbd3c72bc48:label
 msgid "FAIRCookbook on tools to convert data to RDF"
