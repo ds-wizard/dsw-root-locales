@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-10 11:01+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-10 11:06+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -2293,7 +2293,7 @@ msgstr "初始資料將透過個別儲存媒體送達，並需要複製到工作
 
 #: answer:9ad1d4fd-997d-45a8-8cc4-f594a8e4fdf8:label
 msgid "Initial data will need to be made available through a local network copy"
-msgstr "初始資料需要透過本地網路副本提供使用"
+msgstr "需要透過區域網路複製初始資料"
 
 #: choice:f2919725-27cf-4c43-a04b-69a47eb1f852:label
 msgid "Innovative use or applying new technological or organizational solutions, like combining the use of fingerprint and face recognition for physical access control.  "
@@ -3119,7 +3119,7 @@ msgstr "否"
 
 #: answer:2271d2cd-de50-460b-85a1-dddf9d28776c:label
 msgid "No special planning is needed for the initial data"
-msgstr "對於初始資料，不需要特別規劃"
+msgstr "沒有特別規劃初始資料的到來"
 
 #: answer:d45f521d-f541-4f40-a3d8-d4a9ecdc65e3:label
 msgid "No special provisions are needed"
