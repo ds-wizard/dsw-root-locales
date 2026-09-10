@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-10 11:39+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-01-15 14:19+0100\nPO-Revision-Date: 2026-09-10 11:50+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: answer:37672102-6b96-4c69-a24a-ce3b8672ccc1:label
 msgid "10 years"
@@ -60,7 +60,7 @@ msgstr "大量的中間資料會存放在工作空間中"
 
 #: answer:50eb4b5d-2455-48aa-b1f1-b4abca495e4d:label
 msgid "A project data steward or principle investigator"
-msgstr "專案資料託管員或計畫主持人"
+msgstr "計畫資料託管員或計畫主持人"
 
 #: question:f876a937-c295-4a12-9dfb-6ffc7395c8db:text
 msgid "A qualified reference is a cross-reference that explains its intent. For example, X is regulator of Y is a much more qualified reference than X is associated with Y, or X see also Y. The goal therefore is to create as many meaningful links as possible between (meta)data resources to enrich the contextual knowledge about the data."
@@ -76,7 +76,7 @@ msgstr "需要快速部署一份預備的副本"
 
 #: answer:afd9f4d5-20e0-4fa0-a42a-376c132ff5b0:label
 msgid "A special-purpose repository for the project"
-msgstr "此專案專用的資料儲存庫"
+msgstr "此計畫專用的資料儲存庫"
 
 #: answer:9d51aae1-ca1b-4267-b0df-d43dc85f5bc6:label
 msgid "A specialized team"
@@ -112,7 +112,7 @@ msgstr "新增所有您會產製的資料集。給每個資料集一個簡短的
 
 #: question:36a87eac-402d-43fb-a0df-ac5963bdf87d:text
 msgid "Add all the funding that are part of this project."
-msgstr "新增所有此專案的資金來源。"
+msgstr "新增所有此計畫的資金來源。"
 
 #: question:81d3095e-a530-40a4-878e-ced42fabc4cd:text
 msgid "Add each of the locations where this data set will be made available. Give each of these a short name that identifies it to yourself."
@@ -136,7 +136,7 @@ msgstr "行政資訊"
 
 #: question:37d0367b-3b69-4b3e-9303-71e628b1f360:text
 msgid "Advice: Use the same identifiers for sample IDs etc throughout the entire project."
-msgstr "建議：在整個專案中，樣本 ID 等識別碼請始終使用相同的命名方式。"
+msgstr "建議：在整個計畫中，樣本 ID 等識別碼請始終使用相同的命名方式。"
 
 #: question:68530470-1f1c-4448-8593-63a288713a66:title
 msgid "Affiliation"
@@ -168,7 +168,7 @@ msgstr "所有分析都將以新版本重新執行"
 
 #: answer:c861d005-a681-4a3a-a54b-7a229b6662ee:label
 msgid "All at once with the results at the end of the project"
-msgstr "專案結束時，連同結果一起典藏"
+msgstr "計畫結束時，連同結果一起典藏"
 
 #: answer:278810f9-6396-4203-9fa6-6cd3a003159c:label
 msgid "All data elsewhere is adequately backed up"
@@ -243,11 +243,11 @@ msgstr "任何使用者都必須能夠即時還原舊版副本"
 
 #: answer:b19ba76a-4b6a-45f6-8ab5-8bbfb92c7b2c:label
 msgid "Anyone in the institute can read data, only project members can request write access"
-msgstr "機構內任何人皆可讀取資料；只有專案成員可以申請資料的寫入權限"
+msgstr "機構內任何人皆可讀取資料；只有計畫成員可以申請資料的寫入權限"
 
 #: answer:154cd5fc-a79f-4c2e-be67-6985813bbc8d:label
 msgid "Anyone in the institute has read access to the data; all project members have read/write access."
-msgstr "機構內任何人皆具有資料的讀取權限；所有專案成員則具有讀取與寫入權限。"
+msgstr "機構內任何人皆具有資料的讀取權限；所有計畫成員則具有讀取與寫入權限。"
 
 #: answer:8d3c3ffa-f194-4930-8cc5-ffa1f8f77fd7:label
 msgid "Apache 2.0"
@@ -268,7 +268,7 @@ msgstr "資料典藏與資料處理有不同的需求。典藏資訊應採用他
 
 #: cross-reference:4edaeeb8-0e4d-4ae7-b1c6-2e324bebdfd6:description
 msgid "Archival during the project"
-msgstr "專案期間的典藏"
+msgstr "計畫期間的典藏"
 
 #: cross-reference:b0430030-df3e-4d67-897f-335fa6185858:description
 msgid "Archive encryption"
@@ -276,7 +276,7 @@ msgstr "典藏庫加密"
 
 #: cross-reference:7d1b6960-92db-4074-b908-74132bce1444:description
 msgid "Archiving data when the project is finished"
-msgstr "當專案完成後典藏資料"
+msgstr "當計畫完成後典藏資料"
 
 #: cross-reference:3575556d-82dd-43bd-b9f1-5f1f28dbee86:description
 msgid "Archiving raw data from the working area"
@@ -296,7 +296,7 @@ msgstr "是否所有資料載體皆已加密？"
 
 #: question:39d8dad9-7666-405c-b35c-9e430c9691ed:title
 msgid "Are all project web services addressed via secure http (https://)?"
-msgstr "所有專案的網路服務是否皆透過安全的 HTTP (HTTPS) 連線存取？"
+msgstr "所有計畫的網路服務是否皆透過安全的 HTTP (HTTPS) 連線存取？"
 
 #: question:56bc8ebb-aba5-4745-8034-17ed3fe4fe07:title
 msgid "Are all software tools in the work flow professionally maintained, with version control?"
@@ -316,15 +316,15 @@ msgstr "您使用的所有軟體工具，是否都在您的完全掌控之下？
 
 #: question:655180dc-1cb9-41f6-8a36-7c6ecf02009a:title
 msgid "Are all versions of all tools, including built-in tools, under total control of the project?"
-msgstr "所有工具（包括內建工具）的所有版本是否都由專案完全掌控？"
+msgstr "所有工具（包括內建工具）的所有版本是否都由計畫完全掌控？"
 
 #: question:6b3f13db-407a-44e0-9d23-e6dd6a20ad59:title
 msgid "Are data integrity and reliability requirements also met by the other storage spaces used in the project?"
-msgstr "專案中使用的其他儲存空間是否也同樣符合資料完整性與可靠性的要求？"
+msgstr "計畫中使用的其他儲存空間是否也同樣符合資料完整性與可靠性的要求？"
 
 #: question:c1e83bdf-5914-44c2-8414-0a4e7fbaf272:title
 msgid "Are data that project members and partners store themselves adequately backed up and traceable?"
-msgstr "專案成員與合作夥伴自行儲存的資料，是否已妥善備份且可追蹤？"
+msgstr "計畫成員與合作夥伴自行儲存的資料，是否已妥善備份且可追蹤？"
 
 #: question:d5990471-0618-42cd-92cb-bbbfd4f61532:title
 msgid "Are personal data sufficiently protected?"
@@ -332,7 +332,7 @@ msgstr "個人資料是否受到充分的保護？"
 
 #: question:a12aa967-28a5-4a9b-8df8-f7c533205ea4:text
 msgid "Are some of the data in the project stored in a filesystem with files and folders?"
-msgstr "專案中部分的資料是否儲存在以檔案與資料夾組織的檔案系統中？"
+msgstr "計畫中部分的資料是否儲存在以檔案與資料夾組織的檔案系統中？"
 
 #: question:c534c029-cb42-46a9-a118-87abfe3b54da:title
 msgid "Are the criteria for application to access the data openly available?"
@@ -356,7 +356,7 @@ msgstr "是否因智慧財產權 (IP) 方面的原因使您的資料無法公開
 
 #: question:98d9789b-32fc-4e2f-876a-47760ad7c7ec:text
 msgid "Are there any data files e.g. on laptops of project members? Also: supercomputing centers and other high performance computer centers often write in their terms of use that you need to take care of your own backups."
-msgstr "專案成員的筆記型電腦等設備中是否存有任何資料檔案？此外，高速計算中心及其他高效能運算中心通常會在使用條款中註明，使用者須自行負責資料備份。"
+msgstr "計畫成員的筆記型電腦等設備中是否存有任何資料檔案？此外，高速計算中心及其他高效能運算中心通常會在使用條款中註明，使用者須自行負責資料備份。"
 
 #: question:efc80cc8-8318-4f8c-acb7-dc1c60e491c1:text
 msgid "Are there any data sets available in the world that are relevant to your planned research?"
@@ -371,17 +371,17 @@ msgstr "對於資料的使用是否有任何限制，例如：僅限於特定類
 
 #: question:426bdcb5-d012-4f1d-b99e-36dc3efe6e50:title
 msgid "Are there any other outputs of your project that might be valuable to some other entities (researchers, researcher groups, institutes)?"
-msgstr "您的專案成果是否可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
+msgstr "您的計畫成果是否可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question:ee81402b-aefa-4cb6-9743-bb5de655e76d:title
 msgid "Are there any other outputs of your project, besides software, that could be valuable to other entities (such as researchers, research groups, or institutes)?"
-msgstr "除了軟體之外，您的專案產出是否還有可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
+msgstr "除了軟體之外，您的計畫產出是否還有可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question:ee81402b-aefa-4cb6-9743-bb5de655e76d:text
 msgid ""
 "Are there any other outputs of your project, besides software, that could be valuable to other entities (such as researchers, research groups, or institutes)?\n"
 "\n"
-msgstr "除了軟體之外，您的專案產出是否可能對其他對象有再利用價值（如研究人員、研究團隊或研究機構）？\n\n"
+msgstr "除了軟體之外，您的計畫產出是否可能對其他對象有再利用價值（如研究人員、研究團隊或研究機構）？\n\n"
 
 #: question:4baf405e-262e-4f1a-bfdc-fe72fc628650:title
 msgid "Are there any other recurring fees to keep data or documents available?"
@@ -449,7 +449,7 @@ msgstr "您是否會採用標準化的資料擷取或記錄作業？"
 
 #: question:b2fb6b4e-2961-40a4-a9ec-faf4e49a978b:title
 msgid "Are you running the project in a collaboration between different groups or institutes?"
-msgstr "您的專案是否與不同的團隊或機構協作？"
+msgstr "您的計畫是否與不同的團隊或機構協作？"
 
 #: question:65730a4d-40db-46c9-b6d2-2b44b35f617e:title
 msgid "Are you storing (some of your) data in an application specific manner?"
@@ -531,11 +531,11 @@ msgid ""
 "Before you decide to embark on any new study, it is good practice to check all options to re-use existing available data, either collected or generated by yourself in an earlier project, or data from others (Barend Mons calls this \"Other PEople's Data And Services\" or OPEDAS). This can include reusable data that have been created for an earlier study, and also so-called \"reference data\" which is used by many projects.\n"
 "\n"
 "It is not because we can generate massive amounts of data that we always need to do so. Creating data with public money is bringing with it the responsibility to treat those data well and (if potentially useful) make them available for re-use by others. And the circle is only complete if such data is actually re-used."
-msgstr "在您決定展開任何新研究之前，良好的做法是先確認是否能再次使用現有資料，包括您在先前專案中蒐集或產生的資料，以及他人的資料（Barend Mons 將其稱為「他人的資料與服務」，Other PEople’s Data and Services，簡稱 OPEDAS）。這些資料可能包括為先前研究建立、可再次使用的資料，以及許多專案共同使用的「參考資料」。\n\n儘管能夠產生大量資料，也不表示我們都要這麼做。使用公帑產生資料，也意味著有責任妥善管理資料，並在資料可能有用時提供他人再次使用。唯有這些資料確實被再次使用，這個循環才算完整。"
+msgstr "在您決定展開任何新研究之前，良好的做法是先確認是否能再次使用現有資料，包括您在先前計畫中蒐集或產生的資料，以及他人的資料（Barend Mons 將其稱為「他人的資料與服務」，Other PEople’s Data and Services，簡稱 OPEDAS）。這些資料可能包括為先前研究建立、可再次使用的資料，以及許多計畫共同使用的「參考資料」。\n\n儘管能夠產生大量資料，也不表示我們都要這麼做。使用公帑產生資料，也意味著有責任妥善管理資料，並在資料可能有用時提供他人再次使用。唯有這些資料確實被再次使用，這個循環才算完整。"
 
 #: question:3d09f311-07dd-49a0-8445-5eab8f9548fc:text
 msgid "Below listed are 9 criteria - provided by the EC - that might indicate that your project constitutes **high risk processing**.  Please check the indicators that apply your project. Consult the linked EC Guideline for explanations of indicators."
-msgstr "以下列出由歐盟執委會提供的 9 項準則，這些準則可能顯示您的專案構成**高風險處理**。請勾選適用於您專案的指標。各項指標的詳細說明，請參閱連結中的 EC 指南。"
+msgstr "以下列出由歐盟執委會提供的 9 項準則，這些準則可能顯示您的計畫構成**高風險處理**。請勾選適用於您計畫的指標。各項指標的詳細說明，請參閱連結中的 EC 指南。"
 
 #: question:934f6592-a032-4ada-91b2-4448d740d157:text
 msgid "Briefly describe the contents of this data set"
@@ -686,7 +686,7 @@ msgstr "若資料本身可快速重製，可考慮僅儲存工作流程的參數
 
 #: question:f78fb7e9-2f26-493c-a19b-04e153c17274:text
 msgid "Consider that users of a data set will need to be able to get access several years after the project is finished. The best way to arrange this is to put the responsibility for checking the rights to access the data with a fixed body in an organisation, a data access committee, rather than one of the investigators of the project."
-msgstr "請考量資料集的使用者可能需要在專案結束數年後仍能取用資料。為了妥善安排這一點，最好的做法是將資料取用權限的審核責任，交由組織內的固定單位（例如資料取用委員會）負責，而非由專案中的研究人員負責。"
+msgstr "請考量資料集的使用者可能需要在計畫結束數年後仍能取用資料。為了妥善安排這一點，最好的做法是將資料取用權限的審核責任，交由組織內的固定單位（例如資料取用委員會）負責，而非由計畫中的研究人員負責。"
 
 #: answer:15e7beff-1d71-4515-9517-26e222e672e5:advice
 msgid "Consider what will happen if the contact person moves jobs."
@@ -718,7 +718,7 @@ msgstr "控管者"
 
 #: cross-reference:468bad94-ef86-4d24-8e97-d635fb1f68b0:description
 msgid "Copying data into and out of the main working area of the project"
-msgstr "將資料複製進／複製出專案主要工作空間"
+msgstr "將資料複製進／複製出計畫主要工作空間"
 
 #: answer:acec64f8-f20b-4295-85d6-a8831ee6a1a3:label
 msgid "Copying or network delays are considered to be acceptable"
@@ -954,7 +954,7 @@ msgstr "資料都會加密"
 
 #: answer:94f0f330-54fd-425f-a644-b8a7c674026f:label
 msgid "Data will be available at the start of the project, no waiting needed"
-msgstr "專案開始時即可取用資料，無需等待"
+msgstr "計畫開始時即可取用資料，無需等待"
 
 #: answer:374974a6-2c51-4508-aa93-9ef8f1ef65fd:label
 msgid "Data will first be on paper"
@@ -997,7 +997,7 @@ msgstr "請說明資料主體如何針對其資料行使權利"
 
 #: question:9ff389f0-2236-48cf-880c-040ea1bb0d2f:text
 msgid "Describe how everyone in the project will be naming files and folders, and what folder structure you will use."
-msgstr "請說明專案中每位成員會如何命名檔案與資料夾，以及您們將採用怎樣的資料夾結構。"
+msgstr "請說明計畫中每位成員會如何命名檔案與資料夾，以及您們將採用怎樣的資料夾結構。"
 
 #: question:87964502-4401-45e5-9084-d6c84a417acf:title
 msgid "Describe national / funder / sectorial / departmental policies and procedures for data management that you will be using."
@@ -1066,15 +1066,15 @@ msgstr "您是否考量了現有的（軟體）選項？"
 
 #: question:67c34ee1-2e71-423c-97a7-fe6aa3723465:title
 msgid "Did you consider the possible impact to the project or organization if information is lost?"
-msgstr "您是否考量了資訊遺失可能對專案或組織造成的影響？"
+msgstr "您是否考量了資訊遺失可能對計畫或組織造成的影響？"
 
 #: question:8cd49d8f-9af0-4ea9-985a-5d45142ac388:title
 msgid "Did you consider the possible impact to the project or organization if information is vandalized?"
-msgstr "您是否已考量若資訊遭到破壞，可能對專案或組織造成的影響？"
+msgstr "您是否已考量若資訊遭到破壞，可能對計畫或組織造成的影響？"
 
 #: question:a20ddc5d-e883-4bc4-9948-36a2cb477d10:title
 msgid "Did you consider the possible impact to the project or organization if information leaks?"
-msgstr "您是否已考量若資訊外洩可能對專案或組織造成的影響？"
+msgstr "您是否已考量若資訊外洩可能對計畫或組織造成的影響？"
 
 #: question:a2e22a59-4747-4c29-84c0-3a9cbd859249:title
 msgid "Did you document how you manage file versioning?"
@@ -1086,7 +1086,7 @@ msgstr "您是否有意識地在準確性與完整性之間做出取捨？"
 
 #: question:d4fe0b55-4aee-4d05-88d4-a3f4cad2cfa9:title
 msgid "Did you make appointments in the project on how to name files and folders?"
-msgstr "您是否已在專案中約定檔案與資料夾的命名方式？"
+msgstr "您是否已在計畫中約定檔案與資料夾的命名方式？"
 
 #: question:c0944ac9-f286-48f2-b864-4641d0fcdd55:title
 msgid "Did you plan how much intermediate data you will get during analysis and how long each step needs to be kept?"
@@ -1102,7 +1102,7 @@ msgstr "您是否確實查核，像用 fairsharing.org 這樣的服務來加以�
 
 #: question:30027b9a-2077-4c74-9048-f0532ada9b03:text
 msgid "Did you run pilot jobs? Do you know this information from comparable projects? Did you test whether the work scales up as you expected if you run more than one job?"
-msgstr "您是否執行過試行作業？這些資訊是否來自類似專案？您是否測試過，在同時執行多個作業時，工作負載是否能如預期擴展？"
+msgstr "您是否執行過試行作業？這些資訊是否來自類似計畫？您是否測試過，在同時執行多個作業時，工作負載是否能如預期擴展？"
 
 #: question:15ee1921-1fea-4f22-b462-b3cf7cdd4646:text
 msgid "Different anonymization techniques exist. Disadvantage of anonymization is that data integration becomes virtually impossible, but it may be the only way to open up your data for other research."
@@ -1131,23 +1131,23 @@ msgstr "每個欄位是否都有對應的資料類型？"
 
 #: question:a454fffd-f4a4-426d-b758-6d70bc4ee96b:title
 msgid "Do all data centers where project data is stored carry sufficient certifications?"
-msgstr "所有存放專案資料的資料中心，是否皆取得符合需求的相關認證？"
+msgstr "所有存放計畫資料的資料中心，是否皆取得符合需求的相關認證？"
 
 #: question:abaf4a70-17d4-449c-9b95-5b3bcfed7e9b:title
 msgid "Do project members carry data with them?"
-msgstr "專案成員是否會隨身攜帶資料？"
+msgstr "計畫成員是否會隨身攜帶資料？"
 
 #: question:2d57daa6-df2e-4bf9-b024-710e74781d88:title
 msgid "Do project members send project data or reports per e-mail or other messaging services?"
-msgstr "專案成員是否會透過電子郵件或其他即時通訊服務傳送專案資料或報告？"
+msgstr "計畫成員是否會透過電子郵件或其他即時通訊服務傳送計畫資料或報告？"
 
 #: question:90324a7b-f3c9-4ed8-b301-edc9869cb7b3:title
 msgid "Do project members store data or software on computers in the lab or external hard drives connected to those computers?"
-msgstr "專案成員是否會將資料或軟體儲存在實驗室的電腦上，或儲存在連接至這些電腦的外接硬碟中？"
+msgstr "計畫成員是否會將資料或軟體儲存在實驗室的電腦上，或儲存在連接至這些電腦的外接硬碟中？"
 
 #: question:84ec46bd-e714-4d98-8525-cdd0d58777ef:title
 msgid "Do project members store project data in cloud accounts?"
-msgstr "專案成員是否將專案資料儲存在雲端帳戶中？"
+msgstr "計畫成員是否將計畫資料儲存在雲端帳戶中？"
 
 #: question:6226d7f2-565f-4991-94b3-c00be6aca20e:title
 msgid "Do suitable 'Minimal Metadata About ...' (MIA...) standards exist for your experiments?"
@@ -1283,7 +1283,7 @@ msgstr "您的樣本是否需要提交至公開的儲存庫？"
 
 #: question:abaf4a70-17d4-449c-9b95-5b3bcfed7e9b:text
 msgid "Does anyone carry project data on laptops, USB sticks or other external media?"
-msgstr "是否有成員將專案資料隨身存放在筆記型電腦、USB 隨身碟或其他外部儲存媒體中？"
+msgstr "是否有成員將計畫資料隨身存放在筆記型電腦、USB 隨身碟或其他外部儲存媒體中？"
 
 #: question:6bfde30e-90e7-4422-b984-d571196194e0:title
 msgid "Does each column have a header?"
@@ -1339,7 +1339,7 @@ msgstr "您所使用的特定領域資料格式，是否附有可供使用的整
 
 #: question:dbb99f35-bdd9-4637-890e-23ba5bc19d6a:title
 msgid "Does the project require ethical approval? "
-msgstr "該專案是否需要倫理審查核准？ "
+msgstr "該計畫是否需要倫理審查核准？ "
 
 #: question:15e6148f-f4e0-4bbc-93c5-6fdf4fe47608:title
 msgid "Does the provenance need to be stored or converted to some standard format?"
@@ -1408,7 +1408,7 @@ msgstr "EC 的 DPIA 指南"
 
 #: question:73d686bd-7939-412e-8631-502ee6d9ea7b:text
 msgid "Each person contributing to creating or executing the data management plan should be added as a contributor. A project probably should have a Contact Person, and a Data Curator."
-msgstr "每位參與資料管理方案撰寫或執行的人員，皆應列為貢獻者 (contributor)。一個專案通常會指定一名聯絡人 (Contact Person) 及一名資料策展人 (Data Curator)。"
+msgstr "每位參與資料管理方案撰寫或執行的人員，皆應列為貢獻者 (contributor)。一個計畫通常會指定一名聯絡人 (Contact Person) 及一名資料策展人 (Data Curator)。"
 
 #: choice:100daf28-b55e-4b04-8295-f2aa83d0c734:label
 msgid "Editor"
@@ -1420,7 +1420,7 @@ msgstr "請詳細說明您其他保障措施"
 
 #: question:cabc6f07-6015-454e-b97a-c34db4ec0c60:title
 msgid "Ending date of the project"
-msgstr "專案截止日期"
+msgstr "計畫截止日期"
 
 #: choice:9ffe7d27-a04c-481e-8e20-09b6afd8fabf:label
 msgid "Ensuring accessibility of data"
@@ -1440,15 +1440,15 @@ msgstr "確保資料可再次使用"
 
 #: question:b1f62b06-e69a-41be-8d16-1d73b9b75cd2:text
 msgid "Especially for large projects, referring to data internally via a persistent identifier system can be helpful as such a system can help to keep track of data that moves to a new location."
-msgstr "對於大型專案而言，透過持續識別碼 (persistent identifier) 系統在內部引用資料特別有幫助，因為此類系統能協助追蹤遷移至新位置的資料。"
+msgstr "對於大型計畫而言，透過持續識別碼 (persistent identifier) 系統在內部引用資料特別有幫助，因為此類系統能協助追蹤遷移至新位置的資料。"
 
 #: question:4c7cd15f-90f9-4ab3-8082-38da4f642de1:text
 msgid "Especially if analysis and processing of data in the project is done on multiple different computers by different people, it is a good idea to have your own repository of reference data versions."
-msgstr "特別是當專案中的資料分析與處理是由不同人員在多台不同的電腦上進行時，建立自己的參考資料版本儲存庫會是一個好主意。"
+msgstr "特別是當計畫中的資料分析與處理是由不同人員在多台不同的電腦上進行時，建立自己的參考資料版本儲存庫會是一個好主意。"
 
 #: question:decb7c9c-c6dc-4027-8c0e-18934c852ca6:text
 msgid "Especially if analysis and processing of data in the project is done on multiple different computers by different people, it is a good idea to have your own repository of tools and their blessed versions."
-msgstr "特別是當專案中的資料分析與處理是由不同人員在多台不同的電腦上進行時，建立自己的工具及其穩定發布版本的儲存庫會是一個好主意。"
+msgstr "特別是當計畫中的資料分析與處理是由不同人員在多台不同的電腦上進行時，建立自己的工具及其穩定發布版本的儲存庫會是一個好主意。"
 
 #: question:974f3ad3-90b3-4e00-b751-8c5a5629b2cf:title
 msgid "Estimated data volume in Gigabytes"
@@ -1464,11 +1464,11 @@ msgstr "針對資料主體之工作表現、經濟狀況、健康情形、個人
 
 #: question:ae235844-e3b6-461c-8c1d-668148dbf53b:text
 msgid "Even if the data format you are using is unique to your project, the discrete data items should be reused or reusable as much as possible. Data type registries can help with that."
-msgstr "即使您使用的資料格式是該專案所特有的，各個離散資料項目仍應盡可能可再次使用。資料類型登錄冊能對此有所幫助。"
+msgstr "即使您使用的資料格式是該計畫所特有的，各個離散資料項目仍應盡可能可再次使用。資料類型登錄冊能對此有所幫助。"
 
 #: question:be872000-cb98-442f-999c-ca3ef58dcfe8:text
 msgid "Even if you will be producing your own data, you often will also be relying on existing data sets (e.g. from your own earlier projects). You may need to integrate your new data with an existing data set or retrieve additional information from related data bases. Will you be doing such things?"
-msgstr "即便您將自行產製資料，通常仍會依賴既有資料集（例如源自您先前自己的專案）。您可能需要將新資料與既有資料集進行整合，或是從相關資料庫中取得額外資訊。您是否會進行這類操作？"
+msgstr "即便您將自行產製資料，通常仍會依賴既有資料集（例如源自您先前自己的計畫）。您可能需要將新資料與既有資料集進行整合，或是從相關資料庫中取得額外資訊。您是否會進行這類操作？"
 
 #: question:595978f2-2973-4658-afa0-7efd004d16b4:title
 msgid "Exemption"
@@ -1480,11 +1480,11 @@ msgstr "既有解決方案不符合需求"
 
 #: answer:eb0b9a82-0379-47c3-967f-b35b40129af2:label
 msgid "Experts in the project, at a specialized infrastructure"
-msgstr "專案中的專家，在專門的基礎設施"
+msgstr "計畫中的專家，在專門的基礎設施"
 
 #: answer:44ef09a4-5a78-439d-9fb4-940d3d84bfab:label
 msgid "Experts in the project, with our own equipment"
-msgstr "專案內的專家，並使用自有設備"
+msgstr "計畫內的專家，並使用自有設備"
 
 #: question:61d21b4f-332b-4257-a345-bbf51b10d357:text
 msgid ""
@@ -1642,7 +1642,7 @@ msgstr "為達到最佳可再次使用性，資料需要盡可能長期保持可
 
 #: question:361c38f0-ce75-4157-94f1-804e4d7986c2:text
 msgid "For projects involving data collection from subjects, it must be ensured the subjects can exercise all their rights."
-msgstr "凡涉及向受試者蒐集資料的專案，皆需確保受試者得以完整行使其相關權利。"
+msgstr "凡涉及向受試者蒐集資料的計畫，皆需確保受試者得以完整行使其相關權利。"
 
 #: question:8c962e6f-17ee-4b22-8ebb-9f06f779e3b3:text
 msgid "For the re-usability of your data by yourself or others at a later stage, a lot of information about the data – for example how it was collected and how it can be used – should be stored with the data. Such *data about the data* is called **metadata**, and this set of questions are about this metadata."
@@ -1750,7 +1750,7 @@ msgstr "是否已安排再利用 (re-use) 的稽核機制？"
 
 #: question:feb954c1-c38e-4615-addd-4c714a06809a:title
 msgid "Has authority over the data been arranged for when the project is finished (potentially long after)?"
-msgstr "是否已安排專案結束後（可能是很久以後）資料管理的權責歸屬？"
+msgstr "是否已安排計畫結束後（可能是很久以後）資料管理的權責歸屬？"
 
 #: question:aa27852a-00f4-44a4-a85c-0e0fd3ac20d1:title
 msgid "Has formal ownership of the data been established?"
@@ -1762,7 +1762,7 @@ msgstr "是否已確定典藏資料需要保存多久？是否針對典藏資料
 
 #: question:47559455-2969-41f4-aee8-e9ce558ab2f0:title
 msgid "Has it been established who can ask for a restore during the project?"
-msgstr "是否已確定專案期間誰可以申請資料還原？"
+msgstr "是否已確定計畫期間誰可以申請資料還原？"
 
 #: question:b7d9008e-9691-44f0-a026-0f63d808db39:title
 msgid "Has it been established who has access to the archive, and how fast?"
@@ -1794,7 +1794,7 @@ msgstr "是否已取得受試者的知情同意？"
 
 #: question:dc327e53-cf4f-44e7-8e66-40ddf1b4ae0a:title
 msgid "Have project members been instructed about the risks (generic and specific to the project)?"
-msgstr "是否已向專案成員說明相關風險（包括一般性風險及本專案特有的風險）？"
+msgstr "是否已向計畫成員說明相關風險（包括一般性風險及本計畫特有的風險）？"
 
 #: question:18f9b8ec-bf1b-4035-8eac-3fd329613a7c:title
 msgid "Have these been collected with sufficiently identical protocols?"
@@ -1809,7 +1809,7 @@ msgid ""
 "Have you identified types of data that you will use that are used by others too? Some types of data (for example \"images\" or \"tables\") are used by many different projects. For such data, often common standards exist (in our example \"JPG\" and \"CSV\" [comma separated values]) that help to make these data reusable. Are you using such common data formats?\n"
 "\n"
 "Please make sure you list all the data types that are important for your project. You should make sure also to list the formats used in any data sets that you are re-using."
-msgstr "您是否已確認本專案會使用的常用資料類型？有些資料類型（例如「圖像」或「表格」）會被許多不同專案使用。這類資料通常已有通用標準格式，例如 JPG 或 CSV（逗號分隔值），有助於提升資料可再次使用的可能性。您是否會使用這類通用資料格式？\n\n請列出本專案中重要的所有資料類型，也請一併列出您將再次使用的資料集所採用的資料格式。"
+msgstr "您是否已確認本計畫會使用的常用資料類型？有些資料類型（例如「圖像」或「表格」）會被許多不同計畫使用。這類資料通常已有通用標準格式，例如 JPG 或 CSV（逗號分隔值），有助於提升資料可再次使用的可能性。您是否會使用這類通用資料格式？\n\n請列出本計畫中重要的所有資料類型，也請一併列出您將再次使用的資料集所採用的資料格式。"
 
 #: question:12baa8af-db59-43a5-8ec7-0941c58ff89a:text
 msgid "Horizon Europe demands that metadata is completely open, e.g. provided under a CC0 license, and that any deviation from this is clarified."
@@ -1837,7 +1837,7 @@ msgstr "您如何決定哪些額外的研究成果需要保留？"
 
 #: question:9ff389f0-2236-48cf-880c-040ea1bb0d2f:title
 msgid "How do you name files in the project?"
-msgstr "您會怎麼命名專案中的檔案？"
+msgstr "您會怎麼命名計畫中的檔案？"
 
 #: question:25e06912-08a2-40e4-af76-cfbc5ada9925:title
 msgid "How do you prevent a total loss of data in the work space?"
@@ -1854,7 +1854,7 @@ msgstr "資料儲存需求將如何隨時間改變？"
 
 #: question:06655161-9a91-47f4-af3b-9d2a5e6db19b:title
 msgid "How else is the intellectual property for the data collected in the project arranged?"
-msgstr "本專案所蒐集資料的智慧財產權將如何另行安排？"
+msgstr "本計畫所蒐集資料的智慧財產權將如何另行安排？"
 
 #: question:59748a7b-f729-404d-babe-3147e2c6b247:title
 msgid "How is pseudonymization handled?"
@@ -1898,7 +1898,7 @@ msgstr "在工作空間中，您需要保留多少原始資料？"
 
 #: question:38ebf5d0-f7a3-4cf5-93eb-6ee3143c8a69:title
 msgid "How much storage space will the project require for all data and software, including temporary storage?"
-msgstr "本專案總共需要多少儲存空間，包含所有資料、軟體以及暫存空間？"
+msgstr "本計畫總共需要多少儲存空間，包含所有資料、軟體以及暫存空間？"
 
 #: question:46cd176a-138a-4f6c-8cd5-dfcb1f23f04a:title
 msgid "How this cost will be covered?"
@@ -1918,7 +1918,7 @@ msgstr "您會如何負擔長期維護的費用？您會自行託管，還是將
 
 #: question:2ed7b5c7-2452-4087-b4ed-d15ca31a4e65:title
 msgid "How will project partners access the work space?"
-msgstr "專案合作夥伴將如何取用專案工作空間？"
+msgstr "計畫合作夥伴將如何取用計畫工作空間？"
 
 #: question:f78fb7e9-2f26-493c-a19b-04e153c17274:title
 msgid "How will re-users be able to get access?"
@@ -2121,7 +2121,7 @@ msgstr "如果資料發布於標準儲存庫中，該儲存庫會告訴您應使
 
 #: question:3d837696-3a99-4362-86a3-f460dd878b75:title
 msgid "If the data is voluminous, will the project be able to cope with the time needed for a restore?"
-msgstr "如果資料量龐大，該專案是否能夠因應資料還原所需的時間？"
+msgstr "如果資料量龐大，該計畫是否能夠因應資料還原所需的時間？"
 
 #: question:c15710f6-1c7f-43a0-97e7-ab70f6b5a115:text
 msgid "If the data that you will re-use is coupled to people, the ethical approval that was originally obtained may not be covering your current research. In that case an extension of the original approval, or a new approval, may be necessary."
@@ -2136,7 +2136,7 @@ msgid ""
 "If the intermediate data is larger than either input or output data, you may consider minimizing the time it is stored. Make the balance between the CPU time needed if you need to re-calculate it versus the storage requirements. Sometimes it is possible to avoid storage at all by immediately running the whole analysis work flow.\n"
 "\n"
 "It may also be useful to consider storing the intermediate data on a separate data volume from the rest of the project storage, which may not be backed up. This can not only reduce the storage costs, but also if the backup needs to be used it is better if it strictly contains the data that is needed for a restore, otherwise a restore i case of a problem may take much longer than strictly necessary."
-msgstr "如果中間資料比輸入或輸出資料更大，可以考慮盡量縮短其保存時間。請在重新計算所需的 CPU 時間與儲存需求之間取得平衡。有時也可以透過立即執行完整分析工作流程，完全避免儲存中間資料。\n\n也可以考慮將中間資料存放在與其他專案儲存空間分開的資料卷上，而且該資料卷可以不備份。這不僅能降低儲存成本；若日後需要使用備份，備份中最好只包含還原所必需的資料，否則發生問題時的還原作業可能會比必要時間長得多。"
+msgstr "如果中間資料比輸入或輸出資料更大，可以考慮盡量縮短其保存時間。請在重新計算所需的 CPU 時間與儲存需求之間取得平衡。有時也可以透過立即執行完整分析工作流程，完全避免儲存中間資料。\n\n也可以考慮將中間資料存放在與其他計畫儲存空間分開的資料卷上，而且該資料卷可以不備份。這不僅能降低儲存成本；若日後需要使用備份，備份中最好只包含還原所必需的資料，否則發生問題時的還原作業可能會比必要時間長得多。"
 
 #: question:deb647ec-a001-4370-87b8-a5b1e2479f87:text
 msgid "If the intermediate results are in your main work space, a restore in case of a problem could take much more time. It may be faster to recover it by re-running computations."
@@ -2148,11 +2148,11 @@ msgstr "如果該授權條款的內文可於網路上取得，請在此填寫其
 
 #: question:dbb99f35-bdd9-4637-890e-23ba5bc19d6a:text
 msgid "If the project involves testing on animals or processing of personal data, an approval is likely needed. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation."
-msgstr "如果專案涉及動物試驗或個人資料處理，則很可能需要取得核准。研究人員有責任確保專案及其相關資料符合現行法規。"
+msgstr "如果計畫涉及動物試驗或個人資料處理，則很可能需要取得核准。研究人員有責任確保計畫及其相關資料符合現行法規。"
 
 #: question:481d0157-6d89-4f68-9f3b-cf1b05f8f15d:text
 msgid "If the reference changes while you are working on your research project, you need to decide whether you will follow these changes. Most likely that will mean that you have to do some analyses again, so you will need to make sure enough resources are available to do so. You can decide to stay with the version that you started with; this can have the disadvantage that you will not benefit from added information or added consistency."
-msgstr "如果參考資料在您進行研究計畫期間發生變更，您需要決定是否要跟進這些變更。這很可能表示您必須重新進行部分分析，因此需要確認有足夠的資源可供執行。您也可以選擇繼續使用專案開始時採用的版本；但這麼做的缺點是，您將無法受益於後續新增的資訊或提升的一致性。"
+msgstr "如果參考資料在您進行研究計畫期間發生變更，您需要決定是否要跟進這些變更。這很可能表示您必須重新進行部分分析，因此需要確認有足夠的資源可供執行。您也可以選擇繼續使用計畫開始時採用的版本；但這麼做的缺點是，您將無法受益於後續新增的資訊或提升的一致性。"
 
 #: question:bce52f7f-2256-4afc-9801-2e4da8111470:text
 msgid "If the technology is very much under development, you may want to come back later to understand exactly how the measurements have been made. Is the measurement equipment and protocol sufficiently standard that you will be able to explain how it is done or refer to a standard explanation?"
@@ -2160,7 +2160,7 @@ msgstr "如果該技術仍處於非常初期的研發階段，您之後可能會
 
 #: question:f00a28fb-ac77-4110-b285-c73c8bc62630:text
 msgid "If there are different versions available, you have to decide with all project partners together which version you will be using. Probably you will go for the latest release as of the date of the start of your research project. However, if you have other data from older projects that need to be merged, you may need to consider using the same release you used for a previous project."
-msgstr "如果有不同版本可供選擇，您需要與所有專案合作夥伴共同決定要使用哪個版本。一般而言，您可能會選擇研究計畫開始日期當時可取得的最新釋出版本。不過，如果您需要合併較早專案的資料，可能需要考慮沿用先前專案所使用的同一版本。"
+msgstr "如果有不同版本可供選擇，您需要與所有計畫合作夥伴共同決定要使用哪個版本。一般而言，您可能會選擇研究計畫開始日期當時可取得的最新釋出版本。不過，如果您需要合併較早計畫的資料，可能需要考慮沿用先前計畫所使用的同一版本。"
 
 #: question:c47d330a-2eb4-472e-be48-d06b3ec9b8e8:text
 msgid "If there are reasonable limitations to the values in a column, or even a limited set of allowed values, it is very good for data validation and reusability if these limitations are explicit, and e.g. software used for data entry and editing will not allow anything else."
@@ -2183,7 +2183,7 @@ msgstr "如果您從不同來源取得不同類型的資料，並希望一起使
 
 #: answer:033e0538-5322-49c8-b537-9375eb86fd90:advice
 msgid "If you are working with multiple people on a complex project, it could be causing problems if changes are made to e.g. sample identifiers half-way the project. If there is no central information keeping, not everyone may be aware of important changes, and updates of partially run workflows could be forgotten."
-msgstr "若您與多人共同執行複雜專案，在專案進行期間變更樣本識別碼等資訊，可能會造成問題。若沒有集中管理資訊的機制，相關人員未必都能掌握這些重要變更，而對於僅部分執行完成的工作流程，其後續更新也可能被忽略。"
+msgstr "若您與多人共同執行複雜計畫，在計畫進行期間變更樣本識別碼等資訊，可能會造成問題。若沒有集中管理資訊的機制，相關人員未必都能掌握這些重要變更，而對於僅部分執行完成的工作流程，其後續更新也可能被忽略。"
 
 #: question:f6e66f4f-7b11-420f-a4b6-5fc972bc66d9:text
 msgid "If you have large volumes of data that are intensely and repeatedly used by the computing work flow, it may be needed to keep the storage in the same place as where the computing takes place."
@@ -2215,7 +2215,7 @@ msgstr "如果您希望提升資料與其他來源資料之間的可相互操作
 
 #: question:5607d0bb-6b9e-4211-821c-785acc3aa25e:text
 msgid "If your work space is run and maintained by specialists, e.g. the ICT department of one of the institutes involved in the projects, this means that backup and restore as well as access management is properly addressed."
-msgstr "如果您的工作空間是由專責人員負責營運與維護，例如由參與專案的某個機構之資訊通訊部門負責，這表示備份與復原，以及取用管理，都已獲得妥善處理。"
+msgstr "如果您的工作空間是由專責人員負責營運與維護，例如由參與計畫的某個機構之資訊通訊部門負責，這表示備份與復原，以及取用管理，都已獲得妥善處理。"
 
 #: answer:13d7f11e-c329-45e8-8912-63755c8524d5:label
 msgid "Images, audio or video tracks, with some structured metadata attached"
@@ -2254,7 +2254,7 @@ msgstr "以其他方式保存"
 
 #: question:c9ed4379-19e2-4ce3-8962-5c2fca69b6cd:text
 msgid "In one case in the past, all documents that had been assembled by a project in a documentation system had to be deleted because not a single person could decide to move them to a new platform when the documentation system was going off-line."
-msgstr "過去曾發生過這樣一個案例，某個專案在一套文件系統中彙整的所有文件，最後都得刪除，因為當該文件系統即將下線時，竟沒有任何一個人有權決定將這些文件移轉到新的平台。"
+msgstr "過去曾發生過這樣一個案例，某個計畫在一套文件系統中彙整的所有文件，最後都得刪除，因為當該文件系統即將下線時，竟沒有任何一個人有權決定將這些文件移轉到新的平台。"
 
 #: question:e1dba221-ad5a-474e-a2e3-9b4e472959fa:text
 msgid ""
@@ -2274,14 +2274,14 @@ msgid ""
 "In the processing phase, the data will be undergoing the mostly automated steps for processing, before the analysis and interpretation.\n"
 "\n"
 "In this chapter, many questions are focusing on the compute environment that is used to process the data and make it available for interpretation by project partners. Some of those questions (e.g. on workflow systems and data provenance) are also relevant for the work in the interpretation phase."
-msgstr "在處理階段，資料會先經過大多數自動化的處理步驟，之後才進入分析與詮釋。\n\n本章有許多問題聚焦於運算環境：該環境用來處理資料，並使資料可供專案合作夥伴進行詮釋。其中有些問題（例如關於工作流程系統和資料溯源的問題）也與詮釋階段的工作相關。"
+msgstr "在處理階段，資料會先經過大多數自動化的處理步驟，之後才進入分析與詮釋。\n\n本章有許多問題聚焦於運算環境：該環境用來處理資料，並使資料可供計畫合作夥伴進行詮釋。其中有些問題（例如關於工作流程系統和資料溯源的問題）也與詮釋階段的工作相關。"
 
 #: chapter:b1df3c74-0b1f-4574-81c4-4cc2d780c1af:text
 msgid ""
 "In this chapter we describe all the sources of data: they can e.g. come from instruments or from questionnaires; data can be newly collected as part of the current project, but it can also be pre-existing data that may need proper contracts with the maintainer, some pre-processing, and quality checks. It can also be reference data that is part of curated resources and (public) databases. \n"
 "\n"
 "For more information see [Collecting in RDMKit](https://rdmkit.elixir-europe.org/collecting)"
-msgstr "本章說明所有的資料來源：資料可能來自儀器或問卷；可能是在目前專案中新蒐集的資料，也可能是既有資料，需要與維護者訂定適當契約、進行部分前處理與品質檢查。資料也可能是來自經過策展的資源以及（公眾）資料庫中的參考資料。\n\n更多資訊請參閱 [RDMkit 的資料蒐集頁面](https://rdmkit.elixir-europe.org/collecting)"
+msgstr "本章說明所有的資料來源：資料可能來自儀器或問卷；可能是在目前計畫中新蒐集的資料，也可能是既有資料，需要與維護者訂定適當契約、進行部分前處理與品質檢查。資料也可能是來自經過策展的資源以及（公眾）資料庫中的參考資料。\n\n更多資訊請參閱 [RDMkit 的資料蒐集頁面](https://rdmkit.elixir-europe.org/collecting)"
 
 #: chapter:d5b27482-b598-4b8c-b534-417d4ad27394:text
 msgid "In this chapter, issues regarding data publication and long term archiving are addressed."
@@ -2334,7 +2334,7 @@ msgstr "資料再次使用是否需要依研究倫理法規取得新的核准，
 
 #: question:4c71d62c-3184-43d7-bdec-f762c682035e:title
 msgid "Is all required compute capacity available close to the project working storage area?"
-msgstr "所有必要的運算資源是否都位於專案工作儲存空間附近？"
+msgstr "所有必要的運算資源是否都位於計畫工作儲存空間附近？"
 
 #: question:129f74a4-dc91-4cc7-aee3-b384c8ea30dd:title
 msgid "Is data integrity guaranteed during this stage?"
@@ -2414,7 +2414,7 @@ msgstr "資料集是固定不變的，還是未來還會更新？"
 
 #: question:3b088f38-81bd-46f9-8066-90513740b662:text
 msgid "Is the data set you will reuse a fixed data set (with a persistent identifier), or is it a data set that is being worked on (by others) and may be updated during your project or after?"
-msgstr "您將再次使用的資料集，是一個固定不變的資料集（具有持續識別碼），還是一個仍在由他人持續處理、並可能在您的專案期間或之後更新的資料集？"
+msgstr "您將再次使用的資料集，是一個固定不變的資料集（具有持續識別碼），還是一個仍在由他人持續處理、並可能在您的計畫期間或之後更新的資料集？"
 
 #: question:bce52f7f-2256-4afc-9801-2e4da8111470:title
 msgid "Is the equipment completely standard and well described?"
@@ -2438,11 +2438,11 @@ msgstr "資訊遺失、外洩及遭受惡意破壞的風險是否已降至可接
 
 #: question:a5dbea23-b7d6-4e31-a1a5-ec5007ec7848:title
 msgid "Is there a collaboration agreement in the project that describes who can have access to what data?"
-msgstr "專案中是否有合作協議，說明誰可以取用哪些資料？"
+msgstr "計畫中是否有合作協議，說明誰可以取用哪些資料？"
 
 #: question:ab4b3f39-dfab-45a5-9489-2d46ceacbb73:title
 msgid "Is there a data integration tool that can handle and combine all the data types you are dealing with in your project?"
-msgstr "是否有資料整合工具可以處理並整合專案中的所有資料類型？"
+msgstr "是否有資料整合工具可以處理並整合計畫中的所有資料類型？"
 
 #: question:f90914d8-2731-4cd1-bbf8-2710a5e08c43:title
 msgid "Is there a distinguishing way a missing value in the table can be recognized?"
@@ -2465,11 +2465,11 @@ msgid ""
 "Is there anything in this dataset that could be tied to a person? This could be a physical characteristic, but also behavior of a person, movements, communications. Note that e.g. readouts about the performance of an airplane are considered to contain personal data of the pilot!\n"
 "\n"
 "The GDPR states that the processing (including storing) of personal data should stop when the intended purpose of the processing is done. There are, however, exemptions to this e.g. when the processing is done for research purposes. Also, from a research ethics point of view, research data should be kept to make it possible for others to validate published research findings and reuse data for new discoveries. This is also governed by what the data subjects have been informed about regarding how you will treat the data after project completion. The recommendation is to deposit the sensitive data in the appropriate controlled access repositories if such are available, but this requires that the data subjects are informed and have agreed to this."
-msgstr "此資料集中是否有任何內容可能連結至特定個人？這可能是生理特徵，也可能是個人的行為、行蹤或通訊。請注意，例如飛機性能讀數也會被視為包含飛行員的個人資料。\n\n歐盟《個人資料保護規則》 (GDPR) 規定，當個人資料處理（包括儲存）的預定目的已完成時，應停止處理。不過，也有例外情況，例如為研究目的而進行的處理。此外，從研究倫理角度來看，研究資料也應保存下來，使他人能驗證已發表的研究成果，並再次使用資料以促成新的發現。這也取決於資料主體曾被告知專案結束後將如何處理資料。建議做法是，若有合適的受管控取用資料儲存庫可用，應將敏感資料寄存於其中；但前提是已告知資料主體，並取得其同意。"
+msgstr "此資料集中是否有任何內容可能連結至特定個人？這可能是生理特徵，也可能是個人的行為、行蹤或通訊。請注意，例如飛機性能讀數也會被視為包含飛行員的個人資料。\n\n歐盟《個人資料保護規則》 (GDPR) 規定，當個人資料處理（包括儲存）的預定目的已完成時，應停止處理。不過，也有例外情況，例如為研究目的而進行的處理。此外，從研究倫理角度來看，研究資料也應保存下來，使他人能驗證已發表的研究成果，並再次使用資料以促成新的發現。這也取決於資料主體曾被告知計畫結束後將如何處理資料。建議做法是，若有合適的受管控取用資料儲存庫可用，應將敏感資料寄存於其中；但前提是已告知資料主體，並取得其同意。"
 
 #: question:312ad81e-a274-4523-a6b2-2299e56422b7:title
 msgid "Is there more than one controller of the personal data processed in the project?"
-msgstr "專案所處理的個人資料是否有不只一個資料控管者？"
+msgstr "計畫所處理的個人資料是否有不只一個資料控管者？"
 
 #: question:19640692-1c97-4574-8b3d-f4f6e1e6b564:title
 msgid "Is there software in the work space? Can it also be restored quickly?"
@@ -2477,7 +2477,7 @@ msgstr "工作空間中是否有軟體？若有，是否也能夠快速還原？
 
 #: question:851a72ac-9497-4d8a-ae1a-6509d021a20b:title
 msgid "Is there sufficient experience with the chosen computing platform in the project, and sufficient time to support the project partners?"
-msgstr "專案團隊是否具備使用所選運算平台的足夠經驗，並有足夠時間支援專案合作夥伴？"
+msgstr "計畫團隊是否具備使用所選運算平台的足夠經驗，並有足夠時間支援計畫合作夥伴？"
 
 #: question:9e34d326-5f7b-494b-bc2e-2131eef6f844:title
 msgid "Is there sufficient network capacity to the other computing locations?"
@@ -2501,7 +2501,7 @@ msgstr "這項成果是否可以取得？"
 
 #: question:d4fe0b55-4aee-4d05-88d4-a3f4cad2cfa9:text
 msgid "It can help if everyone in the project uses the same naming scheme."
-msgstr "如果專案中的每個人都使用相同的命名規則，將會有所幫助。"
+msgstr "如果計畫中的每個人都使用相同的命名規則，將會有所幫助。"
 
 #: answer:aff2edcd-4d18-4311-9a03-3b6b676c9277:label
 msgid "It is a fixed data set, this will not influence reproducibility of my results"
@@ -2509,7 +2509,7 @@ msgstr "這是一個固定不變的資料集，因此不會影響研究結果的
 
 #: question:bc5e3dbf-2923-4025-a49a-f204b01d4018:text
 msgid "It is a good idea to pre-define how data will be organised in the project work space, and to set conventions for how any data files and folders will be named."
-msgstr "預先規劃資料在專案工作空間中的組織方式，並制定資料檔案與資料夾的命名規則，是一個很好的做法。"
+msgstr "預先規劃資料在計畫工作空間中的組織方式，並制定資料檔案與資料夾的命名規則，是一個很好的做法。"
 
 #: question:530124a4-c7e9-4821-b26d-32a8ecd0d978:text
 msgid "It is advisable to make the result of your efforts available in a standard repository. If you answer 'yes' here, do not forget to mention the dataset under the chapter 'giving access to data'."
@@ -2551,7 +2551,7 @@ msgstr "不建議將這項責任綁定在某一個人身上"
 
 #: question:ae28a862-5020-44c2-8c78-3abc185b190f:text
 msgid "It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. It is helpful to associate each data set with a license as early as possible in the project. A data license should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable license."
-msgstr "專案成員和專案外部人士不一定都清楚資料集可以如何使用，以及哪些用途不被允許。因此，最好在專案初期就為每個資料集指定授權條款。理想情況下，資料授權條款應盡可能寬鬆；例如「僅限非商業使用」或「必須標明出處」等限制，都可能降低資料再次使用的可能性，進而減少引用次數。若可行，請採用機器可讀且可由機器處理的授權條款。"
+msgstr "計畫成員和計畫外部人士不一定都清楚資料集可以如何使用，以及哪些用途不被允許。因此，最好在計畫初期就為每個資料集指定授權條款。理想情況下，資料授權條款應盡可能寬鬆；例如「僅限非商業使用」或「必須標明出處」等限制，都可能降低資料再次使用的可能性，進而減少引用次數。若可行，請採用機器可讀且可由機器處理的授權條款。"
 
 #: answer:e2709f59-e656-4264-bf56-47d1a78d40b3:label
 #: answer:f3e1e0fc-4ae0-436a-9c6b-5001eb69191b:label
@@ -2622,7 +2622,7 @@ msgstr "由補助經費支應"
 
 #: answer:2171b472-3569-468a-911f-5df375cb244f:label
 msgid "It will be paid out of departmental budgets from one or more of the project participants"
-msgstr "由一位或多位專案參與者所屬部門的預算支應"
+msgstr "由一位或多位計畫參與者所屬部門的預算支應"
 
 #: answer:88ae749b-9736-46b7-b6af-24e77f3ba481:label
 #: answer:a5515ccb-d529-41dd-b5f5-50b242cf67cf:label
@@ -2673,7 +2673,7 @@ msgstr "此資料集的本次發布版本所適用的授權條款"
 
 #: question:a00ae929-d5cf-43c0-8e9e-cdb12ebde717:title
 msgid "Link to a project proposal or another description of the methods used in the project"
-msgstr "專案計畫書或其他專案方法說明文件的連結"
+msgstr "研究計畫書或其他計畫方法說明文件的連結"
 
 #: question:375792f1-d7c3-4c8d-bf9e-f15ffa38e2fb:title
 msgid "Link to the license text"
@@ -2725,7 +2725,7 @@ msgstr "請列出您將使用的知識本體 ( ontologies )"
 
 #: question:f83a9afd-c6de-452b-be9f-bd76e5eb6b54:text
 msgid "Maintaining a repository is a long term commitment that can most of the time not be funded from project money. Think about who will be doing the system maintenance, hardware maintenance, and who will make necessary code changes to accommodate future (safe) versions of the system"
-msgstr "維護資料儲存庫是一項長期承諾，通常無法由專案經費支應。請思考誰會負責系統維護、硬體設備維護，以及誰會進行必要的程式碼修改，以支援系統未來的安全版本"
+msgstr "維護資料儲存庫是一項長期承諾，通常無法由計畫經費支應。請思考誰會負責系統維護、硬體設備維護，以及誰會進行必要的程式碼修改，以支援系統未來的安全版本"
 
 #: answer:d700715e-4ae0-45ed-a1d3-4d79bb32155f:advice
 msgid "Make sure a copy of the version of the input data you use will be available with the results"
@@ -2741,7 +2741,7 @@ msgstr "請確保名稱相對簡短，並避免使用空格與特殊字元。您
 
 #: answer:e856c626-bf9e-4550-997c-c6d0f66205e4:advice
 msgid "Make sure that you are not missing out on alternatives that would have better properties for the project"
-msgstr "請確認您沒有忽略那些對本專案而言可能具有更佳特性的替代方案"
+msgstr "請確認您沒有忽略那些對本計畫而言可能具有更佳特性的替代方案"
 
 #: question:3b0f752e-e46b-4c8b-835f-14c426036ece:text
 msgid "Make sure the license is compatible with all components you use, and also make sure the license is made explicit in the repository."
@@ -2749,7 +2749,7 @@ msgstr "請確保該授權條款與您所使用的所有元件皆相容，並且
 
 #: answer:5951120f-af93-4f15-b15a-b2be9a89efff:advice
 msgid "Make sure this will be kept running by the department or institute. It is best to also have a backup plan, being able to move data and documents to a different place if a service is discontinued. For this, you may need to arrange permission from all project partners beforehand."
-msgstr "請確保此服務將持續由該部門或機構維運。最好也要預先準備備援方案，以便在某項服務停止提供時，仍能將資料與文件移轉至其他地方。為此，您可能需要事先取得所有專案合作夥伴的同意。"
+msgstr "請確保此服務將持續由該部門或機構維運。最好也要預先準備備援方案，以便在某項服務停止提供時，仍能將資料與文件移轉至其他地方。為此，您可能需要事先取得所有計畫合作夥伴的同意。"
 
 #: answer:d65ddfda-9b08-4ab6-90e5-07df748d7929:advice
 msgid "Make sure to budget sufficient compute resources for the users"
@@ -2766,7 +2766,7 @@ msgstr "請務必在估算所需運算資源時，將這點納入考量"
 
 #: answer:b5e75eac-3db1-4736-8b22-7f8ed99218ab:advice
 msgid "Make sure your users are aware of the risks of cloud storage (not so much that the cloud is unreliable, but there is no protection against \"accidentally\" sharing a cloud folder with people outside the project)."
-msgstr "請務必讓您的使用者了解雲端儲存的風險（倒不見得是雲端本身不可靠，而是對於不小心將雲端資料夾分享給專案外的人，沒有防護機制）。"
+msgstr "請務必讓您的使用者了解雲端儲存的風險（倒不見得是雲端本身不可靠，而是對於不小心將雲端資料夾分享給計畫外的人，沒有防護機制）。"
 
 #: question:5db6bd58-5d1d-4d02-9497-972cbef64c16:text
 msgid "Making use of the same pseudonymization for different studies makes it possible to integrate information later. Obviously it also raises the risk of re-identification."
@@ -3180,7 +3180,7 @@ msgstr "否，不需要"
 
 #: answer:1d6ba101-fd62-43c8-ab53-76bc31847f58:label
 msgid "No, participants in the project each have different collections of data and tools"
-msgstr "否，專案參與者各自使用不同的資料與工具"
+msgstr "否，計畫參與者各自使用不同的資料與工具"
 
 #: answer:efe50d9c-4dc2-49c5-ae61-1dc8ff0d7655:label
 msgid "No, suitable public controlled vocabularies or ontologies exist for all of my data types"
@@ -3196,7 +3196,7 @@ msgstr "否，資料會儲存在該領域供資料再次使用的主要資料儲
 
 #: answer:df53b7a2-1b1e-4f5d-99df-b9a7a1da91e9:label
 msgid "No, the file names in the project are an essential part of the metadata"
-msgstr "不，專案中的檔案名稱是後設資料中不可或缺的一部分"
+msgstr "不，計畫中的檔案名稱是後設資料中不可或缺的一部分"
 
 #: answer:57a9a008-d0b0-4716-bf26-13e6eb80dc36:label
 msgid "No, there is only one controller"
@@ -3325,23 +3325,23 @@ msgstr "使用實體儲存媒體傳輸"
 
 #: answer:9660950a-41d7-4c3b-a6fd-97e58c8fa412:label
 msgid "One of the members of the project team"
-msgstr "專案團隊的其中一名成員"
+msgstr "計畫團隊的其中一名成員"
 
 #: answer:1c805499-e407-489c-81ee-87ac76b6b2b6:label
 msgid "One of the principle investigators involved in the project will decide"
-msgstr "參與本專案的其中一位計畫主持人將作出決定"
+msgstr "參與本計畫的其中一位計畫主持人將作出決定"
 
 #: answer:ed47c9b7-9c2b-48ab-bdf4-efd8913f673e:label
 msgid "One of the project members will authorize"
-msgstr "由其中一位專案成員負責授權"
+msgstr "由其中一位計畫成員負責授權"
 
 #: answer:302e4b9b-9a9c-4fb0-9745-5f8ff4cca746:label
 msgid "Only all project members have read/write access to the data"
-msgstr "只有專案成員可以讀取及寫入資料"
+msgstr "只有計畫成員可以讀取及寫入資料"
 
 #: answer:b21c9f70-78e7-4975-b776-59e372285662:label
 msgid "Only project members will have read access; only selected project members will be able to write data"
-msgstr "只有專案成員具有資料的讀取權限；僅部分指定的專案成員具有資料的寫入權限"
+msgstr "只有計畫成員具有資料的讀取權限；僅部分指定的計畫成員具有資料的寫入權限"
 
 #: answer:dc921fac-cf77-4d3d-bb9c-907d37f838ef:advice
 msgid "Oops! That would mean that it is possible that the data will no longer be available for re-use after a while? Consider alternative options for publishing the data set."
@@ -3486,7 +3486,7 @@ msgstr "請列出您將蒐集的所有非由設備取得或記錄的資料集"
 
 #: question:7828d3a0-29bf-450e-aee9-473457a225fd:text
 msgid "Please list any references to other data sets, e.g. from your project or from earlier research. "
-msgstr "請列出任何指向其他資料集的參照，例如指向本專案中的其他資料集，或先前研究資料集的參照。 "
+msgstr "請列出任何指向其他資料集的參照，例如指向本計畫中的其他資料集，或先前研究資料集的參照。 "
 
 #: answer:44348fa8-fd12-49ea-ad7f-48ff88215829:advice
 msgid ""
@@ -3573,7 +3573,7 @@ msgstr "除非法律設有例外規定，否則不得處理某些類別的個人
 
 #: choice:9e3d02c8-3a93-4e95-b724-36ed315efb69:label
 msgid "Processing that prevents data subjects from exercising a right or using a service or a contract."
-msgstr "該專案涉及可能妨礙資料主體行使權利，或使用某項服務或契約的資料處理行為。"
+msgstr "該計畫涉及可能妨礙資料主體行使權利，或使用某項服務或契約的資料處理行為。"
 
 #: question:8c27e2cc-d2a7-45da-9829-aa22566bb34b:title
 msgid "Processor"
@@ -3585,43 +3585,43 @@ msgstr "產製者 (Producer)"
 
 #: choice:2d433965-55e3-4540-aae4-f85639d4e4fc:label
 msgid "Project Leader"
-msgstr "專案主持人 (Project Leader)"
+msgstr "計畫主持人 (Project Leader)"
 
 #: choice:cd2d1e0d-c5ad-4d0e-afa2-5ed143323cb7:label
 msgid "Project Manager"
-msgstr "專案經理 (Project Manager)"
+msgstr "計畫經理 (Project Manager)"
 
 #: choice:3d166766-6511-407b-a3e9-9565628fe05a:label
 msgid "Project Member"
-msgstr "專案成員 (Project Member)"
+msgstr "計畫成員 (Project Member)"
 
 #: question:22583d74-3c98-4e0a-b363-26d767c88212:title
 msgid "Project abstract"
-msgstr "專案摘要"
+msgstr "計畫摘要"
 
 #: question:5b765df9-299f-4855-9e99-aa844903f8f6:title
 msgid "Project acronym"
-msgstr "專案簡稱"
+msgstr "計畫簡稱"
 
 #: answer:9b723841-1bd4-487c-b45c-f0a369330b3a:label
 msgid "Project management will need to be able to give people access"
-msgstr "專案管理人員需要能夠授予人員取用權限"
+msgstr "計畫管理人員需要能夠授予人員取用權限"
 
 #: question:dc327e53-cf4f-44e7-8e66-40ddf1b4ae0a:text
 msgid "Project members may need to know about passwords (not sharing accounts, using different passwords for each service, and two factor authentication), about security for data they carry (encryption, backups), data stored in their own labs and in personal cloud accounts, and about the use of open WiFi and HTTPS."
-msgstr "專案成員可能需要了解密碼相關事項（例如不共用帳號、每項服務使用不同密碼，以及雙因素身分驗證）、隨身攜帶資料的安全性（加密、備份）、儲存在自己實驗室與個人雲端帳號中的資料，以及開放式 Wi-Fi 與 HTTPS 的使用。"
+msgstr "計畫成員可能需要了解密碼相關事項（例如不共用帳號、每項服務使用不同密碼，以及雙因素身分驗證）、隨身攜帶資料的安全性（加密、備份）、儲存在自己實驗室與個人雲端帳號中的資料，以及開放式 Wi-Fi 與 HTTPS 的使用。"
 
 #: question:f0ef08fd-d733-465c-bc66-5de0b826c41b:title
 msgid "Project name"
-msgstr "專案名稱"
+msgstr "計畫名稱"
 
 #: question:56163eb0-0101-40b4-b1c1-580875196b5c:title
 msgid "Project number"
-msgstr "專案編號"
+msgstr "計畫編號"
 
 #: question:56163eb0-0101-40b4-b1c1-580875196b5c:text
 msgid "Project number is a unique number assigned to the project by the authority that is undertaking the project."
-msgstr "專案編號是由執行該專案的單位賦予的唯一編號。"
+msgstr "計畫編號是由執行該計畫的單位賦予的唯一編號。"
 
 #: cross-reference:d522881a-9f3e-45fc-a420-f444e4da3ad0:description
 msgid "Provenance as selection criterion for workflow engine"
@@ -3807,11 +3807,11 @@ msgstr "原始資料不是儲存需求的主要部分"
 
 #: answer:19755f9d-8ec2-4fd9-8bdf-b25d5889d7ee:label
 msgid "Raw data will come in during the project"
-msgstr "原始資料會在專案期間陸續進入工作空間"
+msgstr "原始資料會在計畫期間陸續進入工作空間"
 
 #: answer:adfc7ca3-c8e3-465b-8eb2-4327b8780684:label
 msgid "Raw data will come in right at the start"
-msgstr "原始資料會在專案一開始就進入工作空間"
+msgstr "原始資料會在計畫一開始就進入工作空間"
 
 #: answer:fe62c9a0-a621-46b6-bc42-881d0c3d8719:label
 msgid "Raw data will need to stay in the work space"
@@ -3888,7 +3888,7 @@ msgid ""
 "Roles in a project should be given as they are defined by [datacite](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf). \n"
 "\n"
 "You should specify at least one \"Contact Person\". If your project has a work package for data management, identify the leader of that work package as \"Data Curator\". At least one \"Creator of the DMP\" must be specified to ensure they are listed as a creator in the final DMP."
-msgstr "專案中的角色應依照 [DataCite](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) 的定義填寫。\n\n您應至少指定一位「聯絡人」。若您的專案含有資料管理的分項工作，請將該分項工作的負責人標示為「資料策展人」。此外，至少必須指定一位「資料管理方案創作者」，以確保其在最終的資料管理方案中列為創作者。"
+msgstr "計畫中的角色應依照 [DataCite](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) 的定義填寫。\n\n您應至少指定一位「聯絡人」。若您的計畫含有資料管理的分項工作，請將該分項工作的負責人標示為「資料策展人」。此外，至少必須指定一位「資料管理方案創作者」，以確保其在最終的資料管理方案中列為創作者。"
 
 #: question:624cfadf-6177-47b7-9ba8-b80b68aef0fd:title
 msgid "Rough average size of each file/subject in gigabytes"
@@ -4054,7 +4054,7 @@ msgstr "請說明您如何確認量測結果確實符合預期，以及如何檢
 
 #: question:0b12fb8c-ee0f-40c0-9c53-b6826b786a0c:text
 msgid "Specify the name of the funder that you ask for funding for your project. You will be presented with suggestions from [Crossref](https://www.crossref.org/), but you also have the option to manually specify a complete URL to the funder web site.\n"
-msgstr "請指定您為此專案申請經費的資助單位名稱。系統會提供來自 [Crossref](https://www.crossref.org/) 的建議，您也可以手動指定資助單位網站的完整網址。\n"
+msgstr "請指定您為此計畫申請經費的資助單位名稱。系統會提供來自 [Crossref](https://www.crossref.org/) 的建議，您也可以手動指定資助單位網站的完整網址。\n"
 
 #: question:346118ee-265f-4104-8409-161ea9a57f75:text
 msgid "Specify the period, and optionally add how this relates to the minimum period that you are required to keep the data and/or a reason for choosing this period."
@@ -4086,7 +4086,7 @@ msgstr "開始日期"
 
 #: question:de84b9b5-bcd0-4954-8370-72ea83916b8c:title
 msgid "Starting date of the project"
-msgstr "專案開始日期"
+msgstr "計畫開始日期"
 
 #: question:5fa61693-3750-4fcb-b8c2-ca003ecb5d62:title
 msgid "State the exemption"
@@ -4102,7 +4102,7 @@ msgstr "一開始的儲存需求會比較大，之後會逐漸降低"
 
 #: answer:51a8248e-8659-47fd-a8e3-112eed64f65b:label
 msgid "Storage needs are largest in the middle of the project"
-msgstr "儲存需求會在專案中期達到最高"
+msgstr "儲存需求會在計畫中期達到最高"
 
 #: answer:ab40db7f-ea89-4830-b507-4f2f08a9453e:label
 msgid "Storage needs are small at the beginning and will grow later"
@@ -4110,7 +4110,7 @@ msgstr "一開始的儲存需求較小，之後會逐漸增加"
 
 #: answer:eef277cb-1032-401e-b242-e74afde575dc:label
 msgid "Storage needs will be the same during the whole project"
-msgstr "整個專案期間的儲存需求都會維持不變"
+msgstr "整個計畫期間的儲存需求都會維持不變"
 
 #: answer:eefe3d60-b037-488a-826c-871490357ffc:label
 msgid "Stored in the same folder as the data"
@@ -4237,7 +4237,7 @@ msgid ""
 "The file names are very useful as metadata for people involved in the project, but to computers they are just identifiers. To prevent accidents with e.g. renamed files metadata information should always also be available elsewhere and not only through the file name.\n"
 "\n"
 "Also note that if metadata could need to change, embedding it in the file names may require renaming files during the project; and this may have implications for references to those files."
-msgstr "檔名對參與專案的人員而言是很有用的後設資料，但對電腦來說，它們只是識別碼。為避免例如檔案重新命名造成的意外，後設資料應一律也在其他地方提供，而不應只透過檔名提供。\n\n也請注意，如果後設資料可能需要變更，將其嵌入檔名可能會使專案期間必須重新命名檔案；這也可能影響對這些檔案的參照。"
+msgstr "檔名對參與計畫的人員而言是很有用的後設資料，但對電腦來說，它們只是識別碼。為避免例如檔案重新命名造成的意外，後設資料應一律也在其他地方提供，而不應只透過檔名提供。\n\n也請注意，如果後設資料可能需要變更，將其嵌入檔名可能會使計畫期間必須重新命名檔案；這也可能影響對這些檔案的參照。"
 
 #: question:b307cc44-7896-4383-b9b0-11cf4a58f531:text
 msgid ""
@@ -4274,7 +4274,7 @@ msgstr "資料詮釋包含處理的最後幾個步驟（通常伴隨人工介入
 
 #: answer:350fa8cc-ecc8-40cc-a50e-1d87405970b1:label
 msgid "The measuring party will delete the data, the project partners will deal with data publication"
-msgstr "量測方會刪除資料，由專案合作夥伴負責發布資料"
+msgstr "量測方會刪除資料，由計畫合作夥伴負責發布資料"
 
 #: answer:b10cd3bf-ecd6-4fa1-a9c4-d8d974de714c:label
 msgid "The measuring party will publish it after a fixed embargo period"
@@ -4282,7 +4282,7 @@ msgstr "量測方會在固定延後開放期限後發布資料"
 
 #: answer:a3393cc1-3393-45ba-ba91-e447bf755eb7:label
 msgid "The measuring party will publish it when the project tells them to"
-msgstr "量測方會依專案通知發布資料"
+msgstr "量測方會依計畫通知發布資料"
 
 #: answer:786edd0d-ae07-489c-b078-423c18e02043:label
 msgid "The party measuring the data owns it"
@@ -4290,11 +4290,11 @@ msgstr "量測資料的一方擁有資料"
 
 #: question:14ed71a8-80c6-465a-94db-1115502297bd:text
 msgid "The people implementing the data analysis work flow for your project probably need test data that they can use to see whether what they build works. How will this be arranged?"
-msgstr "為您的專案實作資料分析工作流程的人，可能需要測試資料來確認建置出的內容是否能正常運作。這將如何安排？"
+msgstr "為您的計畫實作資料分析工作流程的人，可能需要測試資料來確認建置出的內容是否能正常運作。這將如何安排？"
 
 #: answer:306f7ef4-97fd-47b0-84de-f192cb94ea3a:label
 msgid "The project partners acquire full ownership"
-msgstr "專案合作夥伴取得完整所有權"
+msgstr "計畫合作夥伴取得完整所有權"
 
 #: answer:07f06e60-9d5b-46b9-832a-75b881c4a9cb:label
 #: answer:b4d8d8b8-3c8e-4b41-87a4-dbd01e7b7ad9:label
@@ -4331,7 +4331,7 @@ msgstr "有幾種不同標準常用於提供資料集的基本資訊。您將使
 
 #: question:b171ec17-d7b5-4726-ae22-0d892b106cf8:text
 msgid "There are a number of questions that can help you to decide whether your work space will be reliable enough for your project."
-msgstr "有幾個問題可以協助您判斷工作空間對專案而言是否足夠可靠。"
+msgstr "有幾個問題可以協助您判斷工作空間對計畫而言是否足夠可靠。"
 
 #: answer:07f599c3-592c-479b-906c-36478ae792b9:advice
 #, python-format
@@ -4350,7 +4350,7 @@ msgstr "有內部控管機制可處理解讀差異"
 
 #: question:614ab69d-55a6-4214-b384-00ba21ce92a1:text
 msgid "There are many factors that can contribute to the risk of information loss or information leaks. They are often part of the behavior of the people that are involved in the project, but can also be steered by properly planned infrastructure."
-msgstr "有許多因素可能造成資訊遺失或資訊外洩風險。這些因素通常與專案相關人員的行為有關，但也可以透過妥善規劃的基礎設施來引導與降低。"
+msgstr "有許多因素可能造成資訊遺失或資訊外洩風險。這些因素通常與計畫相關人員的行為有關，但也可以透過妥善規劃的基礎設施來引導與降低。"
 
 #: answer:6d18bfff-0f53-469b-934e-9806dda9d4fb:advice
 msgid ""
@@ -4421,7 +4421,7 @@ msgstr "另有其他原因"
 #: question:fdeb19c8-393c-4c4e-8c88-58a9c4d19e2b:text
 #: question:ff6f53f1-1adc-4401-bbda-a159d283a8eb:text
 msgid "There is no concrete map of these features to suitable workflow engines at this moment, but filling in these questions can lead you to think about the most important features for the project"
-msgstr "目前尚無具體的途徑對照表可參考，可用來將這些功能對應到合適的工作流程引擎；不過，填寫這些問題可協助您釐清本專案最重要的功能需求"
+msgstr "目前尚無具體的途徑對照表可參考，可用來將這些功能對應到合適的工作流程引擎；不過，填寫這些問題可協助您釐清本計畫最重要的功能需求"
 
 #: answer:a1ead63a-1bc8-42e6-8bdc-3e1e8a901307:label
 msgid "There is no data elsewhere\\"
@@ -4457,16 +4457,16 @@ msgstr "這些較不可能適用"
 
 #: answer:9081d546-59d1-4ffb-987e-02f6ed002e73:label
 msgid "These costs will be carried by (one of) the departments involved in the project"
-msgstr "這些成本將由參與專案的一個或多個部門承擔"
+msgstr "這些成本將由參與計畫的一個或多個部門承擔"
 
 #: answer:aeafeb04-59e1-4e56-8c89-07d773474695:label
 msgid "These costs will be carried by (one of) the institutes involved in the project"
-msgstr "這些成本將由參與專案的一個或多個機構承擔"
+msgstr "這些成本將由參與計畫的一個或多個機構承擔"
 
 #: answer:85dcd5ee-002b-4db7-a0de-241a4b2f0688:label
 #: answer:97dc091d-8103-4119-87a2-c46a277ea303:label
 msgid "They are available under some restrictions, which we will follow in our project"
-msgstr "這些資料可在某些限制下使用，而我們會在專案中遵守這些限制"
+msgstr "這些資料可在某些限制下使用，而我們會在計畫中遵守這些限制"
 
 #: answer:cb713607-cd09-41b5-bd6a-bd403e584be6:label
 #: answer:de5d31e0-dadb-422b-bd88-34f006f11d60:label
@@ -4480,23 +4480,23 @@ msgstr "這些資料可自由使用，但必須標明來源，例如 CC-BY"
 
 #: choice:216661ca-3b33-4541-bfb7-d7578466e137:label
 msgid "They can access the data after the project's completion."
-msgstr "他們可以在專案完成後查閱其資料。"
+msgstr "他們可以在計畫完成後查閱其資料。"
 
 #: choice:e63d7501-86b4-40b7-9b2a-43e7c1745ae1:label
 msgid "They can access the data during the project."
-msgstr "他們可以在專案期間查閱其資料。"
+msgstr "他們可以在計畫期間查閱其資料。"
 
 #: choice:31b7d794-e805-4364-9be8-e33b132f1c0c:label
 msgid "They can ask for data access to be modified after the project's completion."
-msgstr "他們可以在專案完成後要求調整資料取用權限。"
+msgstr "他們可以在計畫完成後要求調整資料取用權限。"
 
 #: choice:dd1b03f1-2b1c-41f5-9e15-4eb14d46afcf:label
 msgid "They can ask for data access to be modified during the project."
-msgstr "他們可以在專案期間要求調整資料取用權限。"
+msgstr "他們可以在計畫期間要求調整資料取用權限。"
 
 #: choice:f7a1854f-511e-44c8-b1e5-422d26024433:label
 msgid "They can ask for the data to be modified after the project's completion (which may include the deletion of the data)."
-msgstr "他們可以在專案完成後要求修改資料（這可能包括刪除資料）。"
+msgstr "他們可以在計畫完成後要求修改資料（這可能包括刪除資料）。"
 
 #: answer:4844d32a-be6a-490a-b12e-3a31503d7bd1:label
 msgid "They can start with a subset as soon as our first data comes"
@@ -4504,11 +4504,11 @@ msgstr "第一批資料可供使用後，他們就可以先使用這資料的一
 
 #: answer:3996826a-b67a-42e7-9223-f2a438fddbe6:label
 msgid "They can use data from our project"
-msgstr "他們可以使用我們專案的資料"
+msgstr "他們可以使用我們計畫的資料"
 
 #: answer:9d7f9c48-0907-4798-b7bd-454505a54b1a:label
 msgid "They can use existing data from another project"
-msgstr "他們可以使用其他專案的既有資料"
+msgstr "他們可以使用其他計畫的既有資料"
 
 #: answer:e8779d3b-8292-429e-a9b1-3df49c495674:label
 msgid "They do not need data"
@@ -4564,7 +4564,7 @@ msgstr "這是由一個或多個參與機構編列預算支應的服務"
 
 #: answer:7c732053-6df4-466b-8732-0db2bd1e1ffc:label
 msgid "This is left to the project participants"
-msgstr "這由專案參與者自行處理"
+msgstr "這由計畫參與者自行處理"
 
 #: answer:c7a0181c-1921-4b21-9481-f4274d48876c:label
 msgid "This is not needed"
@@ -4580,7 +4580,7 @@ msgstr "這個問題指的是資料集以外的研究成果，例如程式碼、
 
 #: answer:f43fbe42-2e6c-4c96-a66d-a717c68e63ec:label
 msgid "This will be one of the prime distinctive outcomes of our project"
-msgstr "這會是我們專案主要的特色成果之一"
+msgstr "這會是我們計畫主要的特色成果之一"
 
 #: answer:f68a6141-3f78-4efb-8a80-2a482e75a862:label
 msgid "Through a Data Access Committee"
@@ -4600,7 +4600,7 @@ msgstr "標題"
 
 #: question:a30f5047-33c1-45a7-8b3f-b1b90c364fc9:text
 msgid "To ensure that the personal data that you process in the project is protected at an appropriate level, you should apply technical and procedural safeguards to ensure that the rights of the data subjects are not violated. Examples of such measures include, but are not limited to, pseudonymisation and encryption of data, the use of computing and storage environments with heightened security, and clear and documented procedures for project members to follow."
-msgstr "為確保您在專案中處理的個人資料受到適當程度的保護，您應採用技術與程序保護措施，確保資料主體的權利不受侵害。此類措施包括但不限於資料的擬匿名化與加密、使用安全性較高的運算與儲存環境，以及提供清楚且經文件化、可供專案成員遵循的程序。"
+msgstr "為確保您在計畫中處理的個人資料受到適當程度的保護，您應採用技術與程序保護措施，確保資料主體的權利不受侵害。此類措施包括但不限於資料的擬匿名化與加密、使用安全性較高的運算與儲存環境，以及提供清楚且經文件化、可供計畫成員遵循的程序。"
 
 #: question:83c0d09d-e74c-4c81-a52c-aaa2e18415ac:title
 msgid "To execute the DMP, is additional specialist expertise required?"
@@ -4608,7 +4608,7 @@ msgstr "為了落實資料管理方案，是否需要額外的專業知識？"
 
 #: question:4ee4d67d-62c5-47f0-a741-f2629b65cf8a:text
 msgid "To perform capacity planning, it is important to know what the need for storage capacity at the beginning and the end of the project will be."
-msgstr "若要進行容量規劃，了解專案開始與結束時各需要多少儲存容量，是很重要的。"
+msgstr "若要進行容量規劃，了解計畫開始與結束時各需要多少儲存容量，是很重要的。"
 
 #: answer:eb17ff9a-c57e-4fd4-b3bd-89edb31c6568:advice
 msgid "Traditionally, *consent* has been the basis for processing personal data for research, but under the GDPR there cannot be an imbalance between the processor and the data subject for it to be considered to be freely given. In some countries the use of *consent* as the legal basis for processing by universities for research purposes is therefore not recommended. In those cases, public interest should probably be your legal basis. Note that if your legal basis for processing is consent, [a number of requirements](https://gdpr-info.eu/issues/consent/) exists for the consent to be considered valid under the GDPR. Consents given before the GDPR might not live up to this. "
@@ -4635,7 +4635,7 @@ msgstr "網址"
 
 #: question:9e0fb0fd-0268-4cf3-8dfa-ba0b2a1e8e89:title
 msgid "Under what GDPR category does the project data fall?"
-msgstr "專案資料屬於 GDPR 的哪一類？"
+msgstr "計畫資料屬於 GDPR 的哪一類？"
 
 #: question:ca0f9465-3116-4824-8651-b592151c5368:title
 msgid "Under what license will the data set be made available?"
@@ -4767,7 +4767,7 @@ msgstr "我們有其他擬匿名化方式"
 
 #: answer:f613d751-f6dd-406e-863c-cdce486a5fc0:label
 msgid "We have budgeted for these costs in the project"
-msgstr "我們已在專案中為這些成本編列預算"
+msgstr "我們已在計畫中為這些成本編列預算"
 
 #: answer:17443e43-bc5a-49ce-8197-6997e9cf3d41:label
 #: answer:399245d4-7988-461c-b940-ee813a1c99b1:label
@@ -4780,7 +4780,7 @@ msgstr "我們已有其他安排"
 
 #: answer:23ce8320-0b90-4360-a9db-6001ad9e7582:label
 msgid "We have sufficient knowledge in the project"
-msgstr "專案團隊具備足夠知識"
+msgstr "計畫團隊具備足夠知識"
 
 #: answer:4140dd2d-aeb0-4cb8-960b-b46e74305dd5:label
 msgid "We know the authors well"
@@ -4796,7 +4796,7 @@ msgstr "我們會自動備份所有儲存在工作空間之外的資料"
 
 #: answer:72c0a64f-a3ec-4d9e-bf37-ee0b25c2a084:label
 msgid "We pseudonymize inside the project, only limited people can access the keys"
-msgstr "我們會在專案內進行擬匿名化，且只有少數人可以取用金鑰"
+msgstr "我們會在計畫內進行擬匿名化，且只有少數人可以取用金鑰"
 
 #: answer:bfb7a92c-5eec-497e-8a0f-ef7b12f353c2:label
 msgid "We require the processing to fulfil our contract with the data subjects"
@@ -5278,7 +5278,7 @@ msgstr "建立工作空間時，若能先了解您預期會處理的資料型態
 
 #: answer:d157e15a-f5c6-46c5-be4f-a260c4ba7954:label
 msgid "When the project is wrapped up"
-msgstr "專案收尾時"
+msgstr "計畫收尾時"
 
 #: question:5f5cc5b6-a17c-4cf5-b6fc-ecfd655c0fe6:title
 msgid "When will the data set be published?"
@@ -5290,7 +5290,7 @@ msgstr "工作流程開發者何時可以取用資料？"
 
 #: question:8526a988-9561-42c6-8af4-7c96aa4c536d:title
 msgid "When will your raw data become available?"
-msgstr "原始資料會在什麼時候進入專案工作空間？"
+msgstr "原始資料會在什麼時候進入計畫工作空間？"
 
 #: question:8915bd25-db22-4ed6-bcc8-b1bbdc52989e:text
 msgid "Where a type of processing is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data, a so called Data Protection Impact Assessment (DPIA) - [Article 35](https://gdpr-info.eu/art-35-gdpr/). Note: Most types of research projects on health or genetic data require a DPIA, especially large-scale processing of sensitive data. "
@@ -5392,7 +5392,7 @@ msgstr "是哪一項？"
 
 #: question:eccb8305-b78e-4e60-a4ee-094c70003b7a:title
 msgid "Who are the data controller(s) of the personal data processed in the project?"
-msgstr "本專案所處理個人資料的資料控管者是誰？"
+msgstr "本計畫所處理個人資料的資料控管者是誰？"
 
 #: question:6d31cd2e-ca00-4cf8-961e-f84d4dabdda4:title
 msgid "Who are the people that will run the workflows?"
@@ -5461,7 +5461,7 @@ msgstr "為什麼決定不使用此參考資料集？"
 
 #: question:3d09f311-07dd-49a0-8445-5eab8f9548fc:title
 msgid "Why is a DPIA deemed necessary for this project?"
-msgstr "為什麼此專案被認為需要 DPIA？"
+msgstr "為什麼此計畫被認為需要 DPIA？"
 
 #: question:e1b36d54-c7b1-40ba-be4f-c96798fc8187:title
 msgid "Why is it valuable?"
@@ -5564,7 +5564,7 @@ msgstr "是否會建立參考資料？"
 
 #: question:c9ed4379-19e2-4ce3-8962-5c2fca69b6cd:title
 msgid "Will someone be given decision power to move documents or data to a new place after the project has finished?"
-msgstr "專案結束後，是否會有人被賦予決定權，可將文件或資料移至新的位置？"
+msgstr "計畫結束後，是否會有人被賦予決定權，可將文件或資料移至新的位置？"
 
 #: answer:a4f6a1da-536b-43fa-9637-71e33327fa08:label
 msgid "Will stay with the old version"
@@ -5676,7 +5676,7 @@ msgstr "將在線上使用"
 
 #: question:56bc8ebb-aba5-4745-8034-17ed3fe4fe07:text
 msgid "Will you be able to find and reproduce exactly which version was used for any analysis? Not only for the major tools in the workflows, but also for all 'glue' code and small tools you created especially for the project?"
-msgstr "您是否能查明任一分析所使用的確切版本，並加以重現？這不只包括工作流程中的主要工具，也包括所有串接用程式碼，以及您專為本專案建立的小型工具？"
+msgstr "您是否能查明任一分析所使用的確切版本，並加以重現？這不只包括工作流程中的主要工具，也包括所有串接用程式碼，以及您專為本計畫建立的小型工具？"
 
 #: question:f83a9afd-c6de-452b-be9f-bd76e5eb6b54:title
 msgid "Will you be able to support this repository for a sufficiently long time?"
@@ -5700,11 +5700,11 @@ msgstr "您是否會允許通過身分驗證後取用資料？"
 
 #: question:d5784d24-0e66-4821-bd62-a711fb6d7a40:title
 msgid "Will you be archiving data (using so-called 'cold storage') for long term preservation already during your project?"
-msgstr "您是否會在專案進行期間，即將資料封存至所謂的「冷儲存 (cold storage)」中，以進行長期保存？"
+msgstr "您是否會在計畫進行期間，即將資料封存至所謂的「冷儲存 (cold storage)」中，以進行長期保存？"
 
 #: question:f9d84278-b61d-4314-94e9-12644bfa1d00:title
 msgid "Will you be archiving your data in 'cold storage' after the project finishes?"
-msgstr "專案結束後，您是否會以「冷儲存」方式典藏資料？"
+msgstr "計畫結束後，您是否會以「冷儲存」方式典藏資料？"
 
 #: question:0e810343-6026-4992-8ea0-5539cbc77093:text
 msgid "Will you be collecting artefacts like specimens, minerals, biological samples?"
@@ -5796,7 +5796,7 @@ msgstr "您是否會依賴這些備份，從人為錯誤（意外變更或刪除
 
 #: question:f9d84278-b61d-4314-94e9-12644bfa1d00:text
 msgid "Will you be storing (in cold storage) copies of your own data for a longer period after the project has ended? Possibly as a continuation of archival as part of data storage strategy during the project? Data archival is distinct from data publishing, an archive is usually strictly limited in who can access the data."
-msgstr "專案結束後，您是否會以「冷儲存」方式長期保存自己的資料副本？這可能是專案期間資料儲存策略中典藏作業的延續。資料典藏不同於資料發布；典藏庫通常會嚴格限制可取用資料的人員。"
+msgstr "計畫結束後，您是否會以「冷儲存」方式長期保存自己的資料副本？這可能是計畫期間資料儲存策略中典藏作業的延續。資料典藏不同於資料發布；典藏庫通常會嚴格限制可取用資料的人員。"
 
 #: question:dc39957e-688a-4f71-a6a8-57f52509e7cf:title
 msgid "Will you be storing data in an \"object store\" or a \"document store\" system?"
@@ -5816,7 +5816,7 @@ msgstr "您是否會使用共享的工作空間來處理您的資料？"
 
 #: question:72099c46-16e7-47a2-a320-cc768b7085fe:text
 msgid "Will you be using a working space containing data and software specific to the project that is shared between all the people working on the data in the project? Sometimes such a system is called a *Virtual Research Environment*."
-msgstr "您是否會使用一個包含本專案特定資料與軟體的工作空間，並讓專案中所有處理資料的人共同使用？這類系統有時稱為「虛擬研究環境」。"
+msgstr "您是否會使用一個包含本計畫特定資料與軟體的工作空間，並讓計畫中所有處理資料的人共同使用？這類系統有時稱為 *「虛擬研究環境」*。"
 
 #: question:f67e1539-5c7d-4df7-8259-e4f2edfa2685:title
 msgid "Will you be using common ontologies?"
@@ -5832,7 +5832,7 @@ msgstr "您是否會使用新的資料類型？"
 
 #: question:b1f62b06-e69a-41be-8d16-1d73b9b75cd2:title
 msgid "Will you be using persistent identifiers to refer to data within the project?"
-msgstr "您是否會在專案中使用持續識別碼來參照資料？"
+msgstr "您是否會在計畫中使用持續識別碼來參照資料？"
 
 #: question:ba38b16d-2154-4372-b445-7854a6e90443:title
 msgid "Will you be using quality processes?"
@@ -5908,7 +5908,7 @@ msgstr "您是否會將結果與所有處理腳本或工作流程一併保存，
 
 #: question:98d9789b-32fc-4e2f-876a-47760ad7c7ec:title
 msgid "Will you make backup copies of project data that is not in the work space?"
-msgstr "對於未儲存在工作空間中的專案資料，您是否會另外建立備份？"
+msgstr "對於未儲存在工作空間中的計畫資料，您是否會另外建立備份？"
 
 #: question:9e238002-da35-4f9b-a9b7-8fe3613a3c03:title
 msgid "Will you make explicit cross-reference between physical samples and your digital data?"
@@ -5920,7 +5920,7 @@ msgstr "您是否會確保不會無意間建立有偏差的子集？"
 
 #: question:49199b05-73d7-4912-a5ca-bc1e14a09468:title
 msgid "Will you make use of standard workflow engines and automatic work flows for all data analysis in the project?"
-msgstr "您是否會在專案的所有資料分析中使用標準工作流程引擎與自動化工作流程？"
+msgstr "您是否會在計畫的所有資料分析中使用標準工作流程引擎與自動化工作流程？"
 
 #: question:a972fba5-7586-4156-bdf8-8251288dc341:title
 msgid "Will you make use of the metadata fields in your output data files to register how the data was obtained?"
@@ -6023,15 +6023,15 @@ msgstr "是否會為分析工作流程中的每個步驟建立一個（子）資
 
 #: question:decb7c9c-c6dc-4027-8c0e-18934c852ca6:title
 msgid "Will you use a central repository for all tools and their versions as used in your project?"
-msgstr "您是否會使用中央儲存庫管理專案中使用的所有工具及其版本？"
+msgstr "您是否會使用中央儲存庫管理計畫中使用的所有工具及其版本？"
 
 #: question:4c7cd15f-90f9-4ab3-8082-38da4f642de1:title
 msgid "Will you use a central repository for reference data used in your project?"
-msgstr "您是否會使用中央儲存庫管理專案中使用的參考資料？"
+msgstr "您是否會使用中央儲存庫管理計畫中使用的參考資料？"
 
 #: question:4539a575-6bdd-4077-a2fd-71b8121e2e06:title
 msgid "Will you use a database system to store project data?"
-msgstr "您是否會使用資料庫系統儲存專案資料？"
+msgstr "您是否會使用資料庫系統儲存計畫資料？"
 
 #: question:cc76bce4-f4df-40e0-b28b-dc64b95b7c7b:title
 msgid "Will you use a folder for each sample/subject?"
@@ -6051,7 +6051,7 @@ msgstr "您是否會設定資料限制期 (embargo)，暫時限制他人再利�
 
 #: question:87abded2-1edb-4f69-bd6c-8b90f7706206:title
 msgid "Will your project require the archives to be available on-line?"
-msgstr "您的專案是否要求典藏資料可線上取用？"
+msgstr "您的計畫是否要求典藏資料可線上取用？"
 
 #: choice:ce5476ed-5cc3-42ff-ac9d-d567f28cc2a6:label
 msgid "Work Package Leader"
@@ -6630,7 +6630,7 @@ msgstr "您的工作流程可能由來自不同來源的多個軟體元件組成
 
 #: question:eccb8305-b78e-4e60-a4ee-094c70003b7a:text
 msgid "[Article 4](https://gdpr-info.eu/art-4-gdpr/) (7): *“**‘controller’** means the natural or legal person, public authority, agency or other body which, alone or jointly with others, **determines the purposes** and means of the processing of personal data; […].”* The Controller is typically the university employer of the PI, and the PI should act as a representative of her university employer and is responsible for ensuring that personal data is handled correctly in her projects. For cross-border collaborative projects the controllers of different datasets should be identified. Also, if joint controllership is considered, make sure that all parties understand their obligations, and it is probably good to define the terms for this in an agreement between the parties."
-msgstr "[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 7 款指出：「***控管者** 係指單獨或與他人共同 **決定個人資料處理之目的** 與方法之自然人或法人、公務機關、局處或其他機構……*」資料控管者通常是計畫主持人任職的大學；計畫主持人應代表其任職大學，並負責確保專案中的個人資料受到妥善處理。對於跨國多方協作計畫，應釐清各資料集分別由誰擔任資料控管者。此外，若考慮由多方共同擔任資料控管者，請確保各方都了解自身義務；也建議各方以協議明定相關條款。"
+msgstr "[第 4 條](https://gdpr-info.eu/art-4-gdpr/) 第 7 款指出：「***控管者** 係指單獨或與他人共同 **決定個人資料處理之目的** 與方法之自然人或法人、公務機關、局處或其他機構……*」資料控管者通常是計畫主持人任職的大學；計畫主持人應代表其任職大學，並負責確保計畫中的個人資料受到妥善處理。對於跨國多方協作計畫，應釐清各資料集分別由誰擔任資料控管者。此外，若考慮由多方共同擔任資料控管者，請確保各方都了解自身義務；也建議各方以協議明定相關條款。"
 
 #: question:c2da0410-ede1-4b0a-a750-09e6e6bd38cf:text
 msgid ""
@@ -6639,7 +6639,7 @@ msgid ""
 "Traditionally, *consent* has been the basis for processing personal data for research, but under the GDPR there cannot be an imbalance between the processor and the data subject for it to be considered to be freely given. In some countries the use of *consent* as the legal basis for processing by universities for research purposes is therefore not recommended. In those cases, public interest should probably be your legal basis. Note that if your legal basis for processing is consent, [a number of requirements](https://gdpr-info.eu/issues/consent/) exists for the consent to be considered valid under the GDPR. Consents given before the GDPR might not live up to this. \n"
 "\n"
 "Also note that even if *public interest* is the legal basis, other laws and research ethics standards might still require you to have consent from the subjects for performing the research."
-msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項列出處理行為在何種條件下可視為合法。其中，與研究相關的通常是「**同意**」或「**公共利益**」。您應判斷在您的專案中，處理個人資料適用哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n也請注意，即使法律依據是「*公共利益*」，其他法律或研究倫理標準仍可能要求您取得受試者的同意，才能進行研究。"
+msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項列出處理行為在何種條件下可視為合法。其中，與研究相關的通常是「**同意**」或「**公共利益**」。您應判斷在您的計畫中，處理個人資料適用哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n也請注意，即使法律依據是「*公共利益*」，其他法律或研究倫理標準仍可能要求您取得受試者的同意，才能進行研究。"
 
 #: question:be4651c9-9a8c-4e10-a158-61b94ca0e139:text
 msgid ""
@@ -6650,7 +6650,7 @@ msgid ""
 "Also note that even if *public interest* is the legal basis, other laws and research ethics standards might still require you to have consent from the subjects for performing the research.\n"
 "\n"
 "Please consult with the Data Protection Officer of your organisation on which legal basis to apply to your data.\n"
-msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項說明在何種情況下，個人資料處理可被視為合法。就研究而言，較常見的法律依據包括「**同意**」與「**公共利益**」。請確認您的專案處理個人資料時，是依據哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n另外，即使您以「*公共利益*」作為法律依據，其他法律或研究倫理標準仍可能要求您取得受試者同意，才能進行研究。\n\n請諮詢您組織的資料保護官，確認您的資料應適用哪一項法律依據。\n"
+msgstr "[第 6 條](https://gdpr-info.eu/art-6-gdpr/) 第 1 項說明在何種情況下，個人資料處理可被視為合法。就研究而言，較常見的法律依據包括「**同意**」與「**公共利益**」。請確認您的計畫處理個人資料時，是依據哪一項或哪些法律依據。\n\n過去，研究處理個人資料時，通常以「*同意*」作為法律依據；但依 GDPR，若資料處理者與資料主體之間存在權力不對等，就難以認定該同意是自由給予。因此，在某些國家，不建議大學以「*同意*」作為研究目的處理個人資料的法律依據。在這類情況下，較可能適合的法律依據是公共利益。若您以同意作為處理依據，請注意，同意必須符合[若干要求](https://gdpr-info.eu/issues/consent/)，才會被 GDPR 視為有效；GDPR 生效前取得的同意，不一定符合這些要求。\n\n另外，即使您以「*公共利益*」作為法律依據，其他法律或研究倫理標準仍可能要求您取得受試者同意，才能進行研究。\n\n請諮詢您組織的資料保護官，確認您的資料應適用哪一項法律依據。\n"
 
 #: answer:47c2c317-22a8-430d-8bec-617879a2c6f8:advice
 #: answer:5b97c0ce-e1af-4c7b-801c-73845a720ebd:advice
@@ -6670,7 +6670,7 @@ msgstr "clcbio"
 
 #: answer:f2784b7e-b0ed-4973-9d68-954c5c24e8bb:advice
 msgid "consider making them partner in the project"
-msgstr "可考慮邀請他們成為專案合作夥伴"
+msgstr "可考慮邀請他們成為計畫合作夥伴"
 
 #: url-reference:d6215b18-f046-49d7-8fdc-b4aafa12314e:label
 msgid "galaxy"
