@@ -163,14 +163,21 @@ class MessageExtractor:
     def _extract_messages_metric(self, metric: km_flat.Metric):
         self.messages.append(ExtractedMessage(
             msgid=metric.title,
-            entity_type='metrics',
+            entity_type='metric',
             entity_uuid=metric.uuid,
             entity_attribute='title',
         ))
+        if metric.abbreviation:
+            self.messages.append(ExtractedMessage(
+                msgid=metric.abbreviation,
+                entity_type='metric',
+                entity_uuid=metric.uuid,
+                entity_attribute='abbreviation',
+            ))
         if metric.description:
             self.messages.append(ExtractedMessage(
                 msgid=metric.description,
-                entity_type='metrics',
+                entity_type='metric',
                 entity_uuid=metric.uuid,
                 entity_attribute='description',
             ))
@@ -178,7 +185,7 @@ class MessageExtractor:
     def _extract_messages_resource_collection(self, rc: km_flat.ResourceCollection):
         self.messages.append(ExtractedMessage(
             msgid=rc.title,
-            entity_type='resource_collection',
+            entity_type='resourceCollection',
             entity_uuid=rc.uuid,
             entity_attribute='title',
         ))
@@ -190,14 +197,14 @@ class MessageExtractor:
     def _extract_messages_resource_page(self, rp: km_flat.ResourcePage):
         self.messages.append(ExtractedMessage(
             msgid=rp.title,
-            entity_type='resource_page',
+            entity_type='resourcePage',
             entity_uuid=rp.uuid,
             entity_attribute='title',
         ))
         if rp.content:
             self.messages.append(ExtractedMessage(
                 msgid=rp.content,
-                entity_type='resource_page',
+                entity_type='resourcePage',
                 entity_uuid=rp.uuid,
                 entity_attribute='content',
             ))
@@ -207,6 +214,16 @@ class MessageExtractor:
         for chapter_uuid in self.km.chapter_uuids:
             chapter = self.km.entities.chapters.get(chapter_uuid)
             self._extract_messages_chapter(chapter)
+        for metric_uuid in self.km.metric_uuids:
+            self._extract_messages_metric(self.km.entities.metrics[metric_uuid])
+        for phase_uuid in self.km.phase_uuids:
+            self._extract_messages_phase(self.km.entities.phases[phase_uuid])
+        for tag_uuid in self.km.tag_uuids:
+            self._extract_messages_tag(self.km.entities.tags[tag_uuid])
+        for collection_uuid in self.km.resource_collection_uuids:
+            self._extract_messages_resource_collection(
+                self.km.entities.resource_collections[collection_uuid]
+            )
         return self.messages
 
 
@@ -222,7 +239,7 @@ def build_pot(
     # 1) Group locations by msgid
     locs_by_msgid: dict[str, set[tuple[str, int]]] = collections.defaultdict(set)
     for occ in messages:
-        if not occ.msgid:
+        if not occ.msgid.strip():
             continue
         locs_by_msgid[occ.msgid].add((occ.path, int(occ.line)))
 
@@ -250,7 +267,7 @@ def build_pot(
 
 if __name__ == '__main__':
     input_file = ROOT / 'km.json'
-    output_file = ROOT / 'messages.pot'
+    output_file = ROOT.parent / 'messages.pot'
     data = json.loads(input_file.read_text(encoding='utf-8'))
     km = km_flat.KnowledgeModel.model_validate(data)
     messages = MessageExtractor(km).extract_messages()
