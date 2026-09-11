@@ -1,3 +1,4 @@
 env/
 venv/
 km.json
+__pycache__/
