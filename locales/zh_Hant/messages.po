@@ -10,20 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr ""
-"Project-Id-Version: Common DSW Knowledge Model 2.7.0\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-12 06:21+0000\n"
-"PO-Revision-Date: 2026-09-10 11:50+0000\n"
-"Last-Translator: Chun-Shih Chang <austin20463@gmail.com>\n"
-"Language-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\n"
-"Language: zh_Hant\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
-"Generated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-12 15:57+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -873,8 +860,9 @@ msgid "What specific hard/software do you need, and why?"
 msgstr "您具體需要哪些硬體／軟體？原因為何？"
 
 #: question/87964502-4401-45e5-9084-d6c84a417acf/title
+#, fuzzy
 msgid "Describe national / funder / sectorial / departmental policies and procedures for data management that you will be using"
-msgstr ""
+msgstr "請說明您將採用國家層級的 / 資助單位的 / 領域別的 / 或部門層級的資料管理相關政策與程序。"
 
 #: question/34058487-d9e7-41af-be6a-aba67200b8d2/title
 msgid "Name of the policy or process"
@@ -951,20 +939,24 @@ msgstr ""
 "* [CERN 開放資料平台](https://opendata.cern.ch/)"
 
 #: question/f2bcb8d2-6a73-43a4-a2d3-16f50e4577a5/title
+#, fuzzy
 msgid "Will you need existing data from Engineering and Technology?"
-msgstr ""
+msgstr "您是否需要工程與技術領域的既有資料"
 
 #: question/2130427b-2e5e-4282-b703-ee00f1f735c9/title
+#, fuzzy
 msgid "Will you need existing data from Medical and Health Sciences?"
-msgstr ""
+msgstr "您是否需要醫學與健康科學領域的既有資料"
 
 #: answer/929cbf88-d270-493f-b821-2b62247ba159/advice
+#, fuzzy
 msgid "There are pointers to resources in life sciences at [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)."
-msgstr ""
+msgstr "生命科學相關資源可參考：\n* [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)\n*"
 
 #: question/a781badf-f7ee-4588-9478-d31470f00c38/title
+#, fuzzy
 msgid "Will you need existing data for toxicology research?"
-msgstr ""
+msgstr "您是否需要毒理學研究的既有資料"
 
 #: answer/f971efd1-b0a5-4bc5-829d-148ef9362d37/advice
 msgid "Information about resources for human assays is available on the [RDMkit Toxicology page – human assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies), for animal assays on the [RDMkit Toxicology page – animal assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies), and for ecotoxicology on the [RDMkit Toxicology page – ecotoxicology](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)."
@@ -975,16 +967,19 @@ msgid "RDMkit on Toxicology"
 msgstr "RDMkit 中的毒理學"
 
 #: question/17464e0f-f477-4a45-a556-687a97b0e826/title
+#, fuzzy
 msgid "Will you need existing data from Agricultural Sciences?"
-msgstr ""
+msgstr "您是否需要農業科學領域的既有資料"
 
 #: question/b19eab58-3b7f-4b66-b6f2-7e9c2c3c3e27/title
+#, fuzzy
 msgid "Will you need existing data from Social Sciences?"
-msgstr ""
+msgstr "您是否需要社會科學領域的既有資料"
 
 #: question/849cb43b-8622-4da0-9ef3-ae845dfe58f1/title
+#, fuzzy
 msgid "Will you need existing data from Humanities?"
-msgstr ""
+msgstr "您是否需要人文學科領域的既有資料"
 
 #: question/efc80cc8-8318-4f8c-acb7-dc1c60e491c1/title
 msgid "Is there any pre-existing data?"
@@ -1256,8 +1251,9 @@ msgid "Will the rightsholder of this dataset work with you on this study?"
 msgstr "此資料集的權利人是否會與您共同進行這項研究？"
 
 #: question/f59d2d89-fe27-4a8a-b3e6-2782bcc2fb97/title
+#, fuzzy
 msgid "Do you need to request access to the data?"
-msgstr ""
+msgstr "您是否需要申請資料取用權限"
 
 #: answer/08b6593f-60a2-498a-9c20-eeb55568f8c1/label
 msgid "We are rightsholders"
@@ -1441,16 +1437,18 @@ msgid "What will you use this non-reference data set for?"
 msgstr "您將把這個非參考資料集用於什麼目的？"
 
 #: question/8cedcf93-7676-4397-b3fc-a81167ff1853/title
+#, fuzzy
 msgid "Do you need to harmonise different sources of existing data?"
-msgstr ""
+msgstr "您是否需要調和不同來源的既有資料？"
 
 #: question/8cedcf93-7676-4397-b3fc-a81167ff1853/text
 msgid "If you are combining data from different sources, harmonization may be required. You may need to re-analyse some original data."
 msgstr "如果您正在整合來自不同來源的資料，可能需要進行資料調和。您也可能需要重新分析部分原始資料。"
 
 #: question/1d1ac8bb-66c8-4b9e-bfc9-4c26f3598062/title
+#, fuzzy
 msgid "Will you be making your harmonisation results available to others?"
-msgstr ""
+msgstr "您是否會將資料調和的結果提供給他人？"
 
 #: question/1d1ac8bb-66c8-4b9e-bfc9-4c26f3598062/text
 msgid "By publishing either exactly what you did or (better) make sure that the harmonized data is available for reuse, you may save others the effort."
@@ -1572,8 +1570,9 @@ msgid "Samples will receive a universally unique persistent identifier (PID)"
 msgstr "樣本將會取得一組全域唯一的持續識別碼 (PID)"
 
 #: question/d488b314-2b5c-4e79-be1e-c5742205d2a5/title
+#, fuzzy
 msgid "Where will the physical samples be stored?"
-msgstr ""
+msgstr "實體樣本將存放在哪裡"
 
 #: question/9e238002-da35-4f9b-a9b7-8fe3613a3c03/title
 msgid "Will you make explicit cross-reference between physical samples and your digital data?"
@@ -1715,8 +1714,9 @@ msgid "Adding more than the strict minimum metadata about your experiment will p
 msgstr "為您的實驗新增超過最低需求的後設資料，有機會讓您的資料被更廣泛地再次使用，並可能提高資料引用率。要預想他人未來可能以哪些方式再次使用您的資料並不容易，因此提供較完整的後設資料尤為重要。"
 
 #: answer/b2ca0d26-7fdd-44f1-b064-bc4cd4c45661/label
+#, fuzzy
 msgid "I will only add the metadata that is \"required\" in the standard"
-msgstr ""
+msgstr "我僅會新增標準中「必要」的後設資料。"
 
 #: answer/b2ca0d26-7fdd-44f1-b064-bc4cd4c45661/advice
 msgid ""
@@ -1751,20 +1751,23 @@ msgid "Do you need to exchange your data with others?"
 msgstr "您的資料是否需要與他人交換？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/title
+#, fuzzy
 msgid "Will a licence be assigned to your datasets?"
-msgstr ""
+msgstr "您的資料集是否會指定授權條款？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/text
+#, fuzzy
 msgid "It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. It is helpful to associate each data set with a licence as early as possible in the project. A data licence should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable licence."
-msgstr ""
+msgstr "計畫成員和計畫外部人士不一定都清楚資料集可以如何使用，以及哪些用途不被允許。因此，最好在計畫初期就為每個資料集指定授權條款。理想情況下，資料授權條款應盡可能寬鬆；例如「僅限非商業使用」或「必須標明出處」等限制，都可能降低資料再次使用的可能性，進而減少引用次數。若可行，請採用機器可讀且可由機器處理的授權條款。"
 
 #: answer/0b0e1e89-3b7b-4d9e-95f6-d96397b28c3b/advice
 msgid "Please consider adding licenses to all datasets you are collecting as soon as possible."
 msgstr "請考慮盡快為您正在蒐集的所有資料集指定授權條款。"
 
 #: question/0551adc9-7faa-4ddc-a07b-08fbde2a247b/title
+#, fuzzy
 msgid "Will you store the licences with the data at all time?"
-msgstr ""
+msgstr "您是否會始終將授權條款與資料一併保存？"
 
 #: question/0551adc9-7faa-4ddc-a07b-08fbde2a247b/text
 msgid "It is very likely that data will be moved and copied. At some point people may lose track of the origins. It can be helpful to have the licenses (of course *as open as possible*) stored in close association with the data."
@@ -1937,8 +1940,9 @@ msgid "FAIRCookbook on Selecting an ontology lookup service"
 msgstr "FAIRCookbook 的知識本體 (ontology) 查詢服務選擇指南"
 
 #: question/8e886b55-3287-48e7-b353-daf6ab40f7d8/title
+#, fuzzy
 msgid "How will you do file naming and file organisation?"
-msgstr ""
+msgstr "你將如何進行檔案命名與檔案整理？"
 
 #: question/8e886b55-3287-48e7-b353-daf6ab40f7d8/text
 msgid "Putting some thoughts into file naming can save a lot of trouble later. "
@@ -2051,12 +2055,14 @@ msgid "Why are you using a non-standard format?"
 msgstr "您為什麼使用非標準格式？"
 
 #: answer/2da70314-879e-46f5-a1da-2794d71a12d3/label
+#, fuzzy
 msgid "There is no standardised format for this data type"
-msgstr ""
+msgstr "此資料類型沒有標準化格式"
 
 #: answer/6c26d57b-468c-42ba-a01c-05d1334d0a6e/label
+#, fuzzy
 msgid "It is optimised for processing speed and/or volume"
-msgstr ""
+msgstr "此格式已針對處理速度或資料量最佳化"
 
 #: answer/ab19f42e-6204-409e-aa6d-6d87783cce44/label
 msgid "Another reason"
@@ -2208,8 +2214,9 @@ msgid "How will you design your new data format?"
 msgstr "您將如何設計新資料格式？"
 
 #: answer/bda912f3-14a7-4242-b293-025f1b19892d/label
+#, fuzzy
 msgid "There is a closely related more generic and open format that I can specialise"
-msgstr ""
+msgstr "有一種密切相關、較通用且開放的格式，我可以以此為基礎延伸成專用格式"
 
 #: answer/b4334e27-3e6c-4215-b4cb-f60eabd9c61e/label
 msgid "I will use a Linked Data format"
@@ -2263,8 +2270,9 @@ msgid "Experts in the project, with our own equipment"
 msgstr "計畫內的專家，並使用自有設備"
 
 #: answer/eb0b9a82-0379-47c3-967f-b35b40129af2/label
+#, fuzzy
 msgid "Experts in the project, at a specialised infrastructure"
-msgstr ""
+msgstr "計畫中的專家，在專門的基礎設施"
 
 #: answer/f2784b7e-b0ed-4973-9d68-954c5c24e8bb/label
 msgid "External party"
@@ -2450,8 +2458,9 @@ msgid "Are you running repeat samples or are you repeating measurements in order
 msgstr "您是否會重複蒐集樣本或進行重複測量，以監測結果的一致性？"
 
 #: question/ecdc6c3f-249a-4d82-822c-649754201981/title
+#, fuzzy
 msgid "Are you running standardised data capture or recording?"
-msgstr ""
+msgstr "您是否正在執行標準化的資料獲取或記錄？"
 
 #: question/01b70401-021b-4fe7-9073-570ecb3b320c/title
 msgid "Are you doing Data Entry validation?"
@@ -2776,16 +2785,19 @@ msgid "We collect consent for our use as well as for reuse of the data"
 msgstr "我們會為資料使用與再次使用取得同意"
 
 #: answer/3a77595a-87ae-484d-a9a6-052f312453ee/label
+#, fuzzy
 msgid "We will collect consent for our use of the data and for anonymisation; We will anonymise the data afterwards for reuse"
-msgstr ""
+msgstr "我們會為資料使用與匿名化取得同意；之後會將資料匿名化以供再次使用"
 
 #: answer/e7e4f219-5edd-468f-b042-b5f88a559c3a/label
+#, fuzzy
 msgid "We ask for consent for anonymisation; We will anonymise first and all further processing is on the anonymous data"
-msgstr ""
+msgstr "我們會為匿名化取得同意；我們會先將資料匿名化，後續所有處理都會針對匿名資料進行"
 
 #: question/61d21b4f-332b-4257-a345-bbf51b10d357/title
+#, fuzzy
 msgid "Explain how data subjects will be informed"
-msgstr ""
+msgstr "請說明您會如何向資料主體提供相關資訊。"
 
 #: question/61d21b4f-332b-4257-a345-bbf51b10d357/text
 msgid ""
@@ -2838,24 +2850,29 @@ msgid "For projects involving data collection from subjects, it must be ensured 
 msgstr "凡涉及向受試者蒐集資料的計畫，皆需確保受試者得以完整行使其相關權利。"
 
 #: choice/e63d7501-86b4-40b7-9b2a-43e7c1745ae1/label
+#, fuzzy
 msgid "They can access the data during the project"
-msgstr ""
+msgstr "他們可以在計畫期間查閱其資料。"
 
 #: choice/216661ca-3b33-4541-bfb7-d7578466e137/label
+#, fuzzy
 msgid "They can access the data after the project's completion"
-msgstr ""
+msgstr "他們可以在計畫完成後查閱其資料。"
 
 #: choice/f7a1854f-511e-44c8-b1e5-422d26024433/label
+#, fuzzy
 msgid "They can ask for the data to be modified after the project's completion (which may include the deletion of the data)"
-msgstr ""
+msgstr "他們可以在計畫完成後要求修改資料（這可能包括刪除資料）。"
 
 #: choice/dd1b03f1-2b1c-41f5-9e15-4eb14d46afcf/label
+#, fuzzy
 msgid "They can ask for data access to be modified during the project"
-msgstr ""
+msgstr "他們可以在計畫期間要求調整資料取用權限。"
 
 #: choice/31b7d794-e805-4364-9be8-e33b132f1c0c/label
+#, fuzzy
 msgid "They can ask for data access to be modified after the project's completion"
-msgstr ""
+msgstr "他們可以在計畫完成後要求調整資料取用權限。"
 
 #: reference/f093edb7-f08c-4742-8b0e-8abe0bf6c34f/label
 msgid "GDPR Chapter 3: Rights of the data subject"
@@ -2920,8 +2937,9 @@ msgid "Organisation"
 msgstr ""
 
 #: question/b9619bee-6d69-4111-b1e0-6c3ea50e01f8/text
+#, fuzzy
 msgid "You will be presented with suggestions from [ROR](https://ror.org/), but you also have the option to manually enter the organisation that is not listed there."
-msgstr ""
+msgstr "系統會顯示來自 [ROR](https://ror.org/) 的建議項目；若組織未列於其中，您也可以手動輸入。"
 
 #: question/312ad81e-a274-4523-a6b2-2299e56422b7/title
 msgid "Is there more than one controller of the personal data processed in the project?"
@@ -2998,10 +3016,11 @@ msgid "What are the exemptions to the prohibition for processing of special cate
 msgstr ""
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/text
+#, fuzzy
 msgid ""
 "Processing of certain categories of personal data is not allowed unless there are exemptions in law to allow this. Among these categories (“sensitive data”) are *“‘[...] data revealing racial or ethnic origin, [...] genetic data, [...] data concerning health’”*. Most types of personal data collected in biomedical research will fall under these categories. [Article 9](https://gdpr-info.eu/art-9-gdpr/) (2) lists a number of exemptions that apply, of which *consent* and *scientific research* are most likely to be relevant for research. Please consult with your Data Protection Officer of your organisation.\n"
 "State cohort/dataset for each type of exemption."
-msgstr ""
+msgstr "除非法律設有例外規定，否則不得處理某些類別的個人資料。這些類別又稱為「敏感資料」，包括可揭露種族或族裔出身的資料、基因資料、健康相關資料等。生物醫學研究所蒐集的個人資料，多半會落入這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/) 第 2 項列出多項可適用的例外規定；其中，與研究最可能相關的是「同意」與「科學研究」。請諮詢您組織的資料保護官。"
 
 #: question/2418a1b7-6950-4a19-8e58-6c5089c71b53/title
 msgid "Select exemption"
@@ -3084,8 +3103,9 @@ msgid "Please reconsider"
 msgstr "請重新考量"
 
 #: question/8cc50031-87d5-4b0e-8c3c-c7ded35fd263/title
+#, fuzzy
 msgid "List DPIAs done and for which parts of the data"
-msgstr ""
+msgstr "請列出已完成的 DPIA，以及各項 DPIA 涵蓋資料的哪些部分。"
 
 #: question/fa72bb87-0403-4953-9536-4ac836843763/title
 msgid "Dataset"
@@ -3104,40 +3124,49 @@ msgid "Below listed are 9 criteria - provided by the EC - that might indicate th
 msgstr "以下列出由歐盟執委會提供的 9 項準則，這些準則可能顯示您的計畫構成**高風險處理**。請勾選適用於您計畫的指標。各項指標的詳細說明，請參閱連結中的 EC 指南。"
 
 #: choice/7dd41e34-b8fb-4d4a-9dde-eb0954d9718f/label
+#, fuzzy
 msgid "Data concerning vulnerable data subjects including minors, employees, elderly, mentally incapacitated, patients receiving care"
-msgstr ""
+msgstr "這筆資料涉及弱勢的資料對象，如未成年人、受僱者、高齡者、心智能力受限者，以及正在接受照護的病患。"
 
 #: choice/1b4fef4e-73ba-4f59-8234-92879a6f09d9/label
+#, fuzzy
 msgid "Sensitive data or data of a highly personal nature: which includes racial or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; genetic data; data concerning health; biometric data; sexual orientation"
-msgstr ""
+msgstr "敏感資料或高度涉及個人隱私性質的資料：包括種族或族裔出身、政治觀點、宗教或哲學信仰、工會會員身分、基因資料、健康相關資料、生物特徵資料，以及性傾向。"
 
 #: choice/63285783-9635-4c55-a781-33f81eff6e9d/label
+#, fuzzy
 msgid "Data processed on a large scale: data of proportion of the relevant population, long term processing, wide geographical scale, large volume or range of data"
-msgstr ""
+msgstr "大規模資料處理：涉及相關族群中有一定比例的資料、長期的資料處理、跨地理範圍，以及資料量大或資料類型範圍很廣。"
 
 #: choice/cee31df6-624a-4569-ae32-fad3d74dc169/label
+#, fuzzy
 msgid "Automated-decision making with legal or similar significant effect on data subjects"
-msgstr ""
+msgstr "對資料主體具有法律效果或類似重大影響的自動化決策。"
 
 #: choice/5c331845-fc91-40a0-b8b0-4d55a0664b7b/label
+#, fuzzy
 msgid "Evaluation or scoring on aspects concerning the data subject's performance at work, economic situation, health, personal preferences or interests, reliability or behavior, location or movements"
-msgstr ""
+msgstr "針對資料主體之工作表現、經濟狀況、健康情形、個人偏好或興趣、可靠性或行為、地理位置或行蹤等面向進行評估或評分。"
 
 #: choice/41d2caa6-14b5-4536-86d6-63f54999e604/label
+#, fuzzy
 msgid "Systematic monitoring, processing used to observe, monitor or control data subjects, including data collected through networks"
-msgstr ""
+msgstr "系統性監控：用於觀察、監測或控制資料主體的處理作業，包括透過網路蒐集的資料。"
 
 #: choice/fcf05e2f-b25b-45a3-a2fe-460618e3ee7f/label
+#, fuzzy
 msgid "Matching or combining datasets, for example originating from two or more data processing operations performed for different purposes"
-msgstr ""
+msgstr "比對或合併資料集，例如來自兩個或多個為不同目的執行的資料處理作業。"
 
 #: choice/f2919725-27cf-4c43-a04b-69a47eb1f852/label
+#, fuzzy
 msgid "Innovative use or applying new technological or organisational solutions, like combining the use of fingerprint and face recognition for physical access control"
-msgstr ""
+msgstr "創新使用或採用新的技術或組織解決方案，例如結合指紋與臉部辨識進行實體門禁控制。"
 
 #: choice/9e3d02c8-3a93-4e95-b724-36ed315efb69/label
+#, fuzzy
 msgid "Processing that prevents data subjects from exercising a right or using a service or a contract"
-msgstr ""
+msgstr "該計畫涉及可能妨礙資料主體行使權利，或使用某項服務或契約的資料處理行為。"
 
 #: reference/8fe4a165-09a6-4e5d-835d-3255db21d0de/label
 msgid "EC Guidelines on DPIAs"
@@ -3779,8 +3808,9 @@ msgid "This is left to the project participants"
 msgstr "這由計畫參與者自行處理"
 
 #: answer/a1ead63a-1bc8-42e6-8bdc-3e1e8a901307/label
+#, fuzzy
 msgid "There is no data elsewhere"
-msgstr ""
+msgstr "其他地方沒有資料"
 
 #: answer/278810f9-6396-4203-9fa6-6cd3a003159c/label
 msgid "All data elsewhere is adequately backed up"
@@ -3799,8 +3829,9 @@ msgid "Only all project members have read/write access to the data"
 msgstr "只有計畫成員可以讀取及寫入資料"
 
 #: answer/154cd5fc-a79f-4c2e-be67-6985813bbc8d/label
+#, fuzzy
 msgid "Anyone in the institute has read access to the data; all project members have read/write access"
-msgstr ""
+msgstr "機構內的任何人都可以讀取資料；所有專案成員皆有讀與寫的權限。"
 
 #: answer/b21c9f70-78e7-4975-b776-59e372285662/label
 msgid "Only project members will have read access; only selected project members will be able to write data"
@@ -3868,8 +3899,9 @@ msgid "Output data"
 msgstr "輸出資料"
 
 #: answer/eaedc13a-242b-417d-b084-5ef152c352ab/label
+#, fuzzy
 msgid "There is no significant difference"
-msgstr ""
+msgstr "沒有顯著差異。"
 
 #: question/a12aa967-28a5-4a9b-8df8-f7c533205ea4/title
 msgid "Are you using a filesystem with files and folders?"
@@ -4204,12 +4236,14 @@ msgid "This will be one of the prime distinctive outcomes of our project"
 msgstr "這會是我們計畫主要的特色成果之一"
 
 #: question/3b0f752e-e46b-4c8b-835f-14c426036ece/title
+#, fuzzy
 msgid "What licence will you use for your tool?"
-msgstr ""
+msgstr "您會為這個工具使用哪一種授權條款？"
 
 #: question/3b0f752e-e46b-4c8b-835f-14c426036ece/text
+#, fuzzy
 msgid "Make sure the licence is compatible with all components you use, and also make sure the licence is made explicit in the repository."
-msgstr ""
+msgstr "請確保該授權條款與您所使用的所有元件皆相容，並且也要確保該授權條款已在儲存庫中明確標示。"
 
 #: answer/8d3c3ffa-f194-4930-8cc5-ffa1f8f77fd7/label
 msgid "Apache 2.0"
@@ -4228,8 +4262,9 @@ msgid "LGPL 3.0 or later"
 msgstr "LGPL 3.0 或更新版本"
 
 #: answer/584339ee-b313-44ef-8aba-c0f252eb2ade/label
+#, fuzzy
 msgid "We are using a different licence"
-msgstr ""
+msgstr "我們會使用其他授權條款"
 
 #: question/6b5d7d2e-c117-4e61-a597-5207bc7fc057/title
 msgid "What other licence?"
@@ -4240,8 +4275,9 @@ msgid "Preferably give a web pointer to the license."
 msgstr "最好提供指向該授權條款的網頁連結。"
 
 #: question/c83097bb-e057-4cde-848d-a2e57d6ee3c9/title
+#, fuzzy
 msgid "Is this a recognised reusable open source licence?"
-msgstr ""
+msgstr "這是否是一種公認且可再次使用的開源授權？"
 
 #: question/a1c37c05-57ff-499c-b58c-e90f511241fa/title
 msgid "Did you choose the workflow engine you will be using?"
@@ -4408,8 +4444,9 @@ msgid "Do you need to be able to export/import workflows (e.g. in the Common Wor
 msgstr "您是否需要能夠匯出或匯入工作流程，例如以通用工作流程語言 (CWL) 格式？"
 
 #: question/75af1eb3-1e0e-4be8-b0b6-cdb0883c791b/title
+#, fuzzy
 msgid "Do you want your workflow engine to be professionally hosted by a specialised party?"
-msgstr ""
+msgstr "您是否希望由專業第三方代管您的工作流程引擎？"
 
 #: question/bdce5cee-2930-4b30-b3d5-d503ab0b5d1a/title
 msgid "Can you make a decision for the workflow engine based on the criteria deemed important?"
@@ -4496,8 +4533,9 @@ msgid "Consider changing this!"
 msgstr "考慮修改這部分！"
 
 #: question/4b4d5878-970b-41aa-bbf5-15072e704417/title
+#, fuzzy
 msgid "Will you only use well-scrutinised open source tools?"
-msgstr ""
+msgstr "您是否只會使用經過充分審查的開源工具？"
 
 #: question/5ea8a4fd-4bed-48a9-aacf-71e2d4953eb4/title
 msgid "Will you have all changes checked by a second developer before deploying them?"
@@ -4856,8 +4894,9 @@ msgid "Do project members send project data or reports per e-mail or other messa
 msgstr "計畫成員是否會透過電子郵件或其他即時通訊服務傳送計畫資料或報告？"
 
 #: question/a454fffd-f4a4-426d-b758-6d70bc4ee96b/title
+#, fuzzy
 msgid "Do all data centres where project data is stored carry sufficient certifications?"
-msgstr ""
+msgstr "所有存放計畫資料的資料中心，是否皆取得符合需求的相關認證？"
 
 #: question/39d8dad9-7666-405c-b35c-9e430c9691ed/title
 msgid "Are all project web services addressed via secure http (https://)?"
@@ -4872,8 +4911,9 @@ msgid "Project members may need to know about passwords (not sharing accounts, u
 msgstr "計畫成員可能需要了解密碼相關事項（例如不共用帳號、每項服務使用不同密碼，以及雙因素身分驗證）、隨身攜帶資料的安全性（加密、備份）、儲存在自己實驗室與個人雲端帳號中的資料，以及開放式 Wi-Fi 與 HTTPS 的使用。"
 
 #: question/67c34ee1-2e71-423c-97a7-fe6aa3723465/title
+#, fuzzy
 msgid "Did you consider the possible impact to the project or organisation if information is lost?"
-msgstr ""
+msgstr "您是否考量了資訊遺失可能對計畫或組織造成的影響？"
 
 #: answer/a8a4dc7d-bf8c-44e3-b8b2-3e04f206f460/label
 #: answer/7c9c8543-b8f8-47b0-8279-757dbc14922f/label
@@ -4894,16 +4934,18 @@ msgid "Yes; the impact is significant and requires action"
 msgstr ""
 
 #: question/a20ddc5d-e883-4bc4-9948-36a2cb477d10/title
+#, fuzzy
 msgid "Did you consider the possible impact to the project or organisation if information leaks?"
-msgstr ""
+msgstr "您是否已考量若資訊外洩可能對計畫或組織造成的影響？"
 
 #: question/a20ddc5d-e883-4bc4-9948-36a2cb477d10/text
 msgid "Your institute may have a generic risk assessment; you should be informed about this."
 msgstr "您的機構可能已有通用的風險評估機制；您應了解相關內容。"
 
 #: question/8cd49d8f-9af0-4ea9-985a-5d45142ac388/title
+#, fuzzy
 msgid "Did you consider the possible impact to the project or organisation if information is vandalised?"
-msgstr ""
+msgstr "您是否已考量若資訊遭到破壞，可能對計畫或組織造成的影響？"
 
 #: question/d5990471-0618-42cd-92cb-bbbfd4f61532/title
 msgid "Are personal data sufficiently protected?"
@@ -4914,28 +4956,34 @@ msgid "We are not using any personal information"
 msgstr "我們不使用任何個人資料"
 
 #: answer/75b86c10-4aeb-4f1a-89cd-8b380a2287b1/label
+#, fuzzy
 msgid "Yes, all personal information will be processed in pseudonymised form only"
-msgstr ""
+msgstr "是，所有個人資料都只會以擬匿名化形式處理"
 
 #: question/59748a7b-f729-404d-babe-3147e2c6b247/title
+#, fuzzy
 msgid "How is pseudonymisation handled?"
-msgstr ""
+msgstr "資料的擬匿名化處理方式為何？"
 
 #: answer/72c0a64f-a3ec-4d9e-bf37-ee0b25c2a084/label
+#, fuzzy
 msgid "We pseudonymise inside the project, only limited people can access the keys"
-msgstr ""
+msgstr "我們會在計畫內進行擬匿名化，且只有少數人可以取用金鑰"
 
 #: answer/1653a04e-20e2-4929-9fd5-8c35402ac359/label
+#, fuzzy
 msgid "Pseudonymisation is handled by an independent party in order to allow data coupling"
-msgstr ""
+msgstr "由獨立第三方處理擬匿名化，以便進行資料串接"
 
 #: question/5d51a103-ec07-4c20-b269-f2f59f26d2cd/title
+#, fuzzy
 msgid "Who is the independent party that keeps the pseudonymisation keys?"
-msgstr ""
+msgstr "負責保存擬匿名化金鑰的獨立第三方是誰？"
 
 #: answer/c5bdfb9d-33a7-4d0b-82cf-cde1911ad5bc/label
+#, fuzzy
 msgid "We have another way of pseudonymisation"
-msgstr ""
+msgstr "我們有其他擬匿名化方式"
 
 #: question/eb876df3-5fb5-4885-9ab6-7dbfa6ba7427/title
 msgid "What way are you pseudonymizing data?"
@@ -4959,8 +5007,9 @@ msgid "Note that it is very hard to make data anonymous, and GDPR requires that 
 msgstr "請注意，要將資料真正匿名化非常困難；GDPR 也要求您定期確認資料仍維持匿名狀態。"
 
 #: answer/44348fa8-fd12-49ea-ad7f-48ff88215829/label
+#, fuzzy
 msgid "Yes, all data will be anonymised as early as possible"
-msgstr ""
+msgstr "是，所有資料都會盡早匿名化"
 
 #: answer/44348fa8-fd12-49ea-ad7f-48ff88215829/advice
 msgid ""
@@ -5103,8 +5152,9 @@ msgid "Does each row have an identifier?"
 msgstr "每一列資料是否都有識別碼？"
 
 #: question/f90914d8-2731-4cd1-bbf8-2710a5e08c43/title
+#, fuzzy
 msgid "Is there a distinguishing way a missing value in the table can be recognised?"
-msgstr ""
+msgstr "是否有明確方式可辨識表格中的遺漏值？"
 
 #: question/f90914d8-2731-4cd1-bbf8-2710a5e08c43/text
 msgid "Sometimes, and empty field or a zero is indicating a missing value. But is that really unique? Could there be valid empty or zero fields? Has the convention for missing values been made explicit somewhere?"
@@ -5281,8 +5331,9 @@ msgid "FAIRCookbook on selecting an ontology lookup service"
 msgstr "FAIRCookbook 的知識本體 (ontology) 查詢服務選擇指南"
 
 #: question/d0306914-c253-472c-869f-19a60578c087/title
+#, fuzzy
 msgid "Will there be potential issues with statistical normalisation?"
-msgstr ""
+msgstr "是否可能出現統計正規化方面的問題？"
 
 #: question/dbb6dcdf-dd2e-4829-8c03-16b2339ebd5a/title
 msgid "Will you be integrating different data sources to get more samples or more data points?"
@@ -5309,8 +5360,9 @@ msgid "Some parameters you select on may have been collected only for a subset o
 msgstr "您用來作為篩選條件的某些參數，可能只在受試者或資料點的某個子集中被蒐集到。明顯的例子是：如果您以中等教育類型作為配對條件，結果就會偏向 18 歲以上的人，因為年紀較小者並沒有這個欄位。在許多情況下，這種選擇偏差可能沒有那麼明顯；已有一些專門的方法，可用來驗證資料整合步驟是否降低了樣本的多樣性。"
 
 #: question/6b3d62a5-1d4d-49e1-aaf1-0a8b398a7ac3/title
+#, fuzzy
 msgid "Could the coupling of data create a danger of re-identification of pseudo- or anonymised personal data?"
-msgstr ""
+msgstr "資料關聯（Data Coupling）是否會導致假名化或匿名化的個人資料產生被重新識別的危害？"
 
 #: answer/aad55658-91c1-4fb8-8869-c0dc1b02b96d/advice
 msgid "Plan either preventative or corrective measures"
@@ -5523,13 +5575,14 @@ msgid "What repository will this data be stored in?"
 msgstr "這份資料會儲存在哪一個資料儲存庫？"
 
 #: question/80a682bd-8a5c-4a52-935d-680509838a4e/text
+#, fuzzy
 msgid ""
 "Domain repositories often have the best functionality to make the data findable and reusable: even though it may look like a database that could be reused in a completely different field would be better findable in a generic repository, the limited availability of domain-specific metadata make that less valuable.\n"
 "\n"
 "Many repositories are listed in [FAIRsharing](https://fairsharing.org/)\n"
 "\n"
 "If a repository offers to give your data set a DOI or alternative persistent identifier it is a good idea to use that option."
-msgstr ""
+msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 https://fairsharing.org/\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
 
 #: answer/1dc412c6-da92-4cc2-8639-316c0c6ec5ff/label
 msgid "A domain-specific repository"
@@ -5652,8 +5705,9 @@ msgid "Who will the data in this place be shared with?"
 msgstr "此處的資料會與誰共享？"
 
 #: answer/1fd3e838-f92a-4086-8308-de17f6fa9d73/label
+#, fuzzy
 msgid "Open: The data will be shared with anyone, as long as they obey conditions of the licence"
-msgstr ""
+msgstr "開放：資料將與任何人共享，只要其遵守授權條款的條件即可"
 
 #: answer/985366e7-7504-4f67-a8ee-90c340ff977a/label
 msgid "Shared: The data will be shared with a predefined list of people, e.g. coworkers"
@@ -5668,16 +5722,18 @@ msgid "Note that there are questions later specific to archival."
 msgstr "請注意，後面還有一些專門針對典藏的問題。"
 
 #: question/3d89e23d-ff5c-45da-97a8-169ad8c39be6/title
+#, fuzzy
 msgid "Licences under which this distribution of the data set will be available"
-msgstr ""
+msgstr "此資料集的本次發布版本所適用的授權條款"
 
 #: question/3d89e23d-ff5c-45da-97a8-169ad8c39be6/text
 msgid "Please add each license that this data set will be available as. For each license you will be able to specify when it starts being applicable, so that you can e.g. specify that the data is restricted for a few months and open afterwards."
 msgstr "請加入此資料集可適用的每一種授權條款。您可以為每一種授權條款指定開始適用的時間，例如指定資料先限制取用數個月，之後再開放。"
 
 #: question/ca0f9465-3116-4824-8651-b592151c5368/title
+#, fuzzy
 msgid "Under what licence will the data set be made available?"
-msgstr ""
+msgstr "此資料集會依哪一種授權條款提供？"
 
 #: answer/d27a6e0f-55ea-4b25-bfb9-dcb4d6346fe0/label
 msgid "They will be freely available for any use (public domain or CC0)"
@@ -5808,8 +5864,9 @@ msgid "No, the data will be stored in a repository that is the prime source of d
 msgstr "否，資料會儲存在該領域供資料再次使用的主要資料儲存庫中"
 
 #: reference/b128903f-a545-4323-b127-f4a0ff998608/label
+#, fuzzy
 msgid "What is a data catalogue (Dataversity)"
-msgstr ""
+msgstr "Dataversity：什麼是資料目錄"
 
 #: question/f99b1723-c8e4-44b9-af22-f66955eda1e2/title
 msgid "Will there be different versions of this data over time?"
@@ -5836,8 +5893,9 @@ msgid "Some data types may be closely coupled to specific software packages. If 
 msgstr "某些資料類型可能與特定軟體套件密切綁定。若此資料集屬於這種情況，請列出所需軟體，並說明可從何處取得。"
 
 #: question/14f7a766-c28e-400e-8426-53f7b4e5b90b/title
+#, fuzzy
 msgid "Why isn’t specialised software required?"
-msgstr ""
+msgstr "為什麼不需要特定軟體？"
 
 #: question/b8543a67-2a6b-4f45-a0b0-d245227f9818/title
 msgid "What software is needed to use the data?"
@@ -5892,8 +5950,9 @@ msgid "A qualified reference is a cross-reference that explains its intent. For 
 msgstr "「具明確關係說明的參照」是指能說明其意圖的交叉參照。舉例來說，「X 是 Y 的調節因子」比「X 與 Y 相關」或「X 另見 Y」更能清楚說明參照的意義。因此，目標是在（後設）資料資源之間盡可能建立有意義的連結，以豐富資料的脈絡知識。"
 
 #: question/7828d3a0-29bf-450e-aee9-473457a225fd/title
+#, fuzzy
 msgid "Which qualified references to other data sets will be included?"
-msgstr ""
+msgstr "會包含哪些指向其他資料集、且具明確關係說明的參照"
 
 #: question/7828d3a0-29bf-450e-aee9-473457a225fd/text
 msgid "Please list any references to other data sets, e.g. from your project or from earlier research. "
@@ -6308,16 +6367,18 @@ msgid "Specify an amount including the relevant"
 msgstr "請指定金額，並包含相關項目"
 
 #: question/92a10652-3675-48f2-8d50-180a29cec62e/title
+#, fuzzy
 msgid "Will you be making sure that blocks of data deposited in different repositories can be recognised as belonging to the same study?"
-msgstr ""
+msgstr "您是否會確保寄存於不同資料儲存庫的資料區塊，可被辨識為屬於同一項研究？"
 
 #: answer/0e748d3d-fd83-470f-918a-0321b1fc9f11/label
 msgid "Yes, all data sets will have links to the related data"
 msgstr "是，所有資料集都會連結到相關資料"
 
 #: answer/18ca5e47-464d-40c5-881b-c15e54bd2bff/label
+#, fuzzy
 msgid "Yes, all data sets will be linked from a single catalogue entry"
-msgstr ""
+msgstr "是，所有資料集都會從單一目錄項目連結"
 
 #: answer/6445c352-5685-4e23-ac52-ebcabe353bd0/label
 msgid "Yes, we have made other arrangements"
@@ -6370,8 +6431,9 @@ msgid "Will you be updating the reference data at regular intervals?"
 msgstr "您是否會定期更新參考資料？"
 
 #: question/13af8c24-3e2d-452c-8e5e-e6ab972a43fd/title
+#, fuzzy
 msgid "Will the reference data be made available under a standard licence?"
-msgstr ""
+msgstr "此參考資料是否會依標準授權條款提供？"
 
 #: question/210d40f0-88c9-4982-80da-743ac9d93ee7/title
 msgid "What will the conditions for use be?"
@@ -6382,16 +6444,19 @@ msgid "Please either specify a link to the license that you have made for the da
 msgstr "請提供您為此資料制定的授權條款連結，或在此摘要說明使用條件。"
 
 #: question/28712f2b-1775-4c81-8d87-4bf0b95c2a64/title
+#, fuzzy
 msgid "Which standard licence will you apply?"
-msgstr ""
+msgstr "您會採用哪一種標準授權條款？"
 
 #: question/28712f2b-1775-4c81-8d87-4bf0b95c2a64/text
+#, fuzzy
 msgid "You will be presented with suggestions from [Wikidata](https://www.wikidata.org/), but you also have the option to manually enter the licence that is not listed there."
-msgstr ""
+msgstr "系統會提供來自 [Wikidata](https://www.wikidata.org/) 的建議，但您也可以手動輸入未列於其中的授權條款。"
 
 #: reference/6c277217-8bc7-4768-94e2-be019571c94b/label
+#, fuzzy
 msgid "FAIRCookbook on Data Licences"
-msgstr ""
+msgstr "FAIRCookbook 的資料授權條款頁面"
 
 #: reference/dea35444-c8b4-4282-be9c-72e8092d01ed/label
 msgid "FAIRCookbook on Licensing"
@@ -6444,8 +6509,9 @@ msgid "You will need to explain!"
 msgstr "您需要說明原因！"
 
 #: question/3f3e9c5a-c112-41a6-9084-62c1c266fed6/title
+#, fuzzy
 msgid "Will the data be accessible through a free and standardised access protocol?"
-msgstr ""
+msgstr "資料是否可透過免費且標準化的取用協定取得？"
 
 #: question/3fafdd1e-79b3-4c25-93f4-a031437d5fea/title
 msgid "What specific protocols will be used to provide access to the data?"
@@ -6484,24 +6550,28 @@ msgid "Yes, they must stay in the same institute"
 msgstr "是，資料必須留在同一機構內"
 
 #: question/a25b30f4-2d0f-4132-9b8e-0950f0b0ed66/title
+#, fuzzy
 msgid "Could pseudonymisation be used to make the data more openly available?"
-msgstr ""
+msgstr "是否可以透過假名化（pseudonymization）使資料更加公開可用？"
 
 #: question/a25b30f4-2d0f-4132-9b8e-0950f0b0ed66/text
 msgid "Legally, pseudonymous data (which means that someone has the key to reverse the process) is still considered privacy sensitive information. However, the EU is working on special cases where the data can still be opened as long as the key availability is sufficiently limited."
 msgstr "從法律上而言，擬匿名化資料（亦即仍有人持有可逆轉處理過程之金鑰的資料）仍被視為涉及隱私的敏感資訊。不過，歐盟目前正研議特殊情況：只要金鑰的可取得性受到充分限制，這類資料仍可公開提供。"
 
 #: question/5db6bd58-5d1d-4d02-9497-972cbef64c16/title
+#, fuzzy
 msgid "Can you make use of an existing 'trusted third party' for pseudonymisation?"
-msgstr ""
+msgstr "您是否能利用現有的「信任的第三方」進行擬匿名化 (pseudonymization)？"
 
 #: question/5db6bd58-5d1d-4d02-9497-972cbef64c16/text
+#, fuzzy
 msgid "Making use of the same pseudonymisation for different studies makes it possible to integrate information later. Obviously it also raises the risk of re-identification."
-msgstr ""
+msgstr "在不同研究中採用同一套擬匿名化機制，可讓日後整合資訊成為可能。不過，這顯然也會提高資料被重新識別的風險。"
 
 #: question/15ee1921-1fea-4f22-b462-b3cf7cdd4646/title
+#, fuzzy
 msgid "Could anonymisation be used to make the data more openly available?"
-msgstr ""
+msgstr "是否可以透過匿名化（Anonymization）使資料更加公開可用？"
 
 #: question/15ee1921-1fea-4f22-b462-b3cf7cdd4646/text
 msgid "Different anonymization techniques exist. Disadvantage of anonymization is that data integration becomes virtually impossible, but it may be the only way to open up your data for other research."
@@ -6581,12 +6651,14 @@ msgid "We will make other arrangements"
 msgstr "我們會另作安排"
 
 #: question/23909308-55cf-4e94-a616-2a74c809aa48/title
+#, fuzzy
 msgid "Who will take care of authorisation of potential users?"
-msgstr ""
+msgstr "誰會負責授權潛在使用者取用資料？"
 
 #: answer/ed47c9b7-9c2b-48ab-bdf4-efd8913f673e/label
+#, fuzzy
 msgid "One of the project members will authorise"
-msgstr ""
+msgstr "由其中一位計畫成員負責授權"
 
 #: answer/ed47c9b7-9c2b-48ab-bdf4-efd8913f673e/advice
 msgid "It is not a good idea to tie this to a person"
@@ -6724,8 +6796,9 @@ msgid "How do you decide which additional research outputs should be retained?"
 msgstr "您如何決定哪些額外的研究成果需要保留？"
 
 #: question/eb698404-004a-4cdf-a599-be01e0eb7fd2/text
+#, fuzzy
 msgid "This question refers to research outputs beyond datasets, such as code, documentation, lab protocols, questionnaires, reference data, software, or workflows. Please explain how you decide which of these outputs are important to keep, for example, because they are necessary for reproducibility, reuse by others, legal compliance, or future reference. You can also describe any criteria, policies, or team practices used to make these decisions."
-msgstr ""
+msgstr "這個問題指的是資料集以外的研究成果，例如程式碼、文件、實驗協定、問卷、參考資料、軟體或工作流程。請說明您如何判斷哪些成果重要且需要保留，例如因為它們對研究結果的可重現性、他人再次使用、法規遵循或未來參考而言不可或缺。您也可以描述用來做出這些決定的準則、政策或團隊慣例。"
 
 #: question/426bdcb5-d012-4f1d-b99e-36dc3efe6e50/title
 msgid "Are there any other outputs of your project that might be valuable to some other entities (researchers, researcher groups, institutes)?"
@@ -6736,8 +6809,9 @@ msgid "Consider outputs beyond datasets and publications, such as software, work
 msgstr ""
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/title
+#, fuzzy
 msgid "Are there any software packages you will be publishing?"
-msgstr ""
+msgstr "您是否將發布任何軟體套件？"
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/text
 msgid "Include software, scripts, pipelines, notebooks, APIs, plugins, or analysis tools developed or substantially modified within the project."
@@ -6756,8 +6830,9 @@ msgid "Provide a title or a name for the software you will be publishing."
 msgstr ""
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/title
+#, fuzzy
 msgid "Will you be adding an open-source licence?"
-msgstr ""
+msgstr "您是否會套用開源授權條款？"
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/text
 msgid "Specify whether the software will be distributed under a recognised open-source licence to clarify conditions for reuse, modification, and redistribution. Open Source licenses give a series of permissions (and guarantees) to users of your software. There are a number of different open source licences to choose from."
@@ -8795,8 +8870,9 @@ msgid ""
 msgstr ""
 
 #: resourcePage/ac0be15c-c015-45d5-81fa-41512ede0788/title
+#, fuzzy
 msgid "Is there pre-existing data?"
-msgstr ""
+msgstr "是否有任何既有資料？"
 
 #: resourcePage/ac0be15c-c015-45d5-81fa-41512ede0788/content
 msgid ""
@@ -9334,8 +9410,9 @@ msgid ""
 msgstr ""
 
 #: resourcePage/e251aaa2-2ef8-4fe2-9c0e-45901aa29029/title
+#, fuzzy
 msgid "When is the data archived?"
-msgstr ""
+msgstr "原始資料何時典藏？"
 
 #: resourcePage/e251aaa2-2ef8-4fe2-9c0e-45901aa29029/content
 msgid ""
