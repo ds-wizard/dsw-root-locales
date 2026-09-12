@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-12 15:57+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-12 15:57+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -1637,13 +1637,15 @@ msgid "There are a few different standards that are often used to give basic inf
 msgstr "有幾種不同標準常用於提供資料集的基本資訊。您將使用其中哪些標準？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/title
+#, fuzzy
 msgid "What standard will you use to specify author/title/keyword information?"
-msgstr ""
+msgstr "您將使用哪些標準來指定作者、標題與關鍵字資訊？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/text
 #: question/127bc0d5-8de6-4021-9a95-22b97ed3c308/text
+#, fuzzy
 msgid "You will be presented with suggestions from [FAIRsharing](https://fairsharing.org/), but you also have the option to manually enter the metadata standard that is not listed there."
-msgstr ""
+msgstr "系統會顯示來自 [FAIRSharing](https://fairsharing.org/) 的建議項目，但您也可以手動輸入未列於其中的後設資料標準。"
 
 #: question/434b28c1-dbc0-4dd0-bb53-6d6ad51b86f4/title
 msgid "Will you be creating a data/variable dictionary?"
