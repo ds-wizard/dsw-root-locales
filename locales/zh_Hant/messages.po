@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-12 15:57+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 01:45+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6928,7 +6928,7 @@ msgstr ""
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/title
 msgid "Findability"
-msgstr ""
+msgstr "可發現性"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/abbreviation
 msgid "F"
@@ -6940,7 +6940,7 @@ msgstr ""
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/title
 msgid "Accessibility"
-msgstr ""
+msgstr "可取用性"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/abbreviation
 msgid "A"
@@ -6952,7 +6952,7 @@ msgstr ""
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/title
 msgid "Interoperability"
-msgstr ""
+msgstr "可相互操作性"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/abbreviation
 msgid "I"
@@ -6964,7 +6964,7 @@ msgstr ""
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/title
 msgid "Reusability"
-msgstr ""
+msgstr "可再次使用性"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/abbreviation
 msgid "R"
@@ -6972,11 +6972,11 @@ msgstr ""
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/description
 msgid "The Reusability metric describes how well the data is suitable for reuse in other context. The score associated with an answer will be higher if it makes it easier for humans and computers to reuse the data. This is influenced largely by proper description of how the data was obtained, and also by the conditions that are put on the reuse (license and, for personally identifying information, consent)."
-msgstr ""
+msgstr "可再次使用性指標描述了資料在其他情境中被再次使用的適用程度。如果問卷回答能讓人類和電腦更容易再次使用資料，其相關得分將較高。這主要取決於正確描述資料的取得方式，以及對再次使用所設定之條件（授權以及針對個人識別資訊的知情同意）的影響。"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/title
 msgid "Good DMP Practice"
-msgstr ""
+msgstr "良好的資料管理方案實踐"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/abbreviation
 msgid "G"
@@ -6988,7 +6988,7 @@ msgstr ""
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/title
 msgid "Openness"
-msgstr ""
+msgstr "開放性"
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/abbreviation
 msgid "O"
@@ -7000,15 +7000,15 @@ msgstr ""
 
 #: phase/b101f2d0-2476-452d-aa8d-95a41a02b52c/title
 msgid "Before Submitting the Proposal"
-msgstr ""
+msgstr "提交計畫申請書前"
 
 #: phase/b101f2d0-2476-452d-aa8d-95a41a02b52c/description
 msgid "Some data stewardship issues already need to be addressed during the creation of a proposal for a research project. For example these could be questions that can have a significant impact on the budget or timeline of a project. Only such questions are labeled as \"desirable\" in this phase.\n"
-msgstr ""
+msgstr "某些資料管理 (data stewardship) 問題在研究計畫的提案階段就已需要處理。例如，這些問題可能會對計畫的預算或時間表產生重大影響。這類問題被標記為「適合 (desirable) 於此階段填寫」。\n"
 
 #: phase/1796fa3c-9f53-475f-89ff-c66a0453c42e/title
 msgid "Before Submitting the DMP"
-msgstr ""
+msgstr "提交資料管理方案前"
 
 #: phase/1796fa3c-9f53-475f-89ff-c66a0453c42e/description
 msgid "In many research projects, the finished data management plan is one of the early deliverables. Questions that should be addressed in those early months of the project are highlighted as desirable when this phase is selected."
@@ -7016,7 +7016,7 @@ msgstr ""
 
 #: phase/adc9133d-afcd-4616-9aea-db5f475898a2/title
 msgid "Before Finishing the Project"
-msgstr ""
+msgstr "計畫結束前"
 
 #: phase/adc9133d-afcd-4616-9aea-db5f475898a2/description
 msgid "When a project rounds up, this means that all data has found its final spots. In this phase, questions that document the final state of affairs will be labeled as desirable.\n"
@@ -7024,7 +7024,7 @@ msgstr ""
 
 #: phase/1ace0fc6-a949-495f-a32e-e948f3f6bed1/title
 msgid "After Finishing the Project"
-msgstr ""
+msgstr "計畫結束後"
 
 #: phase/1ace0fc6-a949-495f-a32e-e948f3f6bed1/description
 msgid "After a project is finished, the team conducts a comprehensive project review to evaluate its overall success and identify areas for future improvement and followup. Relevant feedback is gathered from stakeholders, and the team is finalizing reports and archiving project documentation. Finally, lessons learned are being documented for future reference. Questions relevant for these processes will be labeled as desirable in this phase."
@@ -9383,7 +9383,7 @@ msgstr ""
 
 #: resourcePage/aa7262d9-a1cc-440e-b946-4f2dbd224d8e/title
 msgid "Will you be archiving data for long term preservation?"
-msgstr ""
+msgstr "您是否會將資料典藏以進行長期保存？"
 
 #: resourcePage/aa7262d9-a1cc-440e-b946-4f2dbd224d8e/content
 msgid ""
