@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 01:48+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 05:14+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6936,7 +6936,7 @@ msgstr ""
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/description
 msgid "The Findability metric describes how easily data can be located. The score associated with an answer will be higher if it makes it easier for humans or for computers to locate your data set, e.g. if it ends up in an index or has a unique resolvable identifier."
-msgstr ""
+msgstr "可發現性指標描述資料被找到的難易程度。如果某個答案所代表的做法能讓人類或電腦更容易找到您的資料集，該答案對應的得分就會較高，例如將資料集收錄於索引，或為其指定可解析的唯一識別碼。"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/title
 msgid "Accessibility"
@@ -6948,7 +6948,7 @@ msgstr ""
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/description
 msgid "The Accessibility metric describes how well the access to the database is described and how easy it is to implement. The score associated with an answer will be higher if it makes it easier for humans and computers to get to the data. This is determined by e.g. the protocol for accessing the data or for authenticating users, and also by the guaranteed longevity of the repository. Note that this is different from the Openness metric!"
-msgstr ""
+msgstr "可取用性指標描述資料庫取用方式的說明是否完善，以及實際取用的難易程度。如果某個答案所代表的做法能讓人類和電腦更容易取得資料，該答案對應的得分就會較高。影響因素包括資料取用或使用者身分驗證所採用的通訊協定，以及儲存庫能保證持續運作多久。請注意，這與開放性指標不同！"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/title
 msgid "Interoperability"
@@ -6960,7 +6960,7 @@ msgstr ""
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/description
 msgid "The Interoperability metric describes how well the data interoperates with other data. The score associated with an answer will be higher if it makes it easier for humans and computers to couple the data with other data and 'understand' relationships. This is influenced by the use of standard ontologies for different fields and proper descriptions of the relations. It is also influenced by proper standard metadata that is agreed by the community."
-msgstr ""
+msgstr "可相互操作性指標描述資料與其他資料相互操作的程度。如果某個答案所代表的做法能讓人類和電腦更容易將資料與其他資料串聯，並「理解」彼此的關係，該答案對應的得分就會較高。影響因素包括是否針對不同欄位使用標準知識本體、是否妥善描述彼此的關係，以及是否使用適當且獲社群認可的標準後設資料。"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/title
 msgid "Reusability"
