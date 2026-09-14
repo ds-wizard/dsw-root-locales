@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 05:23+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 08:11+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7669,7 +7669,7 @@ msgstr ""
 
 #: resourcePage/fc6c1a65-1b9f-423d-ab49-fe62b3dec8c4/title
 msgid "What format?"
-msgstr ""
+msgstr "資料採用什麼格式？"
 
 #: resourcePage/fc6c1a65-1b9f-423d-ab49-fe62b3dec8c4/content
 msgid ""
@@ -7692,7 +7692,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.5**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n許多資料集，尤其是參考資料資源，可能以不同格式提供。例如，生命科學領域的核心資源，如 UniProt 和 HPA，正逐漸以機器可讀的 FAIR 格式提供其核心資料。您需要充分了解資料採用的格式、格式的限制，以及可能的授權限制，才能判斷您可以或不可以如何再次使用這些資料。請注意，即使某項資料資源完全沒有密碼保護，表面上也可供學術用途自由使用，仍然可能存在使用限制。\n\n## 建議做法\n\n- 到您選定的 OPEDAS 來源網站，確認有哪些資料格式可用。\n- 務必選擇最適合您研究中預定分析工作的格式。\n- 如果所需格式無法直接取得，可考慮聯絡資源擁有者，討論是否能以該格式提供資料。\n\n## 應避免的做法\n\n- 未確認是否能取得合適格式（也許在其他網站），就採用較不合適的資料格式。\n- 未確認資料格式及潛在限制是否會妨礙分析或發表，就將資料用於特定目的。\n- 打算日後將成果用於潛在創新或商業用途，卻使用僅限學術用途的資料或資源。\n\n---\n\n[**開放科學的資料託管：第 1.5 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ac0c34f7-9ba8-4180-abb9-19cdb45620a8/title
 msgid "Will you be storing physical samples?"
@@ -7746,11 +7746,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n您將建立的資料可能屬於全新的類型。在這種情況下，自然不會已有現成的標準格式。不過，即使是全新的資料類型，既有的資料格式或模板也可能適用，或是結合既有格式、詞彙表等就已足夠。只要可行，再次使用既有格式會比建立全新的資料格式更合適。有些社群專門處理這類資料議題，強烈建議與這些社群合作，解決您的資料建模問題。\n\n## 建議做法\n\n- 研究既有格式與詞彙表，尤其是其他學科使用的格式與詞彙表，確認是否適合您的資料類型。\n- 若沒有標準的最佳實踐，可考慮結合既有元素。\n- 諮詢熟悉相近資料類型的專家，確保沒有遺漏任何可能的選擇。\n\n## 應避免的做法\n\n- 未徹底研究既有選擇，就假定您的資料獨一無二，進而建立新的資料格式。\n- 未諮詢相關資料類型領域的專家，就建立資料類型。\n\n---\n\n[**開放科學的資料託管：第 2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/cb8ef5c5-bb34-4084-b55d-aead8dc188ae/title
 msgid "Are you using data types used by others too?"
-msgstr ""
+msgstr "您使用的資料類型是否也被其他人使用？"
 
 #: resourcePage/cb8ef5c5-bb34-4084-b55d-aead8dc188ae/content
 msgid ""
@@ -7775,11 +7775,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n除非您從事的是全新類型的研究，否則通常已有多種資料格式，可用於擷取、處理及整理您所產生的資料。有些格式可能較為少見，且未被社群中的多數人採用，或已不再使用。這往往意味著，這類資料不易被找到、建立對映、相互操作及再次使用，標準工作流程也較不可能支援處理這些格式。尤其當您打算將所產生的資料與 OPEDAS 結合，進行組合或整合實驗時，資料格式更為重要。在許多情況下，專有或少見格式的資料可以經過整理，轉換成較常用的格式，但這些過程相當繁瑣且容易出錯。因此，務必諮詢專家社群，讓資料採用最適合後續分析的格式，最終也便於您自己的團隊及其他人再次使用。\n\n## 建議做法\n\n- 只要可行，始終採用符合社群慣例、有支援且能長期維持的資料格式。\n- 請專家建議，您將建立的特定資料類型最適合使用哪些格式。\n- 確保您已準備好回答有關資料用途的問題，例如會用哪些工作流程來處理資料。\n- 選擇能表達最豐富資訊的格式。先留白，比日後擴充表達能力不足的格式更容易。\n\n## 應避免的做法\n\n- 假定您的資料如此獨特，必須使用全新的格式。\n- 認為以自由文字作為名稱的試算表，或您自行開發的資料庫，就是儲存及再次使用資料的最佳方式。\n- 將資料整理並儲存為任何格式，卻未保留豐富且相關的後設資料及溯源資訊。\n- 丟棄原始資料，除非您完全確定保留它們不再具有額外價值，例如無須用於審查實驗及分析程序。缺少某些預先格式化的資料，可能會使他人無法發表、再次使用或引用您的原始資料，也可能妨礙相關論文的發表。\n\n---\n\n[**開放科學的資料託管：第 2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/2c756697-f341-4acf-8c13-dba8368420d0/title
 msgid "What format(s) will you use for the data?"
-msgstr ""
+msgstr "您將使用哪些資料格式？"
 
 #: resourcePage/2c756697-f341-4acf-8c13-dba8368420d0/content
 msgid ""
@@ -7804,7 +7804,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.1.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n一旦確定將產生的資料大致屬於哪種類型，就應仔細確認，採用什麼格式最適合擷取、處理及整理資料。在許多情況下，初始擷取格式會由測量或蒐集資料所用工具搭配的軟體套件決定，這些工具可能是問卷，也可能是高通量儀器。不過，蒐集原始資料後，您可能有許多前處理方式，以及最終資料版本的格式可供選擇，再交由後續分析使用。選擇時應主要依據 FAIR 原則，以及社群對該格式的採用程度；後者又與對映工具、整合工具和一般分析工作流程是否可用有關。若資料採用「簡便、在地自訂」的格式，例如在 Excel 儲存格中填入自由文字，日後可能需要投入大量心力重新整理格式，對資源造成沉重負擔，並帶來前述各種負面影響。\n\n## 建議做法\n\n- 仔細研究您將產生的資料類型有哪些可用格式。\n- 了解社群對這些格式的採用程度。\n- 確認產出的資料能在多大程度上符合 FAIR 原則。\n- 確保資料格式本身，以及您對格式所做的任何修改或增補，都有完整文件記錄，並納入符合 FAIR 原則的後設資料。\n- 若資料格式或模板中的任何必要條件會使資料無法由機器處理，請告知格式及模板的提供者。\n\n## 應避免的做法\n\n- 在資料格式的任何部分使用自由文字，卻未以持續識別碼（PID）對應其所指概念。\n- 明知資料模板中的指示會使資料不符合 FAIR 原則，仍照做；應聯絡模板擁有者予以修正。\n- 自行設計資料模板或格式，除非您完全確定沒有已被社群採用的替代選擇。\n\n---\n\n[**開放科學的資料託管：第 2.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5e2ddc84-4dc1-4e00-b7aa-2af573669c21/title
 msgid "Will you store licences with the data?"
@@ -7960,7 +7960,7 @@ msgstr ""
 
 #: resourcePage/33559826-7ff7-4e89-8de1-1f95269872a8/title
 msgid "Do you need to develop new terminology systems?"
-msgstr ""
+msgstr "您是否需要開發新的術語系統？"
 
 #: resourcePage/33559826-7ff7-4e89-8de1-1f95269872a8/content
 msgid ""
@@ -7987,7 +7987,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.2.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果經過徹底搜尋，您仍確定沒有合適或容易擴充的術語系統，才可以考慮開發新的術語系統，而且只能把這當作最後手段。若確實無可避免，至少應遵循設計良好術語系統的基本規則。首先，考慮聯絡既有且已被社群採用的術語系統的託管員，了解他們是否願意擴充系統，納入您需要在資料中指稱的新概念。這能大幅增加社群接觸到新增識別碼與術語的機會，進而促進社群採用您的擴充內容。\n\n如果上述方式都不可行，先建立一份非常簡單的單層概念詞彙清單，列出新術語系統或其補充部分需要加入的項目。接著，盡可能簡明且明確地定義這些概念，並列出您能想到的各種同義表達；若研究範圍涵蓋其他語言，也應納入，這對樣本庫研究尤其重要。選擇適當的持續識別碼方式，為每個指稱概念的詞彙配置持續且機器可解析的識別碼。最後，確保概念定義可以被找到，因此需要 URI，而 URI 不一定與 PID 相同。只要可行，就應與同領域的專家社群一起完成這些工作。\n\n## 建議做法\n\n- 在開始建立新的術語系統前，務必先嘗試所有與既有術語系統或聯盟合作的可能性。\n- 嘗試與可能面臨相同問題的領域專家協作，組成盡可能廣泛的團隊，避免其他人又各自建立小型術語系統。有些論壇可供提出這類問題，也有全球社群共同推動標準及最佳實踐的發展。\n- 保持簡單與開放，在需要時提供足夠的內容，並廣泛告知大家您正在進行這項工作，以避免重複、耗時且繁瑣的專案。\n- 若需要建立知識本體，也就是加入關係，請確保這些關係本身也是定義清楚的概念；在資料連結（Linked Data）中，這些關係多半屬於述詞類型。如此一來，每個形式為 [主詞] [述詞] [受詞] 的三元組，都由三個定義明確的概念組成，且每個概念都有適當的持續識別碼。\n\n## 應避免的做法\n\n- 一開始就從零建立知識本體。應先列出需要指稱的概念，暫時不必處理它們之間的關係。\n- 建立具有階層關係（上位詞及下位詞）的敘詞表，除非您確實需要這些關係。\n- 在概念清單中加入關係，卻未像定義所連結的兩個概念一樣，精確定義這個述詞所表達的關係（請見建議做法）。\n- 假定任何實用的知識本體都能完整涵蓋現實。其他人總會因觀點不同，而質疑您選擇的關係類型。\n\n---\n\n[**開放科學的資料託管：第 2.2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/13515206-8c9a-4e6b-b1c2-fca0734bf3d8/title
 msgid "Did you consider how to monitor data Integrity?"
@@ -8055,7 +8055,7 @@ msgstr ""
 
 #: resourcePage/8165f045-5855-43e1-b858-0966dedf2965/title
 msgid "How will you be storing Metadata?"
-msgstr ""
+msgstr "您會如何儲存後設資料？"
 
 #: resourcePage/8165f045-5855-43e1-b858-0966dedf2965/content
 msgid ""
@@ -8079,7 +8079,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n始終應考慮資料在原始目的之外的用途。搜尋他人資料時，常遇到的問題之一，是資料不像網頁文件那樣容易直接依其本身的內容建立索引。因此，許多資料集與資料庫未被注意到，目前也遠未獲得充分利用。這不只發生在小型且高度專門化的資料庫。即使是 Human Protein Atlas 這類核心資源，也有許多研究人員不知道它的存在；資料庫中的許多資訊不易供索引使用，各種同義詞問題也妨礙人們有效找到這些資料及資訊來源。目前已有許多開發資料搜尋引擎的嘗試，但後設資料標準、後設資料格式以及資料格式本身的多樣性，都造成重大挑戰。如果所有後設資料都採用 FAIR 格式，就能更容易為「資料網際網路」中的所有資料集開發有效且高效能的搜尋引擎。因此，按照 FAIR 原則整理後設資料格式十分重要。\n\n## 建議做法\n\n- 將後設資料中提及的所有概念，包括儀器、組織及貢獻者等，對映至符合社群慣例的術語系統。\n- 為後設資料選擇以 FAIR 原則為依據的格式。\n- 將後設資料儲存並公開於搜尋引擎容易找到的開放取用環境，即使它們描述的資料尚未符合 FAIR 原則，甚至有嚴格的取用限制。讓人知道具有特定特徵與內容的資料集確實存在，是促進資料或資訊來源被有效再次使用的第一步。\n\n## 應避免的做法\n\n- 建立不符合 FAIR 原則的後設資料，卻假定搜尋引擎仍會自行找出資料的位置及內容。\n- 建立格式符合 FAIR 原則的後設資料，卻存放在搜尋引擎難以找到的地方，例如離線環境或防火牆後方。\n- 後設資料過於簡略，導致使用者（往往是機器）即使找到它，也無法真正了解有哪些資料或資訊。\n- 假定只要提供一些提示，其餘資訊就不言自明。應設想一位對背景最不了解的人，或一部最不了解背景的機器，要如何判斷資料集包含什麼，以及資料集的主題為何。\n\n---\n\n[**開放科學的資料託管：第 2.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8ec2d0c8-b623-499b-9006-cb757ecf241d/title
 msgid "If your data changes over time, how frequently do you do backups?"
@@ -8111,7 +8111,7 @@ msgstr ""
 
 #: resourcePage/0a167eb6-404f-4dd8-9347-cda10cfdea42/title
 msgid "Do you need to harmonise different sources of OPEDAS?"
-msgstr ""
+msgstr "您是否需要調和不同來源的 OPEDAS？"
 
 #: resourcePage/0a167eb6-404f-4dd8-9347-cda10cfdea42/content
 msgid ""
@@ -8137,7 +8137,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.10**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n決定研究要使用哪些 OPEDAS 資源後，還需要考慮不同資料格式、資料調和，以及資料中使用的識別碼與術語等問題。若未事先處理，這些問題可能嚴重延誤研究，甚至使研究無法完成。\n\n## 建議做法\n\n- 確認實際資料元素的呈現格式；相關議題請參閱第 1.5 節及第 1.6 節。\n- 確認各資料集採用的術語系統［需要定義，以避免濫用「知識本體」一詞］，並討論其對分析流程等工作的影響。\n- 確定 OPEDAS 資源的格式及採用的知識本體，將如何影響您擷取自身資料時的選擇。\n- 檢查後設資料或資料元素中的自然語言欄位，判斷是否需要翻譯。\n- 評估是否改將這些欄位對映至知識本體。\n- 只要可行，可考慮重新整理資料格式，使資料能夠相互連結，並向 OPEDAS 擁有者回報。\n\n## 應避免的做法\n\n- 預期資料無須重新整理格式，就能在您的情境中再次使用，即使其格式符合 F.A.I.R. 原則。\n- 因資料未經妥善調和，而比較本質不同的事物，進而得出錯誤的關聯。\n- 修改 OPEDAS 資料集的任何內容，包括格式、術語翻譯或與術語系統的對映，卻未妥善記錄文件及溯源資訊，也未向 OPEDAS 擁有者回報。\n\n---\n\n[**開放科學的資料託管：第 1.10 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ffe51026-d3e1-489c-9fd7-babb3ddb31e6/title
 msgid "Will you be using any existing (non-reference) data sets?"
@@ -9041,7 +9041,7 @@ msgstr ""
 
 #: resourcePage/9f02220a-97b9-4aa2-a055-e8e558eee0db/title
 msgid "What data formats do the instruments yield?"
-msgstr ""
+msgstr "儀器會產出哪些資料格式？"
 
 #: resourcePage/9f02220a-97b9-4aa2-a055-e8e558eee0db/content
 msgid ""
@@ -9063,7 +9063,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.15.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n實驗室中的大多數儀器，會以製造商指定的一種或多種格式輸出資料。在許多情況下，後續的資料前處理、轉換、策展及連結程序，會將這些資料轉換成其他格式。在實際擷取資料及開始後續程序之前，充分了解機器或儀器所規定的所有資料格式與標準，十分重要。\n\n## 建議做法\n\n- 確保您了解預定研究將使用的所有儀器，以及它們規定的格式與限制。\n- 將各儀器的標準輸出資料格式納入溯源記錄及後設資料。\n- 記錄與儀器有關的所有相關資訊。\n\n## 應避免的做法\n\n- 尚未充分了解研究將使用哪些儀器，以及它們施加的約束與限制，就開始測量。\n- 認為研究中的儀器工作完全是實驗研究人員的責任，而只是被動等待資料產出。\n\n---\n\n[**開放科學的資料託管：第 1.15.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/21ce478d-73d8-4124-971b-c4f9c7630502/title
 msgid "What preprocessing is needed?"
@@ -9213,7 +9213,7 @@ msgstr ""
 
 #: resourcePage/54c516de-193c-452f-bb8a-0e4ad57bfbeb/title
 msgid "Do you need to integrate or link to a different type of data?"
-msgstr ""
+msgstr "您是否需要整合或連結不同資料類型？"
 
 #: resourcePage/54c516de-193c-452f-bb8a-0e4ad57bfbeb/content
 msgid ""
@@ -9239,11 +9239,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.11.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n您可能會在新研究的不同階段使用多個 OPEDAS 資料集。這些資料集會影響您如何安排實際實驗，尤其是如何擷取及整理自身資料的格式。如果所需的 OPEDAS 資料集大多採用特定格式、對映至特定的一組術語系統，並可由某些工作流程處理，您可能會因此選擇以特定格式及語意環境產生新資料，使其盡可能接近相關 OPEDAS 資料集的特徵。\n\n## 建議做法\n\n- 確認主要採用哪些資料格式，並列成清單。\n- 列出 OPEDAS 擁有者用於概念對映的術語系統。\n- 在團隊中討論，這些清單可能如何影響資料週期後續步驟的選擇，尤其是資料擷取、使用的術語系統與標準，以及格式整理。\n- 檢查所有資料集與預定用於資料分析的工作流程是否相容，並確定需要哪些工作，才能將特定 OPEDAS 資料集調和並轉換格式，使其適用於預定的分析流程。\n- 綜合上述資訊，詳細確定啟動 OPEDAS 資料集整合分析所需的準備工作；即使不產生新資料，仍可能需要投入大量工作。\n- 針對預定的資料分析需求，擬定詳細的資料格式轉換與擷取方案。\n- 在研究計畫中編列所需預算。\n\n## 應避免的做法\n\n- 假定您選擇的分析工作流程無須事先調和，就能處理並結合不同格式的資料。\n- 先擷取資料，之後才查閱第 2.1 至 2.11 節，才發現原本應採用不同格式、對映至不同術語系統，或以不同的細緻程度擷取資料。\n\n---\n\n[**開放科學的資料託管：第 1.11.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/807a510b-8ced-425a-b64c-501a94aeff2c/title
 msgid "Where will information about samples be stored?"
-msgstr ""
+msgstr "樣本資訊會儲存在哪裡？"
 
 #: resourcePage/807a510b-8ced-425a-b64c-501a94aeff2c/content
 msgid ""
@@ -9261,7 +9261,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.13.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n對於研究蒐藏中的樣本或其他實體物件，我們先區分兩種性質不同、而非格式不同的資料。這些物件本身無法直接做到 F.A.I.R.，也就是可被找到、可被取用、可相互操作及可再次使用，包括供機器使用。這不僅適用於組織或其他實體樣本，也適用於繪畫等非數位影像、自然史蒐藏中的標本、生物樣本等。這些研究物件本身無法符合 F.A.I.R. 原則，但描述它們的註解可以：從影片或圖片的圖說，到完整註解，以及整個蒐藏的後設資料，都是如此。雖然對樣本所做的任何陳述，都可以視為某種後設資料或註解，這裡仍加以區分。在此情境中，註解被定義為使用者自訂後設資料的一部分（請見導論），用來從功能角度描述樣本及其特徵、原定用途、過去及未來可用於什麼目的等。較典型的後設資料，則是樣本本身的內在後設資料，例如方法、時間戳記、位置等，以及蒐藏中各個逐層彙整層級的後設資料，最廣可涵蓋標本所在建築物的地址。\n\n## 建議做法\n\n- 對註解與內在後設資料，都採用一般參考資料適用的全部準則（請參閱第 1.12 節），並將您的蒐藏登錄於既有目錄之一（請見相關資源）。\n\n## 應避免的做法\n\n- 使用公帑建立生物樣本庫，卻未提供適當且符合 F.A.I.R. 原則的註解及後設資料。即使只供自己的研究使用，這也十分重要；而在法律允許的範圍內盡可能共享資料，本就是預設做法。缺乏符合 F.A.I.R. 原則的後設資料，會嚴重妨礙資料共享。\n\n---\n\n[**開放科學的資料託管：第 1.13.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/e02e64fc-2df5-4162-aae7-deafb1739932/title
 msgid "Will your data and samples be added to an existing collection?"
@@ -9342,7 +9342,7 @@ msgstr ""
 
 #: resourcePage/865acba8-650a-456c-8da3-e07c110a6d7e/title
 msgid "Are there suitable terminology systems?"
-msgstr ""
+msgstr "是否有合適的術語系統？"
 
 #: resourcePage/865acba8-650a-456c-8da3-e07c110a6d7e/content
 msgid ""
@@ -9376,7 +9376,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n科學中的一項關鍵工作，是盡可能精確定義所指稱的每個概念。因此，在資料託管及 FAIR 資料中，使用控制詞彙、敘詞表及知識本體十分重要。這裡將它們統稱為「術語系統」，其中的概念應盡可能獲得精確定義。在將資料中的概念對映至特定術語系統之前，應先了解這些系統的基礎，至少知道控制詞彙與同義詞清單，和實際運用知識本體之間的差異；知識本體會明確設定概念之間的功能關係。知識本體對現實採取特定的抽象方式與觀點，不一定總能反映您的需求。\n\n控制詞彙及敘詞表通常僅提供詞彙、其定義與同義詞，有時也包含同形異義詞，也就是同一個符號具有多種意義。\n\n若想進一步了解術語系統，尤其是符號學（奧格登三角）及其與資料發布的關係，請參閱參考文獻 *(Mons + Velterop)*。\n\n簡而言之，FAIR 指導原則假定，資料中的所有概念都應以機器可解析的持續識別碼指稱，而不是使用其他方式。\n\n## 建議做法\n\n- 在自認為資料專家之前，務必先對術語系統的基礎、優缺點及限制有所了解。\n- 確保您需要指稱的所有概念，都涵蓋在既有術語系統中，並盡可能選擇社群採用程度最高的系統。\n- 列出資料中出現、但首選術語系統未涵蓋的概念。\n- 可考慮依相同準則，採用其他術語系統中的持續識別碼。\n- 只有在既有術語系統都未適當識別某個概念，而您的資料又確實需要指稱它時，才建立新的概念識別並定義其意義。\n- 將新概念及其定義回報給您所知最相關的權責單位，最好是最適合收錄此概念之術語系統的託管員。\n\n## 應避免的做法\n\n- 在對話及文字中，不加區分地混用「知識本體」「控制詞彙」及「敘詞表」。\n- 明明只需引用控制詞彙，卻使用知識本體。知識本體會假定該概念與其他概念之間存在許多連結，而這些連結未必適用於您的情境。\n- 未徹底搜尋既有術語系統，就為資料中的概念建立新符號或識別碼。\n- 尚未嘗試定義新識別碼所指稱的確切「思考單位」，就建立概念。\n- 自行建立術語子系統，卻未與社群分享這項工作。\n\n---\n\n[**開放科學的資料託管：第 2.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/aa7262d9-a1cc-440e-b946-4f2dbd224d8e/title
 msgid "Will you be archiving data for long term preservation?"
