@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 08:11+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 23:16+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -164,7 +164,7 @@ msgstr "計畫簡稱"
 
 #: question/56163eb0-0101-40b4-b1c1-580875196b5c/title
 msgid "Project ID"
-msgstr ""
+msgstr "計畫編號"
 
 #: question/56163eb0-0101-40b4-b1c1-580875196b5c/text
 msgid "Project number is a unique number assigned to the project by the authority that is undertaking the project."
@@ -293,11 +293,11 @@ msgstr "補助計畫"
 
 #: question/7a6f224d-b787-495f-8310-8a89d2f41774/title
 msgid "Specify the funding grant ID"
-msgstr ""
+msgstr "請指定補助編號"
 
 #: question/7a6f224d-b787-495f-8310-8a89d2f41774/text
 msgid "Select from the previously mentioned funding grants that will be used to cover this cost."
-msgstr ""
+msgstr "請從前述補助計畫中，選擇將用於支付此項費用的項目。"
 
 #: question/2964c7f7-d9be-42ac-8cfe-dbcf4d62f8a2/title
 msgid "Please specify how the cost will be covered"
@@ -957,7 +957,7 @@ msgstr "您是否需要毒理學研究的既有資料"
 
 #: answer/f971efd1-b0a5-4bc5-829d-148ef9362d37/advice
 msgid "Information about resources for human assays is available on the [RDMkit Toxicology page – human assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies), for animal assays on the [RDMkit Toxicology page – animal assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies), and for ecotoxicology on the [RDMkit Toxicology page – ecotoxicology](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)."
-msgstr ""
+msgstr "人體試驗的相關資源資訊可參考 [RDMkit 毒理學頁面－人體試驗](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies)；動物試驗可參考 [RDMkit 毒理學頁面－動物試驗](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies)；生態毒理學則可參考 [RDMkit 毒理學頁面－生態毒理學](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)。"
 
 #: reference/e5762c40-7b10-4915-89f8-c71180049f13/label
 msgid "RDMkit on Toxicology"
@@ -1867,11 +1867,11 @@ msgstr "記錄分析工作流程中每一個已執行的步驟"
 
 #: question/106df534-f590-416b-8e4a-846edbdc4325/title
 msgid "What standard(s) you will use to document provenance?"
-msgstr ""
+msgstr "您將使用哪些標準來記錄溯源資訊？"
 
 #: question/106df534-f590-416b-8e4a-846edbdc4325/text
 msgid "There are a few different standards that are often used to document provenance, for example W3C Prov standard. Which ones of these will you be using?"
-msgstr ""
+msgstr "有幾種常用於記錄溯源資訊的標準，例如 W3C Prov 標準。您將使用其中哪些標準？"
 
 #: question/127bc0d5-8de6-4021-9a95-22b97ed3c308/title
 msgid "What standard you will use to document provenance?"
@@ -2320,7 +2320,7 @@ msgstr "量測方會刪除資料，由計畫合作夥伴負責發布資料"
 
 #: question/e33ae210-62fe-4665-b836-e71660325a06/title
 msgid "Specify instruments used for data collection"
-msgstr ""
+msgstr "請說明用於蒐集資料的儀器"
 
 #: question/e33ae210-62fe-4665-b836-e71660325a06/text
 msgid "Specify what technical instruments you are using to collect the data."
@@ -2583,7 +2583,7 @@ msgstr "誰會負責資料輸入？"
 
 #: answer/9d51aae1-ca1b-4267-b0df-d43dc85f5bc6/label
 msgid "A specialised team"
-msgstr ""
+msgstr "專業團隊"
 
 #: answer/9660950a-41d7-4c3b-a6fd-97e58c8fa412/label
 msgid "One of the members of the project team"
@@ -2933,7 +2933,7 @@ msgstr "控管者"
 
 #: question/b9619bee-6d69-4111-b1e0-6c3ea50e01f8/title
 msgid "Organisation"
-msgstr ""
+msgstr "組織"
 
 #: question/b9619bee-6d69-4111-b1e0-6c3ea50e01f8/text
 #, fuzzy
@@ -3012,7 +3012,7 @@ msgstr "前科與犯罪資料"
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/title
 msgid "What are the exemptions to the prohibition for processing of special categories of data (such as health and genetic data) under Art. 9 GDPR used?"
-msgstr ""
+msgstr "您依據 GDPR 第 9 條的哪些例外規定，處理特殊類別資料（例如健康及基因資料）？"
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/text
 #, fuzzy
@@ -3303,7 +3303,7 @@ msgstr "注意：不同法律可能會以不同方式定義知情同意的必要
 
 #: question/63b6e695-2371-412c-bed3-f13e157da0b4/title
 msgid "Are there any data use restrictions?"
-msgstr ""
+msgstr "資料的使用是否有任何限制？"
 
 #: question/63b6e695-2371-412c-bed3-f13e157da0b4/text
 msgid ""
@@ -4139,11 +4139,11 @@ msgstr "軟體元件："
 
 #: question/996df4e8-90ea-4aaf-8c3d-d92b3d145dd3/title
 msgid "Where are you getting this software from?"
-msgstr ""
+msgstr "您從何處取得此軟體？"
 
 #: question/996df4e8-90ea-4aaf-8c3d-d92b3d145dd3/text
 msgid "Please specify a web address if available."
-msgstr ""
+msgstr "如有網址，請提供。"
 
 #: question/cfb67fc9-4a65-4221-87ca-7ca7c99f13a4/title
 msgid "What version of this software will you use?"
@@ -4267,7 +4267,7 @@ msgstr "我們會使用其他授權條款"
 
 #: question/6b5d7d2e-c117-4e61-a597-5207bc7fc057/title
 msgid "What other licence?"
-msgstr ""
+msgstr "其他授權條款為何？"
 
 #: question/6b5d7d2e-c117-4e61-a597-5207bc7fc057/text
 msgid "Preferably give a web pointer to the license."
@@ -4918,19 +4918,19 @@ msgstr "您是否考量了資訊遺失可能對計畫或組織造成的影響？
 #: answer/7c9c8543-b8f8-47b0-8279-757dbc14922f/label
 #: answer/ae0c3b93-f054-4052-91c0-fa9c518f5ca8/label
 msgid "Yes; the impact is negligible"
-msgstr ""
+msgstr "是；影響可忽略不計"
 
 #: answer/a0ec7128-1c2d-4034-b621-211bd01a9839/label
 #: answer/6306207c-7be6-4cdf-86c4-33e0d9898479/label
 #: answer/b1e1861b-b55f-406f-b915-b440c64d8747/label
 msgid "Yes; the impact is acceptably low"
-msgstr ""
+msgstr "是；影響程度低且可接受"
 
 #: answer/928db5fa-e16f-4c28-a321-ad62e1849b90/label
 #: answer/efec7b38-d9a9-4495-8ba7-625dd7da6a09/label
 #: answer/e8943baf-4c0c-4f30-8b57-88c06f3bc4ad/label
 msgid "Yes; the impact is significant and requires action"
-msgstr ""
+msgstr "是；影響重大，需要採取行動"
 
 #: question/a20ddc5d-e883-4bc4-9948-36a2cb477d10/title
 #, fuzzy
@@ -5488,7 +5488,7 @@ msgstr "哪一種類型的識別碼？"
 msgid ""
 "Which type of identifier is this?   \n"
 "Provide the type of identifier. You will be presented with suggestions from [FAIRsharing](https://fairsharing.org/), but you also have the option to manually enter the identifier type that is not listed there."
-msgstr ""
+msgstr "這是哪一種類型的識別碼？\\\n請提供識別碼的類型。系統會顯示來自 [FAIRsharing](https://fairsharing.org/) 的建議項目，但您也可以手動輸入未列於其中的識別碼類型。"
 
 #: question/9e13b2d3-5f00-4e19-8a52-5c33c5b1cb07/title
 msgid "The actual identifier"
@@ -5752,7 +5752,7 @@ msgstr "請總結這些限制。請注意，公開發布資料最終的使用條
 
 #: question/375792f1-d7c3-4c8d-bf9e-f15ffa38e2fb/title
 msgid "Link to the licence text"
-msgstr ""
+msgstr "授權條款內文的連結"
 
 #: question/375792f1-d7c3-4c8d-bf9e-f15ffa38e2fb/text
 msgid "If the license is available as a text on the internet, please specify its URL here."
@@ -6594,7 +6594,7 @@ msgstr "請說明獲得授權的使用者取用非公開資料（例如個人資
 
 #: question/a18d79d2-74b1-4524-a3c7-2c1a87b66a75/title
 msgid "Are there intellectual property reasons why your data can not be open?"
-msgstr ""
+msgstr "是否有智慧財產權方面的原因，使您的資料無法開放？"
 
 #: question/b4f9916a-c846-49ff-bfd2-f5d1346de553/title
 msgid "Is it clear who owns data and documents?"
