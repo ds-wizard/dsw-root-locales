@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 01:45+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 01:48+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7004,7 +7004,7 @@ msgstr "提交計畫申請書前"
 
 #: phase/b101f2d0-2476-452d-aa8d-95a41a02b52c/description
 msgid "Some data stewardship issues already need to be addressed during the creation of a proposal for a research project. For example these could be questions that can have a significant impact on the budget or timeline of a project. Only such questions are labeled as \"desirable\" in this phase.\n"
-msgstr "某些資料管理 (data stewardship) 問題在研究計畫的提案階段就已需要處理。例如，這些問題可能會對計畫的預算或時間表產生重大影響。這類問題被標記為「適合 (desirable) 於此階段填寫」。\n"
+msgstr "某些資料託管問題在研究計畫的提案階段就已需要處理。例如，這些問題可能會對計畫的預算或時間表產生重大影響。這類問題被標記為「適合 (desirable) 於此階段填寫」。\n"
 
 #: phase/1796fa3c-9f53-475f-89ff-c66a0453c42e/title
 msgid "Before Submitting the DMP"
@@ -7072,7 +7072,7 @@ msgstr ""
 
 #: resourceCollection/d2d3efdc-3c53-41ae-848f-b156689ea1d7/title
 msgid "Data Stewardship for Open Science"
-msgstr ""
+msgstr "開放科學的資料託管"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/title
 msgid "Submit to an existing database?"
