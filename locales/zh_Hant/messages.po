@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 05:30+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 05:56+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7609,7 +7609,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.1.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n在某些情況下，重新產生資料可能比儲存資料更便宜，也可以接受。舉兩個例子：為基因組「重新定序」，可能很快就會比將定序資料儲存十年更便宜。此外，使用相同的標記工具與敘詞表，對同一個龐大的文字語料庫進行文字探勘，原則上無論何時重複進行，都應得到完全相同的結果。然而，在這兩個例子中，若要決定重新產生資料，而非長期儲存第一個版本，都必須先確認若干假設。首先，技術不應改變；定序儀日益可靠，因此可能產生不同結果，而當您想再次產生結果時，也可能已經不再擁有「舊的定序儀」。工作流程不一定維持不變，更重要的是，即使是「穩定」的原始材料，例如活體個體的基因組或文字語料庫，也可能沒有您想像的那麼穩定。文字語料庫可能在您不知情的情況下發生變動；活體生物基因組中的體細胞突變率也不容忽視，因此，從新採集的細胞樣本取得 DNA，可能會得到不同結果。即使 DNA 樣本一直處於「保存狀態」，也無法絕對保證日後重新定序會得到完全相同的結果。因此，無論何種情況，選擇「重新產生或儲存資料」都需要團隊深入討論科學方法，而不是一項「瑣碎的決定」。\n\n## 建議做法\n\n- 評估是否要重新產生「相同」資料時，應從各個角度考量問題，包括上述例子所涉及的深入領域知識。\n- 只有在資料量、成本或其他因素造成長期保存困難時，才考慮這個選項。\n- 務必仔細記錄，資料究竟是「完全相同」（在所能保證的範圍內），還是「使用相同方法，從相同原始材料重新產生，因此推定相同」。\n\n## 應避免的做法\n\n- 輕率地假定資料很容易重新產生，即使僅憑對該科學主題的粗淺了解，看起來確實如此。\n- 假定不會有任何差異，便將重新產生的資料以原始資料集的相同 PID 進行典藏。\n\n---\n\n[**開放科學的資料託管：第 2.5.1.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5bbc391e-a75a-4f0b-8335-1d0a7029d69a/title
 msgid "Who are the customers that use your workflows?"
@@ -7840,7 +7840,7 @@ msgstr ""
 
 #: resourcePage/b39047c5-8283-4b8f-aef7-e35548b1f1ba/title
 msgid "Will you need to add data from literature?"
-msgstr ""
+msgstr "您是否需要加入文獻中的資料？"
 
 #: resourcePage/b39047c5-8283-4b8f-aef7-e35548b1f1ba/content
 msgid ""
@@ -7863,7 +7863,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.11.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果考慮使用直接從文獻探勘而得的機器可讀資料，應仔細評估，是要自行探勘，還是已有相關文獻的適當機器可讀資料集合。許多團隊專精於文字探勘，其中有些會以 F.A.I.R. 格式提供多年工作的成果（範例）。除非您本來就是專業文字探勘團隊的一員，否則即使只是接近這些專業團隊所能提供的品質，也很可能需要付出難以負擔的投入。\n\n## 建議做法\n\n- 查核是否已有預先從文獻探勘而得、且以機器可讀或可分析格式提供的資料集合。[example of semantic medline?]\n- 將這些資料視為 OPEDAS（請見前述章節），並聯絡資料集擁有者，通常是文字探勘專家，確認其消歧程度、精確率、召回率，以及其他關鍵特性。\n- 確保輸出資料採用正確格式，並權衡不同處理方式，例如將資料對映至另一套術語系統，或使用不同的標記工具重新探勘。若與專家合作，後者實際上可能更容易，也更快。\n\n## 應避免的做法\n\n- 認為電腦能正確閱讀文字；同形異義詞、同義詞及語法問題，會讓結果充滿歧義與雜訊。\n- 未深入了解將人類可讀的敘述轉換為機器可讀資料時所涉及的種種問題，就打算使用文字探勘結果。\n- 自行使用業餘工具嘗試文字探勘；這幾乎必然會讓您偏離研究重點，耗費時間卻缺乏成果。應聯絡專家並與其合作。\n\n---\n\n[**開放科學的資料託管：第 1.11.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/869f2866-b894-4ec9-a970-c34c9e6a737f/title
 msgid "Will you be running a bulk/routine workflow?"
@@ -7921,7 +7921,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.12**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果您產生的資料預計成為參考資料集，就有更多具挑戰性的細節需要注意。除了「一般」資料所需的所有資料託管考量之外，建立參考資料集更是明確以再次使用為目的。這與軟體很相似：當他人嘗試使用您的程式碼時，文件不完善是很不好的做法，也會為他人帶來許多困擾。也請注意，建立參考資料不一定涉及產生新的實驗資料。透過蒐集、重新整理格式、整合、策展及註解既有資料來建立參考資料，是很可能、甚至很常見的做法。經過這些繁瑣的資料整理程序後，所產出的資料集便提供他人再次使用。有些這類資料庫，例如 UniProt，已成為所謂的核心資源，幾乎領域內所有人都會使用，並在新的研究中引用。因此，相較於個別新資料集，可引用性，以及資料本身與 API 等介面的專業版本控制，就更為重要。\n\n## 建議做法\n\n- 徹底查核是否已有參考資料；建立新的參考資料十分昂貴且耗時。\n- 查核您打算建立的資料類型，目前在社群中主要採用哪些格式與標準。\n- 列出資料庫中所指稱概念將使用的術語系統。\n- 充分重視資料基礎設施的建置、資訊通訊基礎設施的效能，以及在需要時維護與更新資料的能力。\n- 及早考慮與規模較大且專業的資料中心合作，由其建置、維護並支援參考資料。\n- 在研究計畫中，審慎編列建立及維護參考資料的預算。\n\n## 應避免的做法\n\n- 沒有明確的科學目的與需求，就建立參考資料。\n- 建立重複且不必要的參考資料。\n- 在可避免的情況下，仍將參考資料託管於自己的學術研究環境或基礎設施中。\n- 未經確認，就假定「其他人會接手」參考資料，並妥善維護。\n- 未制定適當的發布、更新、API 與版本控制政策方案，就建立參考資料。\n- 先建立資料，之後才發現它們可以或應該作為參考資料，卻未遵循正確程序。\n\n---\n\n[**開放科學的資料託管：第 1.12 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/42597e79-87d1-4755-9144-0053487e2898/title
 msgid "Is the data resource versioned?"
@@ -8900,11 +8900,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n數十年甚至數百年來，幾乎每項實驗都從蒐集或產生「觀察結果」開始，而這些觀察結果其實就是資料。在社會科學與人文學科中，「再次使用」先前各類調查所產生的資料，以及愈來愈多來自社群媒體等來源的資料，可能已是較成熟的做法。然而，在許多實驗性自然科學領域，為回答假說相關問題而專門產生新資料，仍然十分普遍，以致仔細思考是否真的需要新資料，可能根本未被納入考量。顯然，資料仍需要持續產生，但我們愈來愈必須問：要回答研究問題，這些新資料是否絕對必要？隨著愈來愈多資料以可再次使用的格式提供，很可能已有「他人的資料與服務」（OPEDAS）等資料集合，不需額外投入，或只需一些額外工作，就能回答至少部分問題，或至少對詮釋自己的資料至關重要。\n\n## 建議做法\n\n- 尋找可能可再次使用的資料集（OPEDAS），以減少需要新產生，且日後必須託管的資料集數量。\n- 搜尋時，也納入有註解的資料集合與經過策展的資料庫。\n- 查核找到的相關資料集，其取用條件與授權條款。\n- 查核其可相互操作性。資料可能相關，卻無法與您的分析管線相互操作。這時，您可能需要對資料進行擷取、轉換與載入（ETL），或判定資料雖然相關，卻無法再次使用於您的目的。\n- 確保使用 OPEDAS 不會限制日後對研究結果的任何使用，包括著作權，以及智慧財產權（IPR）相關的自由實施（freedom to operate）問題。\n- 查核如何引用 OPEDAS 及向其致謝。\n- 考量主動邀請 OPEDAS 擁有者參與研究，以充分利用其資料。\n- 與曾做過類似實驗的同事討論，了解有哪些可能值得使用的 OPEDAS。\n\n## 應避免的做法\n\n- 未盡可能透過各種途徑徹底查核，就假定沒有 OPEDAS。\n- 未與同事充分確認最佳做法及現有 OPEDAS，就開始實驗。\n- 在研究中編列資料產生經費，卻未向資助者說明為何有必要產生這些資料。\n- 未諮詢資料專家，就開始實際實驗。\n\n---\n\n[**開放科學的資料託管：第 1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/38a2a09e-2db1-4a6a-a657-e65e93d598af/title
 msgid "Where is it available?"
-msgstr ""
+msgstr "可以從哪裡取得資料？"
 
 #: resourcePage/38a2a09e-2db1-4a6a-a657-e65e93d598af/content
 msgid ""
@@ -8929,7 +8929,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料集，包括參考資料，可能以副本形式存放於不同位置，並適用不同的服務層級協議。成熟的「核心」資源通常訂有政策與永續維護方案，以確保資料能長期提供，並有妥善的版本控制。較小的資料集與資料庫，則可能未確保這些關鍵條件，因而帶來很大的風險。尤其當您決定使用自身專業領域以外的資料資源時，這個問題很容易被忽略。選用最容易有效取用、且能持續維護的資源，是明智的做法。使用未獲認可之儲存庫中的資料，確實會增加風險。如果您將這些資料用於實驗，後來卻因儲存庫下線或關閉取用等原因而無法再取得，後續實驗、可重現性及審查，都可能遇到問題。\n\n## 建議做法\n\n- 只有在盡可能確保資料能以相同條件「原則上無限期」持續提供時，才直接在線上使用資料。\n- 如果決定使用未獲認可來源的資料，請下載並在本地保留完整資料檔案，妥善記錄其溯源資訊。\n- 查核在線上使用資料與在本地使用資料，各自涉及的效能問題。\n- 檢查打算用於後續資料分析之工作流程的每個步驟，確認其支援資料的格式與提供方式。\n- 依預定的分析程序，確保具備或能取得開發臨時及客製工作流程的能力，以處理既有工作流程無法勝任的情況。\n\n## 應避免的做法\n\n- 假定在線上使用的所有 OPEDAS 資源，下次需要時都仍然存在，且格式不變。\n- 同一份資料已有 DSA 版本可用，卻使用來自非 DSA 資源的 OPEDAS。\n- 使用沒有服務層級協議（SLA）或永續維護方案的服務；這將危及研究的可重現性。\n\n---\n\n[**開放科學的資料託管：第 1.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/946a36eb-793e-4b22-af08-e21e77085d8f/title
 msgid "What Compute is needed?"
