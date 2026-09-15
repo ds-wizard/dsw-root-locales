@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 03:41+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 04:00+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7218,7 +7218,7 @@ msgstr "## 背景說明\n\n選擇最合適的分析方法與工具，大致超�
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/title
 msgid "Will you be building Kinetic Models?"
-msgstr ""
+msgstr "您是否會建立動力學模型？"
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/content
 msgid ""
@@ -7241,11 +7241,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n在動力學模型中，研究現象的時空要素至關重要。這表示，用於這類模型的資料，應盡可能附上豐富的時間（間隔）與空間座標資訊。相較於僅用於靜態假說、路徑或知識本體模型的資料，輸入動力學模型的資料，更需要豐富的溯源資訊，以及描述時空面向的後設資料。顯然，許多資料集原本並非為動力學模型而產生，日後卻可能用於這類模型。因此，無論資料是否專為動力學建模而產生，都應將所有時空參數視為日後再次使用資料時可能重要的資訊。也應清楚認知，「模型」本身同樣是研究物件，因此所有 FAIR 原則也都適用；若已有符合需求的模型，就不應另建新模型的原則，也同樣適用。\n\n## 建議做法\n\n- 務必詢問研究團隊，研究的資料分析步驟是否可能採用動力學建模。\n- 養成蒐集並附上「比您認為必要的還要豐富的後設資料」的習慣；您可以選擇不用，但未保留的資訊日後可能無法補救。\n- 若資料是專為動力學建模研究而產生，請特別注意，盡可能完整擷取與空間、時間（間隔）、體積、層級等有關的參數。\n\n## 應避免的做法\n\n- 輕率假定您的資料絕不會用於動力學建模。\n- 未與團隊討論資料可能用於動力學建模的情況。\n- 低估所需記錄的時間、空間與層級資訊應有的「細緻程度」。\n\n---\n\n[**開放科學的資料託管：第 6.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/67b3203a-f611-4894-9dc9-55051a240ff2/title
 msgid "Machine Learning?"
-msgstr ""
+msgstr "機器學習？"
 
 #: resourcePage/67b3203a-f611-4894-9dc9-55051a240ff2/content
 msgid ""
@@ -7267,11 +7267,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果您的分析將全部或部分採用機器學習，就必須了解，機器學習演算法主要根據「範例」輸入來「建立自己的模型」，從範例中「學習」，再利用「學得」的模型預測其他輸出，例如在新資料中辨識相似模式。這類演算法與那些「知道自己正在處理哪種資料類型」、因此被明確編程以可重現的方式遵循特定指令的演算法，有很大的不同。機器學習通常用於難以明確設計並編寫演算法的運算任務，這顯然會影響所需的資料品質。直覺上，您可能認為「機器自己會弄清楚」正在處理什麼，因此 FAIR 原則不太適用於作為機器學習輸入的資料類型。誠然，資料元素本身可能是「非結構化」的，例如 X 光影像，因此本身並不符合 FAIR 原則。然而，在這種情況下，作為後設資料一部分的註解，其品質與 FAIR 特性，可能比資料元素本身能直接由機器處理及「理解」時更為重要。例如，如果演算法是為了從影像中的模式與顏色學習而設計，則影像應歸入哪個類別的適當脈絡資訊就極為重要，並可成為機器可處理後設資料的一部分。因此，仍須明確區分前面定義的三類資料：內在後設資料、使用者自訂後設資料，以及資料元素（包括「原始」資料本身）。機器學習可以在後設資料與資料元素這兩個層級進行。\n\n## 建議做法\n\n- 明確區分後設資料與資料本身；機器學習可以在兩者上進行。\n- 確保分析工作流程能輕易選擇「納入」或「排除」後設資料與註解。\n- 在後設資料中清楚標示實際資料採用的檔案類型與資料模型，以及如何取用資料以進行機器學習。\n\n## 應避免的做法\n\n- 將後設資料與資料元素放在同一個檔案中，卻未明確區分；應能對兩者一起或分別進行機器學習。\n- 將實際資料與其後設資料分離到這種程度：學習演算法雖然找得到後設資料，卻很難在無人介入的情況下，處理後設資料所描述的「原始」資料。即使您認為原始資料不符合 FAIR 原則，因為無法「立即由機器處理」，特定演算法仍可能處理這些資料，包括文字探勘，以及其他處理非結構化資料的模式辨識演算法。\n\n---\n\n[**開放科學的資料託管：第 6.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9de91ed5-8998-4b26-8c5d-83e79e66e79e/title
 msgid "Will you use static or dynamic (systems) models?"
-msgstr ""
+msgstr "您是否會使用靜態或動態（系統）模型？"
 
 #: resourcePage/9de91ed5-8998-4b26-8c5d-83e79e66e79e/content
 msgid ""
@@ -7295,7 +7295,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n每一組原始資料，以及經過進一步處理的（關聯式）資料與資訊，都以某種資料「模型」記錄。我們將資料「模型」與資料「格式」加以區分，因為格式其實只是資料呈現的「形式」，例如 CSV、矩陣、RDF 等。然而，資料託管員必須仔細選擇資料「模型」，讓資料以最有意義、最容易理解，因而也最容易再次使用的方式呈現；尤其是模型本身應可由機器讀取與處理。這不僅涉及資料本身在格式與識別碼上的一致性。我們將這個議題放在詮釋與分析章節，正是因為它與「資料將用於什麼目的」密切相關。某項研究可能需要對資料重新建模，有時也包括將資料轉為另一種格式，或改變量測單位等。這再次凸顯適當註解（例如使用了哪些量測單位）與資料集溯源資訊的重要性。資料未來的使用者，可能將資料用於與最初產生資料的原因截然不同的目的。\n\n## 建議做法\n\n- 為您的資料仔細選擇最合適的資料模型。\n- 在後設資料中，詳盡說明資料模型的選擇、量測單位、使用的詞彙等。\n- 在後設資料中納入將資料或其元素轉換為其他模型或格式時，可能需要考量的事項。\n- 在假定資料確實可與其他資料進行整合分析之前，先仔細研究資料，尤其是 OPEDAS。\n\n## 應避免的做法\n\n- 尚未仔細確認是否已有合適的格式，就建立新的資料模型或格式。\n- 假定資料元素的性質及格式選擇，例如量測單位，都「不言自明」，因此不必明確說明。\n- 未仔細考量「進入分析工作流程」的不同資料模型之間的相容性與可相互操作性，就整合資料進行分析。\n\n---\n\n[**開放科學的資料託管：第 6.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1b4ea983-9b5c-4a81-80ed-44d30d30d204/content
 msgid ""
@@ -7321,7 +7321,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.6**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果詮釋過程涉及自動查詢參考資源，或使用文字探勘管線等方法，您就應了解，並讓團隊其他成員了解，前面所述與「使用 OPEDAS」相關的所有問題。OPEDAS 與工作流程可能經歷版本變更、擴充或策展等處理；即使流程是「自動化」的，這些變動仍可能大幅影響前後執行的結果。尤其當研究團隊多位成員使用這類查詢與詮釋管線時，所有人使用的每項工具與資源，都應是完全相同的版本。如果所有參與詮釋的人都使用您提供的標準化電腦，就更容易做到；但多數情況下，團隊分散在世界各地，可能使用線上版工具、網路服務或本機安裝的版本。如果未像最初擷取資料的儀器一樣，嚴格地校準並確保這些工具與資源一致，就可能引入重大錯誤。\n\n## 建議做法\n\n- 讓研究團隊充分了解詮釋過程中所有可預見的錯誤來源。\n- 確實掌握團隊中每一位參與詮釋過程的人員。\n- 確保所有人使用的每項詮釋工具與資源，版本都完全相同。\n- 確保相互操作過程中可能啟動的所有「自動化探索」管線都完全相同。\n- 記錄詮釋過程的每個步驟，並要求領域專家記錄所使用每項工具與資源的版本。\n- 為每個與詮釋相關的資料子集，記錄其建立者。\n\n## 應避免的做法\n\n- 相信領域專家已充分了解工具中的種種陷阱；對他們而言，這些工具可能只是「資料人員提供」的通用工具。\n- 自己也疏於管理工具與資源的版本，讓混亂情況更加嚴重。\n- 尚未查核所有相關工具與資源的完整性及版本，就彙整團隊中不同人員，或不同自動化系統的詮釋結果。\n\n---\n\n[**開放科學的資料託管：第 6.6 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1b472491-a686-406c-bca8-a450d6ad4584/title
 msgid "Data?"
@@ -8960,7 +8960,7 @@ msgstr "## 背景說明\n\n最常見的錯誤之一，是假定本地或外部�
 
 #: resourcePage/b06033d8-21d6-4b4b-b353-9a6073763d09/title
 msgid "Will you create images?"
-msgstr ""
+msgstr "您是否會產生影像？"
 
 #: resourcePage/b06033d8-21d6-4b4b-b353-9a6073763d09/content
 msgid ""
@@ -8984,7 +8984,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.15.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n影像帶來特有的挑戰。現代儀器產生的影像解析度高，且經常連續擷取，不僅需要大量儲存空間，也包含豐富的「內在資訊」，讓人類，有時也包括機器，能從中進行詮釋，甚至可能超出您目前的想像。在有脈絡的情況下，影像更容易被理解。因此，若需要將影像（例如醫療影像）匿名化或擬匿名化，請確保影像的產生或處理方式，不會讓日後無法執行這些程序。這裡最重要的，是將註解及後設資料與實際影像分開。\n\n## 建議做法\n\n- 與同事討論，是否需要向內部或外部研究人員提供未嵌入註解與後設資料的影像。\n- 即使影像沒有隱私問題，也應考量這一點；可能有科學上的理由，例如機器學習，需要保留在不嵌入註解與後設資料的情況下，使用及共享影像的能力。\n- 為影像附上豐富且符合 F.A.I.R. 原則的註解與後設資料，包括內在與使用者自訂後設資料（請見 [xxx] 及相關資源）。\n\n## 應避免的做法\n\n- 將註解或後設資料嵌入影像本身。這看似合理，因為它們便與影像「不可分離」；但實際上，這可能嚴重限制影像被再次使用於原定用途以外的目的。\n- 儲存影像時，未與相關後設資料及註解保持緊密連結；不過，也應確保需要時，隨時能將兩者分開。\n- 處理影像的後設資料與註解時，未達到一般資料集所要求的謹慎程度。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.15.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9992669b-26d3-4a20-9cb8-7a1f1c93699b/title
 msgid "Are there potential issues regarding data ownership and access control?"
