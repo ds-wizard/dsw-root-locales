@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 05:56+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 06:19+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7325,7 +7325,7 @@ msgstr "## 背景說明\n\n如果詮釋過程涉及自動查詢參考資源，�
 
 #: resourcePage/1b472491-a686-406c-bca8-a450d6ad4584/title
 msgid "Data?"
-msgstr ""
+msgstr "資料？"
 
 #: resourcePage/1b472491-a686-406c-bca8-a450d6ad4584/content
 msgid ""
@@ -7346,7 +7346,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.5.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n即使無法在傳統期刊上發表您的「負面結果」，支持結論的資料仍然可以獨立發布，並附上簡短文字，說明問題所在；即使實驗無法重現，或您主張先前的結果有誤，也是如此。以這種方式發布的資料必須符合 FAIR 原則，因為機器也應能得知爭議、負面結果及其他「資料警示」。將負面或有爭議的結果連結至原始論文的 DOI 很重要，因為某些服務便能自動在這些舊論文中加入「重新檢視」的註解，甚至能在 PDF 中顯示；例如 UTOPIAdocs。\n\n## 建議做法\n\n- 發布所有可靠的資料與結果，不論它們是否因為帶來新見解而被視為「正面」。事實上，知道「某件事不是真的或行不通」，也是有意義的新見解。\n- 將負面或有爭議的主張，以機器可讀的 nanopublications 形式發布，並推動其接受同儕評審。\n\n## 應避免的做法\n\n- 忽略負面結果，除非您能解釋為何這些結果不代表有效的新關聯或見解，例如檢視實驗設計或研究後，發現其中有根本缺陷。即使如此，造成設計缺陷的原因仍可能值得發表，因為這能避免他人重蹈覆轍。\n- 嘗試以傳統敘述文章或期刊發表負面結果，尤其是採發表前同儕評審的期刊；這只會帶來挫折。\n\n---\n\n[**開放科學的資料託管：第 7.5.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/57fc7d78-938e-430a-a3a9-31a1bd2889a3/title
 msgid "What will the IP be like?"
@@ -7401,7 +7401,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.12.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n參考資料集對於他人實驗與結果的詮釋、審查及可重現性，可能十分重要。因此，建立參考資料有助於研究資料的共同利益，而長期維護便是關鍵問題。常見的問題是，參考資料集最初是在專門的學術機構內以相當小的規模建立，直到產生這些資料的研究計畫接近結束，才開始處理永續性問題。一般而言，短週期的資助制度不足以保證參考資料等核心資源的長期永續性。因此，事先規劃參考資料的建立與長期維護，並審慎考量會影響日後「可維護性」的選擇，非常重要。這些選擇包括資料格式、自動化與人工策展的程度、資料基礎設施、預期使用者人數、網路容量，以及機構是否有能力或意願，在內部研究不再直接需要這些資料後，繼續維護「公共資源」。如果其中任何條件不利，您的資源長期而言反而可能讓使用者陷入困境，因為他們的部分科學論述仰賴您的資料，一旦資料無法取得，便會直接受到影響。\n\n## 建議做法\n\n- 與主管及機構徹底確認，是否能在研究計畫結束後繼續維護參考資料。\n- 向專業資料擁有者尋求建議，最好是管理比您打算建立的資料集更大規模資料的人，以妥善規劃支援基礎設施，以及策展與維護所需的投入。他人再次使用您的資料，可能帶來大量往來聯繫與支援工作，也可能帶來共同發表的機會，請與主管討論。\n- 與團隊、支援人員及主管具體討論維護方案，包括資料本身，以及適用時 API 與 GUI 的版本控制及發布方案，還有使用者支援方案。\n- 諮詢法律與授權專家，確保提供資料集的做法，在法律層面上能夠持續維持。\n- 對於維護參考資料資源的日常服務部分，盡可能與專業、有時是商業性的資料提供者合作。無論在經費取得方式或支援方面，都應嚴格區分「研究與創新」環境和日常服務部分。\n\n## 應避免的做法\n\n- 使用公帑建立可能成為參考資料的資料，卻打算不向其他研究人員開放，除非有非常明確且經得起檢視的理由。在研究計畫書中，您將愈來愈需要充分說明不開放資料的理由；不開放資料可能降低計畫獲選的機會。\n- 因為資料「顯然很有價值」，就假定「部門裡某個人」會接手長期託管。許多大學缺乏將對第三方「提供服務」納入常態工作的誘因。\n- 建立參考資料時，未盡最大努力讓資料元素本身及後設資料符合 F.A.I.R. 原則，並盡可能使其可由機器處理。\n\n---\n\n[**開放科學的資料託管：第 1.12.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b0c16c49-0dd8-4652-ab7a-cf9a3aafc85b/title
 msgid "What is the volume of the anticipated data set?"
@@ -8373,7 +8373,7 @@ msgstr "## 背景說明\n\n確切掌握實驗或研究預計產生的資料類�
 
 #: resourcePage/623c9c25-b0c0-4838-a8e7-26c06a3b708d/title
 msgid "Where does the data come from? Who will need the data?"
-msgstr ""
+msgstr "資料來自哪裡？誰會需要這些資料？"
 
 #: resourcePage/623c9c25-b0c0-4838-a8e7-26c06a3b708d/content
 msgid ""
@@ -8403,7 +8403,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 3.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料擷取後的用途，可能大幅影響擷取前及擷取過程中的決策。無論何種情況，都應在實驗條件或研究限制下，盡可能提高資料品質。不過，有些資料產生時只為了十分有限的用途，例如校準實驗；有些則是為了廣泛再次使用，例如為生物多樣性研究中的參考族群定序，或蒐集氣候變遷的資料點。如前所述，有時也會用於受到嚴格規範的用途及認證。為了支援這些擷取後的程序與需求，應在實際擷取資料前，審慎考量所需後設資料的豐富程度，並在擷取過程中持續監測。\n\n## 建議做法\n\n- 與計畫主持人及團隊討論資料的確切來源與用途。\n- 提醒團隊，也必須預先考量資料原始用途以外的使用方式。\n- 在實驗與機構條件允許的範圍內，擷取盡可能豐富的後設資料；寧可日後捨棄部分後設資料，也不要到時才後悔沒有擷取。\n- 清楚區分實驗結果中，哪些資料原則上可以符合 FAIR 原則，亦即可由機器處理，哪些則本身不是機器可讀的。後者的例子包括環境樣本、組織樣本、生物標本、錄音、影片、自由文字等。\n- 盡最大努力，為不符合 FAIR 原則的實驗結果，附上豐富且符合 FAIR 原則的後設資料、註解及溯源資訊，不論這些結果本身日後是否可能符合 FAIR 原則。\n- 完整列出資料產生過程涉及的試劑、感測器、工作流程、機器及其他「研究物件」。\n- 與團隊議定研究流程中每個步驟所需的後設資料程度。\n- 記錄過程中使用的所有研究物件及試劑的批次與版本編號。\n- 仔細查核團隊或其他地方的先前實驗，是否已確立資料擷取、儲存與交換格式。\n- 以數位格式備份所有後設資料，即使這些資訊也已寫在試管上。為每個樣本編配 PID，並建立該 PID 與實際樣本之間的連結；如果能將 PID 持久地刻在樣本容器上，顯然是最佳選擇。\n\n## 應避免的做法\n\n- 因為實驗結果或物件本身無法被機器找到與處理，就從字面意義上認為它們「不公平」（unfair）。它們是重要的科學研究物件，只是其性質使機器，甚至在許多情況下連人類，都無法在未經中間步驟的情況下直接使用；例如，組織樣本可能裝在冷凍櫃中的塑膠試管裡。然而，描述這些樣本的後設資料至關重要，能讓樣本或樣本集合可被找到、經中間步驟可被取用、經處理後可相互操作，最終得以被他人再次使用。\n- 假定樣本或資料最初產生時的用途，就是它們往後唯一的用途。相反地，應盡可能想像其他未來用途。\n- 將後設資料與不符合 FAIR 原則的資料及樣本分離到超出必要的程度；應盡可能降低混淆的機會，例如冷凍櫃中試管上的標籤脫落。\n\n---\n\n[**開放科學的資料託管：第 3.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/84d60191-a6d2-4719-aaa3-d5a11f8a6f71/title
 msgid "Will this step need significant storage and compute capacity?"
@@ -8661,7 +8661,7 @@ msgstr ""
 
 #: resourcePage/6fb3d280-2bff-4f4c-906a-15ccd976e371/title
 msgid "What service to be offered around your data?"
-msgstr ""
+msgstr "您將提供哪些與資料相關的服務？"
 
 #: resourcePage/6fb3d280-2bff-4f4c-906a-15ccd976e371/content
 msgid ""
@@ -8686,7 +8686,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.4.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果您決定不只以「靜置」方式發布資料，或在自己的機構內典藏資料，就必須審慎管理研究團隊及其他人對資料發布後所提供服務層級的期待。即使不選擇在內部提供 HPR 服務，請外部提供者以 HPR 狀態供應您的資料，也可能涉及可觀的成本。這是相對新興的領域，可能經常變動，因此，定期查看新出現的選項，以便在 HPR 環境中保有一份「使用中」的資料副本，可能是明智的做法；也請參考外部資源。\n\n## 建議做法\n\n- 無論決定在內部或外部託管資料，都應審慎考量希望搭配資料提供哪些服務。\n- 若決定託管可供主動再次使用的資料，請確保有足夠資源支援所選的 HPR 環境。\n- 確保所提供的服務、分析工作流程等，本身也符合 FAIR 原則。\n- 加入描述資料「狀態」的後設資料，說明資料是否可「立即」再次使用。\n- 說明資料是否能在「靜置」及 HPR 環境中取用，以及各環境的位置。\n\n## 應避免的做法\n\n- 將靜置資料的儲存庫稱為 HPR 環境。\n- 向他人承諾可以「再次使用」您的資料，卻未說明條件，包括資料提供時的「狀態」，例如已典藏或處於 HPR 環境。\n- 資料雖然本身品質很高，卻存放於品質不佳的儲存庫，或處於難以相互操作的狀態，仍期待它們被頻繁再次使用與引用。\n\n---\n\n[**開放科學的資料託管：第 7.4.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ba9f7cd9-d563-4243-8ebb-692193150cfb/title
 msgid "How much will be Open data/access?"
@@ -8780,7 +8780,7 @@ msgstr ""
 
 #: resourcePage/322e08ae-34b2-4a97-81f8-722a2d50f76e/title
 msgid "Will you publish a narrative?"
-msgstr ""
+msgstr "您是否會發表敘述文章？"
 
 #: resourcePage/322e08ae-34b2-4a97-81f8-722a2d50f76e/content
 msgid ""
@@ -8802,7 +8802,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.5.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n先說明：本節提出的論點，主要適用於專業的科學溝通；不過，任何文字，包括本書，若能納入其中許多考量，應該都會有所助益。如前所述，敘述文章，也稱為「論文」，在可預見的未來很可能仍會存在，因為它們依然有價值。電腦不容易掌握修辭表達與論證，因此，雖然敘述本質上具有歧義，因而不符合 FAIR 原則，仍需要透過敘述向人們解釋：從資料中辨識出什麼、資料如何產生，以及結論的依據。這些內容，包括方法等，已有愈來愈多部分可以用機器可處理的格式記錄，成為機器可處理的 FAIR 生態系統的一部分。然而，資料仍然需要搭配「補充敘述文字」；顯然，只要科學過程中仍有人類思考的參與，描述整個領域等主題的綜述文章，就始終會有其作用。不過，無論在預定發布內容的哪個部分撰寫敘述，都應注意*絕不*在文中引入有歧義的符號與表達方式。使用同義詞及優美修辭的敘述，對人們而言可能更有閱讀趣味，但通常無助於明確而直接的科學推理，反而會使其模糊。更重要的是，文字本來就因語言的本質而難以供機器閱讀及進行文字與資料探勘，這些寫法更使問題雪上加霜。未解釋、卻有多重意義的縮寫（同形異義詞），還自認*大家會懂我的意思*，以及頭韻、巢狀句型，或像「[概念 1、2、3、4 和 5 都與表 5 中的概念 6 有關]」這類句子，都是文字中*絕對不當的做法*。事實上，若要自行檢查附加於資料的敘述是否足夠明確，一個很好的練習，就是盡可能「也」以機器可讀格式表達這些文字，並與原文一同發布。這表示，即使您交替使用「intellectual disability」與「mental retardation」等詞，或以同一個符號表示某個基因及其對應的蛋白質，機器及人類至少仍可查看機器友善版本中使用的唯一識別碼，以「了解」您的實際意思。這項練習也迫使您盡可能精確、合乎邏輯地組織推理，因此也能提升文字品質。此外，提及設備、試劑與方法時，應將用語連結至唯一識別碼，並避免使用不明確的詞語、行話等。那些即使嘗試過，仍無法以機器可讀格式表達的句子，很可能正是敘述中不可或缺的部分，用來向他人解釋「如何、為何，以及依據什麼」。\n\n## 建議做法\n\n- 盡最大努力，讓需要撰寫的任何敘述都盡可能直接且無歧義，使機器與人類都更容易閱讀。科學文字不是為了休閒閱讀或娛樂，而應盡可能服務於明確無歧義的科學與學術溝通。\n- 只有在溝通對象是人時才使用敘述；若使用者很可能是機器，就不要使用。將敘述量減至傳達方法、推理與論述所需的最低程度。我們已被大量文字淹沒，要跟上「文獻」，每天恐怕得閱讀七十個小時。\n\n## 應避免的做法\n\n- 除非無法避免，否則使用未定義的縮寫或同義詞。\n- 寫出超過有效傳達重點所需的文字，哪怕只多一行。\n- 在機器可讀且可處理的格式也能完成任務時，仍使用文字；別擔心，剩下的文字仍然夠多。\n\n---\n\n[**開放科學的資料託管：第 7.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/63a749b0-ab6c-4c7b-a46b-e0eae2f06bda/title
 msgid "Will you use Pre-existing data (including OPEDAS)?"
