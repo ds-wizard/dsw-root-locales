@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 04:21+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 05:30+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7696,7 +7696,7 @@ msgstr "## 背景說明\n\n許多資料集，尤其是參考資料資源，可�
 
 #: resourcePage/ac0c34f7-9ba8-4180-abb9-19cdb45620a8/title
 msgid "Will you be storing physical samples?"
-msgstr ""
+msgstr "您是否會存放實體樣本？"
 
 #: resourcePage/ac0c34f7-9ba8-4180-abb9-19cdb45620a8/content
 msgid ""
@@ -7724,7 +7724,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.13**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n這裡將「生物樣本庫」定義為任何包含生物樣本或生物參考樣本的蒐藏。顯然，大多數生物樣本庫都是為研究目的而建立。如果樣本來自人體，或因其他原因涉及倫理與隱私考量，託管方面的問題就相當重要。您可能已注意到，這裡的「託管」一詞並未搭配「資料」。雖然我們可以主張，組織樣本也是某種「資料」，但由於它並非數位資料，這裡會將實體樣本的討論，與生物樣本庫相關的資料託管分開。生物樣本庫領域的組織與協作比許多其他領域完善，因此，這裡不會涵蓋生物樣本庫及庫內樣本託管的所有問題；相關資訊可見本節的「資源」。不過，仍須強調，樣本與整個生物樣本庫蒐藏的「註解」及後設資料，都應像其他資料一樣符合 F.A.I.R. 原則。\n\n在許多情況下，生物樣本庫及其所含蒐藏的概括後設資料可以「開放」，而樣本的詳細資訊與樣本本身的取用，則因明確的理由受到嚴格管控與限制。\n\n## 建議做法\n\n- 與機構內的專家徹底確認，所屬機構是否已有生物樣本庫及相關基礎設施。\n- 向專業生物樣本庫的擁有者尋求建議；他們管理的樣本與資料集，很可能比您打算建立的更大。藉此妥善規劃支援基礎設施，以及策展與維護所需的投入。他人再次使用您的樣本與資料，可能帶來大量往來聯繫與支援工作，也可能帶來共同發表的機會，請與主管討論。\n- 與團隊、支援人員及主管具體討論蒐藏維護方案，包括樣本、註解及後設資料的版本控制與發布方案，以及使用者支援方案。\n- 諮詢法律與授權專家，確保提供樣本與資料集的做法，在法律層面上能夠持續維持；處理知情同意的可用方式，請見「資源」。\n- 對於維護參考樣本及資料資源的日常服務部分，盡可能與專業、有時是商業性的基礎設施與資料提供者合作。無論在經費取得方式或支援方面，都應嚴格區分「研究與創新」環境和日常服務部分。\n- 確保具備完善的永續維護方案。\n\n## 應避免的做法\n\n- 使用公帑建立生物樣本庫，卻打算不向其他研究人員開放，除非有非常明確且經得起檢視的理由。在研究計畫書中，您將愈來愈需要充分說明不開放蒐藏，尤其是不開放其後設資料的理由；不開放資料可能降低計畫獲選的機會。\n- 因為樣本與資料「顯然很有價值」，就假定「部門裡某個人」會接手長期託管。許多大學缺乏將對第三方「提供服務」納入常態工作的誘因。\n- 建立參考樣本與資料時，未盡最大努力讓註解元素本身及整體後設資料符合 F.A.I.R. 原則，並盡可能使其可由機器處理。\n\n---\n\n[**開放科學的資料託管：第 1.13 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/93b54fa8-a2f2-4f32-b081-1fbe293f0a5e/content
 msgid ""
@@ -8504,7 +8504,7 @@ msgstr ""
 
 #: resourcePage/a272393c-5298-444e-8eb8-fdec0d965720/title
 msgid "Tools and data Directory (for the experiment)"
-msgstr ""
+msgstr "實驗工具與資料目錄"
 
 #: resourcePage/a272393c-5298-444e-8eb8-fdec0d965720/content
 msgid ""
@@ -8529,7 +8529,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n實驗中使用的所有工具、工作流程與資料集合，都應列入完整目錄，讓研究團隊所有成員隨時可以取用。\n\n在研究與資料週期的資料處理階段，除了應避免讓自己成為單點失效的風險，也應為每項實驗使用的所有資料處理工具，維護專業且容易取用的目錄；這十分重要，也能節省時間。最好的做法是建立總目錄，提供工具及其元件完整的後設資料與溯源資訊。每項工具或元件，包括各個不同版本，都應有唯一識別碼。如此，每項實驗都能透過這份總目錄，指明實際使用哪些工具，以及在何時、如何使用。這對分散式研究計畫尤其重要。請選取部分工作流程與資料的組合，在所有基礎設施上執行，以確保一致性。讓管線能在不同工作空間間移植，最終可採用 VM 類型的容器，有助於降低分散式團隊在不同子工作空間中產生不同結果的風險。\n\n## 建議做法\n\n- 為所有實驗使用的全部工具維護總目錄，並確保團隊成員都知道這份目錄。\n- 確保所有團隊成員都能取用目錄，並在實驗室筆記本及其他需要的場合適當引用。\n- 確保目錄足夠穩定且專業，能作為正式的工具資源庫，供審查與可重現性檢查使用。\n- 為工作流程錯誤制定應變方案，納入替代選項，例如叢集、網格或雲端。\n\n## 應避免的做法\n\n- 在資料上執行工作流程，卻未引用目錄中該工作流程的通用描述。\n- 執行工作流程時，未記錄使用的確切版本；較好的做法是讓總目錄中每項工具的每個版本，都有自己的 PID。\n- 在總目錄中用自己的文字描述第三方工具，卻未提供足夠的後設資料、溯源資訊與連結，讓所有團隊成員都能追查工具的來源。\n---\n\n[**開放科學的資料託管：第 4.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/title
 msgid "Will you use a workflow e.g. with tools for database access or conversion?"
@@ -9289,7 +9289,7 @@ msgstr "## 背景說明\n\n您的研究可能需要建立全新的研究材料�
 
 #: resourcePage/ec35cc78-8924-487a-9ab7-04a31fa3188a/title
 msgid "Will you be collecting experimental data?"
-msgstr ""
+msgstr "您是否會蒐集實驗資料？"
 
 #: resourcePage/ec35cc78-8924-487a-9ab7-04a31fa3188a/content
 msgid ""
@@ -9311,7 +9311,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.14**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n請注意，回答某個研究問題需要「全新產生」的實驗資料，已不再是不言自明的事。文獻中愈來愈多例子 [references] 顯示，完全依據 OPEDAS 也能有新發現。產生新的實驗資料十分昂貴且耗時，因此，嚴格檢視是否有必要這麼做，是支援科學發現的良好資料託管不可或缺的一部分。對資料驅動的科學家而言，充分利用 OPEDAS 應是預設態度。不過，在許多情況下，您仍可能需要透過實驗、問卷或其他觀察，建立通常相對較小的資料集。此時，新資料必須能與詮釋它們所需的 OPEDAS「溝通」，並讓機器與工作流程能將兩者一起處理。因此，設計實驗或研究時，除了通常的統計與方法考量之外，資料如何擷取、格式化與發布，也是 D4D 的重要考量。資料託管員應從任何研究的設計階段起，就被視為不可或缺的專業同事。再次強調，資料託管並不只是服務日後將您的資料作為 OPEDAS 的其他人；當新資料能納入標準化的格式與工作流程時，分析及詮釋也會容易、有效且可重現得多。\n\n## 建議做法\n\n- 認真尋找能充分利用所屬機構或聯盟既有研究資料蒐集基礎設施的機會，並記錄這個過程。\n- 確保新的資料集合符合保護資料、確保品質與保存所需的所有準則。在可能的情況下，所有資料都應符合 F.A.I.R. 原則（例如請見第 1.13 節）；所有註解與內在後設資料，則務必遵循一般參考資料適用的 F.A.I.R. 原則（請回顧第 1.12 節）。請將資料集合登錄於既有資料目錄之一（請見相關資源）。\n\n## 應避免的做法\n\n- 假定自己的資料絕不會被當作 OPEDAS，甚至是參考資料使用，因此「個人化的資料託管」就可以接受；這裡以此比喻獨自任意處理資料的做法。\n- 使用公帑建立孤立、且可能無法持續維護的資料集，卻缺乏適當基礎設施，以及符合 F.A.I.R. 原則的註解與後設資料。即使只供自己的研究使用，這些條件也十分重要；而在法律允許的範圍內盡可能共享資料，本就是預設做法。缺乏符合 F.A.I.R. 原則的後設資料，會嚴重妨礙資料共享。\n- 未取得適當的統計與資料分析專業建議，就產生超過或少於研究合理需求的資料。應向機構內的專家諮詢；若機構內沒有相關專家，則向研究聯盟或其他地方尋求協助。\n\n---\n\n[**開放科學的資料託管：第 1.14 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1c0e3ab6-0dfa-4120-ad09-b0ca625ece79/title
 msgid "Is your institutes' security sufficient for storage?"
@@ -9495,7 +9495,7 @@ msgstr "## 背景說明\n\n儲存問題不一定會隨資料的位元組數呈�
 
 #: resourcePage/f22c6f41-ca5b-42f8-a066-0e251b726755/title
 msgid "Case report forms?"
-msgstr ""
+msgstr "個案報告表？"
 
 #: resourcePage/f22c6f41-ca5b-42f8-a066-0e251b726755/content
 msgid ""
@@ -9521,7 +9521,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 3.2.1.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n個案報告是一種特殊的資料來源。個案報告常見於醫學，也見於生物多樣性與環境研究，甚至包括執法人員日常工作中的個案報告。建立報告的人不一定將它們視為「研究物件」，而更常將其視為內部報告用途的例行紀錄。然而，其中許多報告日後會成為研究物件。研究人員可能基於各種理由蒐集這些報告，希望從中找出模式、趨勢與證據。\n\n因此，在許多情況下，您取得的就是這些資料來源原本的樣貌，必須將其當作*本質上不夠理想*的原始資料處理。文字探勘，以及由文字或結構化資料檔案原作者以外的人進行的人工詮釋，都可能引入更多變異來源。因此，必須讓團隊為這些變異來源做好準備。雖然有些變異無法避免，但只要有可能預防，就應盡力預防。例如，團隊應針對如何處理個案報告中的模糊用語，制定清楚的策略，並盡可能在分析前將所有內容對映至標準詞彙。若歧義可能影響結果，應盡可能與個案報告的原作者建立回饋機制。團隊中人工詮釋的差異應加以研究及記錄；用於從文字擷取結構化資訊的文字探勘程式，其精確率（precision）與召回率（recall）也應說明並納入後設資料。任何這類變異來源，都應完整納入後設資料與程序說明。文字探勘工具將內容錯誤對映至概念 PID，是非常常見的錯誤來源；只要分析管線涉及文字探勘，就應仔細研究並記錄這個問題。\n\n## 建議做法\n\n- 讓研究團隊充分了解，對個案報告等結構化與非結構化研究資料來源進行*事後*詮釋時，可能有哪些變異與錯誤來源。\n- 將無法控制的人類行為與詮釋，納入整體研究計畫的研究及記錄範圍。\n- 與團隊制定清楚的方案，說明在這類*事後*研究中，如何校正、正規化，以及考量已知的變異來源。\n\n## 應避免的做法\n\n- 將*事後*才成為研究用途的物件，也就是原本並非為特定研究而建立的物件，等同於專為研究目的精心建立的研究物件、資料與資料來源。\n- 假定兩個人會以相同方式詮釋同一個非結構化資料來源，例如一段文字。\n- 低估人類撰寫文字中的大量歧義。人們習慣用不同的同義詞指稱同一概念，認為這樣能讓文字對他人而言更易讀、更有趣；也傾向使用專門用語、縮寫及其他含糊符號，指稱在自身脈絡中「顯而易見」的概念。但對後來的讀者而言，這些表達並不明確，更不用說對機器而言。\n- 假定機器在探勘及自然語言處理後，對自由文字的詮釋，或對影像與音訊檔案的詮釋，已接近毫無錯誤。對原本供人類使用的研究物件進行機器詮釋時，仍需要大量檢核措施，才能降低其引入的錯誤。\n\n---\n\n[**開放科學的資料託管：第 3.2.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/a84c1453-c473-43ec-b341-e6158a42dd7b/title
 msgid "How frequently will you archive data?"
@@ -9553,7 +9553,7 @@ msgstr "## 背景說明\n\n是否將資料典藏以供自己或他人日後再�
 
 #: resourcePage/3669801c-e67f-4026-94fe-719c6c7ac70c/title
 msgid "Is there (critical) software in the workspace?"
-msgstr ""
+msgstr "工作空間中是否有（關鍵）軟體？"
 
 #: resourcePage/3669801c-e67f-4026-94fe-719c6c7ac70c/content
 msgid ""
@@ -9580,7 +9580,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.6**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如前所述，在資料驅動的科學中，資料與「軟體」（可執行程式碼）之間的界線已相當模糊。因此，在許多情況下，實驗工作空間中會同時存放您*全新產生*的研究資料、OPEDAS，以及用來處理與分析資料的軟體套件。\n\n這表示，可執行程式碼這類「主動式資料」（active data）對工作空間的影響，可能不同於「靜態」資料。未獲妥善支援的開放原始碼軟體套件，可能嚴重干擾工作空間，造成各種問題。此外，工作空間中使用的軟體可能附帶某些授權條款，使處理後的資料無法用於原先設想的目的。因此，首先必須注意，不能將載入並掛載於使用中工作空間、供處理與分析的資料，算作安全保存的「其中一份副本」，更不能視為備份。基本態度應是預期工作空間中持續使用的資料，終究會因非預期事件而毀損或遺失。然而，軟體本身在執行時也可能毀損，需要從其他來源還原，才能重新執行處理與分析。\n\n## 建議做法\n\n- 為掛載於工作空間的資料與軟體，保留「靜態」且安全的備份。\n- 定期檢查工作空間中資料元素的完整性，避免資料、軟體或程序毀損而產生非預期結果。未被察覺的事件可能嚴重拖慢實驗、分析與資料詮釋的正常進行；身為資料託管員，您不能指望研究團隊其他成員一定會注意到。\n- 確保軟體與工作流程的版本，包括詞彙服務等外掛程式，不會意外改變；學術界經常因變更內容卻未通知可能的外部使用者而受批評。\n- 將工作空間視為一個「獨立」且有明確使用期間的環境，在其中使用穩定的資料，執行穩定的程序；例如，不要遠端掛載您無法控制之網路服務中的敘詞表。\n- 詳細記錄在特定時間執行特定程序所使用的全部元素，包括資料與軟體，其版本及潛在問題。基本上，應將工作流程系統的每次執行視為一個「批次」，並賦予唯一識別碼及豐富的溯源資訊。\n- 確保隨時都能安全且迅速地從典藏還原出「相同」的工作空間，但每次仍須使用新的「批次」識別碼。\n\n## 應避免的做法\n\n- 將使用中的工作空間，以及其中的資料與軟體，視為資料的「另一份備份」。\n- 從工作空間產出資料並交回團隊時，未提供經仔細監控且詳加說明的溯源資訊及批次識別碼。\n\n---\n\n[**開放科學的資料託管：第 2.6 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/da3cb798-46be-4f4f-9f76-58c265cbc25b/title
 msgid "Do you have non-equipment data capture? (questionnaires, free text etc.)"
