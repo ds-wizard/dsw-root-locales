@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 04:00+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 04:21+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7073,7 +7073,7 @@ msgstr "開放科學的資料託管"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/title
 msgid "Submit to an existing database?"
-msgstr ""
+msgstr "是否要提交至既有資料庫？"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/content
 msgid ""
@@ -7098,7 +7098,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.4.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n在某些情況下，將您的資料加入既有集合，例如國際典藏庫，可能是明智的做法。愈來愈多資助機構與出版者也會提出這項要求。這個過程本身通常相當直接，因為這類公共典藏庫通常由專責機構或聯盟維護，並訂有規則、規範及格式要求，許多也提供清楚的資料上傳與取回說明。請注意，其中有些環境是「靜置」、無法相互操作的典藏庫，或僅供人類再次使用；有些則可能屬於 HPR 環境。對資料產生者而言，兩者可能帶來截然不同的挑戰；也請參考前面針對持續增加或變動的資料集與資源，所討論的更新及版本控制問題。\n\n進一步要考量的是，您是否將自己的資料視為可供策展的「參考」資料，並納入 UniProt 等核心資料資源。在這種情況下，程序可能相當不同，通常應主動與核心資料資源的託管員互動。目前，許多這類資源仍須透過*人工目視擷取*（閱讀），或文字與資料探勘，費力取得要納入策展及加值資源的資料；這兩種方法都很繁瑣，也容易出錯。以適當且無歧義的格式，將您的資料*直接加入*這些核心資源，是良好資料託管實踐的一部分。\n\n## 建議做法\n\n- 務必考量資料的「潛在參考價值」，例如自己的新發現能否豐富 Chembl、UniProt 或 Earthcube 等參考資料來源。\n- 將全部或部分資料提交至合適的「典藏庫」；在適當時，也將選定的資料提供給核心參考資料庫。\n- 使用這些資料資源要求的正確格式與標準，必要時與其聯絡。\n- （請參閱網站中按類別列出的資源、資料庫等？）\n\n## 應避免的做法\n\n- 僅將資料作為文章的「補充檔案」發布，就假定典藏庫、HPR 環境與核心參考資料庫的託管員會自行找到並使用。\n- 上傳資料至這些資源時，未附上適當的後設資料與溯源資訊。\n\n---\n\n[**開放科學的資料託管：第 7.4.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/title
 msgid "How will you document your interpretation steps?"
@@ -8197,7 +8197,7 @@ msgstr "## 背景說明\n\n工作流程能否隨時間推移仍保持穩定，�
 
 #: resourcePage/c7356236-356f-43cc-9bc8-7c1e09c84634/title
 msgid "Re-use considerations: Will the archive need to be online?"
-msgstr ""
+msgstr "再次使用考量：典藏庫是否需要保持在線上？"
 
 #: resourcePage/c7356236-356f-43cc-9bc8-7c1e09c84634/content
 msgid ""
@@ -8221,7 +8221,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n「離線」典藏庫，當然仍須在線上提供符合 FAIR 原則的後設資料，與在線上提供、可立即再次使用的資料典藏庫，兩者有很大的差異。實際上，較好的做法是將「典藏庫」一詞保留給這種情況：實際資料處於「離線」狀態，使用者透過符合 FAIR 原則的後設資料找到資料後，可以從典藏庫取回，並「依需求提供再次使用」。這類典藏庫應與「高效能再次使用」（HPR）環境區分；後者將資料維持在適合頻繁再次使用的格式。HPR 環境對提供資料之基礎設施的頻寬、持續運作時間與支援，有高得多的要求。\n\n## 建議做法\n\n- 務必區分依請求取回資料供再次使用的「離線典藏」，與「高效能再次使用」（HPR）環境。\n- 了解後者的成本可能比前者高出一個數量級。\n- 為資料最初產生與詮釋所涉及的實驗及分析結束後，採用上述任一形式的「典藏」編列足夠預算。\n- 考量使用者可能需要全天候取用資料；這通常超出學術機構的能力與職責範圍。\n\n## 應避免的做法\n\n- 除非有充分理由預期或有證據顯示資料將被頻繁再次使用，否則將資料長期放在 HPR 環境中。\n- 假定只要把資料「放在某處讓人下載」，就算提供資料供再次使用。提供可再次使用的資料，也伴隨資料託管責任，有時還會帶來許多問題，您必須事先做好準備。\n- 在沒有明確授權與人員配置的情況下，將自己的團隊視為「本地 HPR」節點。您可能需要編列預算，將資料「移交」給可信賴且專業的儲存庫或 HPR 環境。\n\n---\n\n[**開放科學的資料託管：第 2.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5333b844-4ba4-4d8d-a039-f4473e1d2b07/title
 msgid "Will the data be understandable after a long time?"
@@ -9265,7 +9265,7 @@ msgstr "## 背景說明\n對於研究蒐藏中的樣本或其他實體物件，�
 
 #: resourcePage/e02e64fc-2df5-4162-aae7-deafb1739932/title
 msgid "Will your data and samples be added to an existing collection?"
-msgstr ""
+msgstr "您的資料與樣本是否會加入既有蒐藏？"
 
 #: resourcePage/e02e64fc-2df5-4162-aae7-deafb1739932/content
 msgid ""
@@ -9285,7 +9285,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.13.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n您的研究可能需要建立全新的研究材料蒐藏或生物樣本庫；但在許多情況下，將樣本及相關註解與後設資料加入既有環境，可能更有效率，也更能持續維護。需要建立全新蒐藏的原因，可能是樣本與資料過於敏感，依法不能離開所屬機構，而機構尚未設置任何「生物樣本庫」。在這種情況下，首先必須仔細考量這個蒐藏能否持續維護。如果機構內其他人至今都未認為有必要建立可持續維護的研究蒐藏，您的研究結束後，資料與樣本又會如何處理？審查者將愈來愈常在審閱研究計畫書的資料託管部分時，提出這個問題。因此，如前所述，應先仔細了解所屬機構或研究聯盟既有的生物樣本庫建置工作。如果您認為有充分且經得起檢視的理由，應建立全新蒐藏，而非在既有基礎設施中加入子蒐藏，請盡可能採用此領域相關國內及國際聯盟，為專業生物樣本庫所建立的通用準則與基礎設施（請見相關資源）。\n\n## 建議做法\n\n- 認真尋找能充分利用所屬機構或聯盟既有研究樣本蒐藏基礎設施的機會，並記錄這個過程。\n- 確保既有或新建的蒐藏，符合保護樣本、確保品質與保存所需的所有準則；所有註解與內在後設資料，也應遵循一般參考資料適用的 F.A.I.R. 原則（請回顧第 1.12 節）。請將蒐藏登錄於既有目錄之一（請見相關資源）。\n\n## 應避免的做法\n\n- 使用公帑建立孤立、且可能無法持續維護的生物樣本庫，卻缺乏適當基礎設施，以及符合 F.A.I.R. 原則的註解與後設資料。即使只供自己的研究使用，這些條件也十分重要；而在法律允許的範圍內盡可能共享資料，本就是預設做法。缺乏符合 F.A.I.R. 原則的後設資料，會嚴重妨礙資料共享。\n\n---\n\n[**開放科學的資料託管：第 1.13.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ec35cc78-8924-487a-9ab7-04a31fa3188a/title
 msgid "Will you be collecting experimental data?"
@@ -9406,7 +9406,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.1.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n長期典藏與保存，和資料產生後立即用於實驗程序的「短期使用或再次使用」，有明確的區別。即使只是短期使用，資料也需要儲存並在不同地點備份，同時妥善考量安全性與取用問題。\n\n不過，一旦決定長期保留可再次使用的資料，這些問題的規模就會擴大。他人日後使用資料的條件，可能在法律或實務上，不同於資料原定用途的使用方式。因此，必須考量取用、是否持續可用，以及許多其他問題。在設計與規劃產生資料的實驗時，就預先考量長期保存及再次使用相關的問題，並將其預算納入資料託管方案，是良好實踐。\n\n## 建議做法\n\n- 將資料視為「可供長期再次使用，除非……」。人們很容易假定，資料即使量不多，也只對產生資料的個人或小團隊有用。然而，即使您正確判斷這些資料絕不會用於其他實驗，最基本的要求仍是讓他人可以取得，包括要求重新執行實驗或分析工作流程的審查者。\n- 務必持續提供資料集的持續識別碼。即使資料已被認為不再有用，因而下線甚至銷毀，仍須讓人能追查這個資料集曾經存在，且可能已被他人引用的事實。\n- 持續更新資料集的後設資料，確保資料隨時間的變化與去向，包括再次使用情況，都可追查。決定不再保存資料時，強烈建議建立「說明檔」，描述資料原本的內容，以及為何將其下線。\n\n## 應避免的做法\n\n- 假定長期保存是「以後再煩惱」的事，等到發現資料「原來還是有價值」，才要求資訊通訊同事提供*臨時*且緊急的解決方案，讓他們困擾。\n- 儲存任何資料集，無論大小，卻未為其取得已登錄的持續識別碼（PID），例如 DOI。\n- 等到資料進入保存階段才取得識別碼；應將這件事納入資料產生時的例行程序。\n- 讓資料隨時間改變，即使只是位置變動，卻未確保資料仍可被找到及可被取用。\n\n---\n\n[**開放科學的資料託管：第 2.5.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/e251aaa2-2ef8-4fe2-9c0e-45901aa29029/title
 #, fuzzy
@@ -9437,7 +9437,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n「典藏」一詞通常用來指資料從原本產生它的研究計畫中「退休」的過程。然而，在資料驅動的科學時代，這些資料隨時都可能被「召回」。這裡仍將「典藏」用於資料在原研究計畫中的密集使用期結束後所進行的處理。僅為保存而進行的典藏，姑且稱為「寫入磁帶」，或許能維持資料完整且可還原，卻不一定能立即再次使用。\n\n只要符合 FAIR 原則的後設資料仍對外提供，且人類與機器都能「找到資料」，並了解其可取用程度，例如需要從磁帶還原、需要聯絡特定人員等，即使將資料重建成可立即相互操作與再次使用的格式需要相當大的投入，仍應將這些資料視為 FAIR 生態系統的一部分。應盡早決定資料何時典藏、如何典藏、採用何種格式與儲存媒體，以及如何保護資料，避免災害、非預期或不當使用及竊取。\n\n## 建議做法\n\n- 與團隊共同決定，為長期保存而典藏資料的最佳時點與方法。\n- 詳盡記錄將資料轉為適合長期典藏格式時採用的程序，並考量這些程序可能引入的錯誤與變更。\n- 記錄確切的典藏時間，以及接手負責的單位（儲存庫？）。\n- 為已典藏的資料版本編配新的 PID；若銷毀資料的「工作版本」，仍須保留工作版本的 PID，以供日後引用。\n\n## 應避免的做法\n\n- 將典藏與為同一研究週期內的再次使用或進一步處理而保留資料，混為一談。\n- 將典藏與讓資料維持「使用中狀態」混為一談。\n- 將「放在磁碟某處」的資料，視為已妥善典藏。\n\n---\n\n[**開放科學的資料託管：第 2.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/711e3dbd-51d8-4a43-b414-6f7a09f3277a/title
 msgid "Are you using backups for restoring files that were accidentally deleted or changed?"
