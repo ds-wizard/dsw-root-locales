@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 02:22+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 02:58+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7433,7 +7433,7 @@ msgstr ""
 
 #: resourcePage/3ed446f5-b12c-43ea-bf1b-d02003d3ea2a/title
 msgid "Is re-consent needed?"
-msgstr ""
+msgstr "是否需要重新取得同意？"
 
 #: resourcePage/3ed446f5-b12c-43ea-bf1b-d02003d3ea2a/content
 msgid ""
@@ -7463,7 +7463,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.9**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果 OPEDAS 受到知情同意規範限制，您必須確認已取得的同意涵蓋預定研究的特定目的。\n\n必須遵守歐盟《個人資料保護規則》（GDPR）及[其他地區的相應法規]。即使您未預料到，法律仍可能要求重新取得 OPEDAS 擁有者的同意，而且擁有者自己也可能不知道這項法律要求。因此，必須格外謹慎，避免違反法律。如果 OPEDAS 包含直接源自涉及動物或人類受試者研究的資料，或例如來自社群媒體的資料，也建議與倫理委員會討論再次使用事宜。\n\n## 建議做法\n\n- 檢查資料隨附的共識聲明（如有）。\n- 對資料再次使用涉及的法律問題有任何疑慮時，主動聯絡資料擁有者。\n- 清楚說明您為什麼想再次使用資料，以及預定用途。\n- 確保說明的詳細程度與表達方式適合資料擁有者。\n- 再次向擁有者確認，他們打算或保證讓資料以相同格式及版本持續提供多久。\n\n## 應避免的做法\n\n- 預期所有 OPEDAS 擁有者都願意為任何研究目的分享資料。\n- 低估您可能為 OPEDAS 擁有者帶來的負擔。\n- 忽略「引用」以外的其他誘因，例如正式致謝或共同作者資格。\n- 未完成上述所有檢查，就將可能涉及敏感性或其他限制的資料用於實驗，即使它們看起來可以在網路上自由取得。\n- 理所當然地認為可用於競爭前研究的資料，也能用於商業目的。如果您任職於公司，有些情況下，授權與同意問題甚至比公共研究機構所面臨的更加迫切。\n\n\n---\n\n[**開放科學的資料託管：第 1.9 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/57335649-0440-45a8-8ec1-316206e52642/title
 msgid "How long does the data need to be kept?"
@@ -8988,7 +8988,7 @@ msgstr ""
 
 #: resourcePage/9992669b-26d3-4a20-9cb8-7a1f1c93699b/title
 msgid "Are there potential issues regarding data ownership and access control?"
-msgstr ""
+msgstr "資料所有權與取用管控是否有潛在問題？"
 
 #: resourcePage/9992669b-26d3-4a20-9cb8-7a1f1c93699b/content
 msgid ""
@@ -9010,11 +9010,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.16**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料在法律上的所有權，通常屬於資料建立者或實驗資助者，與資料對他人「開放」及分享的程度，是兩件明確不同的事。即使資料完全開放，也仍有法律上的擁有者。由於對資料分享範圍的認知可能隨時間改變，最初應先將所有資料視為建立者的「非公開」資料。日後隨時都可以開放資料，但如果在資料建立、處理、發布或授權過程中做出錯誤選擇，之後就未必還能限制資料的取用。\n\n## 建議做法\n\n- 盡早考量資料所有權與預定用途，尤其也要考慮產生資料的計畫以外的用途。\n- 與機構內的相關專家或外部專家討論所有權與管控問題。\n- 資料準備好發布時，為其選擇授權條款，並考量再次使用的選項（另請參閱資料引用與標明出處 [numbers]）。\n\n## 應避免的做法\n\n- 先建立資料，之後才考慮所有權與取用問題；資料本身的特性可能限制後續可採取的選項。\n- 將資料視為「僅供這次實驗使用」，因而低估再次使用的相關問題。即使資料不會再用於後續整合分析，也仍須持續可供取用，包括提供給審查者或稽核人員等其他人，以便檢查可重現性。\n\n---\n\n[**開放科學的資料託管：第 1.16 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/cf4cc4d8-9480-4826-bb94-28798b6ae1f7/title
 msgid "Who needs access?"
-msgstr ""
+msgstr "誰需要取用資料？"
 
 #: resourcePage/cf4cc4d8-9480-4826-bb94-28798b6ae1f7/content
 msgid ""
@@ -9037,7 +9037,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.16.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n人們往往傾向將資料視為僅供產生它們的實驗使用。即使如此，團隊中通常仍有多人需要經常取用資料，而且不一定都來自您所屬的機構。除了資料涉及的法律、隱私及其他「社會性」問題，也應考慮在研究團隊或聯盟內分享資料時可能遇到的技術障礙。這些問題不只涉及資料本身。例如，如果使用專有工具進行資料前處理，或使用僅限學術用途免費、商業用途則受限制的工具，與研究聯盟中的民間商業合作夥伴分享時，就可能不被允許。此外，如果資料因規模或敏感性而無法搬移，請確保所有需要資料的合作夥伴都能在資料所在地取用。\n\n## 建議做法\n\n- 在程序的早期階段，就與所有聯盟合作夥伴討論預定產生的資料。\n- 確認用於處理、對映或格式化資料的工具與詞彙表等資源，其授權條款允許在整個聯盟內分享資料。\n- 考量資料的大小與複雜程度，並預先評估這些特性可能為資料分享帶來的障礙。\n\n## 應避免的做法\n\n- 假定所有開放原始碼工具與格式都允許各種形式的分享。\n- 假定聯盟所有合作夥伴對資料的需求都僅限於學術與競爭前研究。\n- 未經確認，就假定所有合作夥伴都有足夠的頻寬、本地儲存空間與運算能力來處理資料。\n\n---\n\n[**開放科學的資料託管：第 1.16.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9f02220a-97b9-4aa2-a055-e8e558eee0db/title
 msgid "What data formats do the instruments yield?"
@@ -9129,7 +9129,7 @@ msgstr "## 背景說明\n\n許多類型的資料已有成熟且經過充分測�
 
 #: resourcePage/dda1d85f-df15-4c4c-b09e-8691e10cd9e0/title
 msgid "What level of data protection is needed?"
-msgstr ""
+msgstr "需要何種程度的資料保護？"
 
 #: resourcePage/dda1d85f-df15-4c4c-b09e-8691e10cd9e0/content
 msgid ""
@@ -9153,11 +9153,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.16.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n每當產生資料時，都需要考慮隱私與安全問題，這不只適用於個人資料。許多機構會有將資料保留於內部、限制取用的政策。即使是公共經費資助的研究，通常預設最終應開放資料，或更確切地說，使資料符合 FAIR 原則，也可能有正當理由限制取用。\n\n在許多情況下，資料處理、品質管控、策展與詮釋都是耗時的程序。至少在這些程序進行期間，讓資料擁有者以外的人取用資料，可能反而適得其反，因為資料根本尚未準備好供他人再次使用。因此，即使預計在整個處理流程結束後完全公開資料，也可能必須先限制取用，直到實驗評估完成，且資料已準備好發布。\n\n## 建議做法\n\n- 與所有研究人員確認，是否需要暫時性或制度性的資料保護。\n- 估計資料需要受保護的期間，並確認是否有可用的基礎設施、經費及程序來落實保護。\n- 估計實驗結束、結果發表後，長期保護資料所需的成本。\n\n## 應避免的做法\n\n- 假定資料可以隨意放在機構內的「任何一台筆記型電腦」上；即使沒有隱私或敏感性問題，仍可能違反內部程序。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.16.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/df07b4af-0268-402f-9cfc-a21534dd4db0/title
 msgid "Is the collected data privacy sensitive?"
-msgstr ""
+msgstr "所蒐集的資料是否屬於涉及隱私的敏感資料？"
 
 #: resourcePage/df07b4af-0268-402f-9cfc-a21534dd4db0/content
 msgid ""
@@ -9179,7 +9179,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.16.2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果資料，例如病人資料，需要有制度性的保護，就應深入評估所需的安全程度，以及資料匿名化、擬匿名化及／或加密的需求。也必須確認從病人取得的同意，允許您預計使用資料進行的所有研究。隨著有價值的資料集與研究群體（cohort）愈來愈常被再次使用，超出原始同意範圍的再次使用也日益頻繁，成為愈來愈大的挑戰。未重新取得同意，就進行這些後續實驗，可能違法；因此，您需要在倫理委員會允許且個別病人可接受的範圍內，取得涵蓋用途盡可能廣泛的同意。其中一個選項，是讓受試者完全掌控自己的個人資料，使他們能針對未來每一項預計使用其資料的研究，分別給予知情同意。這種做法需要特殊技術支援，請參閱 PHT。在這些情況下，應格外留意是否能透過再次使用 OPEDAS 取得相同結果，避免不必要地產生新的涉及隱私的敏感資料，為團隊帶來重大責任與財務負擔。\n\n## 建議做法\n\n- 與所有研究人員確認，是否需要暫時性或制度性的資料保護。\n- 估計資料需要受保護的期間，並確認是否有可用的基礎設施、經費及程序來落實保護。\n- 估計實驗結束、結果發表後，長期保護資料所需的成本。\n\n## 應避免的做法\n\n- 假定資料可以隨意放在機構內的「任何一台筆記型電腦」上；即使沒有隱私或敏感性問題，仍可能違反內部程序。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.16.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/30f200f9-b79d-49d8-9599-f4ecd0ab918e/title
 msgid "Will you need text mining?"
