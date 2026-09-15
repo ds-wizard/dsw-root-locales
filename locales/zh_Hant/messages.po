@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-14 23:58+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 00:25+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7156,7 +7156,7 @@ msgstr ""
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/title
 msgid "Will you use Reference Data?"
-msgstr ""
+msgstr "您是否會使用參考資料？"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/content
 msgid ""
@@ -7188,7 +7188,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "*參考資料是指具有「參考」資料集地位、可用來「詮釋」其他資料的 OPEDAS。參考資料可能以多種格式提供，包括人文領域的 LITMED、生命科學領域的 UniProt 或 PDB 等經過策展的資源，也包括「五年的 Twitter 趨勢」、「黃金標準」或「人類參考基因組」等資源，讓您據以判斷自身資料在更大脈絡中的位置。*\n\n## 背景說明\n\n當新產生的資料集規模相對較大且需要詮釋時，參考資料集就愈來愈重要；對小規模資料也同樣如此，例如臨床遺傳學樣本中可能有數百個變異，需要與已知的表現型關聯進行比對。在某些情況下，例如 ELIXIR，這些資源可能被稱為「核心資源」。這類資源通常會動態更新，因此不能預期在不同時間下載或查詢時，內容都完全相同。經過預先分析或預先連結的資料來源，也愈來愈常被納入核心資源與參考資料的範疇。若資料並非來自具授權、且採用明確版本控制與發布政策的提供者，就必須再次確認其溯源資訊、追溯至原始資源的能力，以及所用方法的透明度。\n\n## 建議做法\n\n- 確保您充分了解所有可能與研究相關的可用參考資料來源。\n- 查核這些資料庫的「權威性」，並審慎評估其有效性。\n- 確認使用條件符合您的目的；其中有些資源，例如 HPA，明文禁止商業用途。\n- 確保日後能盡可能精確地重現研究中再次使用的資料；至少應記錄所使用參考資料資源的版本。\n- 如果對可重現性有所疑慮，可考慮下載所引用的資料並妥善典藏。\n- 尋找既有工作流程或方法，以自動或半自動方式將您的資料與參考資料進行比對，避免重新建立已有的工作流程。\n\n\n## 應避免的做法\n\n- 僅在所屬學科中顯而易見的資源裡尋找參考資料。\n- 假定所有參考資料，包括經過同儕審查的文獻，都是正確的。\n- 已有經授權的公開參考資料可用，卻使用未經授權的參考資料。\n- 使用參考資料時未適當引用，或使用他人的帳號；參考資源需要正確追蹤使用者統計資料。\n- 引用會更新卻沒有版本編號的參考資料來源。\n- 引用明顯會更新的資料資源或服務，導致嘗試重現您研究結果的人取得不同版本。\n\n---\n\n[**開放科學的資料託管：第 1.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/title
 msgid "How will you make sure the analysis is best suited to answer your biological question?"
@@ -7536,7 +7536,7 @@ msgstr ""
 
 #: resourcePage/8159f15f-1ee0-42ed-8ee8-b2ab834e1075/title
 msgid "Will owners of that data work with you on this study?"
-msgstr ""
+msgstr "資料擁有者是否會與您合作進行此研究？"
 
 #: resourcePage/8159f15f-1ee0-42ed-8ee8-b2ab834e1075/content
 msgid ""
@@ -7562,7 +7562,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.8**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n有些 OPEDAS 可能需要取得擁有者的明確同意及協助，才能使用。這不一定表示資料的文件記錄不佳或品質低落。這些資料可能受到隱私法規限制、與組織生物樣本庫相關，甚至是個別公民存放於其合法擁有的個人資料保管庫中的個人資料。如果需要 OPEDAS 擁有者合作，還必須考慮其他議題，例如時間限制、共同作者資格及知情同意。\n\n## 建議做法\n\n- 確認取得資料的條件，並聯絡資料擁有者。\n- 清楚說明您為什麼想再次使用資料，以及預定用途。\n- 確保說明的詳細程度與表達方式適合資料擁有者。\n- 以口頭及書面方式向資料擁有者確認，是否有未在 OPEDAS 後設資料中明確列出的潛在限制。\n- 再次向擁有者確認，他們打算或保證讓資料以相同格式及版本持續提供多久。\n\n## 應避免的做法\n\n- 預期所有 OPEDAS 擁有者都願意為任何研究目的分享資料。\n- 低估您可能為 OPEDAS 擁有者帶來的負擔。\n- 忽略「引用」以外的其他誘因，例如正式致謝或共同作者資格。\n- 使用在網路或其他地方找到的資料，卻未確實確認這樣做不會違反知情同意或其他一般規範。\n\n---\n\n[**開放科學的資料託管：第 1.8 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/297cc3ef-6a35-4da9-9e0e-44e510822698/title
 msgid "Can workflows be run remotely?"
@@ -7925,7 +7925,7 @@ msgstr ""
 
 #: resourcePage/42597e79-87d1-4755-9144-0053487e2898/title
 msgid "Is the data resource versioned?"
-msgstr ""
+msgstr "資料資源是否有版本控制？"
 
 #: resourcePage/42597e79-87d1-4755-9144-0053487e2898/content
 msgid ""
@@ -7956,7 +7956,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.6**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n核心參考資源尤其經常採用版本控制，並隨之更新。\n\n個別實驗產生的靜態 OPEDAS 資料集，可能會更新，也可能不會，但內容仍可能隨時間改變。無論如何，在研究規劃階段，都應考慮 OPEDAS 資料集或工作流程的變動，可能對您的資料分析或重新分析造成什麼影響，並採取適當措施，避免日後再次使用「同一個」OPEDAS 資源時出現不必要的意外。在再次使用之前，評估 OPEDAS 資源時應考慮的問題包括：如果來源更新，您是否會重新分析？您需要的資料詳細程度或細緻程度為何，是否會受到更新影響？如果只需要部分資料，能否在下載前先篩選，而您真正需要的是哪個子集？\n\n## 建議做法\n\n- 查核 OPEDAS 來源的版本政策，並考慮其影響。\n- 決定要使用哪個版本。\n- 決定發布更新時要如何處理。\n- 如果您希望一直使用某個特定版本，請確保能持續取得該版本。\n- 這表示，如果來源不保留固定版本，您可能需要下載、儲存並記錄將使用的版本。\n- 務必詳細記錄並公開說明，各項分析分別使用哪個版本。\n- 如果可以，訂閱該資源的更新通知，以便掌握更新情況。\n- 如果來源未明確說明更新政策，請嘗試了解實際情況。\n\n## 應避免的做法\n\n- 使用有版本控制的 OPEDAS 來源，卻未記錄版本或建立處理更新的例行程序。\n- 在沒有明確聲明與說明的情況下，假定 OPEDAS 擁有者或儲存庫已有適當的版本控制與文件記錄政策。\n- 發布分析結果時，未註明分析所使用 OPEDAS 資源的確切版本。\n- 在研究成果中提出以 OPEDAS 為依據的論述，卻可能使該 OPEDAS 引用失效，或讓研究成果的使用者感到困惑。\n\n---\n\n[**開放科學的資料託管：第 1.6 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/33559826-7ff7-4e89-8de1-1f95269872a8/title
 msgid "Do you need to develop new terminology systems?"
@@ -8141,7 +8141,7 @@ msgstr "## 背景說明\n\n決定研究要使用哪些 OPEDAS 資源後，還需
 
 #: resourcePage/ffe51026-d3e1-489c-9fd7-babb3ddb31e6/title
 msgid "Will you be using any existing (non-reference) data sets?"
-msgstr ""
+msgstr "您是否會使用既有的非參考資料集？"
 
 #: resourcePage/ffe51026-d3e1-489c-9fd7-babb3ddb31e6/content
 msgid ""
@@ -8166,7 +8166,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.7**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果您想使用的某些 OPEDAS 來源不符合「參考資料集」的資格，或未存放於 TDR 類型、對取用、所有權、永續性及版本控制都有完整記錄的儲存庫，則必須先回答一些額外問題，才能負責任地再次使用這些資料進行分析。\n\n## 建議做法\n\n- 確認取得資料的條件。\n- 確認所有權。\n- 確認潛在限制，例如商業用途的限制，即使這可能到很久以後才會涉及。\n- 決定要使用哪個版本（如果有版本控制），並考慮第 1.6 節討論的所有選項。\n- 再次向擁有者確認，他們打算或保證讓資料以相同格式及版本持續提供多久。\n\n## 應避免的做法\n\n- 預期未明確存放於可信賴且可持續運作環境中的資料，在您下次造訪時仍然存在。\n- 未詳細記錄 OPEDAS 的來源，就不加區分地使用。\n- 未確保輸入資料穩定，卻預期資料分析工作流程能產生可重現的結果；這也包括分析管線中依賴 OPEDAS 的部分。\n\n---\n\n[**開放科學的資料託管：第 1.7 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/7076a1f2-f773-4eaf-9cd6-94f42d23f3bf/title
 msgid "Can workflow decay be managed?"
@@ -8806,7 +8806,7 @@ msgstr ""
 
 #: resourcePage/63a749b0-ab6c-4c7b-a46b-e0eae2f06bda/title
 msgid "Will you use Pre-existing data (including OPEDAS)?"
-msgstr ""
+msgstr "您是否會使用既有資料（包括 OPEDAS）？"
 
 #: resourcePage/63a749b0-ab6c-4c7b-a46b-e0eae2f06bda/content
 msgid ""
@@ -8836,7 +8836,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n即使看來已有 OPEDAS，也不代表您一定會使用。除了第 1.1 節討論的考量之外，也可能只是因為取得資料太過繁瑣，或難以取得適合您特定研究使用的格式。不過，如果您決定使用，在確認第 1.1 節列出的特徵後，就需要遵守一些基本規則。\n\n## 建議做法\n\n- 考慮您是否需要「全部」資料，還是只需要相關的子集；有些資料集非常龐大，下載與託管的成本很高。\n- 判斷是否需要下載 OPEDAS，或能否在資料原本所在的位置使用，例如將用來處理資料的虛擬機器或工作流程送至資料所在處。\n- 查核資料擁有者提供的再次使用（授權條款）及引用／致謝政策。\n- 如果未提供這些政策，請聯絡資料擁有者確認。\n- 請另一位專業人士協助確認，即使資料只用於分析中的一小部分，也不會限制您日後發布或使用研究結果。如果不清楚，請聯絡資料擁有者。\n- 如果所使用的資料集有任何問題，請主動加上註解，並將這些新增的後設資料提交至公開且可信賴的儲存庫。\n\n\n## 應避免的做法\n\n- 使用 OPEDAS，卻未在所產出的出版品中適當引用。\n- 使用沒有適當授權條款的資料，即使資料看起來完全開放。\n- 下載不必要的大量資料或資料片段，並在本機託管。\n- 在原始儲存庫可持續運作的前提下，仍將資料在本機保存超過必要的時間。\n- 變更所下載資料或其後設資料的任何內容，卻未妥善記錄及加上註解。\n- 未諮詢 [資料專家]，就開始實際實驗。\n\n---\n\n[**開放科學的資料託管：第 1.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/33775fa2-1e8f-4070-baf7-eaf70361a24a/title
 msgid "How and where will you be Archiving/Cataloging?"
