@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 00:44+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 01:05+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7102,7 +7102,7 @@ msgstr ""
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/title
 msgid "How will you document your interpretation steps?"
-msgstr ""
+msgstr "您將如何記錄詮釋步驟？"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/content
 msgid ""
@@ -7125,11 +7125,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.5.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n這裡可以簡要說明。前幾個階段，也就是資料擷取與處理階段，所有與文件記錄及溯源資訊相關的議題，同樣適用於資料託管週期的這個階段。唯一可能不同的是，這個階段無可避免地會有人為介入，因此也會引入錯誤與偏差。良好的資料託管員應仔細追蹤並觀察詮釋過程；如果不同的人對實際資料的詮釋差異可能導致異常結果，就應提醒團隊，尤其是當詮釋步驟涉及資料策展、選取資料子集或閱讀非結構化文字時。再次強調，盡可能記錄過程中發生的事情，是良好資料託管的關鍵。\n\n## 建議做法\n\n- 在資料分析與詮釋過程中，扮演「方法把關者」的角色，並記錄「所有事情」。\n- 確保所有參與詮釋的人員，都充分了解評估結果與資料時，哪些「關鍵點」可能出現人為偏差與錯誤；這些問題無法在資料或機器工作流程層級加以控制。\n- 鼓勵每個人仔細記錄這些關鍵點究竟發生了什麼，尤其是資料經過「策展」或「轉換成其他格式」時。\n\n## 應避免的做法\n\n- 假定人類的行為也能像理想情況下的機器與工作流程一樣，具有「嚴格的可重現性」。\n- 在沒有人明顯誤解資料或其性質的情況下，介入詮釋過程本身。\n- 完全退出詮釋過程，導致無法回頭追查造成錯誤詮釋及結論無法重現的重大錯誤。\n\n---\n\n[**開放科學的資料託管：第 6.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/title
 msgid "How are you going to interpret your data?"
-msgstr ""
+msgstr "您將如何詮釋資料？"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/content
 msgid ""
@@ -7152,7 +7152,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.5.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料詮釋會導向特定領域的科學假說、結論與應用，但這並不是資料託管員的核心專業。不過，具備與資料詮釋相關領域的基本知識，仍然十分重要。良好的資料託管員需要對「領域專家」的工作有基本了解，而這些專家愈來愈常來自多個不同領域的團隊。研究團隊的選擇，尤其是他們打算如何詮釋資料，可能大幅影響資料格式及「立即可用」的需求。如果詮釋主要仰賴「人工閱讀」，資料輸出與格式的需求，顯然會不同於先大規模走訪圖結構以找出連結模式，再閱讀外部連結的文獻與資料庫內容加以確認的做法。此外，當中間結果出現明顯「不可能」的重大異常時，您需要能夠在下一次全體工作會議揭露這些問題之前，就先辨識出來。\n\n## 建議做法\n\n- 在很早的階段，也就是步驟 1，就考慮預定採用的資料詮釋方法，因為這些方法會影響資料擷取、前處理、策展及功能整合中的許多其他步驟。\n- 確保您對研究團隊成員所具備的領域知識有基本了解。\n- 在資料處理、連結與分析過程中，檢查所有「中間產出」是否有明顯的重大異常，因為這可能表示參數設定等環節有誤。\n- 仔細記錄資料詮釋程序之前及其中採取的所有步驟，包括哪些環節可能引入人為錯誤與偏差。\n\n## 應避免的做法\n\n- 把自己的角色當成「等資料出現後才加入，妥善處理資料，再交付漂亮的圖表與圖片」。\n- 試圖成為領域專家。結果的最終詮釋應交由團隊中的專家負責。尤其當研究涉及多個領域時，不可能精通所有領域；勉強嘗試，可能適得其反，也可能使真正的專家感到不悅。\n\n---\n\n[**開放科學的資料託管：第 6.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/title
 msgid "Will you use Reference Data?"
@@ -7192,7 +7192,7 @@ msgstr "*參考資料是指具有「參考」資料集地位、可用來「詮�
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/title
 msgid "How will you make sure the analysis is best suited to answer your biological question?"
-msgstr ""
+msgstr "您將如何確保分析最適合回答您的生物學問題？"
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/content
 msgid ""
@@ -7214,7 +7214,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n選擇最合適的分析方法與工具，大致超出本書的範圍，因為這正是資料分析本身的核心。不過，這個問題也涉及資料託管。首先，在步驟 1 就與您能找到最合適的統計專家討論，為回答研究問題，需要什麼性質的資料，以及多大的資料量或樣本數，顯然非常重要。這是針對目前實驗將新產生的資料而言。從資料託管的角度來看，另一項重要議題是：在資料驅動的研究中，往往需要共同分析 OPEDAS 或多個新資料集，才能找到所要的答案。因此，除了資料集本身的大小、範圍、品質，以及實驗與對照的考量之外，如何與其他資料進行功能整合或連結，也是一項重大挑戰。為了最終詮釋研究中的模式與現象而需要的其他資料，可能會影響您在資料擷取與儲存時所選擇的大小、格式、資訊豐富程度（包括後設資料）及資料模型。\n\n## 建議做法\n\n- 在步驟 1 與團隊討論新產生資料的「功能整合與連結需求」。\n- 盡可能讓新資料採用與需要相互配合的資料相同的資料格式、後設資料標準、詞彙及資料模型。\n- 考慮並安排可能需要的對映、解析與轉換工作，將其他資料整理成能與您的資料進行功能連結及相互操作的格式。FAIR 資料的一項重要特性，是機器應盡可能將資料解析或轉換成任何其他合適格式，例如某個工具所要求的格式，且不產生錯誤，或將錯誤降至最低。\n\n## 應避免的做法\n\n- 將資料視為僅供單次實驗使用的一次性資產；大多數資料都會在原本範圍或研究之內或之外被再次使用。\n- 將後設資料限制在原先產生資料之研究的預期需求內。應盡可能蒐集可取得且可能有意義的後設資料。\n\n---\n\n[**開放科學的資料託管：第 6.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/title
 msgid "Will you be building Kinetic Models?"
@@ -9067,7 +9067,7 @@ msgstr "## 背景說明\n\n實驗室中的大多數儀器，會以製造商指�
 
 #: resourcePage/21ce478d-73d8-4124-971b-c4f9c7630502/title
 msgid "What preprocessing is needed?"
-msgstr ""
+msgstr "需要哪些前處理？"
 
 #: resourcePage/21ce478d-73d8-4124-971b-c4f9c7630502/content
 msgid ""
@@ -9096,7 +9096,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.15.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如前所述，許多情況下，您會先以某種方式處理資料，為後續分析做準備。\n\n資料前處理有時已有標準做法，而且相當容易；但它本身也可能幾乎就是一項科學挑戰，尤其是當儀器與方法都相對新穎時。\n\n要在處理方式上做出正確選擇，需要深入了解科學目標、資料的脈絡、結構及背後的假設。這裡無法詳細討論可能需要考慮的數百種資料與處理方式組合，但可以確定的是：這需要由領域專家與資料專家共同深入研究。此外，精確記錄資料自最初產生後究竟經歷了哪些處理，也就是保留溯源資訊，包括日誌與歷程，絕對至關重要。\n\n## 建議做法\n\n- 採取行動之前，確保領域專家與資料專家已充分溝通，並了解上述議題。\n- 仔細考慮資料代表什麼，以及資料將如何用於您自己的後續實驗，並可能如何供他人日後使用。\n- 以符合 F.A.I.R. 原則的格式，精確記錄您對原始資料進行的所有處理。\n- 在處理後的資料檔案與任何可能保留的原始資料之間，建立永久連結。\n\n## 應避免的做法\n\n- 假定自己已知道如何處理資料，而且只有處理後的資料才重要。資料發布者及資助者將愈來愈常要求能夠「回到原始資料」。\n- 儲存原始資料時未提供符合 F.A.I.R. 原則的後設資料，並將其存放在比前處理後資料所在儲存庫更不可信賴的儲存庫中。請注意，兩者仍可能採用非常不同的儲存方式，例如原始資料可能需要存放於磁帶，而處理後的資料可能必須用於高效能及重新分析的環境，並可供外部工作流程系統方便取用。\n- 儲存毫無用處的原始資料；良好的資料託管也包括刪除已無法想見任何後續用途的資料。\n- 過於輕率地認定原始資料毫無用處，而未考慮長遠的未來、其他使用者及其他學科的需求。\n\n---\n\n[**開放科學的資料託管：第 1.15.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/602bf530-a5b0-43b7-9d5d-90164d3df626/title
 msgid "Are there ready-to-use workflows?"
@@ -9671,7 +9671,7 @@ msgstr ""
 
 #: resourcePage/edcc3855-9771-4eed-a906-ede2f8e348d2/title
 msgid "Verify repeatedly on the same data"
-msgstr ""
+msgstr "使用相同資料反覆驗證"
 
 #: resourcePage/edcc3855-9771-4eed-a906-ede2f8e348d2/content
 msgid ""
@@ -9695,7 +9695,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.2.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n除非已證明穩定，否則工作流程本質上就是不穩定的，尤其是由多個元件組成的複合工作流程。驗證工作流程穩定性的一種方法，是定期使用標準參考資料集與校正資料集執行它；當工作流程由多個獨立開發及運作的元件組成時，更應如此。如果參考或校正資料集的結果不同，顯然代表工作流程中的某個元件運作不正常，或已經改變。從元件提供者的角度來看，這項變更可能其實是改進，但更新與新版本往往在未事先妥善通知所有使用者的情況下就發布；何況提供者未必知道或持續追蹤所有使用者。\n\n因此，即使第三方工作流程的元件有所改進，仍可能引入未被察覺或無法補救的異常，甚至損毀資料，對研究造成無法挽回的損害。尤其當您已一段時間未在自己的環境中使用某個遠端工作流程或服務時，務必仔細檢查並確認，它在參考資料集上的執行結果，與上次執行時完全相同。\n\n## 建議做法\n\n- 為研究環境中運作的每個工作流程，維護穩定的參考資料集與校正資料集。\n- 定期使用這些資料集執行工作流程，避免等到迫切需要時才發現工作流程已改變，導致原始資料或量測結果可能受損。\n- 聯絡所有工作流程提供者，確認他們知道您正在使用其工具，並請他們在有變更或錯誤時通知您。\n\n## 應避免的做法\n\n- 僅因工作流程宣稱穩定，就假定它確實穩定，並再次用它處理新資料，尤其是當結果將「加入累積中的證據」時。\n- 將不同時間、透過可能已變更的工作流程產生的證據與資料累積在同一集合中，而這些變更已使集合中的部分資料毀損，或因其他原因成為「離群值」，可能完全打亂整個集合。\n\n---\n\n[**開放科學的資料託管：第 4.2.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #~ msgid "A specialized team"
 #~ msgstr "專業團隊"
