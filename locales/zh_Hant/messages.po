@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 02:58+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 03:41+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7501,7 +7501,7 @@ msgstr "## 背景說明\n\n良好的託管員不會在受託照管的物品超�
 
 #: resourcePage/cd32ef04-d8ae-403f-b4a5-74e1e7f11a59/title
 msgid "Do you need the storage close to compute capacity?"
-msgstr ""
+msgstr "您是否需要讓儲存空間鄰近運算資源？"
 
 #: resourcePage/cd32ef04-d8ae-403f-b4a5-74e1e7f11a59/content
 msgid ""
@@ -7532,7 +7532,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.7**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n分散式信任與學習網路的討論正處於轉變之中。這不只涉及科學領域，也是比特幣、區塊鏈及其他方法之下一代解決方案的重要議題。網際網路的本質，是本身具有穩健性的本地交易作業，包括接受可能發生錯誤，並只在有意義之處採用備援。這股趨勢將迅速影響本地與分散式運算及學習。因此，無論研究規模大小，都必須考量本地與分散式運算的可能性。可用選項範圍很廣，從智慧型手機、透過光纖連接並為住家供暖的分散式超級電腦，到 exascale 等級的運算設施都有。即使涉及敏感資料，也不能再理所當然地認為大型運算與分析作業必須集中於防火牆內執行。如果將雲端廣義地理解為「別人的電腦」，您需要進行的大部分工作，可能都能在雲端完成。不過，也可能有理由在本地處理，並維護昂貴的運算基礎設施。即便如此，當有更好且更便宜的選項時，不應僅為了掌控設備，就購買需要在本地維護的硬體。就像除非需要備用發電機，或所需水質特殊到外部來源無法提供，否則人們不會再自行發電或製備乾淨用水。運算與儲存也正迅速成為這類通用商品，因此，使用外部或雲端資源已成為必須處理的重要議題。核心問題是：有多少運算能力必須緊鄰資料？了解目前網路連線速度，顯然是重要考量。這又取決於您打算透過網路傳送龐大資料集，還是傳送輕量的工作流程容器，到資料*原處*執行相對有限的運算作業；前者的網路速度仍可能帶來重大的成本與時間問題。\n\n新興趨勢顯示，透過分散式分析與學習能回答的科學問題，遠比我們直覺上認為的還多。因此，如果可信賴的第三方能以更好、更便宜且更安全的方式完成工作，卻仍讓機構承擔內部硬體與軟體的相關負擔，就不是良好的資料託管做法。\n\n## 建議做法\n\n- 仔細研究所需儲存與運算資源的雲端選項，並尋求諮詢。\n- 比較不同雲端服務提供者的價格、服務與安全性；規模較大不一定比較好。\n- 決定透過傳送資料來處理之前，先確認這樣做是被允許的。\n- 請留意，處理非常龐大的資料集時，一般雲端服務提供者的上傳與下載費用可能相當可觀。\n- 權衡使用雲端服務提供者與使用本地設施的成本。\n- 也評估機構內部設備與基礎設施的採購、維護、支援、專業能力及汰換風險。\n- 為每個工作空間及每一批分析，選擇合適的本地或分散式處理方式，不要以單一方式套用所有情況。\n\n## 應避免的做法\n\n- 沒有充分理由，就假定儲存與資料處理都會在機構內部進行，忽略其中龐大的成本與資源調度需求。\n- 購買或租用遠超過實際需求的電腦儲存空間與運算能力。\n- 認為每項運算作業都必須讓運算資源與資料位於同一處。\n- 將「大規模運算問題」與「大規模本地基礎設施」混為一談。\n\n\n---\n\n[**開放科學的資料託管：第 2.7 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8159f15f-1ee0-42ed-8ee8-b2ab834e1075/title
 msgid "Will owners of that data work with you on this study?"
@@ -8314,7 +8314,7 @@ msgstr ""
 
 #: resourcePage/0bf99136-74c7-4b3c-a4f4-1468ebb673c0/title
 msgid "Determine needs in Memory/CPU/IO ratios"
-msgstr ""
+msgstr "確定記憶體／CPU／I/O 的配置比例需求"
 
 #: resourcePage/0bf99136-74c7-4b3c-a4f4-1468ebb673c0/content
 msgid ""
@@ -8342,11 +8342,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.8.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n儲存與運算相關資源的比例，會隨計畫及資料與分析方式的組合而異。不過，整體而言，這種比例通常只會在一定範圍內變動，當然也總有例外。無論是在本地蒐集、儲存龐大資料集，並以大量 CPU 處理，還是讓工作流程前往數千個分散的資料集，執行相對簡單的運算作業，都必須先確定資料大小、各項運算作業的複雜度，進而決定儲存與運算資源的平衡。如果未妥善研究、進行先導測試與試跑，並依據現有專業知識與證據作決定，就可能買進不需要的設備，為機構與同事帶來沉重的維護負擔。反之，如果低估這些問題的複雜性，研究日後就可能遭遇嚴重障礙與延誤，甚至發生資料遺失或毀損。因此，請投入適當時間並採取必要措施，確保依據目前的知識與經費，做出最合適的決定。\n\n## 建議做法\n\n- 仔細研究所需儲存與運算資源的雲端選項，並尋求諮詢。\n- 比較不同雲端服務提供者的價格、服務與安全性；規模較大不一定比較好。\n- 決定透過傳送資料來處理之前，先確認這樣做是被允許的。\n- 請留意，處理非常龐大的資料集時，一般雲端服務提供者的上傳與下載費用可能相當可觀。\n- 權衡使用雲端服務提供者與使用本地設施的成本。\n- 也評估機構內部設備與基礎設施的採購、維護、支援、專業能力及汰換風險。\n- 為每個工作空間及每一批分析，選擇合適的本地或分散式處理方式，不要以單一方式套用所有情況。\n\n## 應避免的做法\n\n- 沒有充分理由，就假定儲存與資料處理都會在機構內部進行，忽略其中龐大的成本與資源調度需求。\n- 購買或租用遠超過實際需求的電腦儲存空間與運算能力。\n- 認為每項運算作業都必須讓運算資源與資料位於同一處。\n- 將「大規模運算問題」與「大規模本地基礎設施」混為一談。\n\n---\n\n[**開放科學的資料託管：第 2.8.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/title
 msgid "Capacity and harmonisation planning"
-msgstr ""
+msgstr "容量與資料調和規劃"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/content
 msgid ""
@@ -8369,7 +8369,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 3.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n確切掌握實驗或研究預計產生的資料類型與資料量後，就需要規劃擷取、儲存、處理、分析，以及提供資料供再次使用所需的資源容量。前面已概略討論過這些面向，但這裡要強調，資料託管員的任務是預防未預期的硬體容量及人力不足問題，以免實驗啟動後造成延誤，甚至浪費已產生的資料。這不只涉及原始資料的擷取，儘管那是最迫切需要處理的問題。您也應充分了解實驗各步驟所產生資料與樣本的穩定性。例如，取自物理或生物系統的樣本，通常只能在相當有限的時間內保持穩定；從取樣到實際量測樣本特徵與數值之間的時間間隔，可能大幅影響量測結果。這主要屬於一般良好研究實踐的一部分，也是整個團隊的共同責任；但資料託管員的角色，是盡可能確保由時間間隔或其他實驗條件造成的變異，有妥善記錄且可供追查。例如，每個樣本在量測容器（如 96 孔盤）中的確切位置，以及完成整個孔盤量測程序所需的時間，都可能對後續資料處理與分析極為重要。如果已知某個標記的螢光會隨時間以特定方式衰減，就可能必須先針對孔盤第一孔與最後一孔之間的差異進行校正，才能進一步處理資料並得到有意義的結果。\n\n## 建議做法\n\n- 確實了解目前實驗研究相關的潛在變異來源，並建議研究團隊應擷取哪些後設資料及描述程序的資料，以盡量降低資料遺失，或缺乏調和、校準及校正程序的風險。\n- 盡合理可能擷取所有與實驗室程序相關的後設資料及資料，仍遵循「寧可日後捨棄，也不要後悔當初未保留」的原則。\n- 確保資料校正、調和與校準程序也被視為實驗過程的一部分，並加以監控與記錄。\n\n## 應避免的做法\n\n- 在實際實驗期間置身事外，將自己僅視為實驗工作流程產出資料後的接收者。\n- 認為深入了解實驗程序只是實驗人員的事，與自己無關；這裡不一定是指了解正在檢驗或提出的假說。在資料週期的這個階段，您也應以研究團隊核心成員的角色參與。\n- 尚未盡可能了解資料未來的用途，以及如何讓資料能與 OPEDAS 比較、避免繁瑣且容易出錯的*事後*調和程序所需的條件，就開始實際擷取資料。\n\n---\n\n[**開放科學的資料託管：第 3.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/623c9c25-b0c0-4838-a8e7-26c06a3b708d/title
 msgid "Where does the data come from? Who will need the data?"
@@ -8407,7 +8407,7 @@ msgstr ""
 
 #: resourcePage/84d60191-a6d2-4719-aaa3-d5a11f8a6f71/title
 msgid "Will this step need significant storage and compute capacity?"
-msgstr ""
+msgstr "此步驟是否需要大量儲存與運算資源？"
 
 #: resourcePage/84d60191-a6d2-4719-aaa3-d5a11f8a6f71/content
 msgid ""
@@ -8431,7 +8431,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.5.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n就運算與儲存容量而言，資料處理與儲存已不再是簡單的問題。後續將說明資料典藏、資料發布，以及在高效能分析環境中提供資料，三者之間的重大差異。目前應先認知到，將龐大資料集轉換為最終處理形式、發布資料，並使其可供有效地再次使用，可能為您的資訊通訊資源與專業能力帶來沉重負擔。因此，這是在資料託管週期的第一步就應考量的面向。\n\n## 建議做法\n\n- 在實驗設計過程中，考量預計產生資料的大小與複雜度。\n- 容量規劃除了納入預期的資料典藏需求，也應考量內部與外部的再次使用問題。\n- 明確區分研究中首次使用資料的需求、同儕審查者僅為檢查可重現性而再次使用資料的需求，以及更廣泛社群可能將您的資料作為 OPEDAS、用於完全不同目的的需求。\n- 為可重現性檢查及其他再次使用需求一併規劃並編列預算，因為僅提供資料供可重現性檢查，通常不足以構成完善的資料託管方案。\n- （請參閱資源、雲端服務提供者、FDG 等。）\n\n## 應避免的做法\n\n- 低估讓資料符合 FAIR 原則，以供可重現性檢查及其他再次使用目的所需的時間與資源。\n- 在未明確記錄的本地電腦上，使用未明確記錄的軟體，執行前處理作業，以產生後續各階段與格式的資料；請參閱資料處理的一般溯源規則。\n\n---\n\n[**開放科學的資料託管：第 6.5.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/93eec8a0-f235-49d4-acf2-af34863edfe5/title
 msgid "Will you make your output semantically interoperable data?"
@@ -8933,7 +8933,7 @@ msgstr ""
 
 #: resourcePage/946a36eb-793e-4b22-af08-e21e77085d8f/title
 msgid "What Compute is needed?"
-msgstr ""
+msgstr "需要哪些運算資源？"
 
 #: resourcePage/946a36eb-793e-4b22-af08-e21e77085d8f/content
 msgid ""
@@ -8956,7 +8956,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.15.3.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n最常見的錯誤之一，是假定本地或外部的服務提供者與雲端方案，自然就會有足夠的運算資源可用。首先，強大高通量技術的使用日益普遍，可能產生規模與複雜度超出現有本地系統處理能力的資料集，而且您可能必須事先預約資源。儲存是必須確認的一件事，但處理與分析資料所需的運算資源，又是另一回事。有些資料可能因為太過龐大或涉及隱私的敏感性，而無法傳送到機構的防火牆外。在這種情況下，運算必須移到機構內的資料所在地，本地也必須有足夠資源來執行所有必要程序。在許多情況下，進入分析階段後，還需要使用或下載其他地方的工作流程與資料。因此，機構內的運算能力與專業知識必須能滿足所有這些需求，而且在開始昂貴又複雜的實驗之前，就應明確列出並確認這些需求。\n\n## 建議做法\n\n- 如果您無法自行掌控硬體，請確實了解哪個資訊通訊（ICT）部門將負責處理您的資料。\n- 與該部門仔細規劃資料交付的方式與時間，以及預期需要執行哪些程序。\n- 尊重並與部門中的運算專家合作，討論需求，尤其是資料帶來的運算負擔及長期儲存影響。\n\n## 應避免的做法\n\n- 低估專業資料處理，以及所需運算與儲存基礎設施、技能和成本的複雜性。如果事後才發現低估了這些需求，您會遇到麻煩，讓專業同事感到困擾，甚至可能遺失資料。\n- 將資訊通訊部門視為機構中雖然必要、卻不太有趣又難以合作的單位，僅把同事當作資料處理人員，而未盡可能邀請他們參與研究。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.15.3.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b06033d8-21d6-4b4b-b353-9a6073763d09/title
 msgid "Will you create images?"
