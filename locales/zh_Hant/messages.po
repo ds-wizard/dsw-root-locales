@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 01:30+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 01:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7566,7 +7566,7 @@ msgstr "## 背景說明\n\n有些 OPEDAS 可能需要取得擁有者的明確同
 
 #: resourcePage/297cc3ef-6a35-4da9-9e0e-44e510822698/title
 msgid "Can workflows be run remotely?"
-msgstr ""
+msgstr "工作流程是否可遠端執行？"
 
 #: resourcePage/297cc3ef-6a35-4da9-9e0e-44e510822698/content
 msgid ""
@@ -7587,7 +7587,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.2.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果可以選擇能遠端執行的雲端工作流程，或更進一步，將工作流程容器化後送到資料所在地執行，讓資料留在「*原處*」，在多數情況下，這可能是最佳選擇。如前所述，資料集日益龐大或敏感（例如人體相關資料），已不適合在您所參與聯盟內的不同儲存與運算地點之間來回傳送。傳送資料顯然涉及各種技術與安全問題。討論資料分析時，會更詳細說明這項考量；但即使只是資料前處理與策展，仍應盡量減少資料搬移，優先使用遠端或「下載至本地」的工作流程來完成這些作業。\n\n## 建議做法\n\n- 決定使用獨立的本地工作流程或遠端服務之前，請先考量待處理及／或策展資料集的大小；此處的策展是指電腦輔助策展。\n- 一般而言，優先使用以「到資料所在地執行的服務」形式提供的工作流程；相較於必須實際將資料傳送到運算端的服務，這類工作流程更可靠，也更理想。\n\n## 應避免的做法\n\n- 在並非唯一選項，也未明顯較佳的情況下，將資料傳送至各項服務。\n- 僅從資料科學角度作決定，而未諮詢團隊其他成員，一併考量成本、可持續性、可重現性，以及最重要的倫理與安全問題。\n\n---\n\n[**開放科學的資料託管：第 4.2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5395ebb2-21d5-4e11-b1dd-76a117f2a419/content
 msgid ""
@@ -7867,7 +7867,7 @@ msgstr ""
 
 #: resourcePage/869f2866-b894-4ec9-a970-c34c9e6a737f/title
 msgid "Will you be running a bulk/routine workflow?"
-msgstr ""
+msgstr "您是否會批次或例行執行工作流程？"
 
 #: resourcePage/869f2866-b894-4ec9-a970-c34c9e6a737f/content
 msgid ""
@@ -7892,7 +7892,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.1.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料託管員並非軟體開發者，應盡可能避免為資料處理與策展開發新的工作流程。您的資料（前）處理與策展程序不太可能是全新的。當然，如果資料類型確實是「新的」，例如首創儀器量測出的全新類型資料，就需要自行開發未隨儀器提供的資料處理軟體。如前所述，在這種情況下，請遵循 Software Carpentry 的所有建議與程序，並認知到自己最初產出的很可能只是「*學術原型軟體（professorware）*」。不要因為軟體設計的精巧、發表機會或市場潛力而沖昏頭；您大部分的心力仍應放在調查既有工具與尋求相關諮詢上。\n\n## 建議做法\n\n- 查閱領域內成熟研究聯盟或基礎設施的工具登錄冊，尋找能滿足需求的既有工作流程。\n- 如果成熟的登錄冊似乎沒有您需要的工具，請透過網路搜尋尋找較不成熟的工具，這仍可能為您節省許多時間。\n- 視需要安排遠端或面對面的諮詢與訓練。\n- 將珍貴的新資料交由工作流程處理之前，先使用參考資料集試跑，以熟悉系統。\n- 嘗試聯絡所選軟體與工具的支援人員，並確實了解版本管理與發布的政策和實踐，以及現行服務協議。\n\n## 應避免的做法\n\n- 未在國際範圍內充分搜尋既有選項，就假定自己的資料與程序獨一無二，必須從頭開發工作流程與演算法。\n- 尚未完成專業軟體開發所需的各項步驟，就將自己可能必須開發的軟體或演算法宣稱為可供他人使用、且可擴充的「解決方案」。這並不表示他人不能使用您的「學術原型軟體」解決方案，但請留意：若缺乏完善的文件與支援，您需要花費許多時間與心力，協助他人使用工具，而且很可能會成為他們預設求助的「服務台」。\n- 已有良好工具可用，且其效能已足以滿足需求，卻仍另外開發僅「稍微更好」的軟體。\n\n---\n\n[**開放科學的資料託管：第 4.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9aed3587-820d-44ff-b635-5ddfc7a48cae/content
 msgid ""
@@ -8170,7 +8170,7 @@ msgstr "## 背景說明\n\n如果您想使用的某些 OPEDAS 來源不符合「
 
 #: resourcePage/7076a1f2-f773-4eaf-9cd6-94f42d23f3bf/title
 msgid "Can workflow decay be managed?"
-msgstr ""
+msgstr "工作流程逐漸失效的風險是否可控？"
 
 #: resourcePage/7076a1f2-f773-4eaf-9cd6-94f42d23f3bf/content
 msgid ""
@@ -8193,7 +8193,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.2.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n工作流程能否隨時間推移仍保持穩定，是備受關注與討論的議題（亦請參閱導論中的一般性議題）。一篇近期出版的研究（2015 年）指出，在成熟的工作流程支援環境 Taverna 中收錄的工作流程，有相當高的比例已無法重新執行。原因往往只是一些看似微不足道的缺失，例如缺少工作流程輸入參數所需的範例值，或缺少 Java 程式所需的函式庫。使用「學術性」工作流程時，常會面臨未附服務層級協議的實際問題，尤其是不常使用的工作流程；其程式碼在效能、擴充能力與支援容易度方面，也可能不夠完善。\n\n## 建議做法\n\n- 將工作流程納入例行資料處理管線前，先檢查每個預計使用的工作流程是否有逐漸失效的風險。\n- 聯絡原始開發者，詢問文件、版本管理、支援及可持續性等相關問題。\n- 如果其中任何一項未達要求，請與團隊討論，對於可重現性、審查及下游資料（工作流程輸出）品質所帶來的風險是否可以接受。\n\n## 應避免的做法\n\n- 假定網路上提供的工作流程仍與最初發布時相同，即使它們已正式發表於資訊學期刊、納入工作流程環境，或在 Galaxy 等環境中提供。\n- 未進行適當查證（包括訪談曾經使用過的專家），就相信學術性或商業工作流程系統對可持續性與支援的宣稱。\n- 未妥善考量支援與逐漸失效的問題，就加入自己開發的學術原型軟體（professorware）解決方案，讓原本就不穩定的工作流程生態更加混亂。\n\n---\n\n[**開放科學的資料託管：第 4.2.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/c7356236-356f-43cc-9bc8-7c1e09c84634/title
 msgid "Re-use considerations: Will the archive need to be online?"
@@ -9100,7 +9100,7 @@ msgstr "## 背景說明\n\n如前所述，許多情況下，您會先以某種�
 
 #: resourcePage/602bf530-a5b0-43b7-9d5d-90164d3df626/title
 msgid "Are there ready-to-use workflows?"
-msgstr ""
+msgstr "是否有可直接使用的工作流程？"
 
 #: resourcePage/602bf530-a5b0-43b7-9d5d-90164d3df626/content
 msgid ""
@@ -9125,7 +9125,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.15.3.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n許多類型的資料已有成熟且經過充分測試的工作流程與管線，可將原始資料轉換為適合分析的格式。請確實了解手上這類資料有哪些可用選項。結果與結論的可重現性，與資料格式的標準化程度、資料品質，以及所使用工作流程的穩健性與版本密切相關。學術性工作流程，也就是學術原型軟體（professorware），其文件與版本管理不一定符合標準；日後若使用工作流程或其元件的「錯誤版本」，即使處理相同資料，也可能得到顯著不同的結果。有時無法避免使用「客製」分析工作流程，但若必須使用「實驗性」工作流程，請格外仔細地記錄所使用的確切版本。\n\n## 建議做法\n\n- 查閱工具與工作流程登錄冊，盡可能使用成熟且可重現的工作流程。\n- 如果沒有這類工作流程，必須使用原型工作流程或自行開發客製工作流程，請務必詳盡記錄程式碼及所使用工具的版本，例如對映時使用的詞彙表版本。\n- 妥善典藏程式碼、版本及所使用的元件，並盡可能完整地記錄相關資訊。\n- 為工作流程加入符合 FAIR 原則的後設資料，讓您與其他人都能找到、取用、操作及再次使用工作流程，並盡可能確保可重現性。\n\n## 應避免的做法\n\n- 在並非完全無可避免的情況下，使用自行開發的工作流程。\n- 假定只有自己會處理資料，而且只會處理一次，就在缺乏詳盡文件的情況下執行這些工作流程。\n- 將工作流程的程式碼與元件存放在本地系統，卻未妥善備份或提供後設資料。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始開發。\n\n---\n\n[**開放科學的資料託管：第 1.15.3.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/dda1d85f-df15-4c4c-b09e-8691e10cd9e0/title
 msgid "What level of data protection is needed?"
@@ -9643,7 +9643,7 @@ msgstr ""
 
 #: resourcePage/65faaba4-86a3-4c69-9460-1f017a3779e0/title
 msgid "Workflow running"
-msgstr ""
+msgstr "工作流程執行"
 
 #: resourcePage/65faaba4-86a3-4c69-9460-1f017a3779e0/content
 msgid ""
@@ -9667,7 +9667,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n讓工作流程在無人監控的情況下執行，會為您的計畫帶來重大風險。執行工作流程時，需要有一套機制來監控進度與可能發生的錯誤。並非所有工作流程與服務都內建完善的錯誤訊息、還原功能等機制。如果過了很久才發現工作流程已停滯（例如某個網路服務元件離線），而且資料可能已遭受無法修復的損害，後果將不堪設想。當然，也應始終保留輸入工作流程的原始資料備份，因為某些工作流程會捨棄中間檔案。因此，工作流程內部一旦發生錯誤，可能只能在修復工作流程後，使用原始資料從頭執行，才能挽救資料。\n\n## 建議做法\n\n- 持續監控每個正在執行的工作流程，或安裝／開發自動監控機制。\n- 保留原始輸入資料的副本，以便隨時使用原始資料重新啟動工作流程。\n- 確實記錄工作流程的每個步驟（成功完成、偵測到錯誤、重新啟動元件等），以便追查結果異常的原因。\n- 如果工作流程的輸入會隨時間改變（例如樣本量測中的樣本品質或染色／標記效果會逐漸衰退），請採取額外措施：在開始正式實驗前，先使用參考資料執行受監控的工作流程。\n\n## 應避免的做法\n\n- 讓工作流程在完全無人監控的情況下執行，並假定輸出正確、可直接用於下一步處理或分析。\n- 偵測到錯誤後，未仔細記錄錯誤內容與修復處理程序所採取的措施，就重新啟動工作流程。\n- 對輸入可能隨時間改變的工作流程重新執行，因為即使工作流程本身完全正確，重新執行也會產生不同結果。\n\n---\n\n[**開放科學的資料託管：第 4.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/edcc3855-9771-4eed-a906-ede2f8e348d2/title
 msgid "Verify repeatedly on the same data"
