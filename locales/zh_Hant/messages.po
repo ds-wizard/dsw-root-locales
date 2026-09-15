@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 01:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 02:22+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7613,7 +7613,7 @@ msgstr ""
 
 #: resourcePage/5bbc391e-a75a-4f0b-8335-1d0a7029d69a/title
 msgid "Who are the customers that use your workflows?"
-msgstr ""
+msgstr "誰會使用您的工作流程？"
 
 #: resourcePage/5bbc391e-a75a-4f0b-8335-1d0a7029d69a/content
 msgid ""
@@ -7636,7 +7636,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n許多工作流程最初是由電腦科學家、資料科學家或從事科學研究的程式設計師開發。最初的版本通常屬於學術原型軟體（professorware），但仍可能是您能取得的最佳選擇；此外，這些工作流程往往不容易讓團隊中的實驗科學家使用。這表示，如果選擇這類開發初期的管線與工作流程，而在某些情況下它們也可能是唯一選項，就可能必須在其他團隊成員需要執行工作流程時隨時待命，最壞的情況甚至是每次都只能由您親自執行。如果選用某個工作流程會讓您成為整個作業鏈中的「單一故障點」，那本來就不是理想的選擇。因此，若無法避免這種選擇，請盡可能訓練更多人使用該工作流程。能使用工作流程，與能共同開發新功能或客製功能，仍是不同的能力。\n\n## 建議做法\n\n- 優先選擇最成熟、容易使用，且研究團隊中盡可能多人都能操作的工作流程。\n- 也考慮商業與專有解決方案，但仍應依照選擇任何工作流程時所述的相同原則進行權衡。\n- 如果有不同工作流程可選，請讓研究團隊其他成員參與試跑，並共同選出最合適的選項。\n\n## 應避免的做法\n\n- 選擇對身為資料專家的您而言似乎很容易，但其他團隊成員可能無法操作的工作流程。\n- 過度著迷於「可以自己動手修改」的選項，而犧牲易用性與穩定性。\n- 高估團隊其他成員應付困難或偏向技術專家介面的能力，即使您覺得這些介面很容易且直覺。許多團隊成員在筆記型電腦上看到陌生的電腦訊息時，可能會不知所措。\n\n---\n\n[**開放科學的資料託管：第 4.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/f942da0b-a7ae-49fe-880b-0cc0a7198bb4/title
 msgid "How will you describe your data format?"
@@ -8023,7 +8023,7 @@ msgstr "## 背景說明\n\n後設資料與資料本身，都可能發生有意�
 
 #: resourcePage/8bc8338d-d07d-44c5-a4a5-d65595361401/title
 msgid "Is all software for steps in your work flow properly maintained?"
-msgstr ""
+msgstr "工作流程各步驟使用的軟體是否都獲得妥善維護？"
 
 #: resourcePage/8bc8338d-d07d-44c5-a4a5-d65595361401/content
 msgid ""
@@ -8051,7 +8051,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.4.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料前處理或分析所使用的軟體存在差異，是造成錯誤與缺乏可重現性的常見原因。回顧導論中「學術原型軟體（professorware）」一詞，許多軟體套件與演算法甚至還達不到那種程度，只是由部門的資訊人員使用自己碰巧熟悉的程式語言，所撰寫的客製程式。\n\n學術文化要求資料科學家與工程師發表新的演算法及軟體套件，促使大家傾向為相同研究步驟開發多套客製工作流程。然而，要讓相同資料產生可重現的結果，工作流程及其使用的所有元素，例如文字探勘用的敘詞表、參考資料清單等，都必須完全相同。但在許多情況下，一個或多個元件的文件、維護或版本管理並不完善，甚至由不受您控制的人決定更新，卻未通知您。因此，應將沒有必要卻自行撰寫資料分析軟體或演算法，視為良好資料託管的首要大忌。除非您是第一個進行某種實驗的人，否則所需處理與分析類型的軟體、工作流程或管線，很可能早已存在。\n\n即使使用科學社群開發的既有開放原始碼（OS）軟體，也應先確認程式碼有妥善的支援、版本管理與文件。否則，您很可能很快就會面臨無法補救的可重現性問題。公部門工作流程逐漸失效，在許多情況下是相當嚴重的問題。此外，許多開放原始碼工作流程是由網路服務型元件依序執行而成。如果其中某個元件離線，或在未妥善管理及通知的情況下改變，工作流程就可能無法正常執行，或產生無法解釋的結果差異。因此，確保所選軟體元件具有足夠的穩定性與品質，足以承擔將珍貴資料交由它們處理的風險，是資料託管員極為重要的核心工作。即使是商業供應且經過專業開發的軟體與管線，也始終存在風險：提供工具支援的公司可能沒有完善的版本管理與支援協議，甚至可能退出市場。已有充分證據顯示，某些工具即使被評估為不適合執行所用的任務，之後仍會被持續使用多年，相關研究也仍能通過同儕審查。\n\n## 建議做法\n\n- 確實調查有哪些工具與服務，能在效能、穩定性、版本管理、文件及可持續性方面符合您的品質標準。有些領域設有工具登錄冊，並提供特定工具或工作流程問題的評論。\n- 只選擇可取得的工具中最常用且經過驗證者。即使如此，也仍應為自己仔細記錄在資料處理作業中使用工具的日期、版本與條件。\n- 也檢查底層元件與外掛程式的穩定性等因素。如前所述，如果文字探勘模組在兩次執行之間更換術語系統的版本，即使文字探勘軟體本身完全穩定，結果也會大不相同。\n- 對上述任何面向只要有一絲疑慮，就應聯絡軟體或工具的擁有者，並確保日後能使用完全相同的組合與版本。如果工作流程或工具才剛發布，且沒有證據顯示未來會妥善開放原始碼，或以其他方式持續提供，使用前請三思。\n\n## 應避免的做法\n\n- 對工具的重視程度不如對資料本身。這表示應擷取並妥善託管工具的後設資料，包括如何使用、所用版本與元件、使用時間，以及確切的輸入與輸出資料，其細心程度應與託管資料本身相同。\n- 在仍有其他可行選項時，開發軟體或其他資料工具。例如，只為了興趣或發表，就打造比商業替代品快 20% 的新工具，並在非*評估工具本身*的用途下，將其用於珍貴資料，應被視為資料託管員不可涉足的做法。\n- 僅因工具是開放原始碼，就認為工具及您可能加入的功能會獲得良好支援。除非有具備一定可持續性的基金會或公司提供支援，否則無論工具是否開放原始碼，都很可能在一段時間後，隨著「開發它的博士生離開」，直接離線，或產生品質低劣、與先前大不相同的結果。\n\n---\n\n[**開放科學的資料託管：第 2.4.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8165f045-5855-43e1-b858-0966dedf2965/title
 msgid "How will you be storing Metadata?"
@@ -8254,7 +8254,7 @@ msgstr "## 背景說明\n\n數位物件也可能劣化，或變得無法操作�
 
 #: resourcePage/baf7527b-c330-4674-9693-04c4f28bb7f3/title
 msgid "Will workflows need to be run locally on the stored data?"
-msgstr ""
+msgstr "是否需要在資料儲存所在地執行工作流程？"
 
 #: resourcePage/baf7527b-c330-4674-9693-04c4f28bb7f3/content
 msgid ""
@@ -8278,7 +8278,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n許多資料集即使提供給他人再次使用，也可能因為規模過大，而無法有效且經濟地在不同地點之間「傳送」。此外，隱私、法律或商業限制，也可能使資料無法實際離開您的內部資料儲存庫。這些問題必須在資料產生的早期階段仔細研究，因為它們可能影響資料產生、授權與託管方式的選擇。如果資料無法「傳送」，提供資料供他人再次使用的環境就格外重要。讓人直接「取得資料以供自身用途」的下載伺服器，與允許「工作流程」（運算元件）進入資料所在地、就地進行計算與分析的環境，兩者截然不同。安全與身分驗證問題也很不一樣，此處驗證的對象是前來執行的工作流程；此外，資料所在地還需要有足夠的運算能力，讓工作流程能有效率地完成作業。必須明確界定資料授權，以及本地運算結果可以或不可以如何使用，並建立支援資料「*原地*」再次使用的機制。這些工作也可以委託可信賴的第三方執行。同時請考慮，即使資料本身無法提供給外部對象，其後設資料仍可能完全可以對外提供。\n\n## 建議做法\n\n- 盡可能在擷取資料前，先討論預計產生資料的授權與安全問題，因為這些限制可能大幅影響後設資料擷取策略、格式及實驗預算。\n- 諮詢熟悉工作流程與分散式學習的人員，了解需要滿足哪些要求，才能讓「前來執行的軟體」或一般工作流程充分再次使用您的資料。\n- 使用您的資料試跑工作流程，確認工作流程確實能「取用」資料。\n- 提供豐富的後設資料，說明資料的格式、限制及可用性，例如內部採用哪一種識別碼方案，以及資料尚不適合直接用於哪些特定工作流程的警告。\n\n## 應避免的做法\n\n- 尚未考量預期的再次使用需求，就開始擷取資料，尤其未釐清是採用傳統資料分享，還是讓他人「*原地*」取用資料。\n- 假定機構內「其他人」會處理基礎設施，並支援第三方再次使用資料，卻未確保相關工作已妥善安排，也未編列內部或外部服務的預算。\n- 未準備好回答再次使用條件的問題，而浪費內部或外部支援人員的時間，例如採用下載或*原地*使用、需要何種服務可用時間保證、安全層級及授權條款等。\n\n---\n\n[**開放科學的資料託管：第 2.5.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/f0cb84fb-bb4a-4e5f-a901-638438fe0e77/title
 msgid "Is there budget to enable supported reuse by others (collaboration/co-authorship)?"
@@ -8533,7 +8533,7 @@ msgstr ""
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/title
 msgid "Will you use a workflow e.g. with tools for database access or conversion?"
-msgstr ""
+msgstr "您是否會使用工作流程，例如包含資料庫取用或轉換工具的工作流程？"
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/content
 msgid ""
@@ -8559,7 +8559,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 5.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n用於處理 FAIR 資料的工作流程愈來愈多。如第 4 節所述，對於大多數資料類型與後設資料需求，都已有先前的案例、社群中逐漸形成的標準，以及可處理 FAIR 資料的發布、連結、整合與分析工作流程。\n\n自 2014 年起，各地陸續舉辦愈來愈多所謂的「自備資料（Bring Your Own Data）」工作坊。各種基本資料類型的擁有者與 FAIR 資料專家合作，在後設資料層次以符合 FAIR 原則的方式描述原始資料，許多案例也將部分核心資料轉換為 FAIR 格式。在大多數情況下，這個程序並未*取代*原始資料庫，而只是透過 FAIRpoint 提供部分資料，讓支援 FAIR 的工具能找到並操作這個資料子集。當您讀到本書時，許多資料類型都已有人處理過，而您需要在資料或後設資料中引用的概念，也會愈來愈多地涵蓋於符合社群規範且獲得社群支援的詞彙表中。多數領域都有國際合作與研究基礎設施，正積極為領域內尚缺乏的工具、標準與最佳實踐進行開發。不同科學領域在資料類型登錄冊、適當的控制詞彙、這些詞彙與知識本體之間的對映服務等方面，成熟程度可能確實差異很大；但前沿研究愈來愈需要連結不同領域與學科的資料，並進行後設分析。因此，對跨領域研究與開放科學而言，讓您的資料能與領域內及其他領域的資料充分「溝通」，至關重要。尋找既有最佳實踐、格式與標準時，不應侷限於自己的學科範圍。了解手上資料類型最佳實踐的方法之一，是向領域內成熟的研究基礎設施尋求協助，諮詢領域內經認證的資料託管節點，或洽詢 Research Data Alliance 等組織。\n\n## 建議做法\n\n- 諮詢專家，最好是與領域內成熟研究基礎設施有關聯的專家。\n- 也諮詢領域外的專家，例如將農業科學的詞彙表擴充後用於生物多樣性研究計畫、將氣象學詞彙表用於部分地質資料，或使用能涵蓋所需代謝物概念的化學詞彙表。\n- 找出您需要、但在特定使用情境中找不到合適既有成果，或無法再次使用既有成果的概念與格式。\n- 務必向研究基礎設施或服務，例如 ELIXIR、NCBO 或 EPOS，尋求建議。在許多情況下，客製既有資料模型與格式，或擴充主要的知識本體，會是補足這些缺口的最佳選項。\n\n## 應避免的做法\n\n- 尚未嘗試所有使用或客製既有資源的可能性，就另行發明新的資料類型，或開發連結、發布與整合管線。\n- 為資料集中的概念建立新的識別碼，即使已有其他地方以您所需的確切意義定義該概念。如果確實需要為新概念建立識別碼，例如您首次在科學討論中描述的現象或物種，仍應先嘗試擴充社群偏好的詞彙表與知識本體。\n- 連結或整合本質上未經調和、無法比較或不相容的資料集。電腦程式會自動偵測部分不一致，但「輸入品質差，輸出品質也差」這項原則，也適用於連結或整合資料的後設分析。\n\n---\n\n[**開放科學的資料託管：第 5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/02eaf042-67ed-454b-8b04-d08082e382c9/title
 msgid "What technical issues are associated with HPR?"
@@ -9611,7 +9611,7 @@ msgstr ""
 
 #: resourcePage/35ad1acb-7301-4f3a-8f1a-41e75c435a2f/title
 msgid "Choose the workflow engine"
-msgstr ""
+msgstr "選擇工作流程引擎"
 
 #: resourcePage/35ad1acb-7301-4f3a-8f1a-41e75c435a2f/content
 msgid ""
@@ -9639,7 +9639,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n在許多情況下，您需要的資料處理類型可能已有涵蓋全程的管線；但您也可能只需要工作流程中的特定元件。如果工作流程是由可相對獨立部署、依序串接的元件（例如網路服務）組成，就可能只使用既有工作流程的一部分。不過，請注意網路服務的穩定性問題。如果網路服務由學術團隊維護，其文件、版本管理與支援可能不夠完善，進而嚴重妨礙實驗程序。如果每項網路服務的平均可靠度為 80%（考量服務可用時間、版本管理等），而工作流程需要依序執行五項網路服務，不妨算算整個工作流程順利執行的機率。因此，如果已有專業工具可用，即使它們是專有軟體而非開放原始碼軟體，也應仔細研究並討論：選用可自行修改的開放原始碼軟體、其專業支援程度（無論軟體採何種授權方式，都可能需要付費），以及使用商業軟體（開放或封閉原始碼）之間，應如何權衡。學術界顯然傾向盡可能使用開放原始碼軟體，但這不一定有助於提升效率，有時只是增加「自認可以自由修改的空間」，也可能源自對商業軟體的強烈偏見，以及對「廠商鎖定」的擔憂。這些擔憂並非總是沒有道理，但若只是為了短期省錢、滿足自己修改與調整的欲望，甚至純粹為了*發表新東西本身*，而採用不夠專業的臨時拼湊方案，未必最有利於研究團隊。如果實驗室分析人員自行製作試管，或在不符合 GLP 的環境中製備試劑，會立刻受到懲處，那麼為何資料分析人員這樣做就可以接受？因此，選擇工作流程引擎應由團隊共同決定，並參考您的建議；這就如同決定向有品質保證的商業供應商購買抗體等試劑，還是在實驗室內透過小鼠免疫自行製備一樣。選擇既有工作流程、引擎或服務時，需要回答的問題，也包括客製開發是否容易。例如，能否協同編輯工作流程？能否聯絡開發者並與其合作？是否支援所需的運算後端？是否提供管理作業所需的標準工具？加入新工具是否容易？是否支援巢狀工作流程？非電腦專家是否也容易使用，例如是否有能正常運作且容易使用的圖形使用者介面（GUI）？\n\n## 建議做法\n\n- 檢視各種工作流程選項與引擎時，除了宣稱提供的功能之外，也應檢查：\n- 文件完整程度、支援、授權條款與可靠度。\n- 謹記您最終的責任是確保處理後資料的品質，而不是開發新的演算法。\n- 直接聯絡工作流程引擎供應者，必要時接受訓練。\n- 先使用範例資料執行工作流程、引擎或管線。\n- 將執行環境納入考量，並確認該環境（例如 Galaxy）的可持續性。\n- 確認團隊中哪些人需要操作工作流程，因為實驗人員與資訊通訊（ICT）人員偏好的使用者介面可能截然不同。\n\n## 應避免的做法\n\n- 未證明確實無法避免，或未取得團隊同意，就開發新的工作流程或工作流程引擎。\n- 僅因工具或環境容易取得且為開放原始碼（OS），就使用缺乏支援的工具或環境。\n- 未仔細考量並與團隊其他成員討論，就排除商業或其他專有工作流程，尤其是資料難以重製時。\n- 預期僅由學術界發表與提供的工作流程及網路服務會隨時正常運作，並將整個工作流程視為單一單位，而未逐一檢查串接元件的可靠度與實用性。\n\n---\n\n[**開放科學的資料託管：第 4.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/65faaba4-86a3-4c69-9460-1f017a3779e0/title
 msgid "Workflow running"
