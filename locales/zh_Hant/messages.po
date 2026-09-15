@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 06:43+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 07:10+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -1875,7 +1875,7 @@ msgstr "有幾種常用於記錄溯源資訊的標準，例如 W3C Prov 標準�
 
 #: question/127bc0d5-8de6-4021-9a95-22b97ed3c308/title
 msgid "What standard you will use to document provenance?"
-msgstr ""
+msgstr "您將使用哪一種標準來記錄溯源資訊？"
 
 #: reference/7abea09a-913f-431e-9c4d-5bbcf2cf7c07/label
 msgid "FAIRCookbook on Provenance information"
@@ -8592,7 +8592,7 @@ msgstr "## 背景說明\n\n在 HPR 環境中提供資料，比單純發布資料
 #: resourcePage/15340920-f5bc-4d29-949d-294d40280b0d/title
 #: resourcePage/fec3540d-b6fb-42f2-8119-50e02d94edb1/title
 msgid "Where to publish?"
-msgstr ""
+msgstr "要在哪裡發布？"
 
 #: resourcePage/15340920-f5bc-4d29-949d-294d40280b0d/content
 msgid ""
@@ -8620,11 +8620,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.3.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料發布不等同於資料典藏。「發布」一詞源自讓資產「公開」的概念，傳統上這些資產是文字或影像。不論這個詞在當今學術「出版」實踐中經歷了多少語意變遷，我們仍希望保留原本的概念。因此，在本地儲存庫中典藏資料，並不代表資料已自動「發布」。您可能有充分理由，只將資料「典藏」供內部再次使用，當然仍須處理前面討論過的備份與安全問題；但這裡假設，您希望真正發布資料，供外部再次使用。這些費用應可由研究資助者列支，性質上與開放取用文章的文章處理費（APC）相當。不過，資料產生者沒有責任為了讓他人再次使用，就將資料在 HPR 環境中維持多年。再次使用 OPEDAS 需要成本，也是現代資料密集型研究計畫妥善編列預算時不可或缺的一部分。因此，實際以 HPR 格式再次使用 OPEDAS 的成本，應可在未來的補助申請中列為研究費用。開放資料的再次使用，並不代表不需成本。這也包括被頻繁使用的資料及資料基礎設施資源。這些資源應在某個階段被認定為「核心基礎設施」，並作為公共財獲得部分經費支持，及／或透過再次使用費用取得經費。\n\n開放取用出版者提供的整體服務，顯然包含讓文章在原則上無限期的期間內，都能可靠地被再次使用。然而，儲存龐大資料集，至少在初期，會比儲存文字昂貴得多，因此必須考量長期保存成本。此外，將符合 FAIR 原則的資料發布於基本且可信賴的儲存庫，讓人類與機器能找到資料，並知道在什麼條件下可以取用，也就是 FAIR 的 F 與 A，和在高效能再次使用（HPR）環境中，以完全可相互操作的格式提供資料，有很大的差異。這裡先提醒您，透過 HPR 向他人提供資料，在硬體、相關服務與支援方面的成本，通常至少比單純以原則上符合 FAIR 的格式「發布資料」高出一個數量級。若資料發布後，被他人找到並作為 OPEDAS 再次使用，新使用者就必須負擔將資料實際納入重新分析環境的成本。因此，發布資料與自行為資料維護 HPR 環境，是不同的決定。將大量資料寫入「磁帶」，並將其豐富且符合 FAIR 原則的後設資料儲存於「雲端」，通常仍會被視為良好的資料託管。磁帶可以被找到及取用，資料也能以可相互操作、因而可再次使用的格式取回；這可能花費可觀成本，但應由再次使用者負擔。不過，選擇哪個儲存庫極為重要。許多新興專業資料發布者之間，不僅成本可能差異很大，可信賴程度、穩健的永續維護及支援，也至少同樣重要。非常概括地說，以學術原型軟體（professorware）為基礎的本地儲存庫，幾乎是最不適合發布資料的地方；但市場上很快也會出現與今日「掠奪性的文字出版者」一樣多的「掠奪性的資料出版者」。因此，應了解不同資料發布選項的優缺點，不要只憑漂亮的網站就全盤相信。作為開放科學中良好的資料託管員，最適合採取的整體態度是：收入不應來自資料本身，也就是把資料當成須付費取用的資產，而應來自圍繞資料的服務，包括 HPR 服務、智慧分析等。\n\n## 建議做法\n\n- 無論在內部或外部發布資料，都務必使用可靠且能持續維護的儲存庫。\n- 若在外部發布，請確保選用經認證且可信賴的資料儲存庫，以及可信賴的出版團體。\n- 不論資料本身儲存於何處，都應將描述資料集、且符合 FAIR 原則的後設資料，發布於公共儲存庫。\n- 清楚區分「靜置發布」與提供高效能再次使用服務，並分別編列預算。\n- 在 FAIR 後設資料中，極為清楚地說明資料在什麼條件下能夠且獲准再次使用。這遠不只是授權條款，例如還可能告知使用者，往往是機器，要到哪裡找到原始資料，以及將資料重新載入 HPR 環境需要哪些步驟。\n\n## 應避免的做法\n\n- 混淆典藏與發布，以及「靜置發布」與提供 HPR 服務。\n- 認為將資料保留於內部，即使有病人隱私等充分理由，就不必遵循良好資料託管實踐，在公開且可被找到的位置，發布內部資料集豐富且符合 FAIR 原則的後設資料；即使後設資料告知潛在使用者，再次使用將受到嚴格限制，也仍應發布。\n- 輕率地認為資料不是由公帑產生，因此沒有道德義務，至少向社群其他成員公開後設資料。\n- 認為在私人企業工作，這些原則就不適用。只要私人企業能將研究活動支出列為可享稅務減免的費用，社會大眾就也在共同資助您的研究。\n\n---\n\n[**開放科學的資料託管：第 7.3.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5390dec6-15d1-4fff-9030-d9599041dbed/title
 msgid "Who will pay for open access data publishing?"
-msgstr ""
+msgstr "誰會支付以開放取用方式發布資料的費用？"
 
 #: resourcePage/5390dec6-15d1-4fff-9030-d9599041dbed/content
 msgid ""
@@ -8657,7 +8657,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n以開放取用方式發表文章，目前已是多數補助可列支的費用，機構政策也愈來愈支持在開放取用期刊發表文章。然而，真正以符合 FAIR 原則的方式發布資料，還沒有受到同樣明確的重視。導論中的 FANTOM5 論文例子，很好地說明了：與論文「相關」的資料，本身就可能是極為重要的資產，但要以符合 FAIR 原則的格式發布，這個例子採用 nanopublications，也需要投入大量時間與工作。如果堅持資料必須以符合 FAIR 原則的格式發布，才能充分再次使用，那麼另外規劃所需能力與資源，就是良好資料託管的一部分。發表開放取用文章，實際資料卻仍難以被找到，例如藏在深層網路的補充資料檔案中，或缺乏適當的專用後設資料；難以被取用，例如採用電腦無法讀取的格式，且沒有適當授權條款；無法相互操作，例如使用文字式或非社群採用的識別碼，因而很難再次使用，這應被視為不良研究實踐。因此，論文所依據的資料應獨立發布，而「補充文章」，最好提供開放取用，則應被視為說明產生資料之研究的理由、方法，以及以該論文為基礎的*第一批*結論與主張。再回到 FANTOM5 論文，根據同一資料集產生的眾多衍生論文，實際上顯示了傳統出版方式的「破產」。資料集才是關鍵，所有論文，包括第一篇「母艦」論文，都可以（或應該？）被視為衍生成果。\n\n接著要問的是，您的資料有多少可以開放取用。如前所述，開放科學要求以開放取用作為預設做法。然而，有些情況下，即使第一篇及後續所有衍生文字出版品都能開放取用，資料仍無法不受限制地開放提供。例如，涉及國家安全，或病人資料等隱私敏感資料，可能必須限制取用。顯然，這已對同儕評審造成根本問題，因為評審必須「相信」特定衍生論文的結論，是根據可靠資料得出的可信結論。因此，即使原始資料必須受到限制，良好的資料託管員仍會盡一切必要且可行的努力，提供例如經匿名化或彙整的資料集，讓審查、重現與開放程度盡可能完善。如果底層原始資料必須受到限制，產生「開放資料」之程序的溯源資訊，就應盡可能完整。受限資料集符合 FAIR 原則的後設資料，也仍應開放取用，並清楚說明可取用性，例如授權條款，以及申請取用受限資料時應遵循的程序等。不過，發布資料可能比發表敘述文章昂貴數個數量級。舉個小例子：一台現代儀器，例如 cryo-EM，每天就能輕易產生約 1 TB 的資料。因此，典型的高階儀器研究團隊，若能有效運用可用的儀器時間，每年便會產生 100–300 TB 的資料。研究計畫通常持續 1–3 年，因此，進行中的計畫約需 200–600 TB 的儲存空間。假設研究資助者要求計畫完成後，資料至少典藏十年，那麼資料密集型研究團隊，十年間可能就必須典藏 2–6 PB 的原始資料。目前學術用途的價格約為儲存每 TB 每年 50 歐元，另加備份每 TB 每年 180 歐元；典藏則為每 TB 每年 108 歐元。因此，妥善儲存 1 PB，也就是 1,000 TB 的資料，光是典藏，每年就可能遠超過 100,000 歐元。這表示，資料託管員必須極為審慎地編列資料儲存、典藏及備份預算。\n\n一項非常重要的決定是：要將哪部分資料，在哪裡、以何種方式發布。以符合 FAIR 原則的格式，將後設資料或註解儲存於 HPR 環境，從成本角度看幾乎微不足道，卻可能已足以促進實際資料的充分再次使用。\n\n## 建議做法\n\n- 在研究預算中，納入以符合 FAIR 原則的方式發布資料及／或後設資料所需的資源，不論它們能否完全開放取用。\n- 留意發布大型資料集，實際上可能比發表相關文章昂貴得多。\n- 與團隊內外具備 FAIR 資料經驗的同事及資料發布者密切合作，確保所選的技術、格式與術語，確實是符合 FAIR 原則、最佳且負擔得起的選擇。\n- 資料一旦整理成可依 FAIR 原則發布的格式，就選擇可信賴的資料儲存庫來存放。\n- 為資料選擇適當的授權條款，並在後設資料中納入該條款的機器可讀識別碼。\n- 確保資料可被引用。\n- 分別考量原始資料、處理後資料與後設資料的發布選項。\n- 區分這些資料類別，但確保它們之間有可解析的永久連結。\n\n## 應避免的做法\n\n- 以 PDF 或其他非機器可讀格式發布補充資料等資料，使多數文字探勘程式難以取得。\n- 假定發布實驗產生的資料，只需要相較於文章處理費（APC）微不足道的預算，甚至以為只需與 APC 相當的金額。\n- 發布資料時，未適當參照用來產生及分析資料的工作流程與其他研究物件。\n- 未認真查核提供者的價格、可信賴程度及品質，就發布資料。\n\n---\n\n[**開放科學的資料託管：第 7.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/6fb3d280-2bff-4f4c-906a-15ccd976e371/title
 msgid "What service to be offered around your data?"
@@ -8746,7 +8746,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料發布不等同於資料典藏。「發布」一詞源自讓資產「公開」的概念，傳統上這些資產是文字或影像。不論這個詞在當今學術「出版」實踐中經歷了多少語意變遷，我們仍希望保留原本的概念。因此，在本地儲存庫中典藏資料，並不代表資料已自動「發布」。您可能有充分理由，只將資料「典藏」供內部再次使用，當然仍須處理前面討論過的備份與安全問題；但這裡假設，您希望真正發布資料，供外部再次使用。這些費用應可由研究資助者列支，性質上與開放取用文章的文章處理費（APC）相當。不過，資料產生者沒有責任為了讓他人再次使用，就將資料在 HPR 環境中維持多年。再次使用 OPEDAS 需要成本，也是現代資料密集型研究計畫妥善編列預算時不可或缺的一部分。因此，實際以 HPR 格式再次使用 OPEDAS 的成本，應可在未來的補助申請中列為研究費用。開放資料的再次使用，並不代表不需成本。這也包括被頻繁使用的資料及資料基礎設施資源。這些資源應在某個階段被認定為「核心基礎設施」，並作為公共財獲得部分經費支持，及／或透過再次使用費用取得經費。\n\n開放取用出版者提供的整體服務，顯然包含讓文章在原則上無限期的期間內，都能可靠地被再次使用。然而，儲存龐大資料集，至少在初期，會比儲存文字昂貴得多，因此必須考量長期保存成本。此外，將符合 FAIR 原則的資料發布於基本且可信賴的儲存庫，讓人類與機器能找到資料，並知道在什麼條件下可以取用，也就是 FAIR 的 F 與 A，和在高效能再次使用（HPR）環境中，以完全可相互操作的格式提供資料，有很大的差異。這裡先提醒您，透過 HPR 向他人提供資料，在硬體、相關服務與支援方面的成本，通常至少比單純以原則上符合 FAIR 的格式「發布資料」高出一個數量級。若資料發布後，被他人找到並作為 OPEDAS 再次使用，新使用者就必須負擔將資料實際納入重新分析環境的成本。因此，發布資料與自行為資料維護 HPR 環境，是不同的決定。將大量資料寫入「磁帶」，並將其豐富且符合 FAIR 原則的後設資料儲存於「雲端」，通常仍會被視為良好的資料託管。磁帶可以被找到及取用，資料也能以可相互操作、因而可再次使用的格式取回；這可能花費可觀成本，但應由再次使用者負擔。不過，選擇哪個儲存庫極為重要。許多新興專業資料發布者之間，不僅成本可能差異很大，可信賴程度、穩健的永續維護及支援，也至少同樣重要。非常概括地說，以學術原型軟體（professorware）為基礎的本地儲存庫，幾乎是最不適合發布資料的地方；但市場上很快也會出現與今日「掠奪性的文字出版者」一樣多的「掠奪性的資料出版者」。因此，應了解不同資料發布選項的優缺點，不要只憑漂亮的網站就全盤相信。作為開放科學中良好的資料託管員，最適合採取的整體態度是：收入不應來自資料本身，也就是把資料當成須付費取用的資產，而應來自圍繞資料的服務，包括 HPR 服務、智慧分析等。\n\n## 建議做法\n\n- 無論在內部或外部發布資料，都務必使用可靠且能持續維護的儲存庫。\n- 若在外部發布，請確保選用經認證且可信賴的資料儲存庫，以及可信賴的出版團體。\n- 不論資料本身儲存於何處，都應將描述資料集、且符合 FAIR 原則的後設資料，發布於公共儲存庫。\n- 清楚區分「靜置發布」與提供高效能再次使用服務，並分別編列預算。\n- 在 FAIR 後設資料中，極為清楚地說明資料在什麼條件下能夠且獲准再次使用。這遠不只是授權條款，例如還可能告知使用者，往往是機器，要到哪裡找到原始資料，以及將資料重新載入 HPR 環境需要哪些步驟。\n\n## 應避免的做法\n\n- 混淆典藏與發布，以及「靜置發布」與提供 HPR 服務。\n- 認為將資料保留於內部，即使有病人隱私等充分理由，就不必遵循良好資料託管實踐，在公開且可被找到的位置，發布內部資料集豐富且符合 FAIR 原則的後設資料；即使後設資料告知潛在使用者，再次使用將受到嚴格限制，也仍應發布。\n- 輕率地認為資料不是由公帑產生，因此沒有道德義務，至少向社群其他成員公開後設資料。\n- 認為在私人企業工作，這些原則就不適用。只要私人企業能將研究活動支出列為可享稅務減免的費用，社會大眾就也在共同資助您的研究。\n\n---\n\n[**開放科學的資料託管：第 7.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/53c88593-9d04-4f15-821a-24772f4dff26/title
 msgid "Will you run your own access web service?"
