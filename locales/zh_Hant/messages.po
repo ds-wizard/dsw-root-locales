@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 01:05+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 01:30+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7991,7 +7991,7 @@ msgstr "## 背景說明\n\n如果經過徹底搜尋，您仍確定沒有合適�
 
 #: resourcePage/13515206-8c9a-4e6b-b1c2-fca0734bf3d8/title
 msgid "Did you consider how to monitor data Integrity?"
-msgstr ""
+msgstr "您是否已考慮如何監控資料完整性？"
 
 #: resourcePage/13515206-8c9a-4e6b-b1c2-fca0734bf3d8/content
 msgid ""
@@ -8019,7 +8019,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.3.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n後設資料與資料本身，都可能發生有意或無意的變更。以電子方式儲存資料與資訊，並不能保證其完整性。除了儲存環境可能受損，需要透過備援與備份處理之外，資料本身也可能意外毀損或遭到變更。此外，資料採用的格式，可能在未來某個時間點變得無法由當時的軟體輕易「讀取」。除了這些非預期的變更之外，也不是所有資料與資訊本質上都是「靜態」的。例如，樣本改變時，樣本的註解可能也需要調整；從冷凍儲存環境取出樣本，就可能改變其特性，因此必須記錄。使用資料而獲得的新見解，也可能讓資料集的使用者自訂後設資料隨時間改變。另外，有些經過策展或彙整的資訊資源，本來就會在新資料出現時更新。因此，必須仔細監控資料完整性、資料與後設資料的版本及更新，並定期檢查。*請注意*：良好的託管員也會記錄所保管的資料何時已「過時」、毀損，或因其他原因而不再可用，並審慎處置無用的資料，同時保留適當的引用資訊，告知使用者某個資料集已不再提供，或已移入典藏。\n\n## 建議做法\n\n- 確保資料集的後設資料在不同位置留有備份，並在適當的目錄中呈現，同時追蹤後設資料的所有版本。\n- 在資料、後設資料或樣本最初經過擷取、前處理及典藏後，詳細保存後續所有變動的日誌與溯源資訊。尤其當資料有多份副本時，務必在變更衍生副本時，將變更記錄於後設資料中，讓人類與機器都知道目前使用的版本可能已不同於原始資料。\n- 記錄對已典藏實體樣本進行的所有操作，讓日後使用後設資料或樣本本身的人，能確切知道自己使用的是哪個版本。\n- 為後設資料選擇以 FAIR 原則為依據的格式，並將嚴格的版本控制納入儲存及提供資料的基礎設施。\n- 在不同實體位置保存多份資料副本，並嚴格記錄各副本所在位置，以及如何確保其完整性。\n- 讓主清單及後設資料盡可能與原始資料或樣本維持緊密連結。\n- 授予團隊中特定人員取用管控權限，並由他們負責定期且頻繁地監控資料完整性。\n\n## 應避免的做法\n\n- 假定資料，甚至是資料所描述的實體樣本，不必妥善照管就能長期維持不變。\n- 長期未定期關注資料，直到後來才發現資料已毀損，或被他人用於不當用途。\n- 讓他人再次使用資料，卻未提供能同時確保遵守資料完整性規範的適當授權條款。當工作流程直接到資料所在處執行，而非將整份資料集下載到其他地方再次使用時，工作流程可能有意或無意地變更原始資料。\n- 捨棄資料，即使資料已毀損或過時，卻未在國際紀錄中保留其原始「唯一識別碼」。人類與機器都應能知道「這些資料曾經存在」、資料原本的內容，以及資料在何時、以何種方式下線。\n\n---\n\n[**開放科學的資料託管：第 2.3.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8bc8338d-d07d-44c5-a4a5-d65595361401/title
 msgid "Is all software for steps in your work flow properly maintained?"
@@ -8083,7 +8083,7 @@ msgstr "## 背景說明\n\n始終應考慮資料在原始目的之外的用途�
 
 #: resourcePage/8ec2d0c8-b623-499b-9006-cb757ecf241d/title
 msgid "If your data changes over time, how frequently do you do backups?"
-msgstr ""
+msgstr "如果資料會隨時間改變，您多久會備份一次？"
 
 #: resourcePage/8ec2d0c8-b623-499b-9006-cb757ecf241d/content
 msgid ""
@@ -8107,7 +8107,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.1.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料可能隨時間改變。不只是經過策展的資料庫會「例行」更新，也可能因為發現錯誤而進行修正；錯誤不一定只是數值有誤，也可能是資料放錯欄位等。務必記錄資料擷取及首次典藏之後的任何變更，並立即備份變更後的資料，讓備份也反映這些變動。溯源資訊也應讓人能「回到」原始資料，即使事後認為原始資料並不恰當。例如，審查結論的人應能追溯最初的結論為什麼被修正。\n\n## 建議做法\n\n- 備份資料的舊版與新版。\n- 為資料最初產生後的所有變更，保留精確且豐富的溯源資訊。\n- 說明資料為什麼經過調整、策展或清理等處理，並確保工作流程也「知道」應使用哪個資料版本。\n- 為資料集的每個新版本指定新的持續識別碼（PID）。\n\n## 應避免的做法\n\n- 未通知原始資料擁有者，就變更已記錄資料中的任何內容。\n- 進行變更，即使只是明顯且微小的修正，卻未記錄並說明該變更。\n- 變更資料時，未同時保留舊版與新版，以及適當的後設資料和備份。\n\n---\n\n[**開放科學的資料託管：第 2.5.1.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/0a167eb6-404f-4dd8-9347-cda10cfdea42/title
 msgid "Do you need to harmonise different sources of OPEDAS?"
@@ -9315,7 +9315,7 @@ msgstr ""
 
 #: resourcePage/1c0e3ab6-0dfa-4120-ad09-b0ca625ece79/title
 msgid "Is your institutes' security sufficient for storage?"
-msgstr ""
+msgstr "您所屬機構的安全措施是否足以支援資料儲存？"
 
 #: resourcePage/1c0e3ab6-0dfa-4120-ad09-b0ca625ece79/content
 msgid ""
@@ -9338,7 +9338,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.16.2.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n如果資料，例如病人資料，需要有系統性的保護，就必須具備特定的基礎設施與安全措施。如果所屬機構無法在內部或私有雲這類環境中提供或支援這些措施，您就應認真重新考慮：蒐集涉及隱私的敏感資料，是否是負責任的做法。儲存這類資料是一項「專業工作」，不是可以順便處理的事情。\n\n## 建議做法\n\n- 與資訊通訊（ICT）人員確認，在本機儲存涉及隱私的敏感資料所需的各項條件是否都已具備。\n- 如有任何疑慮，請倫理及法律專家參與討論。\n- 如果打算蒐集大型資料集，也應考慮資料規模所涉及的成本與作業安排。\n\n## 應避免的做法\n\n- 假定自行制定的內部程序就已足夠。\n- 假定機構目前的基礎設施足以處理大型資料集。擴充具備高度安全性、每週七天且每天二十四小時都能可靠運作的基礎設施，成本非常高，也會面臨許多需要專業知識的挑戰。\n- 注意：這是適合依機構需求客製化的典型位置，例如在網站上設置「在地專業知識與資源」按鈕。既有資料集合的託管員可在此主動維護現有資源的紀錄，盡可能避免不熟悉情況的博士生，以及同樣不熟悉情況或工作負荷過重的計畫主持人，不必要地從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.16.2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/865acba8-650a-456c-8da3-e07c110a6d7e/title
 msgid "Are there suitable terminology systems?"
@@ -9441,7 +9441,7 @@ msgstr ""
 
 #: resourcePage/711e3dbd-51d8-4a43-b414-6f7a09f3277a/title
 msgid "Are you using backups for restoring files that were accidentally deleted or changed?"
-msgstr ""
+msgstr "您是否使用備份來還原意外刪除或變更的檔案？"
 
 #: resourcePage/711e3dbd-51d8-4a43-b414-6f7a09f3277a/content
 msgid ""
@@ -9463,11 +9463,11 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.1.3.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n即使只是部分資料發生變更，包括意外遺失，而需要從備份檔案「還原」，也必須記錄並說明還原程序。尤其是備份不由您自行控管，且無法保證備份仍與原始資料完全相同時，更應如此。如果他人再次使用還原後的資料，以為自己使用的是原始資料，卻在結果中發現無法解釋的差異，就需要能夠追溯到從外部備份還原時可能引入的錯誤。\n\n## 建議做法\n\n- 記錄並說明原始資料及備份所經歷的所有變動。\n- 要求負責備份的內部及外部單位，只要有任何理由認為備份已不再與原始資料百分之百相同，就立即通知您。\n- 這也可能包括毒性試驗樣本及組織樣本等相同子集的備份，例如樣本是否曾意外解凍。\n\n## 應避免的做法\n\n- 認為只有在資料典藏時才需要開始備份；資料可能在實驗過程中就已遺失。\n- 假定已典藏、轉換格式，甚至已銷毀資料及其後設資料的備份檔案，不需要像使用中資料的備份一樣受到重視與照管。\n\n---\n\n[**開放科學的資料託管：第 2.5.1.3.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/69896a51-8417-4426-8bd3-0821ae6affa5/title
 msgid "Storage Capacity Planning"
-msgstr ""
+msgstr "儲存容量規劃"
 
 #: resourcePage/69896a51-8417-4426-8bd3-0821ae6affa5/content
 msgid ""
@@ -9491,7 +9491,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n儲存問題不一定會隨資料的位元組數呈線性增加。也應考慮資料的複雜度與性質；當資料量達到某個規模時，可能突然遇到「瓶頸」，例如內部現有的基礎設施已無法負荷，或機構政策對資料大小設有上限。\n\n## 建議做法\n\n- 確認機構是否有足夠且可靠的儲存容量，並與負責部門討論。\n- 事先與團隊中的專家共同估算資料初始儲存、備份及長期保存的全部成本。\n- 告知機構內的資訊通訊（ICT）專家，資料預計如何隨時間被使用及再次使用，並討論這項規劃對儲存類型與可用性需求的影響；這些需求將在很大程度上決定成本。\n- 考慮所有能在不遺失資訊的前提下縮減資料量的方法，以及有效率的分享方式。\n\n## 應避免的做法\n\n- 假定機構的儲存空間，即使容量很大，也是「理所當然就能使用」的資源。不能再假定儲存價格會迅速下降，而將這項支出視為無關緊要。\n- 突然將大型資料集交給機構的資訊通訊人員，認為儲存資料是他們的職責，所以他們「理應負責儲存」。\n- 將儲存單純視為「典藏」。應同時考慮資料使用與再次使用的需求，因為這些需求可能大幅影響選擇，例如資料能否存放在磁帶上。\n\n---\n\n[**開放科學的資料託管：第 2.5.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/f22c6f41-ca5b-42f8-a066-0e251b726755/title
 msgid "Case report forms?"
