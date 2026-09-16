@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-15 23:45+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-16 00:37+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7376,7 +7376,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.12.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n對於您新建立的資料，除非資助研究的機構另有規定，智慧財產權（IP）原則上屬於您或所屬機構。不過，對涉及人類受試者的資料而言，法律上的資料所有權很可能屬於參與研究的個人。在這種情況下，您預設是他人資料的「保管者」，這會為身為資料託管員的您帶來許多額外責任。即使是為特定實驗產生的資料，也必須考量如何處理其智慧財產權。然而，建立參考資料時，尤其是透過擷取、轉換、重新載入、策展及「重新包裝」OPEDAS 來建立參考資料集時，來源資料的智慧財產權狀況，以及允許再次使用的授權條款，就格外重要。各國及各地區對這類彙整資料庫的法律規定，包括隱含的所有權，可能不同。來源資料的授權條款可能會延伸適用於您的新資料集；若納入限制嚴格的資料，例如僅限非商業用途，日後可能妨礙參考資料集被廣泛使用，也可能限制您運用參考資料來維持長期營運的能力。\n\n## 建議做法\n\n- 徹底查核所有預計納入的資料來源，其智慧財產權狀況與授權條款。\n- 即使只納入較大資源中的少量子集，也應查核；即使資源乍看是公開的，且未設密碼保護，仍可能有使用限制。\n- 確認您打算納入的資料來源，是否已妥善處理其所使用來源的智慧財產權問題。\n- 對某項資源的授權或智慧財產權狀況有疑問時，請聯絡資料來源的擁有者。\n- 諮詢法律及授權專家，確保建立預定的參考資料集時，不會違反任何明示或隱含的規範。\n\n## 應避免的做法\n\n- 未先諮詢授權專家，就建立參考資料。[查找 Wilbanks 的 OPF 文件]\n- 因為認為「只有自己的部門會使用」，就省略上述查核而建立參考資料；事實上，若只供自己的部門使用，這些資料幾乎就不能稱為「參考資料」。\n- 低估參考資料日後獲製藥業等使用者採用，甚至獲得付費使用，所需的時間與投入，以及使用者查核資料時的嚴格程度。即使資料集沒有附上授權條款、看似開放，大型商業公司若要將其用於核准程序等用途，仍可能面臨重大法律責任風險。\n- 未諮詢專業意見，就為自己的資料選擇授權條款。應在參考資料可接受的範圍內，採用最開放的授權條款；在開放科學中，使用者愈多，通常也愈有機會維持長期營運。\n\n---\n\n[**開放科學的資料託管：第 1.12.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/d8306ea1-549e-4963-a934-7a6500df8fd2/content
 msgid ""
@@ -7429,7 +7429,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.15.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料量只是資料集的其中一個面向，其他面向還包括複雜度、隱私、多樣性等。不過，資料量本身就可能影響資料格式的選擇。有時，您可以只儲存部分資料，而不遺失重要資訊。例如，若已對一群人進行全基因組定序，您可以儲存一份參考基因組，當然也要附上豐富的溯源資訊，再只儲存各個人的序列相對於該參考基因組的差異。這可大幅縮減需要儲存的資料集，降至原始序列的 1% 以下；日後也可以隨時透過「從參考基因組檔案補入其餘序列」，重新產生每個人的完整基因組。\n\n## 建議做法\n\n- 務必先考量資料量，並確定它將如何影響以下選擇：\n- 資料前處理方式。\n- 溯源資訊的儲存方式，包括詳細記錄原始資料經歷了哪些處理，以及處理的方式、時間與原因。\n- 處理後資料的格式與解析度，依工作流程選擇、常用做法等因素決定。\n- 預先確認機構內部或外部的儲存與運算基礎設施，以及取用條件，足以妥善進行資料前處理、儲存及取用。\n- 盡可能預估團隊自身及其他潛在使用者未來對資料的使用需求（請見相關資源）。\n\n## 應避免的做法\n\n- 未經確認，就假定可使用的運算與儲存設施足以滿足需求。\n- 未事先提出充分論證，就建立任何檔案格式、詞彙表或其他資料相關資源。\n---\n\n[**開放科學的資料託管：第 1.15.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3ed446f5-b12c-43ea-bf1b-d02003d3ea2a/title
 msgid "Is re-consent needed?"
@@ -8776,7 +8776,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.4.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n雖然我們建議盡可能使用可信賴的外部高效能再次使用（HPR）服務，但您仍可能有理由自行維運資料取用服務。例如，您產生的資料基於法律或技術因素，無法離開機構的防火牆。在這種情況下，若要讓第三方再次使用資料，就必須以可再次使用的格式提供資料，並允許「工作流程」（此處採最廣義的用法）前來存取。您也必須確保內部服務能處理受控取用、身分驗證、授權、加密、日誌紀錄，以及進出內容的監控。這絕非簡單的工作，會對預算、基礎設施與機構內部的專業能力帶來重大挑戰。如果資料確實必須留在防火牆內，就需要處理重要的管理問題，包括訓練支援人員，以及取得標準軟體、硬體與服務，以支援上述資料管理、取用及處理步驟；這些通常以取得既有方案為主，極少需要自行開發。\n\n您也必須充分了解，希望提供哪些服務品質保證，以及這些選擇對預算的影響。例如，服務可用時間可以是僅在收到書面申請時臨時提供服務、依學術界的最佳實踐提供服務，或每週七天、每天二十四小時持續提供服務。全天候服務的複雜度與成本，可能比所謂「學術界的最佳實踐」高出一個數量級；後者可能只是「運氣好的時候資料才可取用，如果我的元件離線，讓您已執行三天的工作流程出問題，也別因此提告」。您需要考量的元件包括但不限於：處理服務（含 AAI）、下載服務、託管服務、系統、硬體與軟體管理、財務管理，以及使用者日誌紀錄。也應考量服務能否長期維持：誰負責維持資料取用服務的運作？資料取用與詮釋支援窗口的建置、人力配置及訓練，又要如何安排？\n\n## 建議做法\n\n- 仔細考量資料不能離開機構防火牆內環境的原因。\n- 將確實必須留在此環境中、供他人再次使用的資料量降至最低，因為這些資料會帶來很高的成本。\n- 盡可能選用標準化、可靠且有支援的軟硬體，以及公部門或私部門的服務提供者，以建立供資料主動再次使用所需的服務。\n- （請見相關資源及雲端服務提供者。）\n\n## 應避免的做法\n\n- 在仍有其他可行選項時，自行開發在受控條件下提供「使用中」資料所需的工具、演算法或軟體。\n- 未在限制允許的範圍內，以最開放的格式提供後設資料，或未在後設資料中詳述實際資料使用的法律與技術需求及限制；即使資料屬於限制最嚴格的類別，也應做到這些要求。\n- 在管理元件不可靠（自行製作）的情況下，仍將資料描述為「可在 HPR 中再次使用」。其他人可能將您的網路服務視為其工作流程中的可靠元件，因此，您的資料元件可能為他們的管線或工作流程帶來許多問題。\n\n---\n\n[**開放科學的資料託管：第 7.4.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/322e08ae-34b2-4a97-81f8-722a2d50f76e/title
 msgid "Will you publish a narrative?"
@@ -9209,7 +9209,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.11.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n文字探勘，也就是從非結構化文字擷取結構化資訊，本身就是一門專業。這裡提供一些文獻，供您需要時進一步閱讀。過去，主要文字資源尚未經過妥善探勘，個別研究人員必須自行從文字擷取概念及其關係。不過，如今許多文字語料已有專業聯盟運用先進方法，建立設計完善的概念、共現資訊與關係集合。即使是這些專業團隊，精確率（precision）與召回率（recall）也大約只能各達到 80%，但這很可能已是您能取得的最佳成果。當然，仍可能有內部或少為人知的文字及文字集合尚未經過探勘。如果這些資訊來源對研究至關重要，您可以考慮將文字探勘步驟納入自己的研究協定。不過，仍須留意，這是非常複雜的領域；您最後可能把時間花在消除歧義、機器學習、敘詞表及概念標記工具等工作，而非原本的研究。\n\n## 建議做法\n\n- 再次查核，確認您準備探勘的文字語料是否已由他人探勘，且結果已可取得（請見外部資源）。\n- 確定文字探勘確實無法省略。如果您希望找出的關聯，已因先前的文字探勘或人工策展而收錄於公共資料庫，嘗試做得更好，很可能只是浪費大部分時間。\n- 若確實需要文字探勘，可考慮委託專業團隊或公司處理；他們很可能比您自行開發的探勘演算法取得更好的成果。\n- 如果無法或不打算委外，請使用現成的文字探勘軟體。\n- 確保輸出中術語與概念的對映正確，且能與您打算結合的資料相容。\n- 若文字探勘是工作流程中不可省略的步驟，請在研究計畫中編列預算。\n\n## 應避免的做法\n\n- 低估文字探勘方法的複雜性。\n- 從任何文字中探勘概念或關係時，未考量其他資料類型同樣需要處理的資料託管問題。文字探勘成果的產製需要大量投入，因此可能是有價值的資料。\n- 未經團隊確認現有的眾多系統都不適用，就開發新的文字探勘演算法。\n\n---\n\n[**開放科學的資料託管：第 1.11.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/54c516de-193c-452f-bb8a-0e4ad57bfbeb/title
 msgid "Do you need to integrate or link to a different type of data?"
@@ -9607,7 +9607,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 3.2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n許多資料擷取程序，嚴格來說並不是「儀器輸出」。顯然，您不可能全程陪同在野外採集水或土壤樣本的研究人員，隨時在採集組織樣本的病理學家身旁，或在製作切片、染色、包埋及保存樣本的顯微鏡技術人員身旁，也不可能陪同每位研究助理進行問卷訪查。然而，某些資料擷取程序包含難以標準化的人為因素，例如向受試者提問或進行外科處置；仔細考量這些因素如何影響最終需要託管的資料，是良好資料託管員的重要工作。就像機器可能需要定期校準，而資料會因距上次校準的時間不同而略有差異，不同學生向受訪者傳遞的細微訊號，也可能讓問卷填寫產生不同偏差。和面對機器時一樣，資料託管員無法改變這些情況；但仔細記錄由誰、在何時及何種條件下進行哪項調查，仍然極為重要。\n\n## 建議做法\n\n- 「了解您的資料來源」：當資料由難以標準化的執行者，例如人，在多變的情況下產生時，務必留意這一點，並建立程序來偵測非預期引入的變異，在可行情況下加以校正。\n- 與研究團隊討論從資料角度看到的疑慮，確保所有資料及樣本蒐集人員，都充分了解標準作業程序的價值，以及記錄資料擷取過程中任何異常情況的必要性。\n- 即使資料已經過調和與正規化，仍應保留資料擷取與前處理程序的所有紀錄。這不僅是為了審查及可重現性，也能在觀察到非預期趨勢時，保有可供查考的紀錄。\n\n## 應避免的做法\n\n- 將擷取資料或採集樣本的人員及相關程序，視為「與自己無關」。\n- 把資料擷取程序中各種變異因素的考量，完全交給實驗團隊，再次將自己僅視為實驗工作流程產出資料後的「接收者」。\n- 在沒有充分銷毀理由的情況下，將資料擷取過程中記錄的任何資料或後設資料，視為日後可隨時丟棄的內容。\n\n---\n\n[**開放科學的資料託管：第 3.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/35ad1acb-7301-4f3a-8f1a-41e75c435a2f/title
 msgid "Choose the workflow engine"
