@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-16 01:12+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-16 01:50+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -943,9 +943,8 @@ msgid "Will you need existing data from Medical and Health Sciences?"
 msgstr "您是否需要醫學與健康科學領域的既有資料"
 
 #: answer/929cbf88-d270-493f-b821-2b62247ba159/advice
-#, fuzzy
 msgid "There are pointers to resources in life sciences at [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)."
-msgstr "生命科學相關資源可參考：\n* [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)\n*"
+msgstr "生命科學相關資源可參考 [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)。"
 
 #: question/a781badf-f7ee-4588-9478-d31470f00c38/title
 msgid "Will you need existing data for toxicology research?"
@@ -1623,7 +1622,6 @@ msgid "There are a few different standards that are often used to give basic inf
 msgstr "有幾種不同標準常用於提供資料集的基本資訊。您將使用其中哪些標準？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/title
-#, fuzzy
 msgid "What standard will you use to specify author/title/keyword information?"
 msgstr "您將使用哪些標準來指定作者、標題與關鍵字資訊？"
 
@@ -2984,11 +2982,10 @@ msgid "What are the exemptions to the prohibition for processing of special cate
 msgstr "您依據 GDPR 第 9 條的哪些例外規定，處理特殊類別資料（例如健康及基因資料）？"
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/text
-#, fuzzy
 msgid ""
 "Processing of certain categories of personal data is not allowed unless there are exemptions in law to allow this. Among these categories (“sensitive data”) are *“‘[...] data revealing racial or ethnic origin, [...] genetic data, [...] data concerning health’”*. Most types of personal data collected in biomedical research will fall under these categories. [Article 9](https://gdpr-info.eu/art-9-gdpr/) (2) lists a number of exemptions that apply, of which *consent* and *scientific research* are most likely to be relevant for research. Please consult with your Data Protection Officer of your organisation.\n"
 "State cohort/dataset for each type of exemption."
-msgstr "除非法律設有例外規定，否則不得處理某些類別的個人資料。這些類別又稱為「敏感資料」，包括可揭露種族或族裔出身的資料、基因資料、健康相關資料等。生物醫學研究所蒐集的個人資料，多半會落入這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/) 第 2 項列出多項可適用的例外規定；其中，與研究最可能相關的是「同意」與「科學研究」。請諮詢您組織的資料保護官。"
+msgstr "除非法律設有例外規定，否則不得處理某些類別的個人資料。這些類別又稱為「敏感資料」，包括可揭露種族或族裔出身的資料、基因資料、健康相關資料等。生物醫學研究所蒐集的個人資料，多半會落入這些類別。[第 9 條](https://gdpr-info.eu/art-9-gdpr/) 第 2 項列出多項可適用的例外規定；其中，與研究最可能相關的是「同意」與「科學研究」。請諮詢您組織的資料保護官。\n請分別列出各類例外規定所適用的研究群體或資料集。"
 
 #: question/2418a1b7-6950-4a19-8e58-6c5089c71b53/title
 msgid "Select exemption"
@@ -3786,9 +3783,8 @@ msgid "Only all project members have read/write access to the data"
 msgstr "只有計畫成員可以讀取及寫入資料"
 
 #: answer/154cd5fc-a79f-4c2e-be67-6985813bbc8d/label
-#, fuzzy
 msgid "Anyone in the institute has read access to the data; all project members have read/write access"
-msgstr "機構內的任何人都可以讀取資料；所有專案成員皆有讀與寫的權限。"
+msgstr "機構內的任何人都可以讀取資料；所有計畫成員皆有讀與寫的權限。"
 
 #: answer/b21c9f70-78e7-4975-b776-59e372285662/label
 msgid "Only project members will have read access; only selected project members will be able to write data"
@@ -5511,14 +5507,13 @@ msgid "What repository will this data be stored in?"
 msgstr "這份資料會儲存在哪一個資料儲存庫？"
 
 #: question/80a682bd-8a5c-4a52-935d-680509838a4e/text
-#, fuzzy
 msgid ""
 "Domain repositories often have the best functionality to make the data findable and reusable: even though it may look like a database that could be reused in a completely different field would be better findable in a generic repository, the limited availability of domain-specific metadata make that less valuable.\n"
 "\n"
 "Many repositories are listed in [FAIRsharing](https://fairsharing.org/)\n"
 "\n"
 "If a repository offers to give your data set a DOI or alternative persistent identifier it is a good idea to use that option."
-msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 https://fairsharing.org/\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
+msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 [FAIRsharing](https://fairsharing.org/)\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
 
 #: answer/1dc412c6-da92-4cc2-8639-316c0c6ec5ff/label
 msgid "A domain-specific repository"
@@ -8784,7 +8779,6 @@ msgid ""
 msgstr "## 背景說明\n\n顯然，對於直接提供再次使用的資料集，只有其「使用中」版本才需要存放在某種 HPR 環境中，也可能因不同用途而複製至多個這類環境。資料集的備份則可能採用完全不同的格式與取用方式，例如存放於磁帶上。\n\n不過，您仍需確保，萬一資料的「HPR 版本」遺失或毀損，能在短時間內重新產生 HPR 版本，而且不會出錯。機構目錄必須清楚記載已典藏備份資料的位置與取用程序，不能只有身為資料託管員的您才看得懂。良好的資料託管員總會考慮到：當自己無法提供諮詢或協助時，其他人仍可能需要使用資料或服務，包括重新掛載已典藏的資料。\n\n## 建議做法\n\n- 對於您提供他人直接再次使用的資料，請以盡可能穩定、可持續維護且成本低廉的方式與格式，典藏其備份。\n- 在使用中資料版本的後設資料檔案中，納入已典藏備份資料的後設資料與溯源資訊。\n- 提供清楚的操作說明，讓機構中的任何人都能找到並處理已典藏的資料，將其還原成原先的格式，再重新掛載至原始資料可能遺失或毀損的環境。\n- 定期檢查 HPR 中已掛載資料的完整性，僅在必要時重新產生資料，並完整記錄重新產生及掛載資料的時間、原因、方式與溯源資訊。\n\n## 應避免的做法\n\n- 假定只要自己知道典藏資料的位置就足夠。\n- 把「備份」當成單純複製整個 HPR 環境；後者所需的工作量與成本可能高出一個數量級。\n- 將「所有東西」都典藏。應仔細考慮哪些內容必須典藏，因為當資料量達到 PB 等級時，即使只是典藏也十分昂貴。\n\n---\n\n[**開放科學的資料託管：第 7.4.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ac0be15c-c015-45d5-81fa-41512ede0788/title
-#, fuzzy
 msgid "Is there pre-existing data?"
 msgstr "是否有任何既有資料？"
 
@@ -9324,9 +9318,8 @@ msgid ""
 msgstr "## 背景說明\n\n長期典藏與保存，和資料產生後立即用於實驗程序的「短期使用或再次使用」，有明確的區別。即使只是短期使用，資料也需要儲存並在不同地點備份，同時妥善考量安全性與取用問題。\n\n不過，一旦決定長期保留可再次使用的資料，這些問題的規模就會擴大。他人日後使用資料的條件，可能在法律或實務上，不同於資料原定用途的使用方式。因此，必須考量取用、是否持續可用，以及許多其他問題。在設計與規劃產生資料的實驗時，就預先考量長期保存及再次使用相關的問題，並將其預算納入資料託管方案，是良好實踐。\n\n## 建議做法\n\n- 將資料視為「可供長期再次使用，除非……」。人們很容易假定，資料即使量不多，也只對產生資料的個人或小團隊有用。然而，即使您正確判斷這些資料絕不會用於其他實驗，最基本的要求仍是讓他人可以取得，包括要求重新執行實驗或分析工作流程的審查者。\n- 務必持續提供資料集的持續識別碼。即使資料已被認為不再有用，因而下線甚至銷毀，仍須讓人能追查這個資料集曾經存在，且可能已被他人引用的事實。\n- 持續更新資料集的後設資料，確保資料隨時間的變化與去向，包括再次使用情況，都可追查。決定不再保存資料時，強烈建議建立「說明檔」，描述資料原本的內容，以及為何將其下線。\n\n## 應避免的做法\n\n- 假定長期保存是「以後再煩惱」的事，等到發現資料「原來還是有價值」，才要求資訊通訊同事提供*臨時*且緊急的解決方案，讓他們困擾。\n- 儲存任何資料集，無論大小，卻未為其取得已登錄的持續識別碼（PID），例如 DOI。\n- 等到資料進入保存階段才取得識別碼；應將這件事納入資料產生時的例行程序。\n- 讓資料隨時間改變，即使只是位置變動，卻未確保資料仍可被找到及可被取用。\n\n---\n\n[**開放科學的資料託管：第 2.5.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/e251aaa2-2ef8-4fe2-9c0e-45901aa29029/title
-#, fuzzy
 msgid "When is the data archived?"
-msgstr "原始資料何時典藏？"
+msgstr "資料何時典藏？"
 
 #: resourcePage/e251aaa2-2ef8-4fe2-9c0e-45901aa29029/content
 msgid ""
