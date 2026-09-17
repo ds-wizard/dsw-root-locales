@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:43+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:43+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -1759,6 +1759,7 @@ msgid "Will a licence be assigned to your datasets?"
 msgstr "您的資料集是否會指定授權條款？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/text
+#, fuzzy
 msgid "It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. It is helpful to associate each data set with a licence as early as possible in the project. A data licence should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable licence."
 msgstr "計畫成員和計畫外部人士不一定都清楚資料集可以如何使用，以及哪些用途不被允許。因此，最好在計畫初期就為每個資料集指定授權條款。理想情況下，資料授權條款應盡可能寬鬆；例如「僅限非商業使用」或「必須標明出處」等限制，都可能降低資料再次使用的可能性，進而減少引用次數。若可行，請採用機器可讀且可由機器處理的授權條款。"
 
@@ -1767,6 +1768,7 @@ msgid "Please consider adding licenses to all datasets you are collecting as soo
 msgstr "請考慮盡快為您正在蒐集的所有資料集指定授權條款。"
 
 #: question/0551adc9-7faa-4ddc-a07b-08fbde2a247b/title
+#, fuzzy
 msgid "Will you store the licences with the data at all time?"
 msgstr "您是否會始終將授權條款與資料一併保存？"
 
@@ -1868,6 +1870,7 @@ msgid "Keeping a log of every step in the analysis workflow that has been run"
 msgstr "記錄分析工作流程中每一個已執行的步驟"
 
 #: question/106df534-f590-416b-8e4a-846edbdc4325/title
+#, fuzzy
 msgid "What standard(s) you will use to document provenance?"
 msgstr "您將使用哪些標準來記錄溯源資訊？"
 
