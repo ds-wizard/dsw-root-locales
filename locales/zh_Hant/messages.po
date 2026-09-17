@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:44+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:44+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -2066,6 +2066,7 @@ msgid "There is no standardised format for this data type"
 msgstr "此資料類型沒有標準化格式"
 
 #: answer/6c26d57b-468c-42ba-a01c-05d1334d0a6e/label
+#, fuzzy
 msgid "It is optimised for processing speed and/or volume"
 msgstr "此格式已針對處理速度或資料量最佳化"
 
@@ -2219,6 +2220,7 @@ msgid "How will you design your new data format?"
 msgstr "您將如何設計新資料格式？"
 
 #: answer/bda912f3-14a7-4242-b293-025f1b19892d/label
+#, fuzzy
 msgid "There is a closely related more generic and open format that I can specialise"
 msgstr "有一種密切相關、較通用且開放的格式，我可以以此為基礎延伸成專用格式"
 
@@ -2274,6 +2276,7 @@ msgid "Experts in the project, with our own equipment"
 msgstr "計畫內的專家，並使用自有設備"
 
 #: answer/eb0b9a82-0379-47c3-967f-b35b40129af2/label
+#, fuzzy
 msgid "Experts in the project, at a specialised infrastructure"
 msgstr "計畫中的專家，在專門的基礎設施"
 
@@ -2323,6 +2326,7 @@ msgid "The measuring party will delete the data, the project partners will deal 
 msgstr "量測方會刪除資料，由計畫合作夥伴負責發布資料"
 
 #: question/e33ae210-62fe-4665-b836-e71660325a06/title
+#, fuzzy
 msgid "Specify instruments used for data collection"
 msgstr "請說明用於蒐集資料的儀器"
 
