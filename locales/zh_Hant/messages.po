@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:03+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8269,10 +8269,12 @@ msgid ""
 msgstr "## 背景說明\n\n決定研究要使用哪些 OPEDAS 資源後，還需要考慮不同資料格式、資料調和，以及資料中使用的識別碼與術語等問題。若未事先處理，這些問題可能嚴重延誤研究，甚至使研究無法完成。\n\n## 建議做法\n\n- 確認實際資料元素的呈現格式；相關議題請參閱第 1.5 節及第 1.6 節。\n- 確認各資料集採用的術語系統［需要定義，以避免濫用「知識本體」一詞］，並討論其對分析流程等工作的影響。\n- 確定 OPEDAS 資源的格式及採用的知識本體，將如何影響您擷取自身資料時的選擇。\n- 檢查後設資料或資料元素中的自然語言欄位，判斷是否需要翻譯。\n- 評估是否改將這些欄位對映至知識本體。\n- 只要可行，可考慮重新整理資料格式，使資料能夠相互連結，並向 OPEDAS 擁有者回報。\n\n## 應避免的做法\n\n- 預期資料無須重新整理格式，就能在您的情境中再次使用，即使其格式符合 F.A.I.R. 原則。\n- 因資料未經妥善調和，而比較本質不同的事物，進而得出錯誤的關聯。\n- 修改 OPEDAS 資料集的任何內容，包括格式、術語翻譯或與術語系統的對映，卻未妥善記錄文件及溯源資訊，也未向 OPEDAS 擁有者回報。\n\n---\n\n[**開放科學的資料託管：第 1.10 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ffe51026-d3e1-489c-9fd7-babb3ddb31e6/title
+#, fuzzy
 msgid "Will you be using any existing (non-reference) data sets?"
 msgstr "您是否會使用既有的非參考資料集？"
 
 #: resourcePage/ffe51026-d3e1-489c-9fd7-babb3ddb31e6/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
