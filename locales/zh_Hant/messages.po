@@ -4983,6 +4983,7 @@ msgid "How is pseudonymisation handled?"
 msgstr "資料的擬匿名化處理方式為何？"
 
 #: answer/72c0a64f-a3ec-4d9e-bf37-ee0b25c2a084/label
+#, fuzzy
 msgid "We pseudonymise inside the project, only limited people can access the keys"
 msgstr "我們會在計畫內進行擬匿名化，且只有少數人可以取用金鑰"
 
