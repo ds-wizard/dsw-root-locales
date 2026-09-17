@@ -8300,10 +8300,12 @@ msgid ""
 msgstr "## 背景說明\n\n如果您想使用的某些 OPEDAS 來源不符合「參考資料集」的資格，或未存放於 TDR 類型、對取用、所有權、永續性及版本控制都有完整記錄的儲存庫，則必須先回答一些額外問題，才能負責任地再次使用這些資料進行分析。\n\n## 建議做法\n\n- 確認取得資料的條件。\n- 確認所有權。\n- 確認潛在限制，例如商業用途的限制，即使這可能到很久以後才會涉及。\n- 決定要使用哪個版本（如果有版本控制），並考慮第 1.6 節討論的所有選項。\n- 再次向擁有者確認，他們打算或保證讓資料以相同格式及版本持續提供多久。\n\n## 應避免的做法\n\n- 預期未明確存放於可信賴且可持續運作環境中的資料，在您下次造訪時仍然存在。\n- 未詳細記錄 OPEDAS 的來源，就不加區分地使用。\n- 未確保輸入資料穩定，卻預期資料分析工作流程能產生可重現的結果；這也包括分析管線中依賴 OPEDAS 的部分。\n\n---\n\n[**開放科學的資料託管：第 1.7 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/7076a1f2-f773-4eaf-9cd6-94f42d23f3bf/title
+#, fuzzy
 msgid "Can workflow decay be managed?"
 msgstr "工作流程逐漸失效的風險是否可控？"
 
 #: resourcePage/7076a1f2-f773-4eaf-9cd6-94f42d23f3bf/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8327,10 +8329,12 @@ msgid ""
 msgstr "## 背景說明\n\n工作流程能否隨時間推移仍保持穩定，是備受關注與討論的議題（亦請參閱導論中的一般性議題）。一篇近期出版的研究（2015 年）指出，在成熟的工作流程支援環境 Taverna 中收錄的工作流程，有相當高的比例已無法重新執行。原因往往只是一些看似微不足道的缺失，例如缺少工作流程輸入參數所需的範例值，或缺少 Java 程式所需的函式庫。使用「學術性」工作流程時，常會面臨未附服務層級協議的實際問題，尤其是不常使用的工作流程；其程式碼在效能、擴充能力與支援容易度方面，也可能不夠完善。\n\n## 建議做法\n\n- 將工作流程納入例行資料處理管線前，先檢查每個預計使用的工作流程是否有逐漸失效的風險。\n- 聯絡原始開發者，詢問文件、版本管理、支援及可持續性等相關問題。\n- 如果其中任何一項未達要求，請與團隊討論，對於可重現性、審查及下游資料（工作流程輸出）品質所帶來的風險是否可以接受。\n\n## 應避免的做法\n\n- 假定網路上提供的工作流程仍與最初發布時相同，即使它們已正式發表於資訊學期刊、納入工作流程環境，或在 Galaxy 等環境中提供。\n- 未進行適當查證（包括訪談曾經使用過的專家），就相信學術性或商業工作流程系統對可持續性與支援的宣稱。\n- 未妥善考量支援與逐漸失效的問題，就加入自己開發的學術原型軟體（professorware）解決方案，讓原本就不穩定的工作流程生態更加混亂。\n\n---\n\n[**開放科學的資料託管：第 4.2.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/c7356236-356f-43cc-9bc8-7c1e09c84634/title
+#, fuzzy
 msgid "Re-use considerations: Will the archive need to be online?"
 msgstr "再次使用考量：典藏庫是否需要保持在線上？"
 
 #: resourcePage/c7356236-356f-43cc-9bc8-7c1e09c84634/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8355,10 +8359,12 @@ msgid ""
 msgstr "## 背景說明\n\n「離線」典藏庫，當然仍須在線上提供符合 FAIR 原則的後設資料，與在線上提供、可立即再次使用的資料典藏庫，兩者有很大的差異。實際上，較好的做法是將「典藏庫」一詞保留給這種情況：實際資料處於「離線」狀態，使用者透過符合 FAIR 原則的後設資料找到資料後，可以從典藏庫取回，並「依需求提供再次使用」。這類典藏庫應與「高效能再次使用」（HPR）環境區分；後者將資料維持在適合頻繁再次使用的格式。HPR 環境對提供資料之基礎設施的頻寬、持續運作時間與支援，有高得多的要求。\n\n## 建議做法\n\n- 務必區分依請求取回資料供再次使用的「離線典藏」，與「高效能再次使用」（HPR）環境。\n- 了解後者的成本可能比前者高出一個數量級。\n- 為資料最初產生與詮釋所涉及的實驗及分析結束後，採用上述任一形式的「典藏」編列足夠預算。\n- 考量使用者可能需要全天候取用資料；這通常超出學術機構的能力與職責範圍。\n\n## 應避免的做法\n\n- 尚無充分理由預期資料會被頻繁再次使用，也沒有相關證據，卻將資料長期存放於 HPR 環境中。\n- 假定只要把資料「放在某處讓人下載」，就算提供資料供再次使用。提供可再次使用的資料，也伴隨資料託管責任，有時還會帶來許多問題，您必須事先做好準備。\n- 在沒有明確授權與人員配置的情況下，將自己的團隊視為「本地 HPR」節點。您可能需要編列預算，將資料「移交」給可信賴且專業的儲存庫或 HPR 環境。\n\n---\n\n[**開放科學的資料託管：第 2.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5333b844-4ba4-4d8d-a039-f4473e1d2b07/title
+#, fuzzy
 msgid "Will the data be understandable after a long time?"
 msgstr "資料在很久以後仍能被理解嗎？"
 
 #: resourcePage/5333b844-4ba4-4d8d-a039-f4473e1d2b07/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
