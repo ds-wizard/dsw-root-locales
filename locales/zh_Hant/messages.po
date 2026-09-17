@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:04+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:04+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8356,7 +8356,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr "## 背景說明\n\n「離線」典藏庫，當然仍須在線上提供符合 FAIR 原則的後設資料，與在線上提供、可立即再次使用的資料典藏庫，兩者有很大的差異。實際上，較好的做法是將「典藏庫」一詞保留給這種情況：實際資料處於「離線」狀態，使用者透過符合 FAIR 原則的後設資料找到資料後，可以從典藏庫取回，並「依需求提供再次使用」。這類典藏庫應與「高效能再次使用」（HPR）環境區分；後者將資料維持在適合頻繁再次使用的格式。HPR 環境對提供資料之基礎設施的頻寬、持續運作時間與支援，有高得多的要求。\n\n## 建議做法\n\n- 務必區分依請求取回資料供再次使用的「離線典藏」，與「高效能再次使用」（HPR）環境。\n- 了解後者的成本可能比前者高出一個數量級。\n- 為資料最初產生與詮釋所涉及的實驗及分析結束後，採用上述任一形式的「典藏」編列足夠預算。\n- 考量使用者可能需要全天候取用資料；這通常超出學術機構的能力與職責範圍。\n\n## 應避免的做法\n\n- 尚無充分理由預期資料會被頻繁再次使用，也沒有相關證據，卻將資料長期存放於 HPR 環境中。\n- 假定只要把資料「放在某處讓人下載」，就算提供資料供再次使用。提供可再次使用的資料，也伴隨資料託管責任，有時還會帶來許多問題，您必須事先做好準備。\n- 在沒有明確授權與人員配置的情況下，將自己的團隊視為「本地 HPR」節點。您可能需要編列預算，將資料「移交」給可信賴且專業的儲存庫或 HPR 環境。\n\n---\n\n[**開放科學的資料託管：第 2.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
+msgstr "## 背景說明\n\n「離線」典藏庫，當然仍須在線上提供符合 FAIR 原則的後設資料，與在線上提供、可立即再次使用的資料典藏庫，兩者有很大的差異。實際上，較好的做法是將「典藏庫」一詞保留給這種情況：實際資料處於「離線」狀態，使用者透過符合 FAIR 原則的後設資料找到資料後，可以從典藏庫取回，並「依需求提供再次使用」。這類典藏庫應與「高效能再次使用」（HPR）環境區分；後者將資料維持在適合頻繁再次使用的格式。HPR 環境對提供資料之基礎設施的頻寬、持續運作時間與支援，有高得多的要求。\n\n## 建議做法\n\n- 務必區分依請求取回資料供再次使用的「離線典藏」，與「高效能再次使用」（HPR）環境。\n- 了解後者的成本可能比前者高出一個數量級。\n- 為資料最初產生與詮釋所涉及的實驗及分析結束後，採用上述任一形式的「典藏」編列足夠預算。\n- 考量使用者可能需要全天候取用資料；這通常超出學術機構的能力與職責範圍。\n\n## 應避免的做法\n\n- 除非有充分理由預期或有證據顯示資料將被頻繁再次使用，否則將資料長期放在 HPR 環境中。\n- 假定只要把資料「放在某處讓人下載」，就算提供資料供再次使用。提供可再次使用的資料，也伴隨資料託管責任，有時還會帶來許多問題，您必須事先做好準備。\n- 在沒有明確授權與人員配置的情況下，將自己的團隊視為「本地 HPR」節點。您可能需要編列預算，將資料「移交」給可信賴且專業的儲存庫或 HPR 環境。\n\n---\n\n[**開放科學的資料託管：第 2.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5333b844-4ba4-4d8d-a039-f4473e1d2b07/title
 #, fuzzy
