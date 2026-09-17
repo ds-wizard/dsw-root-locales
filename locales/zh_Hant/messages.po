@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:04+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:04+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8425,7 +8425,6 @@ msgid "Is there budget to enable supported reuse by others (collaboration/co-aut
 msgstr "是否有預算支援他人再次使用資料（合作／共同署名）？"
 
 #: resourcePage/f0cb84fb-bb4a-4e5f-a901-638438fe0e77/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8454,12 +8453,10 @@ msgid ""
 msgstr "## 背景說明\n\n為資料託管方案規劃適當預算時，非常重要的是，不要只考慮自己研究中對資料的使用。這裡再次引入「資料發布」一詞。我們應像對待研究文章一樣，審慎對待可再次使用的資料集，因此必須確保他人的充分使用、引用與永續性，都獲得考量並編列適當預算。就研究文章而言，外部單位參與敘述文章及其附屬資源，也就是補充資料的格式整理、編輯、同儕評審、出版及保存，早已受到認可；開放取用模式下，這些服務需要付費。對資料也應採取同樣的思考方式。資料是研究的寶貴成果，無論是否打算根據資料撰寫文章，有時還不只一篇，都應獨立「發布」。顯然，資料描述必須足夠豐富，才能讓他人真正再次使用。這意味著要考量可發現性，包括良好的後設資料與持續識別碼，以及可取用性，包括開放取用、限制、授權條款，還有供分析使用的「可下載性」或「*原地*取用」。在「文章」領域，成果的可相互操作性，大致關乎「其他人是否讀得懂」，而這又主要取決於適當的語言、修辭及格式；這些問題通常會在「同儕評審」過程中一併評估與改善。然而，資料的可相互操作性更為複雜。如前所述，文字對電腦而言是場惡夢，因此，機器可讀且可處理的後設資料格式與資料格式至關重要。大多數資料類型已有標準格式，後設資料格式也愈來愈多，應盡可能採用。人類評審將愈來愈無法「逐行檢查」大型資料集，因此必須仰賴您使用的格式與標準。我們預期，資料領域會有愈來愈多可由電腦執行的「品質檢查與完整性檢查」工具，但目前並非所有資料類型都有這類工具。\n\n這表示，研究方案或研究計畫書，應為以符合 FAIR 原則的格式發布資料，編列充分預算。目前正在發展用來認證資料及後設資料是否符合 FAIR 原則的工具，但仍處於起步階段，因此，您可能需要投入大量時間、工作與經費，才能將資料整理成正確格式、接受檢查並實際發布。好消息是，這些發布成本大多屬於研究計畫書中可列支的費用，也包含資料的長期典藏。資料一旦採用正確格式，且大小與形式維持「固定」，通常就能容易地估算長期儲存預算並說明其必要性。\n\n## 建議做法\n\n- 審慎編列資料發布預算。\n- 查核不同的資料發布服務提供者是否可信賴，例如是否獲研究資助者認可或認證。\n- 比較不同發布者的價格，並特別確認是否包含已發布資料的長期保存。\n- 將這部分預算規劃限定於實際「典藏」，作為基本保存成本。\n- 另外編列可能在 HPR 環境中儲存資料及其副本的預算；這可能十分值得，因為能增加資料的再次使用及引用，進而提高「影響力」。\n- 查核機構是否設有資料取用委員會或類似單位。\n\n## 應避免的做法\n\n- 將一次性的格式整理、審查、品質檢查等工作，與真正以符合 FAIR 原則的格式及環境「發布」資料混為一談。這裡的主要考量仍是機器，因為機器是數位大型資料集的主要「使用者」。\n- 假定採用開放原始碼、提供開放取用的學術儲存庫，對資助者及資料的實際再次使用而言，永遠是最佳選擇。這類儲存庫中，有許多無法被找到，或無法持續維護，而這兩者都是符合 FAIR 原則的前提。\n- 將發布費用與預算，和他人再次使用資料的預算混在一起。希望再次使用資料的第三方，應在自己的補助申請中，編列下載費用、重新整理格式等再次使用成本。您沒有責任分擔這些成本；您的責任，是在明確條件下提供資料供人再次使用，而這些條件在某些情況下可能非常嚴格，甚至是商業性的。\n\n---\n\n[**開放科學的資料託管：第 2.5.4.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/0bf99136-74c7-4b3c-a4f4-1468ebb673c0/title
-#, fuzzy
 msgid "Determine needs in Memory/CPU/IO ratios"
 msgstr "確定記憶體／CPU／I/O 的配置比例需求"
 
 #: resourcePage/0bf99136-74c7-4b3c-a4f4-1468ebb673c0/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8488,12 +8485,10 @@ msgid ""
 msgstr "## 背景說明\n\n儲存與運算相關資源的比例，會隨計畫及資料與分析方式的組合而異。不過，整體而言，這種比例通常只會在一定範圍內變動，當然也總有例外。無論是在本地蒐集、儲存龐大資料集，並以大量 CPU 處理，還是讓工作流程前往數千個分散的資料集，執行相對簡單的運算作業，都必須先確定資料大小、各項運算作業的複雜度，進而決定儲存與運算資源的平衡。如果未妥善研究、進行先導測試與試跑，並依據現有專業知識與證據作決定，就可能買進不需要的設備，為機構與同事帶來沉重的維護負擔。反之，如果低估這些問題的複雜性，研究日後就可能遭遇嚴重障礙與延誤，甚至發生資料遺失或毀損。因此，請投入適當時間並採取必要措施，確保依據目前的知識與經費，做出最合適的決定。\n\n## 建議做法\n\n- 仔細研究所需儲存與運算資源的雲端選項，並尋求諮詢。\n- 比較不同雲端服務提供者的價格、服務與安全性；規模較大不一定比較好。\n- 決定透過傳送資料來處理之前，先確認這樣做是被允許的。\n- 請留意，處理非常龐大的資料集時，一般雲端服務提供者的上傳與下載費用可能相當可觀。\n- 權衡使用雲端服務提供者與使用本地設施的成本。\n- 也評估機構內部設備與基礎設施的採購、維護、支援、專業能力及汰換風險。\n- 為每個工作空間及每一批分析，選擇合適的本地或分散式處理方式，不要以單一方式套用所有情況。\n\n## 應避免的做法\n\n- 沒有充分理由，就假定儲存與資料處理都會在機構內部進行，忽略其中龐大的成本與資源調度需求。\n- 購買或租用遠超過實際需求的電腦儲存空間與運算能力。\n- 認為每項運算作業都必須讓運算資源與資料位於同一處。\n- 將「大規模運算問題」與「大規模本地基礎設施」混為一談。\n\n---\n\n[**開放科學的資料託管：第 2.8.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/title
-#, fuzzy
 msgid "Capacity and harmonisation planning"
 msgstr "容量與資料調和規劃"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
