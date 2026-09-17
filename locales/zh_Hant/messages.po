@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:58+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:59+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7552,10 +7552,12 @@ msgid ""
 msgstr "## 背景說明\n\n如果 OPEDAS 受到知情同意規範限制，您必須確認已取得的同意涵蓋預定研究的特定目的。\n\n必須遵守歐盟《個人資料保護規則》（GDPR）及[其他地區的相應法規]。即使您未預料到，法律仍可能要求重新取得 OPEDAS 擁有者的同意，而且擁有者自己也可能不知道這項法律要求。因此，必須格外謹慎，避免違反法律。如果 OPEDAS 包含直接源自涉及動物或人類受試者研究的資料，或例如來自社群媒體的資料，也建議與倫理委員會討論再次使用事宜。\n\n## 建議做法\n\n- 檢查資料隨附的共識聲明（如有）。\n- 對資料再次使用涉及的法律問題有任何疑慮時，主動聯絡資料擁有者。\n- 清楚說明您為什麼想再次使用資料，以及預定用途。\n- 確保說明的詳細程度與表達方式適合資料擁有者。\n- 再次向擁有者確認，他們打算或保證讓資料以相同格式及版本持續提供多久。\n\n## 應避免的做法\n\n- 預期所有 OPEDAS 擁有者都願意為任何研究目的分享資料。\n- 低估您可能為 OPEDAS 擁有者帶來的負擔。\n- 忽略「引用」以外的其他誘因，例如正式致謝或共同作者資格。\n- 未完成上述所有檢查，就將可能涉及敏感性或其他限制的資料用於實驗，即使它們看起來可以在網路上自由取得。\n- 理所當然地認為可用於競爭前研究的資料，也能用於商業目的。如果您任職於公司，有些情況下，授權與同意問題甚至比公共研究機構所面臨的更加迫切。\n\n\n---\n\n[**開放科學的資料託管：第 1.9 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/57335649-0440-45a8-8ec1-316206e52642/title
+#, fuzzy
 msgid "How long does the data need to be kept?"
 msgstr "資料需要保存多久？"
 
 #: resourcePage/57335649-0440-45a8-8ec1-316206e52642/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7586,10 +7588,12 @@ msgid ""
 msgstr "## 背景說明\n\n良好的託管員不會在受託照管的物品超過「有效期限」後，仍繼續保存。\n\n對資料託管員而言，這表示不一定要儲存或發布所有資料或資料子集，例如中間格式、原始影像等。這不是簡單的問題。對某些大型資料集來說，「全部保留」既不容易，成本也不低。因此，首先應判斷資料產生及處理的各階段中，哪些資料「原則上應永久保存」。這表示，即使還在產生及處理資料的過程中，也可能已有一些檔案可以負責任地捨棄。其次，有些資料可以「壓縮」，也就是以較精簡的格式儲存，之後仍能還原成資訊較豐富的格式，而不會遺失資訊或引入錯誤。例如，託管員可能需要決定：是保存某個生物的全部定序讀段及經插補的完整基因組序列，還是只保存「相對於參考基因組的變異」。\n\n除了早期處理階段的這些決定之外，已典藏的資料也可能在某個時間點不再適合再次使用。這裡必須區分「不再被使用」與「根本無法使用」。如果資料已毀損、過時、遭偽造，或因其他原因而「會誤導後續研究，或對後續研究毫無用處」，資料託管員可能會決定將資料捨棄。\n\n即使如此，仍應保留後設資料與持續識別碼，讓社群能追溯原始資料，並得知或引用資料已不再提供的事實。\n\n## 建議做法\n\n- 針對每個產生、下載或取得的資料集，與團隊討論長期維持資料可用性及再次使用的方案。\n- 編列預算，並定期召開會議，討論您所託管各資料集的保存期限與處置選項。\n- 如果將資料託管工作交給可信賴的第三方，請明確移交這些方案、資源與責任。\n- 確保即使資料已「銷毀」或「以磁帶典藏」，後設資料及唯一且可引用的識別碼仍持續符合 FAIR 原則。\n\n## 應避免的做法\n\n- 混淆可再次使用性與實際的再次使用情況：許多本身有價值的資料，可能多年無人使用，卻突然對某項研究或決策變得至關重要。同樣地，也有資料已經遺失，到了現在卻可能非常有價值的例子。\n- 未告知團隊並討論決定，就捨棄資料、後設資料、程式碼或工具。資料託管員不一定能輕易判斷資料實際應保存到何時。\n- 已有明確證據顯示資料毀損、不實、錯誤，或因其他原因而過時，卻仍繼續保存，即使資料集很小，或沒有因儲存空間或財務因素而必須刪除的理由。\n\n---\n\n[**開放科學的資料託管：第 2.5.5 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/cd32ef04-d8ae-403f-b4a5-74e1e7f11a59/title
+#, fuzzy
 msgid "Do you need the storage close to compute capacity?"
 msgstr "您是否需要讓儲存空間鄰近運算資源？"
 
 #: resourcePage/cd32ef04-d8ae-403f-b4a5-74e1e7f11a59/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7621,10 +7625,12 @@ msgid ""
 msgstr "## 背景說明\n\n分散式信任與學習網路的討論正處於轉變之中。這不只涉及科學領域，也是比特幣、區塊鏈及其他方法之下一代解決方案的重要議題。網際網路的本質，是本身具有穩健性的本地交易作業，包括接受可能發生錯誤，並只在有意義之處採用備援。這股趨勢將迅速影響本地與分散式運算及學習。因此，無論研究規模大小，都必須考量本地與分散式運算的可能性。可用選項範圍很廣，從智慧型手機、透過光纖連接並為住家供暖的分散式超級電腦，到 exascale 等級的運算設施都有。即使涉及敏感資料，也不能再理所當然地認為大型運算與分析作業必須集中於防火牆內執行。如果將雲端廣義地理解為「別人的電腦」，您需要進行的大部分工作，可能都能在雲端完成。不過，也可能有理由在本地處理，並維護昂貴的運算基礎設施。即便如此，當有更好且更便宜的選項時，不應僅為了掌控設備，就購買需要在本地維護的硬體。就像除非需要備用發電機，或所需水質特殊到外部來源無法提供，否則人們不會再自行發電或製備乾淨用水。運算與儲存也正迅速成為這類通用商品，因此，使用外部或雲端資源已成為必須處理的重要議題。核心問題是：有多少運算能力必須緊鄰資料？了解目前網路連線速度，顯然是重要考量。這又取決於您打算透過網路傳送龐大資料集，還是傳送輕量的工作流程容器，到資料*原處*執行相對有限的運算作業；前者的網路速度仍可能帶來重大的成本與時間問題。\n\n新興趨勢顯示，透過分散式分析與學習能回答的科學問題，遠比我們直覺上認為的還多。因此，如果可信賴的第三方能以更好、更便宜且更安全的方式完成工作，卻仍讓機構承擔內部硬體與軟體的相關負擔，就不是良好的資料託管做法。\n\n## 建議做法\n\n- 仔細研究所需儲存與運算資源的雲端選項，並尋求諮詢。\n- 比較不同雲端服務提供者的價格、服務與安全性；規模較大不一定比較好。\n- 決定透過傳送資料來處理之前，先確認這樣做是被允許的。\n- 請留意，處理非常龐大的資料集時，一般雲端服務提供者的上傳與下載費用可能相當可觀。\n- 權衡使用雲端服務提供者與使用本地設施的成本。\n- 也評估機構內部設備與基礎設施的採購、維護、支援、專業能力及汰換風險。\n- 為每個工作空間及每一批分析，選擇合適的本地或分散式處理方式，不要以單一方式套用所有情況。\n\n## 應避免的做法\n\n- 沒有充分理由，就假定儲存與資料處理都會在機構內部進行，忽略其中龐大的成本與資源調度需求。\n- 購買或租用遠超過實際需求的電腦儲存空間與運算能力。\n- 認為每項運算作業都必須讓運算資源與資料位於同一處。\n- 將「大規模運算問題」與「大規模本地基礎設施」混為一談。\n\n\n---\n\n[**開放科學的資料託管：第 2.7 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8159f15f-1ee0-42ed-8ee8-b2ab834e1075/title
+#, fuzzy
 msgid "Will owners of that data work with you on this study?"
 msgstr "資料擁有者是否會與您合作進行此研究？"
 
 #: resourcePage/8159f15f-1ee0-42ed-8ee8-b2ab834e1075/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
