@@ -952,7 +952,7 @@ msgstr "您是否需要毒理學研究的既有資料"
 
 #: answer/f971efd1-b0a5-4bc5-829d-148ef9362d37/advice
 msgid "Information about resources for human assays is available on the [RDMkit Toxicology page – human assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies), for animal assays on the [RDMkit Toxicology page – animal assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies), and for ecotoxicology on the [RDMkit Toxicology page – ecotoxicology](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)."
-msgstr "人類毒理學資料的相關資源資訊可參考 [RDMkit 毒理學頁面－人類資料（human assays）](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies)；動物試驗可參考 [RDMkit 毒理學頁面－動物試驗](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies)；生態毒理學則可參考 [RDMkit 毒理學頁面－生態毒理學](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)。"
+msgstr ""
 
 #: reference/e5762c40-7b10-4915-89f8-c71180049f13/label
 msgid "RDMkit on Toxicology"
