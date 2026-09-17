@@ -939,12 +939,10 @@ msgstr ""
 "* [CERN 開放資料平台](https://opendata.cern.ch/)"
 
 #: question/f2bcb8d2-6a73-43a4-a2d3-16f50e4577a5/title
-#, fuzzy
 msgid "Will you need existing data from Engineering and Technology?"
 msgstr "您是否需要工程與技術領域的既有資料"
 
 #: question/2130427b-2e5e-4282-b703-ee00f1f735c9/title
-#, fuzzy
 msgid "Will you need existing data from Medical and Health Sciences?"
 msgstr "您是否需要醫學與健康科學領域的既有資料"
 
@@ -954,7 +952,6 @@ msgid "There are pointers to resources in life sciences at [ELIXIR Data resource
 msgstr "生命科學相關資源可參考 [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)。"
 
 #: question/a781badf-f7ee-4588-9478-d31470f00c38/title
-#, fuzzy
 msgid "Will you need existing data for toxicology research?"
 msgstr "您是否需要毒理學研究的既有資料"
 
@@ -968,17 +965,14 @@ msgid "RDMkit on Toxicology"
 msgstr "RDMkit 中的毒理學"
 
 #: question/17464e0f-f477-4a45-a556-687a97b0e826/title
-#, fuzzy
 msgid "Will you need existing data from Agricultural Sciences?"
 msgstr "您是否需要農業科學領域的既有資料"
 
 #: question/b19eab58-3b7f-4b66-b6f2-7e9c2c3c3e27/title
-#, fuzzy
 msgid "Will you need existing data from Social Sciences?"
 msgstr "您是否需要社會科學領域的既有資料"
 
 #: question/849cb43b-8622-4da0-9ef3-ae845dfe58f1/title
-#, fuzzy
 msgid "Will you need existing data from Humanities?"
 msgstr "您是否需要人文學科領域的既有資料"
 
@@ -1252,7 +1246,6 @@ msgid "Will the rightsholder of this dataset work with you on this study?"
 msgstr "此資料集的權利人是否會與您共同進行這項研究？"
 
 #: question/f59d2d89-fe27-4a8a-b3e6-2782bcc2fb97/title
-#, fuzzy
 msgid "Do you need to request access to the data?"
 msgstr "您是否需要申請資料取用權限"
 
