@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:07+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:08+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7772,7 +7772,6 @@ msgid "What format?"
 msgstr "資料採用什麼格式？"
 
 #: resourcePage/fc6c1a65-1b9f-423d-ab49-fe62b3dec8c4/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7796,12 +7795,10 @@ msgid ""
 msgstr "## 背景說明\n\n許多資料集，尤其是參考資料資源，可能以不同格式提供。例如，生命科學領域的核心資源，如 UniProt 和 HPA，正逐漸以機器可讀的 FAIR 格式提供其核心資料。您需要充分了解資料採用的格式、格式的限制，以及可能的授權限制，才能判斷您可以或不可以如何再次使用這些資料。請注意，即使某項資料資源完全沒有密碼保護，表面上也可供學術用途自由使用，仍然可能存在使用限制。\n\n## 建議做法\n\n- 到您選定的 OPEDAS 來源網站，確認有哪些資料格式可用。\n- 務必選擇最適合您研究中預定分析工作的格式。\n- 如果所需格式無法直接取得，可考慮聯絡資源擁有者，討論是否能以該格式提供資料。\n\n## 應避免的做法\n\n- 未確認是否能取得合適格式（也許在其他網站），就採用較不合適的資料格式。\n- 未確認資料格式及潛在限制是否會妨礙分析或發表，就將資料用於特定目的。\n- 打算日後將成果用於潛在創新或商業用途，卻使用僅限學術用途的資料或資源。\n\n---\n\n[**開放科學的資料託管：第 1.5 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ac0c34f7-9ba8-4180-abb9-19cdb45620a8/title
-#, fuzzy
 msgid "Will you be storing physical samples?"
 msgstr "您是否會存放實體樣本？"
 
 #: resourcePage/ac0c34f7-9ba8-4180-abb9-19cdb45620a8/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7830,7 +7827,6 @@ msgid ""
 msgstr "## 背景說明\n\n這裡將「生物樣本庫」定義為任何包含生物樣本或生物參考樣本的蒐藏。顯然，大多數生物樣本庫都是為研究目的而建立。如果樣本來自人體，或因其他原因涉及倫理與隱私考量，託管方面的問題就相當重要。您可能已注意到，這裡的「託管」一詞並未搭配「資料」。雖然我們可以主張，組織樣本也是某種「資料」，但由於它並非數位資料，這裡會將實體樣本的討論，與生物樣本庫相關的資料託管分開。生物樣本庫領域的組織與協作比許多其他領域完善，因此，這裡不會涵蓋生物樣本庫及庫內樣本託管的所有問題；相關資訊可見本節的「資源」。不過，仍須強調，樣本與整個生物樣本庫蒐藏的「註解」及後設資料，都應像其他資料一樣符合 F.A.I.R. 原則。\n\n在許多情況下，生物樣本庫及其所含蒐藏的概括後設資料可以「開放」，而樣本的詳細資訊與樣本本身的取用，則因明確的理由受到嚴格管控與限制。\n\n## 建議做法\n\n- 與機構內的專家徹底確認，所屬機構是否已有生物樣本庫及相關基礎設施。\n- 向專業生物樣本庫的擁有者尋求建議；他們管理的樣本與資料集，很可能比您打算建立的更大。藉此妥善規劃支援基礎設施，以及策展與維護所需的投入。他人再次使用您的樣本與資料，可能帶來大量往來聯繫與支援工作，也可能帶來共同發表的機會，請與主管討論。\n- 與團隊、支援人員及主管具體討論蒐藏維護方案，包括樣本、註解及後設資料的版本控制與發布方案，以及使用者支援方案。\n- 諮詢法律與授權專家，確保提供樣本與資料集的做法，在法律層面上能夠持續維持；處理知情同意的可用方式，請見「資源」。\n- 對於維護參考樣本及資料資源的日常服務部分，盡可能與專業、有時是商業性的基礎設施與資料提供者合作。無論在經費取得方式或支援方面，都應嚴格區分「研究與創新」環境和日常服務部分。\n- 確保具備完善的永續維護方案。\n\n## 應避免的做法\n\n- 使用公帑建立生物樣本庫，卻打算不向其他研究人員開放，除非有非常明確且經得起檢視的理由。在研究計畫書中，您將愈來愈需要充分說明不開放蒐藏，尤其是不開放其後設資料的理由；不開放資料可能降低計畫獲選的機會。\n- 因為樣本與資料「顯然很有價值」，就假定「部門裡某個人」會接手長期託管。許多大學缺乏將對第三方「提供服務」納入常態工作的誘因。\n- 建立參考樣本與資料時，未盡最大努力讓註解元素本身及整體後設資料符合 F.A.I.R. 原則，並盡可能使其可由機器處理。\n\n---\n\n[**開放科學的資料託管：第 1.13 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/93b54fa8-a2f2-4f32-b081-1fbe293f0a5e/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7853,7 +7849,6 @@ msgid ""
 msgstr "## 背景說明\n\n您將建立的資料可能屬於全新的類型。在這種情況下，自然不會已有現成的標準格式。不過，即使是全新的資料類型，既有的資料格式或模板也可能適用，或是結合既有格式、詞彙表等就已足夠。只要可行，再次使用既有格式會比建立全新的資料格式更合適。有些社群專門處理這類資料議題，強烈建議與這些社群合作，解決您的資料建模問題。\n\n## 建議做法\n\n- 研究既有格式與詞彙表，尤其是其他學科使用的格式與詞彙表，確認是否適合您的資料類型。\n- 若沒有標準的最佳實踐，可考慮結合既有元素。\n- 諮詢熟悉相近資料類型的專家，確保沒有遺漏任何可能的選擇。\n\n## 應避免的做法\n\n- 未徹底研究既有選擇，就假定您的資料獨一無二，進而建立新的資料格式。\n- 未諮詢相關資料類型領域的專家，就建立資料類型。\n\n---\n\n[**開放科學的資料託管：第 2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/cb8ef5c5-bb34-4084-b55d-aead8dc188ae/title
-#, fuzzy
 msgid "Are you using data types used by others too?"
 msgstr "您使用的資料類型是否也被其他人使用？"
 
@@ -7884,12 +7879,10 @@ msgid ""
 msgstr "## 背景說明\n\n除非您從事的是全新類型的研究，否則通常已有多種資料格式，可用於擷取、處理及整理您所產生的資料。有些格式可能較為少見，且未被社群中的多數人採用，或已不再使用。這往往意味著，這類資料不易被找到、建立對映、相互操作及再次使用，標準工作流程也較不可能支援處理這些格式。尤其當您打算將所產生的資料與 OPEDAS 結合，進行組合或整合實驗時，資料格式更為重要。在許多情況下，專有或少見格式的資料可以經過整理，轉換成較常用的格式，但這些過程相當繁瑣且容易出錯。因此，務必諮詢專家社群，讓資料採用最適合後續分析的格式，最終也便於您自己的團隊及其他人再次使用。\n\n## 建議做法\n\n- 只要可行，始終採用符合社群慣例、有支援且能長期維持的資料格式。\n- 請專家建議，您將建立的特定資料類型最適合使用哪些格式。\n- 確保您已準備好回答有關資料用途的問題，例如會用哪些工作流程來處理資料。\n- 選擇能表達最豐富資訊的格式。先留白，比日後擴充表達能力不足的格式更容易。\n\n## 應避免的做法\n\n- 假定您的資料如此獨特，必須使用全新的格式。\n- 認為使用自由文字標籤的試算表，或您自行開發的資料庫，就是儲存及再次使用資料的最佳方式。\n- 將資料整理並儲存為任何格式，卻未保留豐富且相關的後設資料及溯源資訊。\n- 丟棄原始資料，除非您完全確定保留它們不再具有額外價值，例如無須用於審查實驗及分析程序。缺少某些預先格式化的資料，可能會使他人無法發表、再次使用或引用您的原始資料，也可能妨礙相關論文的發表。\n\n---\n\n[**開放科學的資料託管：第 2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/2c756697-f341-4acf-8c13-dba8368420d0/title
-#, fuzzy
 msgid "What format(s) will you use for the data?"
 msgstr "您將使用哪些資料格式？"
 
 #: resourcePage/2c756697-f341-4acf-8c13-dba8368420d0/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7915,12 +7908,10 @@ msgid ""
 msgstr "## 背景說明\n\n一旦確定將產生的資料大致屬於哪種類型，就應仔細確認，採用什麼格式最適合擷取、處理及整理資料。在許多情況下，初始擷取格式會由測量或蒐集資料所用工具搭配的軟體套件決定，這些工具可能是問卷，也可能是高通量儀器。不過，蒐集原始資料後，您可能有許多前處理方式，以及最終資料版本的格式可供選擇，再交由後續分析使用。選擇時應主要依據 FAIR 原則，以及社群對該格式的採用程度；後者又與對映工具、整合工具和一般分析工作流程是否可用有關。若資料採用「簡便、在地自訂」的格式，例如在 Excel 儲存格中填入自由文字，日後可能需要投入大量心力重新整理格式，對資源造成沉重負擔，並帶來前述各種負面影響。\n\n## 建議做法\n\n- 仔細研究您將產生的資料類型有哪些可用格式。\n- 了解社群對這些格式的採用程度。\n- 確認產出的資料能在多大程度上符合 FAIR 原則。\n- 確保資料格式本身，以及您對格式所做的任何修改或增補，都有完整文件記錄，並納入符合 FAIR 原則的後設資料。\n- 若資料格式或模板中的任何必要條件會使資料無法由機器處理，請告知格式及模板的提供者。\n\n## 應避免的做法\n\n- 在資料格式的任何部分使用自由文字，卻未以持續識別碼（PID）對應其所指概念。\n- 明知資料模板中的指示會使資料不符合 FAIR 原則，仍照做；應聯絡模板擁有者予以修正。\n- 自行設計資料模板或格式，除非您完全確定沒有已被社群採用的替代選擇。\n\n---\n\n[**開放科學的資料託管：第 2.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5e2ddc84-4dc1-4e00-b7aa-2af573669c21/title
-#, fuzzy
 msgid "Will you store licences with the data?"
 msgstr "您是否會將授權條款與資料一起儲存？"
 
 #: resourcePage/5e2ddc84-4dc1-4e00-b7aa-2af573669c21/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
