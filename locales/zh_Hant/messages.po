@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 23:44+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 23:44+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -1571,6 +1571,7 @@ msgid "Samples will receive a universally unique persistent identifier (PID)"
 msgstr "樣本將會取得一組全域唯一的持續識別碼 (PID)"
 
 #: question/d488b314-2b5c-4e79-be1e-c5742205d2a5/title
+#, fuzzy
 msgid "Where will the physical samples be stored?"
 msgstr "實體樣本將存放在哪裡"
 
@@ -1637,11 +1638,13 @@ msgid "There are a few different standards that are often used to give basic inf
 msgstr "有幾種不同標準常用於提供資料集的基本資訊。您將使用其中哪些標準？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/title
+#, fuzzy
 msgid "What standard will you use to specify author/title/keyword information?"
 msgstr "您將使用哪些標準來指定作者、標題與關鍵字資訊？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/text
 #: question/127bc0d5-8de6-4021-9a95-22b97ed3c308/text
+#, fuzzy
 msgid "You will be presented with suggestions from [FAIRsharing](https://fairsharing.org/), but you also have the option to manually enter the metadata standard that is not listed there."
 msgstr "系統會顯示來自 [FAIRSharing](https://fairsharing.org/) 的建議項目，但您也可以手動輸入未列於其中的後設資料標準。"
 
@@ -1714,6 +1717,7 @@ msgid "Adding more than the strict minimum metadata about your experiment will p
 msgstr "為您的實驗新增超過最低需求的後設資料，有機會讓您的資料被更廣泛地再次使用，並可能提高資料引用率。要預想他人未來可能以哪些方式再次使用您的資料並不容易，因此提供較完整的後設資料尤為重要。"
 
 #: answer/b2ca0d26-7fdd-44f1-b064-bc4cd4c45661/label
+#, fuzzy
 msgid "I will only add the metadata that is \"required\" in the standard"
 msgstr "我僅會新增標準中「必要」的後設資料。"
 
@@ -1750,10 +1754,12 @@ msgid "Do you need to exchange your data with others?"
 msgstr "您的資料是否需要與他人交換？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/title
+#, fuzzy
 msgid "Will a licence be assigned to your datasets?"
 msgstr "您的資料集是否會指定授權條款？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/text
+#, fuzzy
 msgid "It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. It is helpful to associate each data set with a licence as early as possible in the project. A data licence should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable licence."
 msgstr "計畫成員和計畫外部人士不一定都清楚資料集可以如何使用，以及哪些用途不被允許。因此，最好在計畫初期就為每個資料集指定授權條款。理想情況下，資料授權條款應盡可能寬鬆；例如「僅限非商業使用」或「必須標明出處」等限制，都可能降低資料再次使用的可能性，進而減少引用次數。若可行，請採用機器可讀且可由機器處理的授權條款。"
 
@@ -1762,6 +1768,7 @@ msgid "Please consider adding licenses to all datasets you are collecting as soo
 msgstr "請考慮盡快為您正在蒐集的所有資料集指定授權條款。"
 
 #: question/0551adc9-7faa-4ddc-a07b-08fbde2a247b/title
+#, fuzzy
 msgid "Will you store the licences with the data at all time?"
 msgstr "您是否會始終將授權條款與資料一併保存？"
 
@@ -1863,14 +1870,17 @@ msgid "Keeping a log of every step in the analysis workflow that has been run"
 msgstr "記錄分析工作流程中每一個已執行的步驟"
 
 #: question/106df534-f590-416b-8e4a-846edbdc4325/title
+#, fuzzy
 msgid "What standard(s) you will use to document provenance?"
 msgstr "您將使用哪些標準來記錄溯源資訊？"
 
 #: question/106df534-f590-416b-8e4a-846edbdc4325/text
+#, fuzzy
 msgid "There are a few different standards that are often used to document provenance, for example W3C Prov standard. Which ones of these will you be using?"
 msgstr "有幾種常用於記錄溯源資訊的標準，例如 W3C Prov 標準。您將使用其中哪些標準？"
 
 #: question/127bc0d5-8de6-4021-9a95-22b97ed3c308/title
+#, fuzzy
 msgid "What standard you will use to document provenance?"
 msgstr "您將使用哪一種標準來記錄溯源資訊？"
 
@@ -1936,6 +1946,7 @@ msgid "FAIRCookbook on Selecting an ontology lookup service"
 msgstr "FAIRCookbook 的知識本體 (ontology) 查詢服務選擇指南"
 
 #: question/8e886b55-3287-48e7-b353-daf6ab40f7d8/title
+#, fuzzy
 msgid "How will you do file naming and file organisation?"
 msgstr "你將如何進行檔案命名與檔案整理？"
 
@@ -2050,10 +2061,12 @@ msgid "Why are you using a non-standard format?"
 msgstr "您為什麼使用非標準格式？"
 
 #: answer/2da70314-879e-46f5-a1da-2794d71a12d3/label
+#, fuzzy
 msgid "There is no standardised format for this data type"
 msgstr "此資料類型沒有標準化格式"
 
 #: answer/6c26d57b-468c-42ba-a01c-05d1334d0a6e/label
+#, fuzzy
 msgid "It is optimised for processing speed and/or volume"
 msgstr "此格式已針對處理速度或資料量最佳化"
 
@@ -2207,6 +2220,7 @@ msgid "How will you design your new data format?"
 msgstr "您將如何設計新資料格式？"
 
 #: answer/bda912f3-14a7-4242-b293-025f1b19892d/label
+#, fuzzy
 msgid "There is a closely related more generic and open format that I can specialise"
 msgstr "有一種密切相關、較通用且開放的格式，我可以以此為基礎延伸成專用格式"
 
@@ -2262,6 +2276,7 @@ msgid "Experts in the project, with our own equipment"
 msgstr "計畫內的專家，並使用自有設備"
 
 #: answer/eb0b9a82-0379-47c3-967f-b35b40129af2/label
+#, fuzzy
 msgid "Experts in the project, at a specialised infrastructure"
 msgstr "計畫中的專家，在專門的基礎設施"
 
@@ -2311,6 +2326,7 @@ msgid "The measuring party will delete the data, the project partners will deal 
 msgstr "量測方會刪除資料，由計畫合作夥伴負責發布資料"
 
 #: question/e33ae210-62fe-4665-b836-e71660325a06/title
+#, fuzzy
 msgid "Specify instruments used for data collection"
 msgstr "請說明用於蒐集資料的儀器"
 
@@ -2449,6 +2465,7 @@ msgid "Are you running repeat samples or are you repeating measurements in order
 msgstr "您是否會重複蒐集樣本或進行重複測量，以監測結果的一致性？"
 
 #: question/ecdc6c3f-249a-4d82-822c-649754201981/title
+#, fuzzy
 msgid "Are you running standardised data capture or recording?"
 msgstr "您是否正在執行標準化的資料獲取或記錄？"
 
@@ -2573,6 +2590,7 @@ msgid "Who will do the data entry?"
 msgstr "誰會負責資料輸入？"
 
 #: answer/9d51aae1-ca1b-4267-b0df-d43dc85f5bc6/label
+#, fuzzy
 msgid "A specialised team"
 msgstr "專業團隊"
 
@@ -2775,14 +2793,17 @@ msgid "We collect consent for our use as well as for reuse of the data"
 msgstr "我們會為資料使用與再次使用取得同意"
 
 #: answer/3a77595a-87ae-484d-a9a6-052f312453ee/label
+#, fuzzy
 msgid "We will collect consent for our use of the data and for anonymisation; We will anonymise the data afterwards for reuse"
 msgstr "我們會為資料使用與匿名化取得同意；之後會將資料匿名化以供再次使用"
 
 #: answer/e7e4f219-5edd-468f-b042-b5f88a559c3a/label
+#, fuzzy
 msgid "We ask for consent for anonymisation; We will anonymise first and all further processing is on the anonymous data"
 msgstr "我們會為匿名化取得同意；我們會先將資料匿名化，後續所有處理都會針對匿名資料進行"
 
 #: question/61d21b4f-332b-4257-a345-bbf51b10d357/title
+#, fuzzy
 msgid "Explain how data subjects will be informed"
 msgstr "請說明您會如何向資料主體提供相關資訊。"
 
@@ -2837,10 +2858,12 @@ msgid "For projects involving data collection from subjects, it must be ensured 
 msgstr "凡涉及向受試者蒐集資料的計畫，皆需確保受試者得以完整行使其相關權利。"
 
 #: choice/e63d7501-86b4-40b7-9b2a-43e7c1745ae1/label
+#, fuzzy
 msgid "They can access the data during the project"
 msgstr "他們可以在計畫期間查閱其資料。"
 
 #: choice/216661ca-3b33-4541-bfb7-d7578466e137/label
+#, fuzzy
 msgid "They can access the data after the project's completion"
 msgstr "他們可以在計畫完成後查閱其資料。"
 
