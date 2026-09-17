@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:51+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:51+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6588,6 +6588,7 @@ msgid "Making use of the same pseudonymisation for different studies makes it po
 msgstr "在不同研究中採用同一套擬匿名化機制，可讓日後整合資訊成為可能。不過，這顯然也會提高資料被重新識別的風險。"
 
 #: question/15ee1921-1fea-4f22-b462-b3cf7cdd4646/title
+#, fuzzy
 msgid "Could anonymisation be used to make the data more openly available?"
 msgstr "是否可以透過匿名化（Anonymization）使資料更加公開可用？"
 
@@ -6612,6 +6613,7 @@ msgid "Explain the procedure for authorized users to access private (e.g., perso
 msgstr "請說明獲得授權的使用者取用非公開資料（例如個人資料）的程序（像是哪些人可取用、需符合哪些條件等）。"
 
 #: question/a18d79d2-74b1-4524-a3c7-2c1a87b66a75/title
+#, fuzzy
 msgid "Are there intellectual property reasons why your data can not be open?"
 msgstr "是否有智慧財產權方面的原因，使您的資料無法開放？"
 
@@ -6669,10 +6671,12 @@ msgid "We will make other arrangements"
 msgstr "我們會另作安排"
 
 #: question/23909308-55cf-4e94-a616-2a74c809aa48/title
+#, fuzzy
 msgid "Who will take care of authorisation of potential users?"
 msgstr "誰會負責授權潛在使用者取用資料？"
 
 #: answer/ed47c9b7-9c2b-48ab-bdf4-efd8913f673e/label
+#, fuzzy
 msgid "One of the project members will authorise"
 msgstr "由其中一位計畫成員負責授權"
 
@@ -6801,6 +6805,7 @@ msgid "Other outputs"
 msgstr "其他成果"
 
 #: chapter/70cc627a-779b-432e-b928-fd263f1ab24f/text
+#, fuzzy
 msgid ""
 "Projects may produce valuable outputs beyond datasets, such as software, workflows, protocols, documentation, training materials, ontologies, or metadata schemas.\n"
 "\n"
