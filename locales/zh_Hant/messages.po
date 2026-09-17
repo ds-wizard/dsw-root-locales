@@ -944,6 +944,7 @@ msgid "Will you need existing data from Engineering and Technology?"
 msgstr "您是否需要工程與技術領域的既有資料"
 
 #: question/2130427b-2e5e-4282-b703-ee00f1f735c9/title
+#, fuzzy
 msgid "Will you need existing data from Medical and Health Sciences?"
 msgstr "您是否需要醫學與健康科學領域的既有資料"
 
@@ -953,6 +954,7 @@ msgid "There are pointers to resources in life sciences at [ELIXIR Data resource
 msgstr "生命科學相關資源可參考 [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)。"
 
 #: question/a781badf-f7ee-4588-9478-d31470f00c38/title
+#, fuzzy
 msgid "Will you need existing data for toxicology research?"
 msgstr "您是否需要毒理學研究的既有資料"
 
@@ -966,6 +968,7 @@ msgid "RDMkit on Toxicology"
 msgstr "RDMkit 中的毒理學"
 
 #: question/17464e0f-f477-4a45-a556-687a97b0e826/title
+#, fuzzy
 msgid "Will you need existing data from Agricultural Sciences?"
 msgstr "您是否需要農業科學領域的既有資料"
 
