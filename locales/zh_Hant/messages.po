@@ -7221,10 +7221,12 @@ msgid ""
 msgstr "## 背景說明\n\n資料詮釋會導向特定領域的科學假說、結論與應用，但這並不是資料託管員的核心專業。不過，具備與資料詮釋相關領域的基本知識，仍然十分重要。良好的資料託管員需要對「領域專家」的工作有基本了解，而這些專家愈來愈常來自多個不同領域的團隊。研究團隊的選擇，尤其是他們打算如何詮釋資料，可能大幅影響資料格式及「立即可用」的需求。如果詮釋主要仰賴「人工閱讀」，資料輸出與格式的需求，顯然會不同於先大規模走訪圖結構以找出連結模式，再閱讀外部連結的文獻與資料庫內容加以確認的做法。此外，當中間結果出現明顯「不可能」的重大異常時，您需要能夠在下一次全體工作會議揭露這些問題之前，就先辨識出來。\n\n## 建議做法\n\n- 在很早的階段，也就是步驟 1，就考慮預定採用的資料詮釋方法，因為這些方法會影響資料擷取、前處理、策展及功能整合中的許多其他步驟。\n- 確保您對研究團隊成員所具備的領域知識有基本了解。\n- 在資料處理、連結與分析過程中，檢查所有「中間產出」是否有明顯的重大異常，因為這可能表示參數設定等環節有誤。\n- 仔細記錄資料詮釋程序之前及其中採取的所有步驟，包括哪些環節可能引入人為錯誤與偏差。\n\n## 應避免的做法\n\n- 把自己的角色當成「等資料出現後才加入，妥善處理資料，再交付漂亮的圖表與圖片」。\n- 試圖成為領域專家。結果的最終詮釋應交由團隊中的專家負責。尤其當研究涉及多個領域時，不可能精通所有領域；勉強嘗試，可能適得其反，也可能使真正的專家感到不悅。\n\n---\n\n[**開放科學的資料託管：第 6.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/title
+#, fuzzy
 msgid "Will you use Reference Data?"
 msgstr "您是否會使用參考資料？"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/content
+#, fuzzy
 msgid ""
 "*Reference data are defined as OPEDAS that have a status as a 'reference' data set and can be used to 'interpret' other data. Reference data can be available in many formats and could include curated resources like LITMED in the humanities, UniProt or PDB in the life sciences but also resources like a '5 year twitter trend', a 'gold standard' a for instance a \"chuman reference genome\" that you use to define how your data fits in the larger picture.*\n"
 "\n"
@@ -7257,6 +7259,7 @@ msgid ""
 msgstr "*參考資料是指具有「參考」資料集地位、可用來「詮釋」其他資料的 OPEDAS。參考資料可能以多種格式提供，包括人文領域的 LITMED、生命科學領域的 UniProt 或 PDB 等經過策展的資源，也包括「五年的 Twitter 趨勢」、「黃金標準」或「人類參考基因組」等資源，讓您據以判斷自身資料在更大脈絡中的位置。*\n\n## 背景說明\n\n當新產生的資料集規模相對較大且需要詮釋時，參考資料集就愈來愈重要；對小規模資料也同樣如此，例如臨床遺傳學樣本中可能有數百個變異，需要與已知的表現型關聯進行比對。在某些情況下，例如 ELIXIR，這些資源可能被稱為「核心資源」。這類資源通常會動態更新，因此不能預期在不同時間下載或查詢時，內容都完全相同。經過預先分析或預先連結的資料來源，也愈來愈常被納入核心資源與參考資料的範疇。若資料並非來自具授權、且採用明確版本控制與發布政策的提供者，就必須再次確認其溯源資訊、追溯至原始資源的能力，以及所用方法的透明度。\n\n## 建議做法\n\n- 確保您充分了解所有可能與研究相關的可用參考資料來源。\n- 查核這些資料庫的「權威性」，並審慎評估其有效性。\n- 確認使用條件符合您的目的；其中有些資源，例如 HPA，明文禁止商業用途。\n- 確保日後能盡可能精確地重現研究中再次使用的資料；至少應記錄所使用參考資料資源的版本。\n- 如果對可重現性有所疑慮，可考慮下載所引用的資料並妥善典藏。\n- 尋找既有工作流程或方法，以自動或半自動方式將您的資料與參考資料進行比對，避免重新建立已有的工作流程。\n\n\n## 應避免的做法\n\n- 僅在所屬學科中顯而易見的資源裡尋找參考資料。\n- 假定所有參考資料，包括經過同儕審查的文獻，都是正確的。\n- 已有經授權的公開參考資料可用，卻使用未經授權的參考資料。\n- 使用參考資料時未適當引用，或使用他人的帳號；參考資源需要正確追蹤使用者統計資料。\n- 引用會更新卻沒有版本編號的參考資料來源。\n- 引用明顯會更新的資料資源或服務，導致嘗試重現您研究結果的人取得不同版本。\n\n---\n\n[**開放科學的資料託管：第 1.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/title
+#, fuzzy
 msgid "How will you make sure the analysis is best suited to answer your biological question?"
 msgstr "您將如何確保分析最適合回答您的生物學問題？"
 
