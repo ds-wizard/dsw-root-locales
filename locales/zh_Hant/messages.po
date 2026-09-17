@@ -1447,6 +1447,7 @@ msgid "If you are combining data from different sources, harmonization may be re
 msgstr "如果您正在整合來自不同來源的資料，可能需要進行資料調和。您也可能需要重新分析部分原始資料。"
 
 #: question/1d1ac8bb-66c8-4b9e-bfc9-4c26f3598062/title
+#, fuzzy
 msgid "Will you be making your harmonisation results available to others?"
 msgstr "您是否會將資料調和的結果提供給他人？"
 
@@ -1570,6 +1571,7 @@ msgid "Samples will receive a universally unique persistent identifier (PID)"
 msgstr "樣本將會取得一組全域唯一的持續識別碼 (PID)"
 
 #: question/d488b314-2b5c-4e79-be1e-c5742205d2a5/title
+#, fuzzy
 msgid "Where will the physical samples be stored?"
 msgstr "實體樣本將存放在哪裡"
 
@@ -1636,11 +1638,13 @@ msgid "There are a few different standards that are often used to give basic inf
 msgstr "有幾種不同標準常用於提供資料集的基本資訊。您將使用其中哪些標準？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/title
+#, fuzzy
 msgid "What standard will you use to specify author/title/keyword information?"
 msgstr "您將使用哪些標準來指定作者、標題與關鍵字資訊？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/text
 #: question/127bc0d5-8de6-4021-9a95-22b97ed3c308/text
+#, fuzzy
 msgid "You will be presented with suggestions from [FAIRsharing](https://fairsharing.org/), but you also have the option to manually enter the metadata standard that is not listed there."
 msgstr "系統會顯示來自 [FAIRSharing](https://fairsharing.org/) 的建議項目，但您也可以手動輸入未列於其中的後設資料標準。"
 
@@ -1713,6 +1717,7 @@ msgid "Adding more than the strict minimum metadata about your experiment will p
 msgstr "為您的實驗新增超過最低需求的後設資料，有機會讓您的資料被更廣泛地再次使用，並可能提高資料引用率。要預想他人未來可能以哪些方式再次使用您的資料並不容易，因此提供較完整的後設資料尤為重要。"
 
 #: answer/b2ca0d26-7fdd-44f1-b064-bc4cd4c45661/label
+#, fuzzy
 msgid "I will only add the metadata that is \"required\" in the standard"
 msgstr "我僅會新增標準中「必要」的後設資料。"
 
@@ -1749,6 +1754,7 @@ msgid "Do you need to exchange your data with others?"
 msgstr "您的資料是否需要與他人交換？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/title
+#, fuzzy
 msgid "Will a licence be assigned to your datasets?"
 msgstr "您的資料集是否會指定授權條款？"
 
