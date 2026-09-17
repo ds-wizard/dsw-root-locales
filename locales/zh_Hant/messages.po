@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 00:35+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 00:36+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8947,10 +8947,12 @@ msgid ""
 msgstr "## 背景說明\n\n雖然我們建議盡可能使用可信賴的外部高效能再次使用（HPR）服務，但您仍可能有理由自行維運資料取用服務。例如，您產生的資料基於法律或技術因素，無法離開機構的防火牆。在這種情況下，若要讓第三方再次使用資料，就必須以可再次使用的格式提供資料，並允許「工作流程」（此處採最廣義的用法）前來存取。您也必須確保內部服務能處理受控取用、身分驗證、授權、加密、日誌紀錄，以及進出內容的監控。這絕非簡單的工作，會對預算、基礎設施與機構內部的專業能力帶來重大挑戰。如果資料確實必須留在防火牆內，就需要處理重要的管理問題，包括訓練支援人員，以及取得標準軟體、硬體與服務，以支援上述資料管理、取用及處理步驟；這些通常以取得既有方案為主，極少需要自行開發。\n\n您也必須充分了解，希望提供哪些服務品質保證，以及這些選擇對預算的影響。例如，服務可用時間可以是僅在收到書面申請時臨時提供服務、依學術界的最佳實踐提供服務，或每週七天、每天二十四小時持續提供服務。全天候服務的複雜度與成本，可能比所謂「學術界的最佳實踐」高出一個數量級；後者可能只是「運氣好的時候資料才可取用，如果我的元件離線，讓您已執行三天的工作流程出問題，也別因此提告」。您需要考量的元件包括但不限於：處理服務（含 AAI）、下載服務、託管服務、系統、硬體與軟體管理、財務管理，以及使用者日誌紀錄。也應考量服務能否長期維持：誰負責維持資料取用服務的運作？資料取用與詮釋支援窗口的建置、人力配置及訓練，又要如何安排？\n\n## 建議做法\n\n- 仔細考量資料不能離開機構防火牆內環境的原因。\n- 將確實必須留在此環境中、供他人再次使用的資料量降至最低，因為這些資料會帶來很高的成本。\n- 盡可能選用標準化、可靠且有支援的軟硬體，以及公部門或私部門的服務提供者，以建立供資料主動再次使用所需的服務。\n- （請見相關資源及雲端服務提供者。）\n\n## 應避免的做法\n\n- 在仍有其他可行選項時，自行開發在受控條件下提供「使用中」資料所需的工具、演算法或軟體。\n- 未在限制允許的範圍內，以最開放的格式提供後設資料，或未在後設資料中詳述實際資料使用的法律與技術需求及限制；即使資料屬於限制最嚴格的類別，也應做到這些要求。\n- 在管理元件不可靠（自行製作）的情況下，仍將資料描述為「可在 HPR 中再次使用」。其他人可能將您的網路服務視為其工作流程中的可靠元件，因此，您的資料元件可能為他們的管線或工作流程帶來許多問題。\n\n---\n\n[**開放科學的資料託管：第 7.4.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/322e08ae-34b2-4a97-81f8-722a2d50f76e/title
+#, fuzzy
 msgid "Will you publish a narrative?"
 msgstr "您是否會發表敘述文章？"
 
 #: resourcePage/322e08ae-34b2-4a97-81f8-722a2d50f76e/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8973,10 +8975,12 @@ msgid ""
 msgstr "## 背景說明\n\n先說明：本節提出的論點，主要適用於專業的科學溝通；不過，任何文字，包括本書，若能納入其中許多考量，應該都會有所助益。如前所述，敘述文章，也稱為「論文」，在可預見的未來很可能仍會存在，因為它們依然有價值。電腦不容易掌握修辭表達與論證，因此，雖然敘述本質上具有歧義，因而不符合 FAIR 原則，仍需要透過敘述向人們解釋：從資料中辨識出什麼、資料如何產生，以及結論的依據。這些內容，包括方法等，已有愈來愈多部分可以用機器可處理的格式記錄，成為機器可處理的 FAIR 生態系統的一部分。然而，資料仍然需要搭配「補充敘述文字」；顯然，只要科學過程中仍有人類思考的參與，描述整個領域等主題的綜述文章，就始終會有其作用。不過，無論在預定發布內容的哪個部分撰寫敘述，都應注意*絕不*在文中引入有歧義的符號與表達方式。使用同義詞及優美修辭的敘述，對人們而言可能更有閱讀趣味，但通常無助於明確而直接的科學推理，反而會使其模糊。更重要的是，文字本來就因語言的本質而難以供機器閱讀及進行文字與資料探勘，這些寫法更使問題雪上加霜。未解釋、卻有多重意義的縮寫（同形異義詞），還自認*大家會懂我的意思*，以及頭韻、巢狀句型，或像「[概念 1、2、3、4 和 5 都與表 5 中的概念 6 有關]」這類句子，都是文字中*絕對不當的做法*。事實上，若要自行檢查附加於資料的敘述是否足夠明確，一個很好的練習，就是盡可能「也」以機器可讀格式表達這些文字，並與原文一同發布。這表示，即使您交替使用「intellectual disability」與「mental retardation」等詞，或以同一個符號表示某個基因及其對應的蛋白質，機器及人類至少仍可查看機器友善版本中使用的唯一識別碼，以「了解」您的實際意思。這項練習也迫使您盡可能精確、合乎邏輯地組織推理，因此也能提升文字品質。此外，提及設備、試劑與方法時，應將用語連結至唯一識別碼，並避免使用不明確的詞語、行話等。那些即使嘗試過，仍無法以機器可讀格式表達的句子，很可能正是敘述中不可或缺的部分，用來向他人解釋「如何、為何，以及依據什麼」。\n\n## 建議做法\n\n- 盡最大努力，讓需要撰寫的任何敘述都盡可能直接且無歧義，使機器與人類都更容易閱讀。科學文字不是為了休閒閱讀或娛樂，而應盡可能服務於明確無歧義的科學與學術溝通。\n- 只有在溝通對象是人時才使用敘述；若使用者很可能是機器，就不要使用。將敘述量減至傳達方法、推理與論述所需的最低程度。我們已被大量文字淹沒，要跟上「文獻」，每天恐怕得閱讀七十個小時。\n\n## 應避免的做法\n\n- 在有其他可行表達方式時，仍使用未定義的縮寫或同義詞。\n- 寫出超過有效傳達重點所需的文字，哪怕只多一行。\n- 在機器可讀且可處理的格式也能完成任務時，仍使用文字；別擔心，剩下的文字仍然夠多。\n\n---\n\n[**開放科學的資料託管：第 7.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/63a749b0-ab6c-4c7b-a46b-e0eae2f06bda/title
+#, fuzzy
 msgid "Will you use Pre-existing data (including OPEDAS)?"
 msgstr "您是否會使用既有資料（包括 OPEDAS）？"
 
 #: resourcePage/63a749b0-ab6c-4c7b-a46b-e0eae2f06bda/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9007,10 +9011,12 @@ msgid ""
 msgstr "## 背景說明\n\n即使看來已有 OPEDAS，也不代表您一定會使用。除了第 1.1 節討論的考量之外，也可能只是因為取得資料太過繁瑣，或難以取得適合您特定研究使用的格式。不過，如果您決定使用，在確認第 1.1 節列出的特徵後，就需要遵守一些基本規則。\n\n## 建議做法\n\n- 考慮您是否需要「全部」資料，還是只需要相關的子集；有些資料集非常龐大，下載與託管的成本很高。\n- 判斷是否需要下載 OPEDAS，或能否在資料原本所在的位置使用，例如將用來處理資料的虛擬機器或工作流程送至資料所在處。\n- 查核資料擁有者提供的再次使用（授權條款）及引用／致謝政策。\n- 如果未提供這些政策，請聯絡資料擁有者確認。\n- 請另一位專業人士協助確認，即使資料只用於分析中的一小部分，也不會限制您日後發布或使用研究結果。如果不清楚，請聯絡資料擁有者。\n- 如果所使用的資料集有任何問題，請主動加上註解，並將這些新增的後設資料提交至公開且可信賴的儲存庫。\n\n\n## 應避免的做法\n\n- 使用 OPEDAS，卻未在所產出的出版品中適當引用。\n- 使用沒有適當授權條款的資料，即使資料看起來完全開放。\n- 下載不必要的大量資料或資料片段，並在本機託管。\n- 在原始儲存庫可持續運作的前提下，仍將資料在本機保存超過必要的時間。\n- 變更所下載資料或其後設資料的任何內容，卻未妥善記錄及加上註解。\n- 未諮詢 [資料專家]，就開始實際實驗。\n\n---\n\n[**開放科學的資料託管：第 1.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/33775fa2-1e8f-4070-baf7-eaf70361a24a/title
+#, fuzzy
 msgid "How and where will you be Archiving/Cataloging?"
 msgstr "您將在哪裡、以何種方式進行典藏與編目？"
 
 #: resourcePage/33775fa2-1e8f-4070-baf7-eaf70361a24a/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9037,10 +9043,12 @@ msgid ""
 msgstr "## 背景說明\n\n顯然，對於直接提供再次使用的資料集，只有其「使用中」版本才需要存放在某種 HPR 環境中，也可能因不同用途而複製至多個這類環境。資料集的備份則可能採用完全不同的格式與取用方式，例如存放於磁帶上。\n\n不過，您仍需確保，萬一資料的「HPR 版本」遺失或毀損，能在短時間內重新產生 HPR 版本，而且不會出錯。機構目錄必須清楚記載已典藏備份資料的位置與取用程序，不能只有身為資料託管員的您才看得懂。良好的資料託管員總會考慮到：當自己無法提供諮詢或協助時，其他人仍可能需要使用資料或服務，包括重新掛載已典藏的資料。\n\n## 建議做法\n\n- 對於您提供他人直接再次使用的資料，請以盡可能穩定、可持續維護且成本低廉的方式與格式，典藏其備份。\n- 在使用中資料版本的後設資料檔案中，納入已典藏備份資料的後設資料與溯源資訊。\n- 提供清楚的操作說明，讓機構中的任何人都能找到並處理已典藏的資料，將其還原成原先的格式，再重新掛載至原始資料可能遺失或毀損的環境。\n- 定期檢查 HPR 中已掛載資料的完整性，僅在必要時重新產生資料，並完整記錄重新產生及掛載資料的時間、原因、方式與溯源資訊。\n\n## 應避免的做法\n\n- 假定只要自己知道典藏資料的位置就足夠。\n- 把「備份」當成單純複製整個 HPR 環境；後者所需的工作量與成本可能高出一個數量級。\n- 將「所有東西」都典藏。應仔細考慮哪些內容必須典藏，因為當資料量達到 PB 等級時，即使只是典藏也十分昂貴。\n\n---\n\n[**開放科學的資料託管：第 7.4.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ac0be15c-c015-45d5-81fa-41512ede0788/title
+#, fuzzy
 msgid "Is there pre-existing data?"
 msgstr "是否有任何既有資料？"
 
 #: resourcePage/ac0be15c-c015-45d5-81fa-41512ede0788/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9070,10 +9078,12 @@ msgid ""
 msgstr "## 背景說明\n\n數十年甚至數百年來，幾乎每項實驗都從蒐集或產生「觀察結果」開始，而這些觀察結果其實就是資料。在社會科學與人文學科中，「再次使用」先前各類調查所產生的資料，以及愈來愈多來自社群媒體等來源的資料，可能已是較成熟的做法。然而，在許多實驗性自然科學領域，為回答假說相關問題而專門產生新資料，仍然十分普遍，以致仔細思考是否真的需要新資料，可能根本未被納入考量。顯然，資料仍需要持續產生，但我們愈來愈必須問：要回答研究問題，這些新資料是否絕對必要？隨著愈來愈多資料以可再次使用的格式提供，很可能已有「他人的資料與服務」（OPEDAS）等資料集合，不需額外投入，或只需一些額外工作，就能回答至少部分問題，或至少對詮釋自己的資料至關重要。\n\n## 建議做法\n\n- 尋找可能可再次使用的資料集（OPEDAS），以減少需要新產生，且日後必須託管的資料集數量。\n- 搜尋時，也納入有註解的資料集合與經過策展的資料庫。\n- 查核找到的相關資料集，其取用條件與授權條款。\n- 查核其可相互操作性。資料可能相關，卻無法與您的分析管線相互操作。這時，您可能需要對資料進行擷取、轉換與載入（ETL），或判定資料雖然相關，卻無法再次使用於您的目的。\n- 確保使用 OPEDAS 不會限制日後對研究結果的任何使用，包括著作權，以及智慧財產權（IPR）相關的自由實施（freedom to operate）問題。\n- 查核如何引用 OPEDAS 及向其致謝。\n- 考量主動邀請 OPEDAS 擁有者參與研究，以充分利用其資料。\n- 與曾做過類似實驗的同事討論，了解有哪些可能值得使用的 OPEDAS。\n\n## 應避免的做法\n\n- 未盡可能透過各種途徑徹底查核，就假定沒有 OPEDAS。\n- 未與同事充分確認最佳做法及現有 OPEDAS，就開始實驗。\n- 在研究中編列資料產生經費，卻未向資助者說明為何有必要產生這些資料。\n- 未諮詢資料專家，就開始實際實驗。\n\n---\n\n[**開放科學的資料託管：第 1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/38a2a09e-2db1-4a6a-a657-e65e93d598af/title
+#, fuzzy
 msgid "Where is it available?"
 msgstr "可以從哪裡取得資料？"
 
 #: resourcePage/38a2a09e-2db1-4a6a-a657-e65e93d598af/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9099,10 +9109,12 @@ msgid ""
 msgstr "## 背景說明\n\n資料集，包括參考資料，可能以副本形式存放於不同位置，並適用不同的服務層級協議。成熟的「核心」資源通常訂有政策與永續維護方案，以確保資料能長期提供，並有妥善的版本控制。較小的資料集與資料庫，則可能未確保這些關鍵條件，因而帶來很大的風險。尤其當您決定使用自身專業領域以外的資料資源時，這個問題很容易被忽略。選用最容易有效取用、且能持續維護的資源，是明智的做法。使用未獲認可之儲存庫中的資料，確實會增加風險。如果您將這些資料用於實驗，後來卻因儲存庫下線或關閉取用等原因而無法再取得，後續實驗、可重現性及審查，都可能遇到問題。\n\n## 建議做法\n\n- 只有在盡可能確保資料能以相同條件「原則上無限期」持續提供時，才直接在線上使用資料。\n- 如果決定使用未獲認可來源的資料，請下載並在本地保留完整資料檔案，妥善記錄其溯源資訊。\n- 查核在線上使用資料與在本地使用資料，各自涉及的效能問題。\n- 檢查打算用於後續資料分析之工作流程的每個步驟，確認其支援資料的格式與提供方式。\n- 依預定的分析程序，確保具備或能取得開發臨時及客製工作流程的能力，以處理既有工作流程無法勝任的情況。\n\n## 應避免的做法\n\n- 假定在線上使用的所有 OPEDAS 資源，下次需要時都仍然存在，且格式不變。\n- 同一份資料已有 DSA 版本可用，卻使用來自非 DSA 資源的 OPEDAS。\n- 使用沒有服務層級協議（SLA）或永續維護方案的服務；這將危及研究的可重現性。\n\n---\n\n[**開放科學的資料託管：第 1.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/946a36eb-793e-4b22-af08-e21e77085d8f/title
+#, fuzzy
 msgid "What Compute is needed?"
 msgstr "需要哪些運算資源？"
 
 #: resourcePage/946a36eb-793e-4b22-af08-e21e77085d8f/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9126,10 +9138,12 @@ msgid ""
 msgstr "## 背景說明\n\n最常見的錯誤之一，是假定本地或外部的服務提供者與雲端方案，自然就會有足夠的運算資源可用。首先，強大高通量技術的使用日益普遍，可能產生規模與複雜度超出現有本地系統處理能力的資料集，而且您可能必須事先預約資源。儲存是必須確認的一件事，但處理與分析資料所需的運算資源，又是另一回事。有些資料可能因為太過龐大或涉及隱私的敏感性，而無法傳送到機構的防火牆外。在這種情況下，運算必須移到機構內的資料所在地，本地也必須有足夠資源來執行所有必要程序。在許多情況下，進入分析階段後，還需要使用或下載其他地方的工作流程與資料。因此，機構內的運算能力與專業知識必須能滿足所有這些需求，而且在開始昂貴又複雜的實驗之前，就應明確列出並確認這些需求。\n\n## 建議做法\n\n- 如果您無法自行掌控硬體，請確實了解哪個資訊通訊（ICT）部門將負責處理您的資料。\n- 與該部門仔細規劃資料交付的方式與時間，以及預期需要執行哪些程序。\n- 尊重並與部門中的運算專家合作，討論需求，尤其是資料帶來的運算負擔及長期儲存影響。\n\n## 應避免的做法\n\n- 低估專業資料處理，以及所需運算與儲存基礎設施、技能和成本的複雜性。如果事後才發現低估了這些需求，您會遇到麻煩，讓專業同事感到困擾，甚至可能遺失資料。\n- 將資訊通訊部門視為機構中雖然必要、卻不太有趣又難以合作的單位，僅把同事當作資料處理人員，而未盡可能邀請他們參與研究。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.15.3.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b06033d8-21d6-4b4b-b353-9a6073763d09/title
+#, fuzzy
 msgid "Will you create images?"
 msgstr "您是否會產生影像？"
 
 #: resourcePage/b06033d8-21d6-4b4b-b353-9a6073763d09/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9154,10 +9168,12 @@ msgid ""
 msgstr "## 背景說明\n\n影像帶來特有的挑戰。現代儀器產生的影像解析度高，且經常連續擷取，不僅需要大量儲存空間，也包含豐富的「內在資訊」，讓人類，有時也包括機器，能從中進行詮釋，甚至可能超出您目前的想像。在有脈絡的情況下，影像更容易被理解。因此，若需要將影像（例如醫療影像）匿名化或擬匿名化，請確保影像的產生或處理方式，不會讓日後無法執行這些程序。這裡最重要的，是將註解及後設資料與實際影像分開。\n\n## 建議做法\n\n- 與同事討論，是否需要向內部或外部研究人員提供未嵌入註解與後設資料的影像。\n- 即使影像沒有隱私問題，也應考量這一點；可能有科學上的理由，例如機器學習，需要保留在不嵌入註解與後設資料的情況下，使用及共享影像的能力。\n- 為影像附上豐富且符合 F.A.I.R. 原則的註解與後設資料，包括內在與使用者自訂後設資料（請見 [xxx] 及相關資源）。\n\n## 應避免的做法\n\n- 將註解或後設資料嵌入影像本身。這看似合理，因為它們便與影像「不可分離」；但實際上，這可能嚴重限制影像被再次使用於原定用途以外的目的。\n- 儲存影像時，未與相關後設資料及註解保持緊密連結；不過，也應確保需要時，隨時能將兩者分開。\n- 處理影像的後設資料與註解時，未達到一般資料集所要求的謹慎程度。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.15.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9992669b-26d3-4a20-9cb8-7a1f1c93699b/title
+#, fuzzy
 msgid "Are there potential issues regarding data ownership and access control?"
 msgstr "資料所有權與取用管控是否有潛在問題？"
 
 #: resourcePage/9992669b-26d3-4a20-9cb8-7a1f1c93699b/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9180,10 +9196,12 @@ msgid ""
 msgstr "## 背景說明\n\n資料在法律上的所有權，通常屬於資料建立者或實驗資助者，與資料對他人「開放」及分享的程度，是兩件明確不同的事。即使資料完全開放，也仍有法律上的擁有者。由於對資料分享範圍的認知可能隨時間改變，最初應先將所有資料視為建立者的「非公開」資料。日後隨時都可以開放資料，但如果在資料建立、處理、發布或授權過程中做出錯誤選擇，之後就未必還能限制資料的取用。\n\n## 建議做法\n\n- 盡早考量資料所有權與預定用途，尤其也要考慮產生資料的計畫以外的用途。\n- 與機構內的相關專家或外部專家討論所有權與管控問題。\n- 資料準備好發布時，為其選擇授權條款，並考量再次使用的選項（另請參閱資料引用與標明出處 [numbers]）。\n\n## 應避免的做法\n\n- 先建立資料，之後才考慮所有權與取用問題；資料本身的特性可能限制後續可採取的選項。\n- 將資料視為「僅供這次實驗使用」，因而低估再次使用的相關問題。即使資料不會再用於後續整合分析，也仍須持續可供取用，包括提供給審查者或稽核人員等其他人，以便檢查可重現性。\n\n---\n\n[**開放科學的資料託管：第 1.16 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/cf4cc4d8-9480-4826-bb94-28798b6ae1f7/title
+#, fuzzy
 msgid "Who needs access?"
 msgstr "誰需要取用資料？"
 
 #: resourcePage/cf4cc4d8-9480-4826-bb94-28798b6ae1f7/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9207,10 +9225,12 @@ msgid ""
 msgstr "## 背景說明\n\n人們往往傾向將資料視為僅供產生它們的實驗使用。即使如此，團隊中通常仍有多人需要經常取用資料，而且不一定都來自您所屬的機構。除了資料涉及的法律、隱私及其他「社會性」問題，也應考慮在研究團隊或聯盟內分享資料時可能遇到的技術障礙。這些問題不只涉及資料本身。例如，如果使用專有工具進行資料前處理，或使用僅限學術用途免費、商業用途則受限制的工具，與研究聯盟中的民間商業合作夥伴分享時，就可能不被允許。此外，如果資料因規模或敏感性而無法搬移，請確保所有需要資料的合作夥伴都能在資料所在地取用。\n\n## 建議做法\n\n- 在程序的早期階段，就與所有聯盟合作夥伴討論預定產生的資料。\n- 確認用於處理、對映或格式化資料的工具與詞彙表等資源，其授權條款允許在整個聯盟內分享資料。\n- 考量資料的大小與複雜程度，並預先評估這些特性可能為資料分享帶來的障礙。\n\n## 應避免的做法\n\n- 假定所有開放原始碼工具與格式都允許各種形式的分享。\n- 假定聯盟所有合作夥伴對資料的需求都僅限於學術與競爭前研究。\n- 未經確認，就假定所有合作夥伴都有足夠的頻寬、本地儲存空間與運算能力來處理資料。\n\n---\n\n[**開放科學的資料託管：第 1.16.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9f02220a-97b9-4aa2-a055-e8e558eee0db/title
+#, fuzzy
 msgid "What data formats do the instruments yield?"
 msgstr "儀器會產出哪些資料格式？"
 
 #: resourcePage/9f02220a-97b9-4aa2-a055-e8e558eee0db/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9233,10 +9253,12 @@ msgid ""
 msgstr "## 背景說明\n\n實驗室中的大多數儀器，會以製造商指定的一種或多種格式輸出資料。在許多情況下，後續的資料前處理、轉換、策展及連結程序，會將這些資料轉換成其他格式。在實際擷取資料及開始後續程序之前，充分了解機器或儀器所規定的所有資料格式與標準，十分重要。\n\n## 建議做法\n\n- 確保您了解預定研究將使用的所有儀器，以及它們規定的格式與限制。\n- 將各儀器的標準輸出資料格式納入溯源記錄及後設資料。\n- 記錄與儀器有關的所有相關資訊。\n\n## 應避免的做法\n\n- 尚未充分了解研究將使用哪些儀器，以及它們施加的約束與限制，就開始測量。\n- 認為研究中的儀器工作完全是實驗研究人員的責任，而只是被動等待資料產出。\n\n---\n\n[**開放科學的資料託管：第 1.15.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/21ce478d-73d8-4124-971b-c4f9c7630502/title
+#, fuzzy
 msgid "What preprocessing is needed?"
 msgstr "需要哪些前處理？"
 
 #: resourcePage/21ce478d-73d8-4124-971b-c4f9c7630502/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9266,10 +9288,12 @@ msgid ""
 msgstr "## 背景說明\n\n如前所述，許多情況下，您會先以某種方式處理資料，為後續分析做準備。\n\n資料前處理有時已有標準做法，而且相當容易；但它本身也可能幾乎就是一項科學挑戰，尤其是當儀器與方法都相對新穎時。\n\n要在處理方式上做出正確選擇，需要深入了解科學目標、資料的脈絡、結構及背後的假設。這裡無法詳細討論可能需要考慮的數百種資料與處理方式組合，但可以確定的是：這需要由領域專家與資料專家共同深入研究。此外，精確記錄資料自最初產生後究竟經歷了哪些處理，也就是保留溯源資訊，包括日誌與歷程，絕對至關重要。\n\n## 建議做法\n\n- 採取行動之前，確保領域專家與資料專家已充分溝通，並了解上述議題。\n- 仔細考慮資料代表什麼，以及資料將如何用於您自己的後續實驗，並可能如何供他人日後使用。\n- 以符合 F.A.I.R. 原則的格式，精確記錄您對原始資料進行的所有處理。\n- 在處理後的資料檔案與任何可能保留的原始資料之間，建立永久連結。\n\n## 應避免的做法\n\n- 假定自己已知道如何處理資料，而且只有處理後的資料才重要。資料發布者及資助者將愈來愈常要求能夠「回到原始資料」。\n- 儲存原始資料時未提供符合 F.A.I.R. 原則的後設資料，並將其存放在比前處理後資料所在儲存庫更不可信賴的儲存庫中。請注意，兩者仍可能採用非常不同的儲存方式，例如原始資料可能需要存放於磁帶，而處理後的資料可能必須用於高效能及重新分析的環境，並可供外部工作流程系統方便取用。\n- 儲存毫無用處的原始資料；良好的資料託管也包括刪除已無法想見任何後續用途的資料。\n- 過於輕率地認定原始資料毫無用處，而未考慮長遠的未來、其他使用者及其他學科的需求。\n\n---\n\n[**開放科學的資料託管：第 1.15.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/602bf530-a5b0-43b7-9d5d-90164d3df626/title
+#, fuzzy
 msgid "Are there ready-to-use workflows?"
 msgstr "是否有可直接使用的工作流程？"
 
 #: resourcePage/602bf530-a5b0-43b7-9d5d-90164d3df626/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9295,10 +9319,12 @@ msgid ""
 msgstr "## 背景說明\n\n許多類型的資料已有成熟且經過充分測試的工作流程與管線，可將原始資料轉換為適合分析的格式。請確實了解手上這類資料有哪些可用選項。結果與結論的可重現性，與資料格式的標準化程度、資料品質，以及所使用工作流程的穩健性與版本密切相關。學術性工作流程，也就是學術原型軟體（professorware），其文件與版本管理不一定符合標準；日後若使用工作流程或其元件的「錯誤版本」，即使處理相同資料，也可能得到顯著不同的結果。有時無法避免使用「客製」分析工作流程，但若必須使用「實驗性」工作流程，請格外仔細地記錄所使用的確切版本。\n\n## 建議做法\n\n- 查閱工具與工作流程登錄冊，盡可能使用成熟且可重現的工作流程。\n- 如果沒有這類工作流程，必須使用原型工作流程或自行開發客製工作流程，請務必詳盡記錄程式碼及所使用工具的版本，例如對映時使用的詞彙表版本。\n- 妥善典藏程式碼、版本及所使用的元件，並盡可能完整地記錄相關資訊。\n- 為工作流程加入符合 FAIR 原則的後設資料，讓您與其他人都能找到、取用、操作及再次使用工作流程，並盡可能確保可重現性。\n\n## 應避免的做法\n\n- 在並非完全無可避免的情況下，使用自行開發的工作流程。\n- 假定只有自己會處理資料，而且只會處理一次，就在缺乏詳盡文件的情況下執行這些工作流程。\n- 將工作流程的程式碼與元件存放在本地系統，卻未妥善備份或提供後設資料。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始開發。\n\n---\n\n[**開放科學的資料託管：第 1.15.3.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/dda1d85f-df15-4c4c-b09e-8691e10cd9e0/title
+#, fuzzy
 msgid "What level of data protection is needed?"
 msgstr "需要何種程度的資料保護？"
 
 #: resourcePage/dda1d85f-df15-4c4c-b09e-8691e10cd9e0/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9323,10 +9349,12 @@ msgid ""
 msgstr "## 背景說明\n\n每當產生資料時，都需要考慮隱私與安全問題，這不只適用於個人資料。許多機構會有將資料保留於內部、限制取用的政策。即使是公共經費資助的研究，通常預設最終應開放資料，或更確切地說，使資料符合 FAIR 原則，也可能有正當理由限制取用。\n\n在許多情況下，資料處理、品質管控、策展與詮釋都是耗時的程序。至少在這些程序進行期間，讓資料擁有者以外的人取用資料，可能反而適得其反，因為資料根本尚未準備好供他人再次使用。因此，即使預計在整個處理流程結束後完全公開資料，也可能必須先限制取用，直到實驗評估完成，且資料已準備好發布。\n\n## 建議做法\n\n- 與所有研究人員確認，是否需要暫時性或制度性的資料保護。\n- 估計資料需要受保護的期間，並確認是否有可用的基礎設施、經費及程序來落實保護。\n- 估計實驗結束、結果發表後，長期保護資料所需的成本。\n\n## 應避免的做法\n\n- 假定資料可以隨意放在機構內的「任何一台筆記型電腦」上；即使沒有隱私或敏感性問題，仍可能違反內部程序。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.16.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/df07b4af-0268-402f-9cfc-a21534dd4db0/title
+#, fuzzy
 msgid "Is the collected data privacy sensitive?"
 msgstr "所蒐集的資料是否屬於涉及隱私的敏感資料？"
 
 #: resourcePage/df07b4af-0268-402f-9cfc-a21534dd4db0/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9349,10 +9377,12 @@ msgid ""
 msgstr "## 背景說明\n\n如果資料，例如病人資料，需要有制度性的保護，就應深入評估所需的安全程度，以及資料匿名化、擬匿名化及／或加密的需求。也必須確認從病人取得的同意，允許您預計使用資料進行的所有研究。隨著有價值的資料集與研究群體（cohort）愈來愈常被再次使用，超出原始同意範圍的再次使用也日益頻繁，成為愈來愈大的挑戰。未重新取得同意，就進行這些後續實驗，可能違法；因此，您需要在倫理委員會允許且個別病人可接受的範圍內，取得涵蓋用途盡可能廣泛的同意。其中一個選項，是讓受試者完全掌控自己的個人資料，使他們能針對未來每一項預計使用其資料的研究，分別給予知情同意。這種做法需要特殊技術支援，請參閱 PHT。在這些情況下，應格外留意是否能透過再次使用 OPEDAS 取得相同結果，避免不必要地產生新的涉及隱私的敏感資料，為團隊帶來重大責任與財務負擔。\n\n## 建議做法\n\n- 與所有研究人員確認，是否需要暫時性或制度性的資料保護。\n- 估計資料需要受保護的期間，並確認是否有可用的基礎設施、經費及程序來落實保護。\n- 估計實驗結束、結果發表後，長期保護資料所需的成本。\n\n## 應避免的做法\n\n- 假定資料可以隨意放在機構內的「任何一台筆記型電腦」上；即使沒有隱私或敏感性問題，仍可能違反內部程序。\n- 註：這是一個典型例子，機構可在網站上自訂「本地專業知識與資源」按鈕。既有資源集合的託管員可在此主動記錄現有資源，盡量避免經驗不足的博士生，以及同樣缺乏經驗或工作負荷過重的計畫主持人（PI），在沒有必要的情況下從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.16.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/30f200f9-b79d-49d8-9599-f4ecd0ab918e/title
+#, fuzzy
 msgid "Will you need text mining?"
 msgstr "您是否需要文字探勘？"
 
 #: resourcePage/30f200f9-b79d-49d8-9599-f4ecd0ab918e/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9379,10 +9409,12 @@ msgid ""
 msgstr "## 背景說明\n\n文字探勘，也就是從非結構化文字擷取結構化資訊，本身就是一門專業。這裡提供一些文獻，供您需要時進一步閱讀。過去，主要文字資源尚未經過妥善探勘，個別研究人員必須自行從文字擷取概念及其關係。不過，如今許多文字語料已有專業聯盟運用先進方法，建立設計完善的概念、共現資訊與關係集合。即使是這些專業團隊，精確率（precision）與召回率（recall）也大約只能各達到 80%，但這很可能已是您能取得的最佳成果。當然，仍可能有內部或少為人知的文字及文字集合尚未經過探勘。如果這些資訊來源對研究至關重要，您可以考慮將文字探勘步驟納入自己的研究協定。不過，仍須留意，這是非常複雜的領域；您最後可能把時間花在消除歧義、機器學習、敘詞表及概念標記工具等工作，而非原本的研究。\n\n## 建議做法\n\n- 再次查核，確認您準備探勘的文字語料是否已由他人探勘，且結果已可取得（請見外部資源）。\n- 確定文字探勘確實無法省略。如果您希望找出的關聯，已因先前的文字探勘或人工策展而收錄於公共資料庫，嘗試做得更好，很可能只是浪費大部分時間。\n- 若確實需要文字探勘，可考慮委託專業團隊或公司處理；他們很可能比您自行開發的探勘演算法取得更好的成果。\n- 如果無法或不打算委外，請使用現成的文字探勘軟體。\n- 確保輸出中術語與概念的對映正確，且能與您打算結合的資料相容。\n- 若文字探勘是工作流程中不可省略的步驟，請在研究計畫中編列預算。\n\n## 應避免的做法\n\n- 低估文字探勘方法的複雜性。\n- 從任何文字中探勘概念或關係時，未考量其他資料類型同樣需要處理的資料託管問題。文字探勘成果的產製需要大量投入，因此可能是有價值的資料。\n- 未經團隊確認現有的眾多系統都不適用，就開發新的文字探勘演算法。\n\n---\n\n[**開放科學的資料託管：第 1.11.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/54c516de-193c-452f-bb8a-0e4ad57bfbeb/title
+#, fuzzy
 msgid "Do you need to integrate or link to a different type of data?"
 msgstr "您是否需要將資料與其他類型的資料整合或連結？"
 
 #: resourcePage/54c516de-193c-452f-bb8a-0e4ad57bfbeb/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9409,10 +9441,12 @@ msgid ""
 msgstr "## 背景說明\n\n您可能會在新研究的不同階段使用多個 OPEDAS 資料集。這些資料集會影響您如何安排實際實驗，尤其是如何擷取及整理自身資料的格式。如果所需的 OPEDAS 資料集大多採用特定格式、對映至特定的一組術語系統，並可由某些工作流程處理，您可能會因此選擇以特定格式及語意環境產生新資料，使其盡可能接近相關 OPEDAS 資料集的特徵。\n\n## 建議做法\n\n- 確認主要採用哪些資料格式，並列成清單。\n- 列出 OPEDAS 擁有者用於概念對映的術語系統。\n- 在團隊中討論，這些清單可能如何影響資料週期後續步驟的選擇，尤其是資料擷取、使用的術語系統與標準，以及格式整理。\n- 檢查所有資料集與預定用於資料分析的工作流程是否相容，並確定需要哪些工作，才能將特定 OPEDAS 資料集調和並轉換格式，使其適用於預定的分析流程。\n- 綜合上述資訊，詳細確定啟動 OPEDAS 資料集整合分析所需的準備工作；即使不產生新資料，仍可能需要投入大量工作。\n- 針對預定的資料分析需求，擬定詳細的資料格式轉換與擷取方案。\n- 在研究計畫中編列所需預算。\n\n## 應避免的做法\n\n- 假定您選擇的分析工作流程無須事先調和，就能處理並結合不同格式的資料。\n- 先擷取資料，之後才查閱第 2.1 至 2.11 節，才發現原本應採用不同格式、對映至不同術語系統，或以不同的細緻程度擷取資料。\n\n---\n\n[**開放科學的資料託管：第 1.11.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/807a510b-8ced-425a-b64c-501a94aeff2c/title
+#, fuzzy
 msgid "Where will information about samples be stored?"
 msgstr "樣本資訊會儲存在哪裡？"
 
 #: resourcePage/807a510b-8ced-425a-b64c-501a94aeff2c/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "Let's define two different kinds of data (in nature, not in format) about samples or other physical objects in a research collection that cannot themselves be made 'F.A.I.R.' in the sense of intrinsically findable, accessible, interoperable and reusable, including by machines. This holds true for 'tissue' or other physical samples, but also for instance for non-digital images like paintings, or a natural history collection of specimens, biological samples or you name it. These 'research objects' cannot be made F.A.I.R. themselves, but their 'descriptions' (annotations) starting with the legends on a video or a picture, growing to full annotations and 'metadata' on entire collections. Although one could argue that anything that is 'asserted' about a 'sample' is a form of metadata and is also considered an 'annotation', we will still make a distinction. We defined annotations in this context as a subset of 'user defined' metadata (see introduction) that give a functional description of the sample and its characteristics, what is was meant for, what it has been and can be used for etc. More classical 'metadata' are the 'intrinsic metadata about the sample itself (methods, timestamp, location etc.) and metadata about increasingly aggregated levels of the collection (up to the address of the building where the specimens are located).\n"
@@ -9431,10 +9465,12 @@ msgid ""
 msgstr "## 背景說明\n對於研究蒐藏中的樣本或其他實體物件，我們先區分兩種性質不同、而非格式不同的資料。這些物件本身無法直接做到 F.A.I.R.，也就是可被找到、可被取用、可相互操作及可再次使用，包括供機器使用。這不僅適用於組織或其他實體樣本，也適用於繪畫等非數位影像、自然史蒐藏中的標本、生物樣本等。這些研究物件本身無法符合 F.A.I.R. 原則，但描述它們的註解可以：從影片或圖片的圖說，到完整註解，以及整個蒐藏的後設資料，都是如此。雖然對樣本所做的任何陳述，都可以視為某種後設資料或註解，這裡仍加以區分。在此情境中，註解被定義為使用者自訂後設資料的一部分（請見導論），用來從功能角度描述樣本及其特徵、原定用途、過去及未來可用於什麼目的等。較典型的後設資料，則是樣本本身的內在後設資料，例如方法、時間戳記、位置等，以及蒐藏中各個逐層彙整層級的後設資料，最廣可涵蓋標本所在建築物的地址。\n\n## 建議做法\n\n- 對註解與內在後設資料，都採用一般參考資料適用的全部準則（請參閱第 1.12 節），並將您的蒐藏登錄於既有目錄之一（請見相關資源）。\n\n## 應避免的做法\n\n- 使用公帑建立生物樣本庫，卻未提供適當且符合 F.A.I.R. 原則的註解及後設資料。即使只供自己的研究使用，這也十分重要；而在法律允許的範圍內盡可能共享資料，本就是預設做法。缺乏符合 F.A.I.R. 原則的後設資料，會嚴重妨礙資料共享。\n\n---\n\n[**開放科學的資料託管：第 1.13.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/e02e64fc-2df5-4162-aae7-deafb1739932/title
+#, fuzzy
 msgid "Will your data and samples be added to an existing collection?"
 msgstr "您的資料與樣本是否會加入既有蒐藏？"
 
 #: resourcePage/e02e64fc-2df5-4162-aae7-deafb1739932/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9455,10 +9491,12 @@ msgid ""
 msgstr "## 背景說明\n\n您的研究可能需要建立全新的研究材料蒐藏或生物樣本庫；但在許多情況下，將樣本及相關註解與後設資料加入既有環境，可能更有效率，也更能持續維護。需要建立全新蒐藏的原因，可能是樣本與資料過於敏感，依法不能離開所屬機構，而機構尚未設置任何「生物樣本庫」。在這種情況下，首先必須仔細考量這個蒐藏能否持續維護。如果機構內其他人至今都未認為有必要建立可持續維護的研究蒐藏，您的研究結束後，資料與樣本又會如何處理？審查者將愈來愈常在審閱研究計畫書的資料託管部分時，提出這個問題。因此，如前所述，應先仔細了解所屬機構或研究聯盟既有的生物樣本庫建置工作。如果您認為有充分且經得起檢視的理由，應建立全新蒐藏，而非在既有基礎設施中加入子蒐藏，請盡可能採用此領域相關國內及國際聯盟，為專業生物樣本庫所建立的通用準則與基礎設施（請見相關資源）。\n\n## 建議做法\n\n- 認真尋找能充分利用所屬機構或聯盟既有研究樣本蒐藏基礎設施的機會，並記錄這個過程。\n- 確保既有或新建的蒐藏，符合保護樣本、確保品質與保存所需的所有準則；所有註解與內在後設資料，也應遵循一般參考資料適用的 F.A.I.R. 原則（請回顧第 1.12 節）。請將蒐藏登錄於既有目錄之一（請見相關資源）。\n\n## 應避免的做法\n\n- 使用公帑建立孤立、且可能無法持續維護的生物樣本庫，卻缺乏適當基礎設施，以及符合 F.A.I.R. 原則的註解與後設資料。即使只供自己的研究使用，這些條件也十分重要；而在法律允許的範圍內盡可能共享資料，本就是預設做法。缺乏符合 F.A.I.R. 原則的後設資料，會嚴重妨礙資料共享。\n\n---\n\n[**開放科學的資料託管：第 1.13.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ec35cc78-8924-487a-9ab7-04a31fa3188a/title
+#, fuzzy
 msgid "Will you be collecting experimental data?"
 msgstr "您是否會蒐集實驗資料？"
 
 #: resourcePage/ec35cc78-8924-487a-9ab7-04a31fa3188a/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9481,10 +9519,12 @@ msgid ""
 msgstr "## 背景說明\n\n請注意，回答某個研究問題需要「全新產生」的實驗資料，已不再是不言自明的事。文獻中愈來愈多例子 [references] 顯示，完全依據 OPEDAS 也能有新發現。產生新的實驗資料十分昂貴且耗時，因此，嚴格檢視是否有必要這麼做，是支援科學發現的良好資料託管不可或缺的一部分。對資料驅動的科學家而言，充分利用 OPEDAS 應是預設態度。不過，在許多情況下，您仍可能需要透過實驗、問卷或其他觀察，建立通常相對較小的資料集。此時，新資料必須能與詮釋它們所需的 OPEDAS「溝通」，並讓機器與工作流程能將兩者一起處理。因此，設計實驗或研究時，除了通常的統計與方法考量之外，資料如何擷取、格式化與發布，也是 D4D 的重要考量。資料託管員應從任何研究的設計階段起，就被視為不可或缺的專業同事。再次強調，資料託管並不只是服務日後將您的資料作為 OPEDAS 的其他人；當新資料能納入標準化的格式與工作流程時，分析及詮釋也會容易、有效且可重現得多。\n\n## 建議做法\n\n- 認真尋找能充分利用所屬機構或聯盟既有研究資料蒐集基礎設施的機會，並記錄這個過程。\n- 確保新的資料集合符合保護資料、確保品質與保存所需的所有準則。在可能的情況下，所有資料都應符合 F.A.I.R. 原則（例如請見第 1.13 節）；所有註解與內在後設資料，則務必遵循一般參考資料適用的 F.A.I.R. 原則（請回顧第 1.12 節）。請將資料集合登錄於既有資料目錄之一（請見相關資源）。\n\n## 應避免的做法\n\n- 假定自己的資料絕不會被當作 OPEDAS，甚至是參考資料使用，因此「個人化的資料託管」就可以接受；這裡以此比喻獨自任意處理資料的做法。\n- 使用公帑建立孤立、且可能無法持續維護的資料集，卻缺乏適當基礎設施，以及符合 F.A.I.R. 原則的註解與後設資料。即使只供自己的研究使用，這些條件也十分重要；而在法律允許的範圍內盡可能共享資料，本就是預設做法。缺乏符合 F.A.I.R. 原則的後設資料，會嚴重妨礙資料共享。\n- 未取得適當的統計與資料分析專業建議，就產生超過或少於研究合理需求的資料。應向機構內的專家諮詢；若機構內沒有相關專家，則向研究聯盟或其他地方尋求協助。\n\n---\n\n[**開放科學的資料託管：第 1.14 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1c0e3ab6-0dfa-4120-ad09-b0ca625ece79/title
+#, fuzzy
 msgid "Is your institutes' security sufficient for storage?"
 msgstr "您所屬機構的安全措施是否足以支援資料儲存？"
 
 #: resourcePage/1c0e3ab6-0dfa-4120-ad09-b0ca625ece79/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9508,10 +9548,12 @@ msgid ""
 msgstr "## 背景說明\n\n如果資料，例如病人資料，需要有系統性的保護，就必須具備特定的基礎設施與安全措施。如果所屬機構無法在內部或私有雲這類環境中提供或支援這些措施，您就應認真重新考慮：蒐集涉及隱私的敏感資料，是否是負責任的做法。儲存這類資料是一項「專業工作」，不是可以順便處理的事情。\n\n## 建議做法\n\n- 與資訊通訊（ICT）人員確認，在本機儲存涉及隱私的敏感資料所需的各項條件是否都已具備。\n- 如有任何疑慮，請倫理及法律專家參與討論。\n- 如果打算蒐集大型資料集，也應考慮資料規模所涉及的成本與作業安排。\n\n## 應避免的做法\n\n- 假定自行制定的內部程序就已足夠。\n- 假定機構目前的基礎設施足以處理大型資料集。擴充具備高度安全性、每週七天且每天二十四小時都能可靠運作的基礎設施，成本非常高，也會面臨許多需要專業知識的挑戰。\n- 注意：這是適合依機構需求客製化的典型位置，例如在網站上設置「在地專業知識與資源」按鈕。既有資料集合的託管員可在此主動維護現有資源的紀錄，盡可能避免不熟悉情況的博士生，以及同樣不熟悉情況或工作負荷過重的計畫主持人，不必要地從頭開始。\n\n---\n\n[**開放科學的資料託管：第 1.16.2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/865acba8-650a-456c-8da3-e07c110a6d7e/title
+#, fuzzy
 msgid "Are there suitable terminology systems?"
 msgstr "是否有合適的術語系統？"
 
 #: resourcePage/865acba8-650a-456c-8da3-e07c110a6d7e/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9550,6 +9592,7 @@ msgid "Will you be archiving data for long term preservation?"
 msgstr "您是否會將資料典藏以進行長期保存？"
 
 #: resourcePage/aa7262d9-a1cc-440e-b946-4f2dbd224d8e/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9576,10 +9619,12 @@ msgid ""
 msgstr "## 背景說明\n\n長期典藏與保存，和資料產生後立即用於實驗程序的「短期使用或再次使用」，有明確的區別。即使只是短期使用，資料也需要儲存並在不同地點備份，同時妥善考量安全性與取用問題。\n\n不過，一旦決定長期保留可再次使用的資料，這些問題的規模就會擴大。他人日後使用資料的條件，可能在法律或實務上，不同於資料原定用途的使用方式。因此，必須考量取用、是否持續可用，以及許多其他問題。在設計與規劃產生資料的實驗時，就預先考量長期保存及再次使用相關的問題，並將其預算納入資料託管方案，是良好實踐。\n\n## 建議做法\n\n- 將資料視為「可供長期再次使用，除非……」。人們很容易假定，資料即使量不多，也只對產生資料的個人或小團隊有用。然而，即使您正確判斷這些資料絕不會用於其他實驗，最基本的要求仍是讓他人可以取得，包括要求重新執行實驗或分析工作流程的審查者。\n- 務必持續提供資料集的持續識別碼。即使資料已被認為不再有用，因而下線甚至銷毀，仍須讓人能追查這個資料集曾經存在，且可能已被他人引用的事實。\n- 持續更新資料集的後設資料，確保資料隨時間的變化與去向，包括再次使用情況，都可追查。決定不再保存資料時，強烈建議建立「說明檔」，描述資料原本的內容，以及為何將其下線。\n\n## 應避免的做法\n\n- 假定長期保存是「以後再煩惱」的事，等到發現資料「原來還是有價值」，才要求資訊通訊同事提供*臨時*且緊急的解決方案，讓他們困擾。\n- 儲存任何資料集，無論大小，卻未為其取得已登錄的持續識別碼（PID），例如 DOI。\n- 等到資料進入保存階段才取得識別碼；應將這件事納入資料產生時的例行程序。\n- 讓資料隨時間改變，即使只是位置變動，卻未確保資料仍可被找到及可被取用。\n\n---\n\n[**開放科學的資料託管：第 2.5.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/e251aaa2-2ef8-4fe2-9c0e-45901aa29029/title
+#, fuzzy
 msgid "When is the data archived?"
 msgstr "資料何時典藏？"
 
 #: resourcePage/e251aaa2-2ef8-4fe2-9c0e-45901aa29029/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -9606,10 +9651,12 @@ msgid ""
 msgstr "## 背景說明\n\n「典藏」一詞通常用來指資料從原本產生它的研究計畫中「退休」的過程。然而，在資料驅動的科學時代，這些資料隨時都可能被「召回」。這裡仍將「典藏」用於資料在原研究計畫中的密集使用期結束後所進行的處理。僅為保存而進行的典藏，姑且稱為「寫入磁帶」，或許能維持資料完整且可還原，卻不一定能立即再次使用。\n\n只要符合 FAIR 原則的後設資料仍對外提供，且人類與機器都能「找到資料」，並了解其可取用程度，例如需要從磁帶還原、需要聯絡特定人員等，即使將資料重建成可立即相互操作與再次使用的格式需要相當大的投入，仍應將這些資料視為 FAIR 生態系統的一部分。應盡早決定資料何時典藏、如何典藏、採用何種格式與儲存媒體，以及如何保護資料，避免災害、非預期或不當使用及竊取。\n\n## 建議做法\n\n- 與團隊共同決定，為長期保存而典藏資料的最佳時點與方法。\n- 詳盡記錄將資料轉為適合長期典藏格式時採用的程序，並考量這些程序可能引入的錯誤與變更。\n- 記錄確切的典藏時間，以及接手負責的單位（儲存庫？）。\n- 為已典藏的資料版本編配新的 PID；若銷毀資料的「工作版本」，仍須保留工作版本的 PID，以供日後引用。\n\n## 應避免的做法\n\n- 將典藏與為同一研究週期內的再次使用或進一步處理而保留資料，混為一談。\n- 將典藏與讓資料維持「使用中狀態」混為一談。\n- 將「放在磁碟某處」的資料，視為已妥善典藏。\n\n---\n\n[**開放科學的資料託管：第 2.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/711e3dbd-51d8-4a43-b414-6f7a09f3277a/title
+#, fuzzy
 msgid "Are you using backups for restoring files that were accidentally deleted or changed?"
 msgstr "您是否使用備份來還原意外刪除或變更的檔案？"
 
 #: resourcePage/711e3dbd-51d8-4a43-b414-6f7a09f3277a/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
