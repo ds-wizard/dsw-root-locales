@@ -2798,12 +2798,10 @@ msgid "We will collect consent for our use of the data and for anonymisation; We
 msgstr "我們會為資料使用與匿名化取得同意；之後會將資料匿名化以供再次使用"
 
 #: answer/e7e4f219-5edd-468f-b042-b5f88a559c3a/label
-#, fuzzy
 msgid "We ask for consent for anonymisation; We will anonymise first and all further processing is on the anonymous data"
 msgstr "我們會為匿名化取得同意；我們會先將資料匿名化，後續所有處理都會針對匿名資料進行"
 
 #: question/61d21b4f-332b-4257-a345-bbf51b10d357/title
-#, fuzzy
 msgid "Explain how data subjects will be informed"
 msgstr "請說明您會如何向資料主體提供相關資訊。"
 
@@ -2858,27 +2856,22 @@ msgid "For projects involving data collection from subjects, it must be ensured 
 msgstr "凡涉及向受試者蒐集資料的計畫，皆需確保受試者得以完整行使其相關權利。"
 
 #: choice/e63d7501-86b4-40b7-9b2a-43e7c1745ae1/label
-#, fuzzy
 msgid "They can access the data during the project"
 msgstr "他們可以在計畫期間查閱其資料。"
 
 #: choice/216661ca-3b33-4541-bfb7-d7578466e137/label
-#, fuzzy
 msgid "They can access the data after the project's completion"
 msgstr "他們可以在計畫完成後查閱其資料。"
 
 #: choice/f7a1854f-511e-44c8-b1e5-422d26024433/label
-#, fuzzy
 msgid "They can ask for the data to be modified after the project's completion (which may include the deletion of the data)"
 msgstr "他們可以在計畫完成後要求修改資料（這可能包括刪除資料）。"
 
 #: choice/dd1b03f1-2b1c-41f5-9e15-4eb14d46afcf/label
-#, fuzzy
 msgid "They can ask for data access to be modified during the project"
 msgstr "他們可以在計畫期間要求調整資料取用權限。"
 
 #: choice/31b7d794-e805-4364-9be8-e33b132f1c0c/label
-#, fuzzy
 msgid "They can ask for data access to be modified after the project's completion"
 msgstr "他們可以在計畫完成後要求調整資料取用權限。"
 
@@ -2941,12 +2934,10 @@ msgid "Controller"
 msgstr "控管者"
 
 #: question/b9619bee-6d69-4111-b1e0-6c3ea50e01f8/title
-#, fuzzy
 msgid "Organisation"
 msgstr "組織"
 
 #: question/b9619bee-6d69-4111-b1e0-6c3ea50e01f8/text
-#, fuzzy
 msgid "You will be presented with suggestions from [ROR](https://ror.org/), but you also have the option to manually enter the organisation that is not listed there."
 msgstr "系統會顯示來自 [ROR](https://ror.org/) 的建議項目；若組織未列於其中，您也可以手動輸入。"
 
