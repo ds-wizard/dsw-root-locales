@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:13+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:14+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6923,7 +6923,6 @@ msgid "Why is it valuable?"
 msgstr "這項成果為什麼有再次使用價值？"
 
 #: question/e1b36d54-c7b1-40ba-be4f-c96798fc8187/text
-#, fuzzy
 msgid "Explain how the output may support reproducibility, interoperability, education, validation, standardisation, future research, or reuse by others."
 msgstr "請說明此成果可能如何提升可重現性與可相互操作性、支援教育、驗證、標準化及未來研究，或供其他人再次使用。"
 
@@ -6932,7 +6931,6 @@ msgid "By whom it might be reused?"
 msgstr "哪些對象可能會再次使用這項成果？"
 
 #: question/349c806a-6527-4d58-933a-dd53a31d831f/text
-#, fuzzy
 msgid "Identify potential reusers such as researchers in the same field, interdisciplinary researchers, clinicians, industry partners, educators, policy makers, or infrastructure providers."
 msgstr "請指出可能再次使用這項成果的對象，例如同領域研究人員、跨領域研究人員、臨床醫療人員、產業合作夥伴、教育工作者、政策制定者或基礎設施提供者。"
 
@@ -6941,12 +6939,10 @@ msgid "Is this output available?"
 msgstr "這項成果是否可以取得？"
 
 #: question/04b92f1a-2045-475f-b988-5d2d397fcbe3/text
-#, fuzzy
 msgid "Indicate whether the output is already publicly accessible, restricted, embargoed, or still under development."
 msgstr "請說明此成果目前是已可公開取用、限制取用、處於延後開放期限內，還是仍在開發中。"
 
 #: question/5cf47d97-d32f-4cb4-8fb3-49f3717f0980/text
-#, fuzzy
 msgid "Possible reasons include ongoing development, embargo periods, intellectual property restrictions, privacy or security concerns, contractual obligations, or lack of resources for publication."
 msgstr "可能的原因包括仍在開發中、尚在延後開放期限內、智慧財產權限制、隱私或安全疑慮、契約義務，或缺乏發布所需的資源。"
 
@@ -6955,7 +6951,6 @@ msgid "Where is this output available?"
 msgstr "這項成果可以在哪裡取得？"
 
 #: question/ee3c29ee-1b93-42c7-b369-69c5efdd75b7/text
-#, fuzzy
 msgid "Provide a repository name, catalogue, persistent identifier (PID/DOI), institutional webpage, or another stable access location where the output can be accessed."
 msgstr "請提供可取用此成果的資料儲存庫名稱、目錄、持續識別碼 (PID/DOI)、機構網頁，或其他穩定的取用位置。"
 
@@ -6964,12 +6959,10 @@ msgid "Findability"
 msgstr "可發現性"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/abbreviation
-#, fuzzy
 msgid "F"
 msgstr "F"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/description
-#, fuzzy
 msgid "The Findability metric describes how easily data can be located. The score associated with an answer will be higher if it makes it easier for humans or for computers to locate your data set, e.g. if it ends up in an index or has a unique resolvable identifier."
 msgstr "可發現性指標描述資料被找到的難易程度。如果某個答案所代表的做法能讓人類或電腦更容易找到您的資料集，該答案對應的得分就會較高，例如將資料集收錄於索引，或為其指定可解析的唯一識別碼。"
 
@@ -6978,12 +6971,10 @@ msgid "Accessibility"
 msgstr "可取用性"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/abbreviation
-#, fuzzy
 msgid "A"
 msgstr "A"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/description
-#, fuzzy
 msgid "The Accessibility metric describes how well the access to the database is described and how easy it is to implement. The score associated with an answer will be higher if it makes it easier for humans and computers to get to the data. This is determined by e.g. the protocol for accessing the data or for authenticating users, and also by the guaranteed longevity of the repository. Note that this is different from the Openness metric!"
 msgstr "可取用性指標描述資料庫取用方式的說明是否完善，以及實際取用的難易程度。如果某個答案所代表的做法能讓人類和電腦更容易取得資料，該答案對應的得分就會較高。影響因素包括資料取用或使用者身分驗證所採用的通訊協定，以及儲存庫能保證持續運作多久。請注意，這與開放性指標不同！"
 
@@ -6992,7 +6983,6 @@ msgid "Interoperability"
 msgstr "可相互操作性"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/abbreviation
-#, fuzzy
 msgid "I"
 msgstr "I"
 
