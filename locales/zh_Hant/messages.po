@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:50+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:50+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -5770,6 +5770,7 @@ msgid "Please summarise the restrictions. Note that it is a good idea to publish
 msgstr "請總結這些限制。請注意，公開發布資料最終的使用條件是個好主意，如此一來，有興趣的研究人員在正式提出申請之前，便能事先了解自己是否能獲准取用該資料。"
 
 #: question/375792f1-d7c3-4c8d-bf9e-f15ffa38e2fb/title
+#, fuzzy
 msgid "Link to the licence text"
 msgstr "授權條款內文的連結"
 
@@ -5882,6 +5883,7 @@ msgid "No, the data will be stored in a repository that is the prime source of d
 msgstr "否，資料會儲存在該領域供資料再次使用的主要資料儲存庫中"
 
 #: reference/b128903f-a545-4323-b127-f4a0ff998608/label
+#, fuzzy
 msgid "What is a data catalogue (Dataversity)"
 msgstr "Dataversity：什麼是資料目錄"
 
@@ -5910,6 +5912,7 @@ msgid "Some data types may be closely coupled to specific software packages. If 
 msgstr "某些資料類型可能與特定軟體套件密切綁定。若此資料集屬於這種情況，請列出所需軟體，並說明可從何處取得。"
 
 #: question/14f7a766-c28e-400e-8426-53f7b4e5b90b/title
+#, fuzzy
 msgid "Why isn’t specialised software required?"
 msgstr "為什麼不需要特定軟體？"
 
@@ -5966,6 +5969,7 @@ msgid "A qualified reference is a cross-reference that explains its intent. For 
 msgstr "「具明確關係說明的參照」是指能說明其意圖的交叉參照。舉例來說，「X 是 Y 的調節因子」比「X 與 Y 相關」或「X 另見 Y」更能清楚說明參照的意義。因此，目標是在（後設）資料資源之間盡可能建立有意義的連結，以豐富資料的脈絡知識。"
 
 #: question/7828d3a0-29bf-450e-aee9-473457a225fd/title
+#, fuzzy
 msgid "Which qualified references to other data sets will be included?"
 msgstr "會包含哪些指向其他資料集、且具明確關係說明的參照"
 
@@ -6382,6 +6386,7 @@ msgid "Specify an amount including the relevant"
 msgstr "請指定金額，並包含相關項目"
 
 #: question/92a10652-3675-48f2-8d50-180a29cec62e/title
+#, fuzzy
 msgid "Will you be making sure that blocks of data deposited in different repositories can be recognised as belonging to the same study?"
 msgstr "您是否會確保寄存於不同資料儲存庫的資料區塊，可被辨識為屬於同一項研究？"
 
