@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:54+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7083,38 +7083,47 @@ msgid "Science Europe DMP"
 msgstr "Science Europe 資料管理方案"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/description
+#, fuzzy
 msgid "Questions related to Science Europe DMP."
 msgstr "與 Science Europe 資料管理方案相關的問題。"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/name
+#, fuzzy
 msgid "maDMP"
 msgstr "maDMP"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/description
+#, fuzzy
 msgid "Questions related to the DMP Common Standard (RDA) for machine-actionable DMPs."
 msgstr "與 RDA 的資料管理方案通用標準相關的問題，該標準適用於機器可操作的資料管理方案。"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/name
+#, fuzzy
 msgid "Horizon 2020 DMP"
 msgstr "Horizon 2020 資料管理方案"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/description
+#, fuzzy
 msgid "Questions related to Horizon 2020 DMP."
 msgstr "與 Horizon 2020 資料管理方案相關的問題。"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/name
+#, fuzzy
 msgid "Horizon Europe DMP"
 msgstr "Horizon Europe 資料管理方案"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/description
+#, fuzzy
 msgid "Questions related to the Horizon Europe DMP"
 msgstr "與 Horizon Europe 資料管理方案相關的問題。"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/name
+#, fuzzy
 msgid "ELSI"
 msgstr "ELSI"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/description
+#, fuzzy
 msgid "Ethical, legal, and social implications / aspects"
 msgstr "倫理、法律與社會的影響／面向"
 
@@ -7123,10 +7132,12 @@ msgid "Data Stewardship for Open Science"
 msgstr "開放科學的資料託管"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/title
+#, fuzzy
 msgid "Submit to an existing database?"
 msgstr "是否要提交至既有資料庫？"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7152,10 +7163,12 @@ msgid ""
 msgstr "## 背景說明\n\n在某些情況下，將您的資料加入既有集合，例如國際典藏庫，可能是明智的做法。愈來愈多資助機構與出版者也會提出這項要求。這個過程本身通常相當直接，因為這類公共典藏庫通常由專責機構或聯盟維護，並訂有規則、規範及格式要求，許多也提供清楚的資料上傳與取回說明。請注意，其中有些環境是「靜置」、無法相互操作的典藏庫，或僅供人類再次使用；有些則可能屬於 HPR 環境。對資料產生者而言，兩者可能帶來截然不同的挑戰；也請參考前面針對持續增加或變動的資料集與資源，所討論的更新及版本控制問題。\n\n進一步要考量的是，您是否將自己的資料視為可供策展的「參考」資料，並納入 UniProt 等核心資料資源。在這種情況下，程序可能相當不同，通常應主動與核心資料資源的託管員互動。目前，許多這類資源仍須透過*人工目視擷取*（閱讀），或文字與資料探勘，費力取得要納入策展及加值資源的資料；這兩種方法都很繁瑣，也容易出錯。以適當且無歧義的格式，將您的資料*直接加入*這些核心資源，是良好資料託管實踐的一部分。\n\n## 建議做法\n\n- 務必考量資料的「潛在參考價值」，例如自己的新發現能否豐富 Chembl、UniProt 或 Earthcube 等參考資料來源。\n- 將全部或部分資料提交至合適的「典藏庫」；在適當時，也將選定的資料提供給核心參考資料庫。\n- 使用這些資料資源要求的正確格式與標準，必要時與其聯絡。\n- （請參閱網站中按類別列出的資源、資料庫等？）\n\n## 應避免的做法\n\n- 僅將資料作為文章的「補充檔案」發布，就假定典藏庫、HPR 環境與核心參考資料庫的託管員會自行找到並使用。\n- 上傳資料至這些資源時，未附上適當的後設資料與溯源資訊。\n\n---\n\n[**開放科學的資料託管：第 7.4.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/title
+#, fuzzy
 msgid "How will you document your interpretation steps?"
 msgstr "您將如何記錄詮釋步驟？"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
