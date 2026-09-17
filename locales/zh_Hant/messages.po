@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:17+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:18+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -4978,27 +4978,22 @@ msgid "Yes, all personal information will be processed in pseudonymised form onl
 msgstr "是，所有個人資料都只會以擬匿名化形式處理"
 
 #: question/59748a7b-f729-404d-babe-3147e2c6b247/title
-#, fuzzy
 msgid "How is pseudonymisation handled?"
 msgstr "資料的擬匿名化處理方式為何？"
 
 #: answer/72c0a64f-a3ec-4d9e-bf37-ee0b25c2a084/label
-#, fuzzy
 msgid "We pseudonymise inside the project, only limited people can access the keys"
 msgstr "我們會在計畫內進行擬匿名化，且只有少數人可以取用金鑰"
 
 #: answer/1653a04e-20e2-4929-9fd5-8c35402ac359/label
-#, fuzzy
 msgid "Pseudonymisation is handled by an independent party in order to allow data coupling"
 msgstr "由獨立第三方處理擬匿名化，以便進行資料串接"
 
 #: question/5d51a103-ec07-4c20-b269-f2f59f26d2cd/title
-#, fuzzy
 msgid "Who is the independent party that keeps the pseudonymisation keys?"
 msgstr "負責保存擬匿名化金鑰的獨立第三方是誰？"
 
 #: answer/c5bdfb9d-33a7-4d0b-82cf-cde1911ad5bc/label
-#, fuzzy
 msgid "We have another way of pseudonymisation"
 msgstr "我們有其他擬匿名化方式"
 
@@ -5024,7 +5019,6 @@ msgid "Note that it is very hard to make data anonymous, and GDPR requires that 
 msgstr "請注意，要將資料真正匿名化非常困難；GDPR 也要求您定期確認資料仍維持匿名狀態。"
 
 #: answer/44348fa8-fd12-49ea-ad7f-48ff88215829/label
-#, fuzzy
 msgid "Yes, all data will be anonymised as early as possible"
 msgstr "是，所有資料都會盡早匿名化"
 
@@ -5169,7 +5163,6 @@ msgid "Does each row have an identifier?"
 msgstr "每一列資料是否都有識別碼？"
 
 #: question/f90914d8-2731-4cd1-bbf8-2710a5e08c43/title
-#, fuzzy
 msgid "Is there a distinguishing way a missing value in the table can be recognised?"
 msgstr "是否有明確方式可辨識表格中的遺漏值？"
 
@@ -5348,7 +5341,6 @@ msgid "FAIRCookbook on selecting an ontology lookup service"
 msgstr "FAIRCookbook 的知識本體 (ontology) 查詢服務選擇指南"
 
 #: question/d0306914-c253-472c-869f-19a60578c087/title
-#, fuzzy
 msgid "Will there be potential issues with statistical normalisation?"
 msgstr "是否可能出現統計正規化方面的問題？"
 
@@ -5377,7 +5369,6 @@ msgid "Some parameters you select on may have been collected only for a subset o
 msgstr "您用來作為篩選條件的某些參數，可能只在受試者或資料點的某個子集中被蒐集到。明顯的例子是：如果您以中等教育類型作為配對條件，結果就會偏向 18 歲以上的人，因為年紀較小者並沒有這個欄位。在許多情況下，這種選擇偏差可能沒有那麼明顯；已有一些專門的方法，可用來驗證資料整合步驟是否降低了樣本的多樣性。"
 
 #: question/6b3d62a5-1d4d-49e1-aaf1-0a8b398a7ac3/title
-#, fuzzy
 msgid "Could the coupling of data create a danger of re-identification of pseudo- or anonymised personal data?"
 msgstr "資料關聯（Data Coupling）是否會導致假名化或匿名化的個人資料產生被重新識別的危害？"
 
@@ -5503,7 +5494,6 @@ msgid "What type of identifier?"
 msgstr "哪一種類型的識別碼？"
 
 #: question/5c22cf59-89e3-43a1-af10-1af43a97bcb2/text
-#, fuzzy
 msgid ""
 "Which type of identifier is this?   \n"
 "Provide the type of identifier. You will be presented with suggestions from [FAIRsharing](https://fairsharing.org/), but you also have the option to manually enter the identifier type that is not listed there."
