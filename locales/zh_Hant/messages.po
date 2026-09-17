@@ -2465,6 +2465,7 @@ msgid "Are you running repeat samples or are you repeating measurements in order
 msgstr "您是否會重複蒐集樣本或進行重複測量，以監測結果的一致性？"
 
 #: question/ecdc6c3f-249a-4d82-822c-649754201981/title
+#, fuzzy
 msgid "Are you running standardised data capture or recording?"
 msgstr "您是否正在執行標準化的資料獲取或記錄？"
 
@@ -2589,6 +2590,7 @@ msgid "Who will do the data entry?"
 msgstr "誰會負責資料輸入？"
 
 #: answer/9d51aae1-ca1b-4267-b0df-d43dc85f5bc6/label
+#, fuzzy
 msgid "A specialised team"
 msgstr "專業團隊"
 
@@ -2791,14 +2793,17 @@ msgid "We collect consent for our use as well as for reuse of the data"
 msgstr "我們會為資料使用與再次使用取得同意"
 
 #: answer/3a77595a-87ae-484d-a9a6-052f312453ee/label
+#, fuzzy
 msgid "We will collect consent for our use of the data and for anonymisation; We will anonymise the data afterwards for reuse"
 msgstr "我們會為資料使用與匿名化取得同意；之後會將資料匿名化以供再次使用"
 
 #: answer/e7e4f219-5edd-468f-b042-b5f88a559c3a/label
+#, fuzzy
 msgid "We ask for consent for anonymisation; We will anonymise first and all further processing is on the anonymous data"
 msgstr "我們會為匿名化取得同意；我們會先將資料匿名化，後續所有處理都會針對匿名資料進行"
 
 #: question/61d21b4f-332b-4257-a345-bbf51b10d357/title
+#, fuzzy
 msgid "Explain how data subjects will be informed"
 msgstr "請說明您會如何向資料主體提供相關資訊。"
 
@@ -2853,6 +2858,7 @@ msgid "For projects involving data collection from subjects, it must be ensured 
 msgstr "凡涉及向受試者蒐集資料的計畫，皆需確保受試者得以完整行使其相關權利。"
 
 #: choice/e63d7501-86b4-40b7-9b2a-43e7c1745ae1/label
+#, fuzzy
 msgid "They can access the data during the project"
 msgstr "他們可以在計畫期間查閱其資料。"
 
