@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:56+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7192,10 +7192,12 @@ msgid ""
 msgstr "## 背景說明\n\n這裡可以簡要說明。前幾個階段，也就是資料擷取與處理階段，所有與文件記錄及溯源資訊相關的議題，同樣適用於資料託管週期的這個階段。唯一可能不同的是，這個階段無可避免地會有人為介入，因此也會引入錯誤與偏差。良好的資料託管員應仔細追蹤並觀察詮釋過程；如果不同的人對實際資料的詮釋差異可能導致異常結果，就應提醒團隊，尤其是當詮釋步驟涉及資料策展、選取資料子集或閱讀非結構化文字時。再次強調，盡可能記錄過程中發生的事情，是良好資料託管的關鍵。\n\n## 建議做法\n\n- 在資料分析與詮釋過程中，扮演「方法把關者」的角色，並記錄「所有事情」。\n- 確保所有參與詮釋的人員，都充分了解評估結果與資料時，哪些「關鍵點」可能出現人為偏差與錯誤；這些問題無法在資料或機器工作流程層級加以控制。\n- 鼓勵每個人仔細記錄這些關鍵點究竟發生了什麼，尤其是資料經過「策展」或「轉換成其他格式」時。\n\n## 應避免的做法\n\n- 假定人類的行為也能像理想情況下的機器與工作流程一樣，具有「嚴格的可重現性」。\n- 在沒有人明顯誤解資料或其性質的情況下，介入詮釋過程本身。\n- 完全退出詮釋過程，導致無法回頭追查造成錯誤詮釋及結論無法重現的重大錯誤。\n\n---\n\n[**開放科學的資料託管：第 6.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/title
+#, fuzzy
 msgid "How are you going to interpret your data?"
 msgstr "您將如何詮釋資料？"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
