@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 23:45+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 23:46+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6941,10 +6941,12 @@ msgid "Is this output available?"
 msgstr "這項成果是否可以取得？"
 
 #: question/04b92f1a-2045-475f-b988-5d2d397fcbe3/text
+#, fuzzy
 msgid "Indicate whether the output is already publicly accessible, restricted, embargoed, or still under development."
 msgstr "請說明此成果目前是已可公開取用、限制取用、處於延後開放期限內，還是仍在開發中。"
 
 #: question/5cf47d97-d32f-4cb4-8fb3-49f3717f0980/text
+#, fuzzy
 msgid "Possible reasons include ongoing development, embargo periods, intellectual property restrictions, privacy or security concerns, contractual obligations, or lack of resources for publication."
 msgstr "可能的原因包括仍在開發中、尚在延後開放期限內、智慧財產權限制、隱私或安全疑慮、契約義務，或缺乏發布所需的資源。"
 
@@ -6953,6 +6955,7 @@ msgid "Where is this output available?"
 msgstr "這項成果可以在哪裡取得？"
 
 #: question/ee3c29ee-1b93-42c7-b369-69c5efdd75b7/text
+#, fuzzy
 msgid "Provide a repository name, catalogue, persistent identifier (PID/DOI), institutional webpage, or another stable access location where the output can be accessed."
 msgstr "請提供可取用此成果的資料儲存庫名稱、目錄、持續識別碼 (PID/DOI)、機構網頁，或其他穩定的取用位置。"
 
@@ -6961,10 +6964,12 @@ msgid "Findability"
 msgstr "可發現性"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/abbreviation
+#, fuzzy
 msgid "F"
 msgstr "F"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/description
+#, fuzzy
 msgid "The Findability metric describes how easily data can be located. The score associated with an answer will be higher if it makes it easier for humans or for computers to locate your data set, e.g. if it ends up in an index or has a unique resolvable identifier."
 msgstr "可發現性指標描述資料被找到的難易程度。如果某個答案所代表的做法能讓人類或電腦更容易找到您的資料集，該答案對應的得分就會較高，例如將資料集收錄於索引，或為其指定可解析的唯一識別碼。"
 
@@ -6973,10 +6978,12 @@ msgid "Accessibility"
 msgstr "可取用性"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/abbreviation
+#, fuzzy
 msgid "A"
 msgstr "A"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/description
+#, fuzzy
 msgid "The Accessibility metric describes how well the access to the database is described and how easy it is to implement. The score associated with an answer will be higher if it makes it easier for humans and computers to get to the data. This is determined by e.g. the protocol for accessing the data or for authenticating users, and also by the guaranteed longevity of the repository. Note that this is different from the Openness metric!"
 msgstr "可取用性指標描述資料庫取用方式的說明是否完善，以及實際取用的難易程度。如果某個答案所代表的做法能讓人類和電腦更容易取得資料，該答案對應的得分就會較高。影響因素包括資料取用或使用者身分驗證所採用的通訊協定，以及儲存庫能保證持續運作多久。請注意，這與開放性指標不同！"
 
@@ -6985,6 +6992,7 @@ msgid "Interoperability"
 msgstr "可相互操作性"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/abbreviation
+#, fuzzy
 msgid "I"
 msgstr "I"
 
@@ -6998,6 +7006,7 @@ msgid "Reusability"
 msgstr "可再次使用性"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/abbreviation
+#, fuzzy
 msgid "R"
 msgstr "R"
 
@@ -7010,10 +7019,12 @@ msgid "Good DMP Practice"
 msgstr "良好的資料管理方案實踐"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/abbreviation
+#, fuzzy
 msgid "G"
 msgstr "G"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/description
+#, fuzzy
 msgid "The Good DMP Practice metric describes how appreciated a process is among Data Stewards. A score associated with an answer will be high if a practice would be considered preferable over alternatives, generally a good idea."
 msgstr "良好的資料管理方案實踐指標描述某項流程受到資料託管員認同的程度。如果某項實踐相較於其他做法更值得採用，且普遍被認為是良好的選擇，相關答案的得分就會較高。"
 
@@ -7022,10 +7033,12 @@ msgid "Openness"
 msgstr "開放性"
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/abbreviation
+#, fuzzy
 msgid "O"
 msgstr "O"
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/description
+#, fuzzy
 msgid "The Openness metric describes how Open the data are available. Note that this is different from the Accessibility metric. A score associated with an answer will be high if the data will be as open as possible, and low if voluntary restrictions apply to access and re-use."
 msgstr "開放性指標描述資料的開放程度。請注意，這與可取用性指標不同。如果資料會盡可能開放，該答案對應的得分就會較高；若自行對取用與再次使用設定限制，得分則會較低。"
 
@@ -7042,6 +7055,7 @@ msgid "Before Submitting the DMP"
 msgstr "提交資料管理方案前"
 
 #: phase/1796fa3c-9f53-475f-89ff-c66a0453c42e/description
+#, fuzzy
 msgid "In many research projects, the finished data management plan is one of the early deliverables. Questions that should be addressed in those early months of the project are highlighted as desirable when this phase is selected."
 msgstr "在許多研究計畫中，完成的資料管理方案是早期應交付的成果之一。選擇此階段時，應在計畫初期幾個月內處理的問題，會醒目標示為「適合 (desirable) 於此階段填寫」。"
 
@@ -7050,6 +7064,7 @@ msgid "Before Finishing the Project"
 msgstr "計畫結束前"
 
 #: phase/adc9133d-afcd-4616-9aea-db5f475898a2/description
+#, fuzzy
 msgid "When a project rounds up, this means that all data has found its final spots. In this phase, questions that document the final state of affairs will be labeled as desirable.\n"
 msgstr "計畫進入收尾階段時，所有資料都已有最終的存放位置。在此階段，用來記錄最終狀態的問題會被標記為「適合 (desirable) 於此階段填寫」。\n"
 
@@ -7058,46 +7073,57 @@ msgid "After Finishing the Project"
 msgstr "計畫結束後"
 
 #: phase/1ace0fc6-a949-495f-a32e-e948f3f6bed1/description
+#, fuzzy
 msgid "After a project is finished, the team conducts a comprehensive project review to evaluate its overall success and identify areas for future improvement and followup. Relevant feedback is gathered from stakeholders, and the team is finalizing reports and archiving project documentation. Finally, lessons learned are being documented for future reference. Questions relevant for these processes will be labeled as desirable in this phase."
 msgstr "計畫結束後，團隊會全面檢討計畫，評估整體成果，並找出未來可改進及後續追蹤的事項。團隊會蒐集利害關係人的相關回饋，完成報告並典藏計畫文件。最後，記錄所得經驗，供未來參考。在此階段，與這些流程相關的問題會被標記為「適合 (desirable) 於此階段填寫」。"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/name
+#, fuzzy
 msgid "Science Europe DMP"
 msgstr "Science Europe 資料管理方案"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/description
+#, fuzzy
 msgid "Questions related to Science Europe DMP."
 msgstr "與 Science Europe 資料管理方案相關的問題。"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/name
+#, fuzzy
 msgid "maDMP"
 msgstr "maDMP"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/description
+#, fuzzy
 msgid "Questions related to the DMP Common Standard (RDA) for machine-actionable DMPs."
 msgstr "與 RDA 的資料管理方案通用標準相關的問題，該標準適用於機器可操作的資料管理方案。"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/name
+#, fuzzy
 msgid "Horizon 2020 DMP"
 msgstr "Horizon 2020 資料管理方案"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/description
+#, fuzzy
 msgid "Questions related to Horizon 2020 DMP."
 msgstr "與 Horizon 2020 資料管理方案相關的問題。"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/name
+#, fuzzy
 msgid "Horizon Europe DMP"
 msgstr "Horizon Europe 資料管理方案"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/description
+#, fuzzy
 msgid "Questions related to the Horizon Europe DMP"
 msgstr "與 Horizon Europe 資料管理方案相關的問題。"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/name
+#, fuzzy
 msgid "ELSI"
 msgstr "ELSI"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/description
+#, fuzzy
 msgid "Ethical, legal, and social implications / aspects"
 msgstr "倫理、法律與社會的影響／面向"
 
@@ -7106,10 +7132,12 @@ msgid "Data Stewardship for Open Science"
 msgstr "開放科學的資料託管"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/title
+#, fuzzy
 msgid "Submit to an existing database?"
 msgstr "是否要提交至既有資料庫？"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7135,10 +7163,12 @@ msgid ""
 msgstr "## 背景說明\n\n在某些情況下，將您的資料加入既有集合，例如國際典藏庫，可能是明智的做法。愈來愈多資助機構與出版者也會提出這項要求。這個過程本身通常相當直接，因為這類公共典藏庫通常由專責機構或聯盟維護，並訂有規則、規範及格式要求，許多也提供清楚的資料上傳與取回說明。請注意，其中有些環境是「靜置」、無法相互操作的典藏庫，或僅供人類再次使用；有些則可能屬於 HPR 環境。對資料產生者而言，兩者可能帶來截然不同的挑戰；也請參考前面針對持續增加或變動的資料集與資源，所討論的更新及版本控制問題。\n\n進一步要考量的是，您是否將自己的資料視為可供策展的「參考」資料，並納入 UniProt 等核心資料資源。在這種情況下，程序可能相當不同，通常應主動與核心資料資源的託管員互動。目前，許多這類資源仍須透過*人工目視擷取*（閱讀），或文字與資料探勘，費力取得要納入策展及加值資源的資料；這兩種方法都很繁瑣，也容易出錯。以適當且無歧義的格式，將您的資料*直接加入*這些核心資源，是良好資料託管實踐的一部分。\n\n## 建議做法\n\n- 務必考量資料的「潛在參考價值」，例如自己的新發現能否豐富 Chembl、UniProt 或 Earthcube 等參考資料來源。\n- 將全部或部分資料提交至合適的「典藏庫」；在適當時，也將選定的資料提供給核心參考資料庫。\n- 使用這些資料資源要求的正確格式與標準，必要時與其聯絡。\n- （請參閱網站中按類別列出的資源、資料庫等？）\n\n## 應避免的做法\n\n- 僅將資料作為文章的「補充檔案」發布，就假定典藏庫、HPR 環境與核心參考資料庫的託管員會自行找到並使用。\n- 上傳資料至這些資源時，未附上適當的後設資料與溯源資訊。\n\n---\n\n[**開放科學的資料託管：第 7.4.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/title
+#, fuzzy
 msgid "How will you document your interpretation steps?"
 msgstr "您將如何記錄詮釋步驟？"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7162,10 +7192,12 @@ msgid ""
 msgstr "## 背景說明\n\n這裡可以簡要說明。前幾個階段，也就是資料擷取與處理階段，所有與文件記錄及溯源資訊相關的議題，同樣適用於資料託管週期的這個階段。唯一可能不同的是，這個階段無可避免地會有人為介入，因此也會引入錯誤與偏差。良好的資料託管員應仔細追蹤並觀察詮釋過程；如果不同的人對實際資料的詮釋差異可能導致異常結果，就應提醒團隊，尤其是當詮釋步驟涉及資料策展、選取資料子集或閱讀非結構化文字時。再次強調，盡可能記錄過程中發生的事情，是良好資料託管的關鍵。\n\n## 建議做法\n\n- 在資料分析與詮釋過程中，扮演「方法把關者」的角色，並記錄「所有事情」。\n- 確保所有參與詮釋的人員，都充分了解評估結果與資料時，哪些「關鍵點」可能出現人為偏差與錯誤；這些問題無法在資料或機器工作流程層級加以控制。\n- 鼓勵每個人仔細記錄這些關鍵點究竟發生了什麼，尤其是資料經過「策展」或「轉換成其他格式」時。\n\n## 應避免的做法\n\n- 假定人類的行為也能像理想情況下的機器與工作流程一樣，具有「嚴格的可重現性」。\n- 在沒有人明顯誤解資料或其性質的情況下，介入詮釋過程本身。\n- 完全退出詮釋過程，導致無法回頭追查造成錯誤詮釋及結論無法重現的重大錯誤。\n\n---\n\n[**開放科學的資料託管：第 6.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/title
+#, fuzzy
 msgid "How are you going to interpret your data?"
 msgstr "您將如何詮釋資料？"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7189,10 +7221,12 @@ msgid ""
 msgstr "## 背景說明\n\n資料詮釋會導向特定領域的科學假說、結論與應用，但這並不是資料託管員的核心專業。不過，具備與資料詮釋相關領域的基本知識，仍然十分重要。良好的資料託管員需要對「領域專家」的工作有基本了解，而這些專家愈來愈常來自多個不同領域的團隊。研究團隊的選擇，尤其是他們打算如何詮釋資料，可能大幅影響資料格式及「立即可用」的需求。如果詮釋主要仰賴「人工閱讀」，資料輸出與格式的需求，顯然會不同於先大規模走訪圖結構以找出連結模式，再閱讀外部連結的文獻與資料庫內容加以確認的做法。此外，當中間結果出現明顯「不可能」的重大異常時，您需要能夠在下一次全體工作會議揭露這些問題之前，就先辨識出來。\n\n## 建議做法\n\n- 在很早的階段，也就是步驟 1，就考慮預定採用的資料詮釋方法，因為這些方法會影響資料擷取、前處理、策展及功能整合中的許多其他步驟。\n- 確保您對研究團隊成員所具備的領域知識有基本了解。\n- 在資料處理、連結與分析過程中，檢查所有「中間產出」是否有明顯的重大異常，因為這可能表示參數設定等環節有誤。\n- 仔細記錄資料詮釋程序之前及其中採取的所有步驟，包括哪些環節可能引入人為錯誤與偏差。\n\n## 應避免的做法\n\n- 把自己的角色當成「等資料出現後才加入，妥善處理資料，再交付漂亮的圖表與圖片」。\n- 試圖成為領域專家。結果的最終詮釋應交由團隊中的專家負責。尤其當研究涉及多個領域時，不可能精通所有領域；勉強嘗試，可能適得其反，也可能使真正的專家感到不悅。\n\n---\n\n[**開放科學的資料託管：第 6.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/title
+#, fuzzy
 msgid "Will you use Reference Data?"
 msgstr "您是否會使用參考資料？"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/content
+#, fuzzy
 msgid ""
 "*Reference data are defined as OPEDAS that have a status as a 'reference' data set and can be used to 'interpret' other data. Reference data can be available in many formats and could include curated resources like LITMED in the humanities, UniProt or PDB in the life sciences but also resources like a '5 year twitter trend', a 'gold standard' a for instance a \"chuman reference genome\" that you use to define how your data fits in the larger picture.*\n"
 "\n"
@@ -7225,6 +7259,7 @@ msgid ""
 msgstr "*參考資料是指具有「參考」資料集地位、可用來「詮釋」其他資料的 OPEDAS。參考資料可能以多種格式提供，包括人文領域的 LITMED、生命科學領域的 UniProt 或 PDB 等經過策展的資源，也包括「五年的 Twitter 趨勢」、「黃金標準」或「人類參考基因組」等資源，讓您據以判斷自身資料在更大脈絡中的位置。*\n\n## 背景說明\n\n當新產生的資料集規模相對較大且需要詮釋時，參考資料集就愈來愈重要；對小規模資料也同樣如此，例如臨床遺傳學樣本中可能有數百個變異，需要與已知的表現型關聯進行比對。在某些情況下，例如 ELIXIR，這些資源可能被稱為「核心資源」。這類資源通常會動態更新，因此不能預期在不同時間下載或查詢時，內容都完全相同。經過預先分析或預先連結的資料來源，也愈來愈常被納入核心資源與參考資料的範疇。若資料並非來自具授權、且採用明確版本控制與發布政策的提供者，就必須再次確認其溯源資訊、追溯至原始資源的能力，以及所用方法的透明度。\n\n## 建議做法\n\n- 確保您充分了解所有可能與研究相關的可用參考資料來源。\n- 查核這些資料庫的「權威性」，並審慎評估其有效性。\n- 確認使用條件符合您的目的；其中有些資源，例如 HPA，明文禁止商業用途。\n- 確保日後能盡可能精確地重現研究中再次使用的資料；至少應記錄所使用參考資料資源的版本。\n- 如果對可重現性有所疑慮，可考慮下載所引用的資料並妥善典藏。\n- 尋找既有工作流程或方法，以自動或半自動方式將您的資料與參考資料進行比對，避免重新建立已有的工作流程。\n\n\n## 應避免的做法\n\n- 僅在所屬學科中顯而易見的資源裡尋找參考資料。\n- 假定所有參考資料，包括經過同儕審查的文獻，都是正確的。\n- 已有經授權的公開參考資料可用，卻使用未經授權的參考資料。\n- 使用參考資料時未適當引用，或使用他人的帳號；參考資源需要正確追蹤使用者統計資料。\n- 引用會更新卻沒有版本編號的參考資料來源。\n- 引用明顯會更新的資料資源或服務，導致嘗試重現您研究結果的人取得不同版本。\n\n---\n\n[**開放科學的資料託管：第 1.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/title
+#, fuzzy
 msgid "How will you make sure the analysis is best suited to answer your biological question?"
 msgstr "您將如何確保分析最適合回答您的生物學問題？"
 
@@ -7252,10 +7287,12 @@ msgid ""
 msgstr "## 背景說明\n\n選擇最合適的分析方法與工具，大致超出本書的範圍，因為這正是資料分析本身的核心。不過，這個問題也涉及資料託管。首先，在步驟 1 就與您能找到最合適的統計專家討論，為回答研究問題，需要什麼性質的資料，以及多大的資料量或樣本數，顯然非常重要。這是針對目前實驗將新產生的資料而言。從資料託管的角度來看，另一項重要議題是：在資料驅動的研究中，往往需要共同分析 OPEDAS 或多個新資料集，才能找到所要的答案。因此，除了資料集本身的大小、範圍、品質，以及實驗與對照的考量之外，如何與其他資料進行功能整合或連結，也是一項重大挑戰。為了最終詮釋研究中的模式與現象而需要的其他資料，可能會影響您在資料擷取與儲存時所選擇的大小、格式、資訊豐富程度（包括後設資料）及資料模型。\n\n## 建議做法\n\n- 在步驟 1 與團隊討論新產生資料的「功能整合與連結需求」。\n- 盡可能讓新資料採用與需要相互配合的資料相同的資料格式、後設資料標準、詞彙及資料模型。\n- 考慮並安排可能需要的對映、解析與轉換工作，將其他資料整理成能與您的資料進行功能連結及相互操作的格式。FAIR 資料的一項重要特性，是機器應盡可能將資料解析或轉換成任何其他合適格式，例如某個工具所要求的格式，且不產生錯誤，或將錯誤降至最低。\n\n## 應避免的做法\n\n- 將資料視為僅供單次實驗使用的一次性資產；大多數資料都會在原本範圍或研究之內或之外被再次使用。\n- 將後設資料限制在原先產生資料之研究的預期需求內。應盡可能蒐集可取得且可能有意義的後設資料。\n\n---\n\n[**開放科學的資料託管：第 6.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/title
+#, fuzzy
 msgid "Will you be building Kinetic Models?"
 msgstr "您是否會建立動力學模型？"
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7279,10 +7316,12 @@ msgid ""
 msgstr "## 背景說明\n\n在動力學模型中，研究現象的時空要素至關重要。這表示，用於這類模型的資料，應盡可能附上豐富的時間（間隔）與空間座標資訊。相較於僅用於靜態假說、路徑或知識本體模型的資料，輸入動力學模型的資料，更需要豐富的溯源資訊，以及描述時空面向的後設資料。顯然，許多資料集原本並非為動力學模型而產生，日後卻可能用於這類模型。因此，無論資料是否專為動力學建模而產生，都應將所有時空參數視為日後再次使用資料時可能重要的資訊。也應清楚認知，「模型」本身同樣是研究物件，因此所有 FAIR 原則也都適用；若已有符合需求的模型，就不應另建新模型的原則，也同樣適用。\n\n## 建議做法\n\n- 務必詢問研究團隊，研究的資料分析步驟是否可能採用動力學建模。\n- 養成蒐集並附上「比您認為必要的還要豐富的後設資料」的習慣；您可以選擇不用，但未保留的資訊日後可能無法補救。\n- 若資料是專為動力學建模研究而產生，請特別注意，盡可能完整擷取與空間、時間（間隔）、體積、層級等有關的參數。\n\n## 應避免的做法\n\n- 輕率假定您的資料絕不會用於動力學建模。\n- 未與團隊討論資料可能用於動力學建模的情況。\n- 低估所需記錄的時間、空間與層級資訊應有的「細緻程度」。\n\n---\n\n[**開放科學的資料託管：第 6.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/67b3203a-f611-4894-9dc9-55051a240ff2/title
+#, fuzzy
 msgid "Machine Learning?"
 msgstr "機器學習？"
 
 #: resourcePage/67b3203a-f611-4894-9dc9-55051a240ff2/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7305,10 +7344,12 @@ msgid ""
 msgstr "## 背景說明\n\n如果您的分析將全部或部分採用機器學習，就必須了解，機器學習演算法主要根據「範例」輸入來「建立自己的模型」，從範例中「學習」，再利用「學得」的模型預測其他輸出，例如在新資料中辨識相似模式。這類演算法與那些「知道自己正在處理哪種資料類型」、因此被明確編程以可重現的方式遵循特定指令的演算法，有很大的不同。機器學習通常用於難以明確設計並編寫演算法的運算任務，這顯然會影響所需的資料品質。直覺上，您可能認為「機器自己會弄清楚」正在處理什麼，因此 FAIR 原則不太適用於作為機器學習輸入的資料類型。誠然，資料元素本身可能是「非結構化」的，例如 X 光影像，因此本身並不符合 FAIR 原則。然而，在這種情況下，作為後設資料一部分的註解，其品質與 FAIR 特性，可能比資料元素本身能直接由機器處理及「理解」時更為重要。例如，如果演算法是為了從影像中的模式與顏色學習而設計，則影像應歸入哪個類別的適當脈絡資訊就極為重要，並可成為機器可處理後設資料的一部分。因此，仍須明確區分前面定義的三類資料：內在後設資料、使用者自訂後設資料，以及資料元素（包括「原始」資料本身）。機器學習可以在後設資料與資料元素這兩個層級進行。\n\n## 建議做法\n\n- 明確區分後設資料與資料本身；機器學習可以在兩者上進行。\n- 確保分析工作流程能輕易選擇「納入」或「排除」後設資料與註解。\n- 在後設資料中清楚標示實際資料採用的檔案類型與資料模型，以及如何取用資料以進行機器學習。\n\n## 應避免的做法\n\n- 將後設資料與資料元素放在同一個檔案中，卻未明確區分；應能對兩者一起或分別進行機器學習。\n- 將實際資料與其後設資料分離到這種程度：學習演算法雖然找得到後設資料，卻很難在無人介入的情況下，處理後設資料所描述的「原始」資料。即使您認為原始資料不符合 FAIR 原則，因為無法「立即由機器處理」，特定演算法仍可能處理這些資料，包括文字探勘，以及其他處理非結構化資料的模式辨識演算法。\n\n---\n\n[**開放科學的資料託管：第 6.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9de91ed5-8998-4b26-8c5d-83e79e66e79e/title
+#, fuzzy
 msgid "Will you use static or dynamic (systems) models?"
 msgstr "您是否會使用靜態或動態（系統）模型？"
 
 #: resourcePage/9de91ed5-8998-4b26-8c5d-83e79e66e79e/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7333,6 +7374,7 @@ msgid ""
 msgstr "## 背景說明\n\n每一組原始資料，以及經過進一步處理的（關聯式）資料與資訊，都以某種資料「模型」記錄。我們將資料「模型」與資料「格式」加以區分，因為格式其實只是資料呈現的「形式」，例如 CSV、矩陣、RDF 等。然而，資料託管員必須仔細選擇資料「模型」，讓資料以最有意義、最容易理解，因而也最容易再次使用的方式呈現；尤其是模型本身應可由機器讀取與處理。這不僅涉及資料本身在格式與識別碼上的一致性。我們將這個議題放在詮釋與分析章節，正是因為它與「資料將用於什麼目的」密切相關。某項研究可能需要對資料重新建模，有時也包括將資料轉為另一種格式，或改變量測單位等。這再次凸顯適當註解（例如使用了哪些量測單位）與資料集溯源資訊的重要性。資料未來的使用者，可能將資料用於與最初產生資料的原因截然不同的目的。\n\n## 建議做法\n\n- 為您的資料仔細選擇最合適的資料模型。\n- 在後設資料中，詳盡說明資料模型的選擇、量測單位、使用的詞彙等。\n- 在後設資料中納入將資料或其元素轉換為其他模型或格式時，可能需要考量的事項。\n- 在假定資料確實可與其他資料進行整合分析之前，先仔細研究資料，尤其是 OPEDAS。\n\n## 應避免的做法\n\n- 尚未仔細確認是否已有合適的格式，就建立新的資料模型或格式。\n- 假定資料元素的性質及格式選擇，例如量測單位，都「不言自明」，因此不必明確說明。\n- 未仔細考量「進入分析工作流程」的不同資料模型之間的相容性與可相互操作性，就整合資料進行分析。\n\n---\n\n[**開放科學的資料託管：第 6.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1b4ea983-9b5c-4a81-80ed-44d30d30d204/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7359,10 +7401,12 @@ msgid ""
 msgstr "## 背景說明\n\n如果詮釋過程涉及自動查詢參考資源，或使用文字探勘管線等方法，您就應了解，並讓團隊其他成員了解，前面所述與「使用 OPEDAS」相關的所有問題。OPEDAS 與工作流程可能經歷版本變更、擴充或策展等處理；即使流程是「自動化」的，這些變動仍可能大幅影響前後執行的結果。尤其當研究團隊多位成員使用這類查詢與詮釋管線時，所有人使用的每項工具與資源，都應是完全相同的版本。如果所有參與詮釋的人都使用您提供的標準化電腦，就更容易做到；但多數情況下，團隊分散在世界各地，可能使用線上版工具、網路服務或本機安裝的版本。如果未像最初擷取資料的儀器一樣，嚴格地校準並確保這些工具與資源一致，就可能引入重大錯誤。\n\n## 建議做法\n\n- 讓研究團隊充分了解詮釋過程中所有可預見的錯誤來源。\n- 確實掌握團隊中每一位參與詮釋過程的人員。\n- 確保所有人使用的每項詮釋工具與資源，版本都完全相同。\n- 確保相互操作過程中可能啟動的所有「自動化探索」管線都完全相同。\n- 記錄詮釋過程的每個步驟，並要求領域專家記錄所使用每項工具與資源的版本。\n- 為每個與詮釋相關的資料子集，記錄其建立者。\n\n## 應避免的做法\n\n- 相信領域專家已充分了解工具中的種種陷阱；對他們而言，這些工具可能只是「資料人員提供」的通用工具。\n- 自己也疏於管理工具與資源的版本，讓混亂情況更加嚴重。\n- 尚未查核所有相關工具與資源的完整性及版本，就彙整團隊中不同人員，或不同自動化系統的詮釋結果。\n\n---\n\n[**開放科學的資料託管：第 6.6 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1b472491-a686-406c-bca8-a450d6ad4584/title
+#, fuzzy
 msgid "Data?"
 msgstr "資料？"
 
 #: resourcePage/1b472491-a686-406c-bca8-a450d6ad4584/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7384,10 +7428,12 @@ msgid ""
 msgstr "## 背景說明\n\n即使無法在傳統期刊上發表您的「負面結果」，支持結論的資料仍然可以獨立發布，並附上簡短文字，說明問題所在；即使實驗無法重現，或您主張先前的結果有誤，也是如此。以這種方式發布的資料必須符合 FAIR 原則，因為機器也應能得知爭議、負面結果及其他「資料警示」。將負面或有爭議的結果連結至原始論文的 DOI 很重要，因為某些服務便能自動在這些舊論文中加入「重新檢視」的註解，甚至能在 PDF 中顯示；例如 UTOPIAdocs。\n\n## 建議做法\n\n- 發布所有可靠的資料與結果，不論它們是否因為帶來新見解而被視為「正面」。事實上，知道「某件事不是真的或行不通」，也是有意義的新見解。\n- 將負面或有爭議的主張，以機器可讀的 nanopublications 形式發布，並推動其接受同儕評審。\n\n## 應避免的做法\n\n- 忽略負面結果，除非您能解釋為何這些結果不代表有效的新關聯或見解，例如檢視實驗設計或研究後，發現其中有根本缺陷。即使如此，造成設計缺陷的原因仍可能值得發表，因為這能避免他人重蹈覆轍。\n- 嘗試以傳統敘述文章或期刊發表負面結果，尤其是採發表前同儕評審的期刊；這只會帶來挫折。\n\n---\n\n[**開放科學的資料託管：第 7.5.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/57fc7d78-938e-430a-a3a9-31a1bd2889a3/title
+#, fuzzy
 msgid "What will the IP be like?"
 msgstr "智慧財產權（IP）的狀況將如何？"
 
 #: resourcePage/57fc7d78-938e-430a-a3a9-31a1bd2889a3/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7414,6 +7460,7 @@ msgid ""
 msgstr "## 背景說明\n\n對於您新建立的資料，除非資助研究的機構另有規定，智慧財產權（IP）原則上屬於您或所屬機構。不過，對涉及人類受試者的資料而言，法律上的資料所有權很可能屬於參與研究的個人。在這種情況下，您預設是他人資料的「保管者」，這會為身為資料託管員的您帶來許多額外責任。即使是為特定實驗產生的資料，也必須考量如何處理其智慧財產權。然而，建立參考資料時，尤其是透過擷取、轉換、重新載入、策展及「重新包裝」OPEDAS 來建立參考資料集時，來源資料的智慧財產權狀況，以及允許再次使用的授權條款，就格外重要。各國及各地區對這類彙整資料庫的法律規定，包括隱含的所有權，可能不同。來源資料的授權條款可能會延伸適用於您的新資料集；若納入限制嚴格的資料，例如僅限非商業用途，日後可能妨礙參考資料集被廣泛使用，也可能限制您運用參考資料來維持長期營運的能力。\n\n## 建議做法\n\n- 徹底查核所有預計納入的資料來源，其智慧財產權狀況與授權條款。\n- 即使只納入較大資源中的少量子集，也應查核；即使資源乍看是公開的，且未設密碼保護，仍可能有使用限制。\n- 確認您打算納入的資料來源，是否已妥善處理其所使用來源的智慧財產權問題。\n- 對某項資源的授權或智慧財產權狀況有疑問時，請聯絡資料來源的擁有者。\n- 諮詢法律及授權專家，確保建立預定的參考資料集時，不會違反任何明示或隱含的規範。\n\n## 應避免的做法\n\n- 未先諮詢授權專家，就建立參考資料。[查找 Wilbanks 的 OPF 文件]\n- 因為認為「只有自己的部門會使用」，就省略上述查核而建立參考資料；事實上，若只供自己的部門使用，這些資料幾乎就不能稱為「參考資料」。\n- 低估參考資料日後獲製藥業等使用者採用，甚至獲得付費使用，所需的時間與投入，以及使用者查核資料時的嚴格程度。即使資料集沒有附上授權條款、看似開放，大型商業公司若要將其用於核准程序等用途，仍可能面臨重大法律責任風險。\n- 未諮詢專業意見，就為自己的資料選擇授權條款。應在參考資料可接受的範圍內，採用最開放的授權條款；在開放科學中，使用者愈多，通常也愈有機會維持長期營運。\n\n---\n\n[**開放科學的資料託管：第 1.12.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/d8306ea1-549e-4963-a934-7a6500df8fd2/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7439,10 +7486,12 @@ msgid ""
 msgstr "## 背景說明\n\n參考資料集對於他人實驗與結果的詮釋、審查及可重現性，可能十分重要。因此，建立參考資料有助於研究資料的共同利益，而長期維護便是關鍵問題。常見的問題是，參考資料集最初是在專門的學術機構內以相當小的規模建立，直到產生這些資料的研究計畫接近結束，才開始處理永續性問題。一般而言，短週期的資助制度不足以保證參考資料等核心資源的長期永續性。因此，事先規劃參考資料的建立與長期維護，並審慎考量會影響日後「可維護性」的選擇，非常重要。這些選擇包括資料格式、自動化與人工策展的程度、資料基礎設施、預期使用者人數、網路容量，以及機構是否有能力或意願，在內部研究不再直接需要這些資料後，繼續維護「公共資源」。如果其中任何條件不利，您的資源長期而言反而可能讓使用者陷入困境，因為他們的部分科學論述仰賴您的資料，一旦資料無法取得，便會直接受到影響。\n\n## 建議做法\n\n- 與主管及機構徹底確認，是否能在研究計畫結束後繼續維護參考資料。\n- 向專業資料擁有者尋求建議，最好是管理比您打算建立的資料集更大規模資料的人，以妥善規劃支援基礎設施，以及策展與維護所需的投入。他人再次使用您的資料，可能帶來大量往來聯繫與支援工作，也可能帶來共同發表的機會，請與主管討論。\n- 與團隊、支援人員及主管具體討論維護方案，包括資料本身，以及適用時 API 與 GUI 的版本控制及發布方案，還有使用者支援方案。\n- 諮詢法律與授權專家，確保提供資料集的做法，在法律層面上能夠持續維持。\n- 對於維護參考資料資源的日常服務部分，盡可能與專業、有時是商業性的資料提供者合作。無論在經費取得方式或支援方面，都應嚴格區分「研究與創新」環境和日常服務部分。\n\n## 應避免的做法\n\n- 使用公帑建立可能成為參考資料的資料，卻打算不向其他研究人員開放，除非有非常明確且經得起檢視的理由。在研究計畫書中，您將愈來愈需要充分說明不開放資料的理由；不開放資料可能降低計畫獲選的機會。\n- 因為資料「顯然很有價值」，就假定「部門裡某個人」會接手長期託管。許多大學缺乏將對第三方「提供服務」納入常態工作的誘因。\n- 建立參考資料時，未盡最大努力讓資料元素本身及後設資料符合 F.A.I.R. 原則，並盡可能使其可由機器處理。\n\n---\n\n[**開放科學的資料託管：第 1.12.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b0c16c49-0dd8-4652-ab7a-cf9a3aafc85b/title
+#, fuzzy
 msgid "What is the volume of the anticipated data set?"
 msgstr "預期資料集的資料量有多大？"
 
 #: resourcePage/b0c16c49-0dd8-4652-ab7a-cf9a3aafc85b/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7467,10 +7516,12 @@ msgid ""
 msgstr "## 背景說明\n\n資料量只是資料集的其中一個面向，其他面向還包括複雜度、隱私、多樣性等。不過，資料量本身就可能影響資料格式的選擇。有時，您可以只儲存部分資料，而不遺失重要資訊。例如，若已對一群人進行全基因組定序，您可以儲存一份參考基因組，當然也要附上豐富的溯源資訊，再只儲存各個人的序列相對於該參考基因組的差異。這可大幅縮減需要儲存的資料集，降至原始序列的 1% 以下；日後也可以隨時透過「從參考基因組檔案補入其餘序列」，重新產生每個人的完整基因組。\n\n## 建議做法\n\n- 務必先考量資料量，並確定它將如何影響以下選擇：\n- 資料前處理方式。\n- 溯源資訊的儲存方式，包括詳細記錄原始資料經歷了哪些處理，以及處理的方式、時間與原因。\n- 處理後資料的格式與解析度，依工作流程選擇、常用做法等因素決定。\n- 預先確認機構內部或外部的儲存與運算基礎設施，以及取用條件，足以妥善進行資料前處理、儲存及取用。\n- 盡可能預估團隊自身及其他潛在使用者未來對資料的使用需求（請見相關資源）。\n\n## 應避免的做法\n\n- 未經確認，就假定可使用的運算與儲存設施足以滿足需求。\n- 未事先提出充分論證，就建立任何檔案格式、詞彙表或其他資料相關資源。\n---\n\n[**開放科學的資料託管：第 1.15.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3ed446f5-b12c-43ea-bf1b-d02003d3ea2a/title
+#, fuzzy
 msgid "Is re-consent needed?"
 msgstr "是否需要重新取得同意？"
 
 #: resourcePage/3ed446f5-b12c-43ea-bf1b-d02003d3ea2a/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7501,10 +7552,12 @@ msgid ""
 msgstr "## 背景說明\n\n如果 OPEDAS 受到知情同意規範限制，您必須確認已取得的同意涵蓋預定研究的特定目的。\n\n必須遵守歐盟《個人資料保護規則》（GDPR）及[其他地區的相應法規]。即使您未預料到，法律仍可能要求重新取得 OPEDAS 擁有者的同意，而且擁有者自己也可能不知道這項法律要求。因此，必須格外謹慎，避免違反法律。如果 OPEDAS 包含直接源自涉及動物或人類受試者研究的資料，或例如來自社群媒體的資料，也建議與倫理委員會討論再次使用事宜。\n\n## 建議做法\n\n- 檢查資料隨附的共識聲明（如有）。\n- 對資料再次使用涉及的法律問題有任何疑慮時，主動聯絡資料擁有者。\n- 清楚說明您為什麼想再次使用資料，以及預定用途。\n- 確保說明的詳細程度與表達方式適合資料擁有者。\n- 再次向擁有者確認，他們打算或保證讓資料以相同格式及版本持續提供多久。\n\n## 應避免的做法\n\n- 預期所有 OPEDAS 擁有者都願意為任何研究目的分享資料。\n- 低估您可能為 OPEDAS 擁有者帶來的負擔。\n- 忽略「引用」以外的其他誘因，例如正式致謝或共同作者資格。\n- 未完成上述所有檢查，就將可能涉及敏感性或其他限制的資料用於實驗，即使它們看起來可以在網路上自由取得。\n- 理所當然地認為可用於競爭前研究的資料，也能用於商業目的。如果您任職於公司，有些情況下，授權與同意問題甚至比公共研究機構所面臨的更加迫切。\n\n\n---\n\n[**開放科學的資料託管：第 1.9 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/57335649-0440-45a8-8ec1-316206e52642/title
+#, fuzzy
 msgid "How long does the data need to be kept?"
 msgstr "資料需要保存多久？"
 
 #: resourcePage/57335649-0440-45a8-8ec1-316206e52642/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7535,10 +7588,12 @@ msgid ""
 msgstr "## 背景說明\n\n良好的託管員不會在受託照管的物品超過「有效期限」後，仍繼續保存。\n\n對資料託管員而言，這表示不一定要儲存或發布所有資料或資料子集，例如中間格式、原始影像等。這不是簡單的問題。對某些大型資料集來說，「全部保留」既不容易，成本也不低。因此，首先應判斷資料產生及處理的各階段中，哪些資料「原則上應永久保存」。這表示，即使還在產生及處理資料的過程中，也可能已有一些檔案可以負責任地捨棄。其次，有些資料可以「壓縮」，也就是以較精簡的格式儲存，之後仍能還原成資訊較豐富的格式，而不會遺失資訊或引入錯誤。例如，託管員可能需要決定：是保存某個生物的全部定序讀段及經插補的完整基因組序列，還是只保存「相對於參考基因組的變異」。\n\n除了早期處理階段的這些決定之外，已典藏的資料也可能在某個時間點不再適合再次使用。這裡必須區分「不再被使用」與「根本無法使用」。如果資料已毀損、過時、遭偽造，或因其他原因而「會誤導後續研究，或對後續研究毫無用處」，資料託管員可能會決定將資料捨棄。\n\n即使如此，仍應保留後設資料與持續識別碼，讓社群能追溯原始資料，並得知或引用資料已不再提供的事實。\n\n## 建議做法\n\n- 針對每個產生、下載或取得的資料集，與團隊討論長期維持資料可用性及再次使用的方案。\n- 編列預算，並定期召開會議，討論您所託管各資料集的保存期限與處置選項。\n- 如果將資料託管工作交給可信賴的第三方，請明確移交這些方案、資源與責任。\n- 確保即使資料已「銷毀」或「以磁帶典藏」，後設資料及唯一且可引用的識別碼仍持續符合 FAIR 原則。\n\n## 應避免的做法\n\n- 混淆可再次使用性與實際的再次使用情況：許多本身有價值的資料，可能多年無人使用，卻突然對某項研究或決策變得至關重要。同樣地，也有資料已經遺失，到了現在卻可能非常有價值的例子。\n- 未告知團隊並討論決定，就捨棄資料、後設資料、程式碼或工具。資料託管員不一定能輕易判斷資料實際應保存到何時。\n- 已有明確證據顯示資料毀損、不實、錯誤，或因其他原因而過時，卻仍繼續保存，即使資料集很小，或沒有因儲存空間或財務因素而必須刪除的理由。\n\n---\n\n[**開放科學的資料託管：第 2.5.5 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/cd32ef04-d8ae-403f-b4a5-74e1e7f11a59/title
+#, fuzzy
 msgid "Do you need the storage close to compute capacity?"
 msgstr "您是否需要讓儲存空間鄰近運算資源？"
 
 #: resourcePage/cd32ef04-d8ae-403f-b4a5-74e1e7f11a59/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7570,10 +7625,12 @@ msgid ""
 msgstr "## 背景說明\n\n分散式信任與學習網路的討論正處於轉變之中。這不只涉及科學領域，也是比特幣、區塊鏈及其他方法之下一代解決方案的重要議題。網際網路的本質，是本身具有穩健性的本地交易作業，包括接受可能發生錯誤，並只在有意義之處採用備援。這股趨勢將迅速影響本地與分散式運算及學習。因此，無論研究規模大小，都必須考量本地與分散式運算的可能性。可用選項範圍很廣，從智慧型手機、透過光纖連接並為住家供暖的分散式超級電腦，到 exascale 等級的運算設施都有。即使涉及敏感資料，也不能再理所當然地認為大型運算與分析作業必須集中於防火牆內執行。如果將雲端廣義地理解為「別人的電腦」，您需要進行的大部分工作，可能都能在雲端完成。不過，也可能有理由在本地處理，並維護昂貴的運算基礎設施。即便如此，當有更好且更便宜的選項時，不應僅為了掌控設備，就購買需要在本地維護的硬體。就像除非需要備用發電機，或所需水質特殊到外部來源無法提供，否則人們不會再自行發電或製備乾淨用水。運算與儲存也正迅速成為這類通用商品，因此，使用外部或雲端資源已成為必須處理的重要議題。核心問題是：有多少運算能力必須緊鄰資料？了解目前網路連線速度，顯然是重要考量。這又取決於您打算透過網路傳送龐大資料集，還是傳送輕量的工作流程容器，到資料*原處*執行相對有限的運算作業；前者的網路速度仍可能帶來重大的成本與時間問題。\n\n新興趨勢顯示，透過分散式分析與學習能回答的科學問題，遠比我們直覺上認為的還多。因此，如果可信賴的第三方能以更好、更便宜且更安全的方式完成工作，卻仍讓機構承擔內部硬體與軟體的相關負擔，就不是良好的資料託管做法。\n\n## 建議做法\n\n- 仔細研究所需儲存與運算資源的雲端選項，並尋求諮詢。\n- 比較不同雲端服務提供者的價格、服務與安全性；規模較大不一定比較好。\n- 決定透過傳送資料來處理之前，先確認這樣做是被允許的。\n- 請留意，處理非常龐大的資料集時，一般雲端服務提供者的上傳與下載費用可能相當可觀。\n- 權衡使用雲端服務提供者與使用本地設施的成本。\n- 也評估機構內部設備與基礎設施的採購、維護、支援、專業能力及汰換風險。\n- 為每個工作空間及每一批分析，選擇合適的本地或分散式處理方式，不要以單一方式套用所有情況。\n\n## 應避免的做法\n\n- 沒有充分理由，就假定儲存與資料處理都會在機構內部進行，忽略其中龐大的成本與資源調度需求。\n- 購買或租用遠超過實際需求的電腦儲存空間與運算能力。\n- 認為每項運算作業都必須讓運算資源與資料位於同一處。\n- 將「大規模運算問題」與「大規模本地基礎設施」混為一談。\n\n\n---\n\n[**開放科學的資料託管：第 2.7 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8159f15f-1ee0-42ed-8ee8-b2ab834e1075/title
+#, fuzzy
 msgid "Will owners of that data work with you on this study?"
 msgstr "資料擁有者是否會與您合作進行此研究？"
 
 #: resourcePage/8159f15f-1ee0-42ed-8ee8-b2ab834e1075/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7600,10 +7657,12 @@ msgid ""
 msgstr "## 背景說明\n\n有些 OPEDAS 可能需要取得擁有者的明確同意及協助，才能使用。這不一定表示資料的文件記錄不佳或品質低落。這些資料可能受到隱私法規限制、與組織生物樣本庫相關，甚至是個別公民存放於其合法擁有的個人資料保管庫中的個人資料。如果需要 OPEDAS 擁有者合作，還必須考慮其他議題，例如時間限制、共同作者資格及知情同意。\n\n## 建議做法\n\n- 確認取得資料的條件，並聯絡資料擁有者。\n- 清楚說明您為什麼想再次使用資料，以及預定用途。\n- 確保說明的詳細程度與表達方式適合資料擁有者。\n- 以口頭及書面方式向資料擁有者確認，是否有未在 OPEDAS 後設資料中明確列出的潛在限制。\n- 再次向擁有者確認，他們打算或保證讓資料以相同格式及版本持續提供多久。\n\n## 應避免的做法\n\n- 預期所有 OPEDAS 擁有者都願意為任何研究目的分享資料。\n- 低估您可能為 OPEDAS 擁有者帶來的負擔。\n- 忽略「引用」以外的其他誘因，例如正式致謝或共同作者資格。\n- 使用在網路或其他地方找到的資料，卻未確實確認這樣做不會違反知情同意或其他一般規範。\n\n---\n\n[**開放科學的資料託管：第 1.8 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/297cc3ef-6a35-4da9-9e0e-44e510822698/title
+#, fuzzy
 msgid "Can workflows be run remotely?"
 msgstr "工作流程是否可遠端執行？"
 
 #: resourcePage/297cc3ef-6a35-4da9-9e0e-44e510822698/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7625,6 +7684,7 @@ msgid ""
 msgstr "## 背景說明\n\n如果可以選擇能遠端執行的雲端工作流程，或更進一步，將工作流程容器化後送到資料所在地執行，讓資料留在「*原處*」，在多數情況下，這可能是最佳選擇。如前所述，資料集日益龐大或敏感（例如人體相關資料），已不適合在您所參與聯盟內的不同儲存與運算地點之間來回傳送。傳送資料顯然涉及各種技術與安全問題。討論資料分析時，會更詳細說明這項考量；但即使只是資料前處理與策展，仍應盡量減少資料搬移，優先使用遠端或「下載至本地」的工作流程來完成這些作業。\n\n## 建議做法\n\n- 決定使用獨立的本地工作流程或遠端服務之前，請先考量待處理及／或策展資料集的大小；此處的策展是指電腦輔助策展。\n- 一般而言，優先使用以「到資料所在地執行的服務」形式提供的工作流程；相較於必須實際將資料傳送到運算端的服務，這類工作流程更可靠，也更理想。\n\n## 應避免的做法\n\n- 在並非唯一選項，也未明顯較佳的情況下，將資料傳送至各項服務。\n- 僅從資料科學角度作決定，而未諮詢團隊其他成員，一併考量成本、可持續性、可重現性，以及最重要的倫理與安全問題。\n\n---\n\n[**開放科學的資料託管：第 4.2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5395ebb2-21d5-4e11-b1dd-76a117f2a419/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7647,6 +7707,7 @@ msgid ""
 msgstr "## 背景說明\n\n在某些情況下，重新產生資料可能比儲存資料更便宜，也可以接受。舉兩個例子：為基因組「重新定序」，可能很快就會比將定序資料儲存十年更便宜。此外，使用相同的標記工具與敘詞表，對同一個龐大的文字語料庫進行文字探勘，原則上無論何時重複進行，都應得到完全相同的結果。然而，在這兩個例子中，若要決定重新產生資料，而非長期儲存第一個版本，都必須先確認若干假設。首先，技術不應改變；定序儀日益可靠，因此可能產生不同結果，而當您想再次產生結果時，也可能已經不再擁有「舊的定序儀」。工作流程不一定維持不變，更重要的是，即使是「穩定」的原始材料，例如活體個體的基因組或文字語料庫，也可能沒有您想像的那麼穩定。文字語料庫可能在您不知情的情況下發生變動；活體生物基因組中的體細胞突變率也不容忽視，因此，從新採集的細胞樣本取得 DNA，可能會得到不同結果。即使 DNA 樣本一直處於「保存狀態」，也無法絕對保證日後重新定序會得到完全相同的結果。因此，無論何種情況，選擇「重新產生或儲存資料」都需要團隊深入討論科學方法，而不是一項「瑣碎的決定」。\n\n## 建議做法\n\n- 評估是否要重新產生「相同」資料時，應從各個角度考量問題，包括上述例子所涉及的深入領域知識。\n- 只有在資料量、成本或其他因素造成長期保存困難時，才考慮這個選項。\n- 務必仔細記錄，資料究竟是「完全相同」（在所能保證的範圍內），還是「使用相同方法，從相同原始材料重新產生，因此推定相同」。\n\n## 應避免的做法\n\n- 輕率地假定資料很容易重新產生，即使僅憑對該科學主題的粗淺了解，看起來確實如此。\n- 假定不會有任何差異，便將重新產生的資料以原始資料集的相同 PID 進行典藏。\n\n---\n\n[**開放科學的資料託管：第 2.5.1.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5bbc391e-a75a-4f0b-8335-1d0a7029d69a/title
+#, fuzzy
 msgid "Who are the customers that use your workflows?"
 msgstr "誰會使用您的工作流程？"
 
@@ -7675,6 +7736,7 @@ msgid ""
 msgstr "## 背景說明\n\n許多工作流程最初是由電腦科學家、資料科學家或從事科學研究的程式設計師開發。最初的版本通常屬於學術原型軟體（professorware），但仍可能是您能取得的最佳選擇；此外，這些工作流程往往不容易讓團隊中的實驗科學家使用。這表示，如果選擇這類開發初期的管線與工作流程，而在某些情況下它們也可能是唯一選項，就可能必須在其他團隊成員需要執行工作流程時隨時待命，最壞的情況甚至是每次都只能由您親自執行。如果選用某個工作流程會讓您成為整個作業鏈中的「單一故障點」，那本來就不是理想的選擇。因此，若無法避免這種選擇，請盡可能訓練更多人使用該工作流程。能使用工作流程，與能共同開發新功能或客製功能，仍是不同的能力。\n\n## 建議做法\n\n- 優先選擇最成熟、容易使用，且研究團隊中盡可能多人都能操作的工作流程。\n- 也考慮商業與專有解決方案，但仍應依照選擇任何工作流程時所述的相同原則進行權衡。\n- 如果有不同工作流程可選，請讓研究團隊其他成員參與試跑，並共同選出最合適的選項。\n\n## 應避免的做法\n\n- 選擇對身為資料專家的您而言似乎很容易，但其他團隊成員可能無法操作的工作流程。\n- 過度著迷於「可以自己動手修改」的選項，而犧牲易用性與穩定性。\n- 高估團隊其他成員應付困難或偏向技術專家介面的能力，即使您覺得這些介面很容易且直覺。許多團隊成員在筆記型電腦上看到陌生的電腦訊息時，可能會不知所措。\n\n---\n\n[**開放科學的資料託管：第 4.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/f942da0b-a7ae-49fe-880b-0cc0a7198bb4/title
+#, fuzzy
 msgid "How will you describe your data format?"
 msgstr "您將如何描述資料格式？"
 
@@ -7705,10 +7767,12 @@ msgid ""
 msgstr "## 背景說明\n\n明確定義供再次使用的資料之格式與結構，對機器而言比對人更為重要。只要資料類型、資料格式與各個資料元素，都能被「前來存取資料的運算程序」理解，機器就能再次使用您的資料，並在需要時轉換成其他所需格式，同時盡可能降低出錯風險。\n\n因此，務必在「內在後設資料」中納入這些元素的資訊，包括格式、結構及使用的術語系統。即使資料格式十分完善，若未提供格式、結構與術語系統的資訊，機器或許仍可逐一解析所有元素，並「重建」各元素的意義，從而處理資料；但讓機器取得的資訊遠少於所需，再讓它自行推測資料的意義，並不是良好實踐。目前有幾個專案專注於資料溯源、延伸註解、檢索與引用。您應研讀其建議，並在適當時與這些專案合作或使用其服務，以確保後設資料本身具有明確定義的格式，也包含資料本身格式的豐富資訊。\n\n## 建議做法\n\n- 研讀既有的後設資料格式。\n- 盡可能讓後設資料綱要與資料格式保持簡單。\n- 盡可能使用既有的資料類型與格式資源庫及目錄。\n- 盡可能採用能容納豐富資訊的後設資料格式，詳加記錄並提供資訊，因為日後的再次使用情境不一定容易預測。至少在本主題範圍內，應納入資料格式、結構、大小，以及用來指稱資料或後設資料中概念的術語系統等資訊。\n\n## 應避免的做法\n\n- 在有其他可行選擇時，仍採用未被社群普遍接受、因而也未被既有工作流程普遍接受的資料格式。\n- 假定資料本身的結構與 FAIR 程度已經足夠，因此只需提供最少的後設資料。搜尋引擎將愈來愈常利用符合 FAIR 原則的後設資料來尋找並推薦您的資料，因此，資料能否被再次使用，將在很大程度上取決於符合 FAIR 原則的後設資料。\n\n---\n\n[![書籍封面](data:image/png;base64,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)](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) [**開放科學的資料託管：第 2.2.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [![授權](data:image/png;base64,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)](https://taylorandfrancis.com/) 惠允使用。\n"
 
 #: resourcePage/fc6c1a65-1b9f-423d-ab49-fe62b3dec8c4/title
+#, fuzzy
 msgid "What format?"
 msgstr "資料採用什麼格式？"
 
 #: resourcePage/fc6c1a65-1b9f-423d-ab49-fe62b3dec8c4/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7732,10 +7796,12 @@ msgid ""
 msgstr "## 背景說明\n\n許多資料集，尤其是參考資料資源，可能以不同格式提供。例如，生命科學領域的核心資源，如 UniProt 和 HPA，正逐漸以機器可讀的 FAIR 格式提供其核心資料。您需要充分了解資料採用的格式、格式的限制，以及可能的授權限制，才能判斷您可以或不可以如何再次使用這些資料。請注意，即使某項資料資源完全沒有密碼保護，表面上也可供學術用途自由使用，仍然可能存在使用限制。\n\n## 建議做法\n\n- 到您選定的 OPEDAS 來源網站，確認有哪些資料格式可用。\n- 務必選擇最適合您研究中預定分析工作的格式。\n- 如果所需格式無法直接取得，可考慮聯絡資源擁有者，討論是否能以該格式提供資料。\n\n## 應避免的做法\n\n- 未確認是否能取得合適格式（也許在其他網站），就採用較不合適的資料格式。\n- 未確認資料格式及潛在限制是否會妨礙分析或發表，就將資料用於特定目的。\n- 打算日後將成果用於潛在創新或商業用途，卻使用僅限學術用途的資料或資源。\n\n---\n\n[**開放科學的資料託管：第 1.5 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/ac0c34f7-9ba8-4180-abb9-19cdb45620a8/title
+#, fuzzy
 msgid "Will you be storing physical samples?"
 msgstr "您是否會存放實體樣本？"
 
 #: resourcePage/ac0c34f7-9ba8-4180-abb9-19cdb45620a8/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7764,6 +7830,7 @@ msgid ""
 msgstr "## 背景說明\n\n這裡將「生物樣本庫」定義為任何包含生物樣本或生物參考樣本的蒐藏。顯然，大多數生物樣本庫都是為研究目的而建立。如果樣本來自人體，或因其他原因涉及倫理與隱私考量，託管方面的問題就相當重要。您可能已注意到，這裡的「託管」一詞並未搭配「資料」。雖然我們可以主張，組織樣本也是某種「資料」，但由於它並非數位資料，這裡會將實體樣本的討論，與生物樣本庫相關的資料託管分開。生物樣本庫領域的組織與協作比許多其他領域完善，因此，這裡不會涵蓋生物樣本庫及庫內樣本託管的所有問題；相關資訊可見本節的「資源」。不過，仍須強調，樣本與整個生物樣本庫蒐藏的「註解」及後設資料，都應像其他資料一樣符合 F.A.I.R. 原則。\n\n在許多情況下，生物樣本庫及其所含蒐藏的概括後設資料可以「開放」，而樣本的詳細資訊與樣本本身的取用，則因明確的理由受到嚴格管控與限制。\n\n## 建議做法\n\n- 與機構內的專家徹底確認，所屬機構是否已有生物樣本庫及相關基礎設施。\n- 向專業生物樣本庫的擁有者尋求建議；他們管理的樣本與資料集，很可能比您打算建立的更大。藉此妥善規劃支援基礎設施，以及策展與維護所需的投入。他人再次使用您的樣本與資料，可能帶來大量往來聯繫與支援工作，也可能帶來共同發表的機會，請與主管討論。\n- 與團隊、支援人員及主管具體討論蒐藏維護方案，包括樣本、註解及後設資料的版本控制與發布方案，以及使用者支援方案。\n- 諮詢法律與授權專家，確保提供樣本與資料集的做法，在法律層面上能夠持續維持；處理知情同意的可用方式，請見「資源」。\n- 對於維護參考樣本及資料資源的日常服務部分，盡可能與專業、有時是商業性的基礎設施與資料提供者合作。無論在經費取得方式或支援方面，都應嚴格區分「研究與創新」環境和日常服務部分。\n- 確保具備完善的永續維護方案。\n\n## 應避免的做法\n\n- 使用公帑建立生物樣本庫，卻打算不向其他研究人員開放，除非有非常明確且經得起檢視的理由。在研究計畫書中，您將愈來愈需要充分說明不開放蒐藏，尤其是不開放其後設資料的理由；不開放資料可能降低計畫獲選的機會。\n- 因為樣本與資料「顯然很有價值」，就假定「部門裡某個人」會接手長期託管。許多大學缺乏將對第三方「提供服務」納入常態工作的誘因。\n- 建立參考樣本與資料時，未盡最大努力讓註解元素本身及整體後設資料符合 F.A.I.R. 原則，並盡可能使其可由機器處理。\n\n---\n\n[**開放科學的資料託管：第 1.13 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/93b54fa8-a2f2-4f32-b081-1fbe293f0a5e/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7786,6 +7853,7 @@ msgid ""
 msgstr "## 背景說明\n\n您將建立的資料可能屬於全新的類型。在這種情況下，自然不會已有現成的標準格式。不過，即使是全新的資料類型，既有的資料格式或模板也可能適用，或是結合既有格式、詞彙表等就已足夠。只要可行，再次使用既有格式會比建立全新的資料格式更合適。有些社群專門處理這類資料議題，強烈建議與這些社群合作，解決您的資料建模問題。\n\n## 建議做法\n\n- 研究既有格式與詞彙表，尤其是其他學科使用的格式與詞彙表，確認是否適合您的資料類型。\n- 若沒有標準的最佳實踐，可考慮結合既有元素。\n- 諮詢熟悉相近資料類型的專家，確保沒有遺漏任何可能的選擇。\n\n## 應避免的做法\n\n- 未徹底研究既有選擇，就假定您的資料獨一無二，進而建立新的資料格式。\n- 未諮詢相關資料類型領域的專家，就建立資料類型。\n\n---\n\n[**開放科學的資料託管：第 2.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/cb8ef5c5-bb34-4084-b55d-aead8dc188ae/title
+#, fuzzy
 msgid "Are you using data types used by others too?"
 msgstr "您使用的資料類型是否也被其他人使用？"
 
@@ -7816,10 +7884,12 @@ msgid ""
 msgstr "## 背景說明\n\n除非您從事的是全新類型的研究，否則通常已有多種資料格式，可用於擷取、處理及整理您所產生的資料。有些格式可能較為少見，且未被社群中的多數人採用，或已不再使用。這往往意味著，這類資料不易被找到、建立對映、相互操作及再次使用，標準工作流程也較不可能支援處理這些格式。尤其當您打算將所產生的資料與 OPEDAS 結合，進行組合或整合實驗時，資料格式更為重要。在許多情況下，專有或少見格式的資料可以經過整理，轉換成較常用的格式，但這些過程相當繁瑣且容易出錯。因此，務必諮詢專家社群，讓資料採用最適合後續分析的格式，最終也便於您自己的團隊及其他人再次使用。\n\n## 建議做法\n\n- 只要可行，始終採用符合社群慣例、有支援且能長期維持的資料格式。\n- 請專家建議，您將建立的特定資料類型最適合使用哪些格式。\n- 確保您已準備好回答有關資料用途的問題，例如會用哪些工作流程來處理資料。\n- 選擇能表達最豐富資訊的格式。先留白，比日後擴充表達能力不足的格式更容易。\n\n## 應避免的做法\n\n- 假定您的資料如此獨特，必須使用全新的格式。\n- 認為以自由文字作為名稱的試算表，或您自行開發的資料庫，就是儲存及再次使用資料的最佳方式。\n- 將資料整理並儲存為任何格式，卻未保留豐富且相關的後設資料及溯源資訊。\n- 丟棄原始資料，除非您完全確定保留它們不再具有額外價值，例如無須用於審查實驗及分析程序。缺少某些預先格式化的資料，可能會使他人無法發表、再次使用或引用您的原始資料，也可能妨礙相關論文的發表。\n\n---\n\n[**開放科學的資料託管：第 2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/2c756697-f341-4acf-8c13-dba8368420d0/title
+#, fuzzy
 msgid "What format(s) will you use for the data?"
 msgstr "您將使用哪些資料格式？"
 
 #: resourcePage/2c756697-f341-4acf-8c13-dba8368420d0/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7845,6 +7915,7 @@ msgid ""
 msgstr "## 背景說明\n\n一旦確定將產生的資料大致屬於哪種類型，就應仔細確認，採用什麼格式最適合擷取、處理及整理資料。在許多情況下，初始擷取格式會由測量或蒐集資料所用工具搭配的軟體套件決定，這些工具可能是問卷，也可能是高通量儀器。不過，蒐集原始資料後，您可能有許多前處理方式，以及最終資料版本的格式可供選擇，再交由後續分析使用。選擇時應主要依據 FAIR 原則，以及社群對該格式的採用程度；後者又與對映工具、整合工具和一般分析工作流程是否可用有關。若資料採用「簡便、在地自訂」的格式，例如在 Excel 儲存格中填入自由文字，日後可能需要投入大量心力重新整理格式，對資源造成沉重負擔，並帶來前述各種負面影響。\n\n## 建議做法\n\n- 仔細研究您將產生的資料類型有哪些可用格式。\n- 了解社群對這些格式的採用程度。\n- 確認產出的資料能在多大程度上符合 FAIR 原則。\n- 確保資料格式本身，以及您對格式所做的任何修改或增補，都有完整文件記錄，並納入符合 FAIR 原則的後設資料。\n- 若資料格式或模板中的任何必要條件會使資料無法由機器處理，請告知格式及模板的提供者。\n\n## 應避免的做法\n\n- 在資料格式的任何部分使用自由文字，卻未以持續識別碼（PID）對應其所指概念。\n- 明知資料模板中的指示會使資料不符合 FAIR 原則，仍照做；應聯絡模板擁有者予以修正。\n- 自行設計資料模板或格式，除非您完全確定沒有已被社群採用的替代選擇。\n\n---\n\n[**開放科學的資料託管：第 2.1.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5e2ddc84-4dc1-4e00-b7aa-2af573669c21/title
+#, fuzzy
 msgid "Will you store licences with the data?"
 msgstr "您是否會將授權條款與資料一起儲存？"
 
@@ -7877,6 +7948,7 @@ msgid ""
 msgstr "## 背景說明\n\n務必考量資料原始用途以外的使用方式。再次使用他人資料時，其中一個問題是：若未取得明確許可，就不能從倫理或法律角度假定這些資料可以再次使用。將沒有授權條款的資料視為「任何用途都可自由使用」，本質上就是錯誤的；例如在製藥業，日後可能因此引發訴訟。因此，每當發布資料集、其他類型的資訊或數位物件時，都必須明確訂定再次使用的授權條款。軟體已有許多授權條款；資料的標準授權條款也愈來愈多，有些已可使用，有些仍在制定中。請注意，特定授權條款本身也是定義明確的概念，因此也應有持續識別碼，以及指向條款內容所在位置的 URI；某些領域也正在發展機器可讀的授權條款。這表示，在後設資料中，允許資料或工作流程再次使用的授權條款，就只是「放在正確位置的另一個 PID」。使用者便能在搜尋或工作流程容器中，指定「僅納入採用下列授權條款的資料」。\n\n例如，若在分析中納入某些不得用於商業用途的資料，這項決定可能使全部研究結果都無法用於商業用途，至少某些律師會如此認為。這表示，即使您不在意由誰、為何種目的使用資料，完全不為資料指定授權條款，仍然會適得其反，嚴重妨礙他人，尤其是產業界，實際再次使用您的資料。這也會降低標明出處的比例；標明出處通常是授權條款的一部分，因此資料的引用次數及影響力分數也會降低。\n\n## 建議做法\n\n- 務必審慎選擇資料發布時要附上的授權條款。\n- 在後設資料中，以概念及其屬性的形式，納入並明確標示授權條款的 PID。\n- 將授權條款作為後設資料的一部分，儲存並公開於搜尋引擎容易找到的開放取用環境，即使所描述的資料尚未符合 FAIR 原則，甚至有嚴格的取用限制。讓人知道採用特定授權條款的資料集確實存在，是促進資料或資訊來源被有效再次使用的第一步。\n- 尤其在限制資料使用時，請確保能執行所選授權條款、要求使用者遵守。無法執行的授權條款沒有意義。請注意，這類執行工作通常由機構或儲存庫負責，而非個別研究團隊。\n\n## 應避免的做法\n\n- 未附上授權條款就發布資料，或未考量預期的再次使用方式，就草率選擇授權條款。\n- 選擇無法隨資料子集一併傳遞的授權條款；同時，也應確保這種傳遞性不會不當限制資料的再次使用。\n- 選擇不必要地複雜、含有許多條文的授權條款；應盡可能採用研究社群已廣泛用於軟體或資料的條款。\n- 對資料再次使用施加超過必要程度的限制。以公帑產生的資料，預設通常應完全開放；只有在倫理、策略或商業方面有充分理由時，才加以限制。\n- 輕率地選擇不開放資料。多數公部門資助機構會將開放發布資料，列為資助條件中的預設要求。通常會有不適用此要求的選項，但除非無法避免，否則不要使用。研究經費競爭激烈，申請書中任何降低評審意願的因素，都可能導致申請遭拒，而不讓資料進入公眾領域，顯然就是其中之一；即使研究內容的評分已達補助門檻，也可能如此。因此，建議只有在「沒有合理替代方案」時，才限制資料再次使用，尤其是公帑資助的研究計畫，並在資料託管方案中充分說明背後原因。\n\n---\n\n**[開放科學的資料託管：第 2.3.2 章](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)**，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b39047c5-8283-4b8f-aef7-e35548b1f1ba/title
+#, fuzzy
 msgid "Will you need to add data from literature?"
 msgstr "您是否需要加入文獻中的資料？"
 
