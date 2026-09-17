@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:09+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:11+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7226,7 +7226,6 @@ msgid "Will you use Reference Data?"
 msgstr "您是否會使用參考資料？"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/content
-#, fuzzy
 msgid ""
 "*Reference data are defined as OPEDAS that have a status as a 'reference' data set and can be used to 'interpret' other data. Reference data can be available in many formats and could include curated resources like LITMED in the humanities, UniProt or PDB in the life sciences but also resources like a '5 year twitter trend', a 'gold standard' a for instance a \"chuman reference genome\" that you use to define how your data fits in the larger picture.*\n"
 "\n"
@@ -7259,7 +7258,6 @@ msgid ""
 msgstr "*參考資料是指具有「參考」資料集地位、可用來「詮釋」其他資料的 OPEDAS。參考資料可能以多種格式提供，包括人文領域的 LITMED、生命科學領域的 UniProt 或 PDB 等經過策展的資源，也包括「五年的 Twitter 趨勢」、「黃金標準」或「人類參考基因組」等資源，讓您據以判斷自身資料在更大脈絡中的位置。*\n\n## 背景說明\n\n當新產生的資料集規模相對較大且需要詮釋時，參考資料集就愈來愈重要；對小規模資料也同樣如此，例如臨床遺傳學樣本中可能有數百個變異，需要與已知的表現型關聯進行比對。在某些情況下，例如 ELIXIR，這些資源可能被稱為「核心資源」。這類資源通常會動態更新，因此不能預期在不同時間下載或查詢時，內容都完全相同。經過預先分析或預先連結的資料來源，也愈來愈常被納入核心資源與參考資料的範疇。若資料並非來自具授權、且採用明確版本控制與發布政策的提供者，就必須再次確認其溯源資訊、追溯至原始資源的能力，以及所用方法的透明度。\n\n## 建議做法\n\n- 確保您充分了解所有可能與研究相關的可用參考資料來源。\n- 查核這些資料庫的「權威性」，並審慎評估其有效性。\n- 確認使用條件符合您的目的；其中有些資源，例如 HPA，明文禁止商業用途。\n- 確保日後能盡可能精確地重現研究中再次使用的資料；至少應記錄所使用參考資料資源的版本。\n- 如果對可重現性有所疑慮，可考慮下載所引用的資料並妥善典藏。\n- 尋找既有工作流程或方法，以自動或半自動方式將您的資料與參考資料進行比對，避免重新建立已有的工作流程。\n\n\n## 應避免的做法\n\n- 僅在所屬學科中顯而易見的資源裡尋找參考資料。\n- 假定所有參考資料，包括經過同儕審查的文獻，都是正確的。\n- 已有經授權的公開參考資料可用，卻使用未經授權的參考資料。\n- 使用參考資料時未適當引用，或使用他人的帳號；參考資源需要正確追蹤使用者統計資料。\n- 引用會更新卻沒有版本編號的參考資料來源。\n- 引用明顯會更新的資料資源或服務，導致嘗試重現您研究結果的人取得不同版本。\n\n---\n\n[**開放科學的資料託管：第 1.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/title
-#, fuzzy
 msgid "How will you make sure the analysis is best suited to answer your biological question?"
 msgstr "您將如何確保分析最適合回答您的生物學問題？"
 
@@ -7287,12 +7285,10 @@ msgid ""
 msgstr "## 背景說明\n\n選擇最合適的分析方法與工具，大致超出本書的範圍，因為這正是資料分析本身的核心。不過，這個問題也涉及資料託管。首先，在步驟 1 就與您能找到的最合適的統計專家討論，為回答研究問題，需要什麼性質的資料，以及多大的資料量或樣本數，顯然非常重要。這是針對目前實驗將新產生的資料而言。從資料託管的角度來看，另一項重要議題是：在資料驅動的研究中，往往需要共同分析 OPEDAS 或多個新資料集，才能找到所要的答案。因此，除了資料集本身的大小、範圍、品質，以及實驗與對照的考量之外，如何與其他資料進行功能整合或連結，也是一項重大挑戰。為了最終詮釋研究中的模式與現象而需要的其他資料，可能會影響您在資料擷取與儲存時所選擇的大小、格式、資訊豐富程度（包括後設資料）及資料模型。\n\n## 建議做法\n\n- 在步驟 1 與團隊討論新產生資料的「功能整合與連結需求」。\n- 盡可能讓新資料採用與需要相互配合的資料相同的資料格式、後設資料標準、詞彙及資料模型。\n- 考慮並安排可能需要的對映、解析與轉換工作，將其他資料整理成能與您的資料進行功能連結及相互操作的格式。FAIR 資料的一項重要特性，是機器應盡可能將資料解析或轉換成任何其他合適格式，例如某個工具所要求的格式，且不產生錯誤，或將錯誤降至最低。\n\n## 應避免的做法\n\n- 將資料視為僅供單次實驗使用的一次性資產；大多數資料都會在原本範圍或研究之內或之外被再次使用。\n- 將後設資料限制在原先產生資料之研究的預期需求內。應盡可能蒐集可取得且可能有意義的後設資料。\n\n---\n\n[**開放科學的資料託管：第 6.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/title
-#, fuzzy
 msgid "Will you be building Kinetic Models?"
 msgstr "您是否會建立動力學模型？"
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7316,12 +7312,10 @@ msgid ""
 msgstr "## 背景說明\n\n在動力學模型中，研究現象的時空要素至關重要。這表示，用於這類模型的資料，應盡可能附上豐富的時間（間隔）與空間座標資訊。相較於僅用於靜態假說、路徑或知識本體模型的資料，輸入動力學模型的資料，更需要豐富的溯源資訊，以及描述時空面向的後設資料。顯然，許多資料集原本並非為動力學模型而產生，日後卻可能用於這類模型。因此，無論資料是否專為動力學建模而產生，都應將所有時空參數視為日後再次使用資料時可能重要的資訊。也應清楚認知，「模型」本身同樣是研究物件，因此所有 FAIR 原則也都適用；若已有符合需求的模型，就不應另建新模型的原則，也同樣適用。\n\n## 建議做法\n\n- 務必詢問研究團隊，研究的資料分析步驟是否可能採用動力學建模。\n- 養成蒐集並附上「比您認為必要的還要豐富的後設資料」的習慣；您可以選擇不用，但未保留的資訊日後可能無法補救。\n- 若資料是專為動力學建模研究而產生，請特別注意，盡可能完整擷取與空間、時間（間隔）、體積、層級等有關的參數。\n\n## 應避免的做法\n\n- 輕率假定您的資料絕不會用於動力學建模。\n- 未與團隊討論資料可能用於動力學建模的情況。\n- 低估所需記錄的時間、空間與層級資訊應有的「細緻程度」。\n\n---\n\n[**開放科學的資料託管：第 6.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/67b3203a-f611-4894-9dc9-55051a240ff2/title
-#, fuzzy
 msgid "Machine Learning?"
 msgstr "機器學習？"
 
 #: resourcePage/67b3203a-f611-4894-9dc9-55051a240ff2/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7344,12 +7338,10 @@ msgid ""
 msgstr "## 背景說明\n\n如果您的分析將全部或部分採用機器學習，就必須了解，機器學習演算法主要根據「範例」輸入來「建立自己的模型」，從範例中「學習」，再利用「學得」的模型預測其他輸出，例如在新資料中辨識相似模式。這類演算法與那些「知道自己正在處理哪種資料類型」、因此被明確編程以可重現的方式遵循特定指令的演算法，有很大的不同。機器學習通常用於難以明確設計並編寫演算法的運算任務，這顯然會影響所需的資料品質。直覺上，您可能認為「機器自己會弄清楚」正在處理什麼，因此 FAIR 原則不太適用於作為機器學習輸入的資料類型。誠然，資料元素本身可能是「非結構化」的，例如 X 光影像，因此本身並不符合 FAIR 原則。然而，在這種情況下，作為後設資料一部分的註解，其品質與 FAIR 特性，可能比資料元素本身能直接由機器處理及「理解」時更為重要。例如，如果演算法是為了從影像中的模式與顏色學習而設計，則影像應歸入哪個類別的適當脈絡資訊就極為重要，並可成為機器可處理後設資料的一部分。因此，仍須明確區分前面定義的三類資料：內在後設資料、使用者自訂後設資料，以及資料元素（包括「原始」資料本身）。機器學習可以在後設資料與資料元素這兩個層級進行。\n\n## 建議做法\n\n- 明確區分後設資料與資料本身；機器學習可以在兩者上進行。\n- 確保分析工作流程能輕易選擇「納入」或「排除」後設資料與註解。\n- 在後設資料中清楚標示實際資料採用的檔案類型與資料模型，以及如何取用資料以進行機器學習。\n\n## 應避免的做法\n\n- 將後設資料與資料元素放在同一個檔案中，卻未明確區分；應能對兩者一起或分別進行機器學習。\n- 將實際資料與其後設資料分離到這種程度：學習演算法雖然找得到後設資料，卻很難在無人介入的情況下，處理後設資料所描述的「原始」資料。即使您認為原始資料不符合 FAIR 原則，因為無法「立即由機器處理」，特定演算法仍可能處理這些資料，包括文字探勘，以及其他處理非結構化資料的模式辨識演算法。\n\n---\n\n[**開放科學的資料託管：第 6.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/9de91ed5-8998-4b26-8c5d-83e79e66e79e/title
-#, fuzzy
 msgid "Will you use static or dynamic (systems) models?"
 msgstr "您是否會使用靜態或動態（系統）模型？"
 
 #: resourcePage/9de91ed5-8998-4b26-8c5d-83e79e66e79e/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7374,7 +7366,6 @@ msgid ""
 msgstr "## 背景說明\n\n每一組原始資料，以及經過進一步處理的（關聯式）資料與資訊，都以某種資料「模型」記錄。我們將資料「模型」與資料「格式」加以區分，因為格式其實只是資料呈現的「形式」，例如 CSV、矩陣、RDF 等。然而，資料託管員必須仔細選擇資料「模型」，讓資料以最有意義、最容易理解，因而也最容易再次使用的方式呈現；尤其是模型本身應可由機器讀取與處理。這不僅涉及資料本身在格式與識別碼上的一致性。我們將這個議題放在詮釋與分析章節，正是因為它與「資料將用於什麼目的」密切相關。某項研究可能需要對資料重新建模，有時也包括將資料轉為另一種格式，或改變量測單位等。這再次凸顯適當註解（例如使用了哪些量測單位）與資料集溯源資訊的重要性。資料未來的使用者，可能將資料用於與最初產生資料的原因截然不同的目的。\n\n## 建議做法\n\n- 為您的資料仔細選擇最合適的資料模型。\n- 在後設資料中，詳盡說明資料模型的選擇、量測單位、使用的詞彙等。\n- 在後設資料中納入將資料或其元素轉換為其他模型或格式時，可能需要考量的事項。\n- 在假定資料確實可與其他資料進行整合分析之前，先仔細研究資料，尤其是 OPEDAS。\n\n## 應避免的做法\n\n- 尚未仔細確認是否已有合適的格式，就建立新的資料模型或格式。\n- 假定資料元素的性質及格式選擇，例如量測單位，都「不言自明」，因此不必明確說明。\n- 未仔細考量「進入分析工作流程」的不同資料模型之間的相容性與可相互操作性，就整合資料進行分析。\n\n---\n\n[**開放科學的資料託管：第 6.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1b4ea983-9b5c-4a81-80ed-44d30d30d204/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7401,12 +7392,10 @@ msgid ""
 msgstr "## 背景說明\n\n如果詮釋過程涉及自動查詢參考資源，或使用文字探勘管線等方法，您就應了解，並讓團隊其他成員了解，前面所述與「使用 OPEDAS」相關的所有問題。OPEDAS 與工作流程可能經歷版本變更、擴充或策展等處理；即使流程是「自動化」的，這些變動仍可能大幅影響前後執行的結果。尤其當研究團隊多位成員使用這類查詢與詮釋管線時，所有人使用的每項工具與資源，都應是完全相同的版本。如果所有參與詮釋的人都使用您提供的標準化電腦，就更容易做到；但多數情況下，團隊分散在世界各地，可能使用線上版工具、網路服務或本機安裝的版本。如果未像最初擷取資料的儀器一樣，嚴格地校準並確保這些工具與資源一致，就可能引入重大錯誤。\n\n## 建議做法\n\n- 讓研究團隊充分了解詮釋過程中所有可預見的錯誤來源。\n- 確實掌握團隊中每一位參與詮釋過程的人員。\n- 確保所有人使用的每項詮釋工具與資源，版本都完全相同。\n- 確保相互操作過程中可能啟動的所有「自動化探索」管線都完全相同。\n- 記錄詮釋過程的每個步驟，並要求領域專家記錄所使用每項工具與資源的版本。\n- 為每個與詮釋相關的資料子集，記錄其建立者。\n\n## 應避免的做法\n\n- 相信領域專家已充分了解工具中的種種陷阱；對他們而言，這些工具可能只是「資料人員提供」的通用工具。\n- 自己也疏於管理工具與資源的版本，讓混亂情況更加嚴重。\n- 尚未查核所有相關工具與資源的完整性及版本，就彙整團隊中不同人員，或不同自動化系統的詮釋結果。\n\n---\n\n[**開放科學的資料託管：第 6.6 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/1b472491-a686-406c-bca8-a450d6ad4584/title
-#, fuzzy
 msgid "Data?"
 msgstr "資料？"
 
 #: resourcePage/1b472491-a686-406c-bca8-a450d6ad4584/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7428,12 +7417,10 @@ msgid ""
 msgstr "## 背景說明\n\n即使無法在傳統期刊上發表您的「負面結果」，支持結論的資料仍然可以獨立發布，並附上簡短文字，說明問題所在；即使實驗無法重現，或您主張先前的結果有誤，也是如此。以這種方式發布的資料必須符合 FAIR 原則，因為機器也應能得知爭議、負面結果及其他「資料警示」。將負面或有爭議的結果連結至原始論文的 DOI 很重要，因為某些服務便能自動在這些舊論文中加入「重新檢視」的註解，甚至能在 PDF 中顯示；例如 UTOPIAdocs。\n\n## 建議做法\n\n- 發布所有可靠的資料與結果，不論它們是否因為帶來新見解而被視為「正面」。事實上，知道「某件事不是真的或行不通」，也是有意義的新見解。\n- 將負面或有爭議的主張，以機器可讀的 nanopublications 形式發布，並推動其接受同儕評審。\n\n## 應避免的做法\n\n- 忽略負面結果，除非您能解釋為何這些結果不代表有效的新關聯或見解，例如檢視實驗設計或研究後，發現其中有根本缺陷。即使如此，造成設計缺陷的原因仍可能值得發表，因為這能避免他人重蹈覆轍。\n- 嘗試以傳統敘述文章或期刊發表負面結果，尤其是採發表前同儕評審的期刊；這只會帶來挫折。\n\n---\n\n[**開放科學的資料託管：第 7.5.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/57fc7d78-938e-430a-a3a9-31a1bd2889a3/title
-#, fuzzy
 msgid "What will the IP be like?"
 msgstr "智慧財產權（IP）的狀況將如何？"
 
 #: resourcePage/57fc7d78-938e-430a-a3a9-31a1bd2889a3/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7460,7 +7447,6 @@ msgid ""
 msgstr "## 背景說明\n\n對於您新建立的資料，除非資助研究的機構另有規定，智慧財產權（IP）原則上屬於您或所屬機構。不過，對涉及人類受試者的資料而言，法律上的資料所有權很可能屬於參與研究的個人。在這種情況下，您預設是他人資料的「保管者」，這會為身為資料託管員的您帶來許多額外責任。即使是為特定實驗產生的資料，也必須考量如何處理其智慧財產權。然而，建立參考資料時，尤其是透過擷取、轉換、重新載入、策展及「重新包裝」OPEDAS 來建立參考資料集時，來源資料的智慧財產權狀況，以及允許再次使用的授權條款，就格外重要。各國及各地區對這類彙整資料庫的法律規定，包括隱含的所有權，可能不同。來源資料的授權條款可能會延伸適用於您的新資料集；若納入限制嚴格的資料，例如僅限非商業用途，日後可能妨礙參考資料集被廣泛使用，也可能限制您運用參考資料來維持長期營運的能力。\n\n## 建議做法\n\n- 徹底查核所有預計納入的資料來源，其智慧財產權狀況與授權條款。\n- 即使只納入較大資源中的少量子集，也應查核；即使資源乍看是公開的，且未設密碼保護，仍可能有使用限制。\n- 確認您打算納入的資料來源，是否已妥善處理其所使用來源的智慧財產權問題。\n- 對某項資源的授權或智慧財產權狀況有疑問時，請聯絡資料來源的擁有者。\n- 諮詢法律及授權專家，確保建立預定的參考資料集時，不會違反任何明示或隱含的規範。\n\n## 應避免的做法\n\n- 未先諮詢授權專家，就建立參考資料。[查找 Wilbanks 的 OPF 文件]\n- 因為認為「只有自己的部門會使用」，就省略上述查核而建立參考資料；事實上，若只供自己的部門使用，這些資料幾乎就不能稱為「參考資料」。\n- 低估參考資料日後獲製藥業等使用者採用，甚至獲得付費使用，所需的時間與投入，以及使用者查核資料時的嚴格程度。即使資料集沒有附上授權條款、看似開放，大型商業公司若要將其用於核准程序等用途，仍可能面臨重大法律責任風險。\n- 未諮詢專業意見，就為自己的資料選擇授權條款。應在參考資料可接受的範圍內，採用最開放的授權條款；在開放科學中，使用者愈多，通常也愈有機會維持長期營運。\n\n---\n\n[**開放科學的資料託管：第 1.12.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/d8306ea1-549e-4963-a934-7a6500df8fd2/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7486,12 +7472,10 @@ msgid ""
 msgstr "## 背景說明\n\n參考資料集對於他人實驗與結果的詮釋、審查及可重現性，可能十分重要。因此，建立參考資料有助於研究資料的共同利益，而長期維護便是關鍵問題。常見的問題是，參考資料集最初是在專門的學術機構內以相當小的規模建立，直到產生這些資料的研究計畫接近結束，才開始處理永續性問題。一般而言，短週期的資助制度不足以保證參考資料等核心資源的長期永續性。因此，事先規劃參考資料的建立與長期維護，並審慎考量會影響日後「可維護性」的選擇，非常重要。這些選擇包括資料格式、自動化與人工策展的程度、資料基礎設施、預期使用者人數、網路容量，以及機構是否有能力或意願，在內部研究不再直接需要這些資料後，繼續維護「公共資源」。如果其中任何條件不利，您的資源長期而言反而可能讓使用者陷入困境，因為他們的部分科學論述仰賴您的資料，一旦資料無法取得，便會直接受到影響。\n\n## 建議做法\n\n- 與主管及機構徹底確認，是否能在研究計畫結束後繼續維護參考資料。\n- 向專業資料擁有者尋求建議，最好是管理比您打算建立的資料集更大規模資料的人，以妥善規劃支援基礎設施，以及策展與維護所需的投入。他人再次使用您的資料，可能帶來大量往來聯繫與支援工作，也可能帶來共同發表的機會，請與主管討論。\n- 與團隊、支援人員及主管具體討論維護方案，包括資料本身，以及適用時 API 與 GUI 的版本控制及發布方案，還有使用者支援方案。\n- 諮詢法律與授權專家，確保提供資料集的做法，在法律層面上能夠持續維持。\n- 對於維護參考資料資源的日常服務部分，盡可能與專業、有時是商業性的資料提供者合作。無論在經費取得方式或支援方面，都應嚴格區分「研究與創新」環境和日常服務部分。\n\n## 應避免的做法\n\n- 使用公帑建立可能成為參考資料的資料，卻打算不向其他研究人員開放，除非有非常明確且經得起檢視的理由。在研究計畫書中，您將愈來愈需要充分說明不開放資料的理由；不開放資料可能降低計畫獲選的機會。\n- 因為資料「顯然很有價值」，就假定「部門裡某個人」會接手長期託管。許多大學缺乏將對第三方「提供服務」納入常態工作的誘因。\n- 建立參考資料時，未盡最大努力讓資料元素本身及後設資料符合 F.A.I.R. 原則，並盡可能使其可由機器處理。\n\n---\n\n[**開放科學的資料託管：第 1.12.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b0c16c49-0dd8-4652-ab7a-cf9a3aafc85b/title
-#, fuzzy
 msgid "What is the volume of the anticipated data set?"
 msgstr "預期資料集的資料量有多大？"
 
 #: resourcePage/b0c16c49-0dd8-4652-ab7a-cf9a3aafc85b/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7516,7 +7500,6 @@ msgid ""
 msgstr "## 背景說明\n\n資料量只是資料集的其中一個面向，其他面向還包括複雜度、隱私、多樣性等。不過，資料量本身就可能影響資料格式的選擇。有時，您可以只儲存部分資料，而不遺失重要資訊。例如，若已對一群人進行全基因組定序，您可以儲存一份參考基因組，當然也要附上豐富的溯源資訊，再只儲存各個人的序列相對於該參考基因組的差異。這可大幅縮減需要儲存的資料集，降至原始序列的 1% 以下；日後也可以隨時透過「從參考基因組檔案補入其餘序列」，重新產生每個人的完整基因組。\n\n## 建議做法\n\n- 務必先考量資料量，並確定它將如何影響以下選擇：\n- 資料前處理方式。\n- 溯源資訊的儲存方式，包括詳細記錄原始資料經歷了哪些處理，以及處理的方式、時間與原因。\n- 處理後資料的格式與解析度，依工作流程選擇、常用做法等因素決定。\n- 預先確認機構內部或外部的儲存與運算基礎設施，以及取用條件，足以妥善進行資料前處理、儲存及取用。\n- 盡可能預估團隊自身及其他潛在使用者未來對資料的使用需求（請見相關資源）。\n\n## 應避免的做法\n\n- 未經確認，就假定可使用的運算與儲存設施足以滿足需求。\n- 未事先提出充分論證，就建立任何檔案格式、詞彙表或其他資料相關資源。\n---\n\n[**開放科學的資料託管：第 1.15.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3ed446f5-b12c-43ea-bf1b-d02003d3ea2a/title
-#, fuzzy
 msgid "Is re-consent needed?"
 msgstr "是否需要重新取得同意？"
 
