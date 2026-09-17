@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:12+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:13+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7006,7 +7006,6 @@ msgid "Reusability"
 msgstr "可再次使用性"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/abbreviation
-#, fuzzy
 msgid "R"
 msgstr "R"
 
@@ -7019,12 +7018,10 @@ msgid "Good DMP Practice"
 msgstr "良好的資料管理方案實踐"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/abbreviation
-#, fuzzy
 msgid "G"
 msgstr "G"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/description
-#, fuzzy
 msgid "The Good DMP Practice metric describes how appreciated a process is among Data Stewards. A score associated with an answer will be high if a practice would be considered preferable over alternatives, generally a good idea."
 msgstr "良好的資料管理方案實踐指標描述某項流程受到資料託管員認同的程度。如果某項實踐相較於其他做法更值得採用，且普遍被認為是良好的選擇，相關答案的得分就會較高。"
 
@@ -7033,12 +7030,10 @@ msgid "Openness"
 msgstr "開放性"
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/abbreviation
-#, fuzzy
 msgid "O"
 msgstr "O"
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/description
-#, fuzzy
 msgid "The Openness metric describes how Open the data are available. Note that this is different from the Accessibility metric. A score associated with an answer will be high if the data will be as open as possible, and low if voluntary restrictions apply to access and re-use."
 msgstr "開放性指標描述資料的開放程度。請注意，這與可取用性指標不同。如果資料會盡可能開放，該答案對應的得分就會較高；若自行對取用與再次使用設定限制，得分則會較低。"
 
@@ -7055,7 +7050,6 @@ msgid "Before Submitting the DMP"
 msgstr "提交資料管理方案前"
 
 #: phase/1796fa3c-9f53-475f-89ff-c66a0453c42e/description
-#, fuzzy
 msgid "In many research projects, the finished data management plan is one of the early deliverables. Questions that should be addressed in those early months of the project are highlighted as desirable when this phase is selected."
 msgstr "在許多研究計畫中，完成的資料管理方案是早期應交付的成果之一。選擇此階段時，應在計畫初期幾個月內處理的問題，會醒目標示為「適合 (desirable) 於此階段填寫」。"
 
@@ -7064,7 +7058,6 @@ msgid "Before Finishing the Project"
 msgstr "計畫結束前"
 
 #: phase/adc9133d-afcd-4616-9aea-db5f475898a2/description
-#, fuzzy
 msgid "When a project rounds up, this means that all data has found its final spots. In this phase, questions that document the final state of affairs will be labeled as desirable.\n"
 msgstr "計畫進入收尾階段時，所有資料都已有最終的存放位置。在此階段，用來記錄最終狀態的問題會被標記為「適合 (desirable) 於此階段填寫」。\n"
 
@@ -7073,27 +7066,22 @@ msgid "After Finishing the Project"
 msgstr "計畫結束後"
 
 #: phase/1ace0fc6-a949-495f-a32e-e948f3f6bed1/description
-#, fuzzy
 msgid "After a project is finished, the team conducts a comprehensive project review to evaluate its overall success and identify areas for future improvement and followup. Relevant feedback is gathered from stakeholders, and the team is finalizing reports and archiving project documentation. Finally, lessons learned are being documented for future reference. Questions relevant for these processes will be labeled as desirable in this phase."
 msgstr "計畫結束後，團隊會全面檢討計畫，評估整體成果，並找出未來可改進及後續追蹤的事項。團隊會蒐集利害關係人的相關回饋，完成報告並典藏計畫文件。最後，記錄所得經驗，供未來參考。在此階段，與這些流程相關的問題會被標記為「適合 (desirable) 於此階段填寫」。"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/name
-#, fuzzy
 msgid "Science Europe DMP"
 msgstr "Science Europe 資料管理方案"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/description
-#, fuzzy
 msgid "Questions related to Science Europe DMP."
 msgstr "與 Science Europe 資料管理方案相關的問題。"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/name
-#, fuzzy
 msgid "maDMP"
 msgstr "maDMP"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/description
-#, fuzzy
 msgid "Questions related to the DMP Common Standard (RDA) for machine-actionable DMPs."
 msgstr "與 RDA 的資料管理方案通用標準相關的問題，該標準適用於機器可操作的資料管理方案。"
 
