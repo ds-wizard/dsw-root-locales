@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:03+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:04+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8390,10 +8390,12 @@ msgid ""
 msgstr "## 背景說明\n\n數位物件也可能劣化，或變得無法操作。您最近試過讀取磁碟片嗎？資料儲存、檢索及處理技術發展得非常快，因此與一般人的預期相反，數位物件往往比傳統紙本文字或微縮片更快過時，甚至無法讀取。人類語言的溝通方式當然也會演變，閱讀年代久遠的文字同樣並不容易；除了拼寫與風格改變之外，也會受到語意變遷的影響。\n\n然而，即使只是數十年前的檔案，只要未更新成目前使用的格式，往往就已難以復原。因此，需要擬定長期方案，定期「檢查」資料的可讀性與可再次使用性，尤其是那些規模過大、無法以 PDF 這類形式有效儲存及再次使用的資料集。\n\n## 建議做法\n\n- 針對每個產生、下載或取得的資料集，與團隊討論長期維持資料可用性及再次使用的方案。\n- 編列預算，並定期召開會議，討論您所託管各資料集的保存期限與處置選項。\n- 如果將資料託管工作交給可信賴的第三方，請明確移交這些方案、資源與責任。\n- 確保即使資料已「銷毀」或「以磁帶典藏」，後設資料及唯一識別碼仍持續符合 FAIR 原則。\n\n## 應避免的做法\n\n- 混淆可再次使用性與實際的再次使用情況：許多本身有價值的資料，可能多年無人使用，卻突然變得至關重要。同樣地，也有資料已經遺失，到了現在卻可能非常有價值的例子。\n- 未告知團隊並討論決定，就捨棄資料、後設資料、程式碼或工具。資料託管員不一定能輕易判斷資料實際應保存到何時。\n- 已有明確證據顯示資料毀損、不實、錯誤，或因其他原因而過時，卻仍繼續保存，即使資料集很小，或沒有因儲存空間或財務因素而必須刪除的理由。\n---\n\n[**開放科學的資料託管：第 2.5.6 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/baf7527b-c330-4674-9693-04c4f28bb7f3/title
+#, fuzzy
 msgid "Will workflows need to be run locally on the stored data?"
 msgstr "是否需要在資料儲存所在地執行工作流程？"
 
 #: resourcePage/baf7527b-c330-4674-9693-04c4f28bb7f3/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8418,10 +8420,12 @@ msgid ""
 msgstr "## 背景說明\n\n許多資料集即使提供給他人再次使用，也可能因為規模過大，而無法有效且經濟地在不同地點之間「傳送」。此外，隱私、法律或商業限制，也可能使資料無法實際離開您的內部資料儲存庫。這些問題必須在資料產生的早期階段仔細研究，因為它們可能影響資料產生、授權與託管方式的選擇。如果資料無法「傳送」，提供資料供他人再次使用的環境就格外重要。讓人直接「取得資料以供自身用途」的下載伺服器，與允許「工作流程」（運算元件）進入資料所在地、就地進行計算與分析的環境，兩者截然不同。安全與身分驗證問題也很不一樣，此處驗證的對象是前來執行的工作流程；此外，資料所在地還需要有足夠的運算能力，讓工作流程能有效率地完成作業。必須明確界定資料授權，以及本地運算結果可以或不可以如何使用，並建立支援資料「*原地*」再次使用的機制。這些工作也可以委託可信賴的第三方執行。同時請考慮，即使資料本身無法提供給外部對象，其後設資料仍可能完全可以對外提供。\n\n## 建議做法\n\n- 盡可能在擷取資料前，先討論預計產生資料的授權與安全問題，因為這些限制可能大幅影響後設資料擷取策略、格式及實驗預算。\n- 諮詢熟悉工作流程與分散式學習的人員，了解需要滿足哪些要求，才能讓「前來執行的軟體」或一般工作流程充分再次使用您的資料。\n- 使用您的資料試跑工作流程，確認工作流程確實能「取用」資料。\n- 提供豐富的後設資料，說明資料的格式、限制及可用性，例如內部採用哪一種識別碼方案，以及資料尚不適合直接用於哪些特定工作流程的警告。\n\n## 應避免的做法\n\n- 尚未考量預期的再次使用需求，就開始擷取資料，尤其未釐清是採用傳統資料分享，還是讓他人「*原地*」取用資料。\n- 假定機構內「其他人」會處理基礎設施，並支援第三方再次使用資料，卻未確保相關工作已妥善安排，也未編列內部或外部服務的預算。\n- 未準備好回答再次使用條件的問題，而浪費內部或外部支援人員的時間，例如採用下載或*原地*使用、需要何種服務可用時間保證、安全層級及授權條款等。\n\n---\n\n[**開放科學的資料託管：第 2.5.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/f0cb84fb-bb4a-4e5f-a901-638438fe0e77/title
+#, fuzzy
 msgid "Is there budget to enable supported reuse by others (collaboration/co-authorship)?"
 msgstr "是否有預算支援他人再次使用資料（合作／共同署名）？"
 
 #: resourcePage/f0cb84fb-bb4a-4e5f-a901-638438fe0e77/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8450,10 +8454,12 @@ msgid ""
 msgstr "## 背景說明\n\n為資料託管方案規劃適當預算時，非常重要的是，不要只考慮自己研究中對資料的使用。這裡再次引入「資料發布」一詞。我們應像對待研究文章一樣，審慎對待可再次使用的資料集，因此必須確保他人的充分使用、引用與永續性，都獲得考量並編列適當預算。就研究文章而言，外部單位參與敘述文章及其附屬資源，也就是補充資料的格式整理、編輯、同儕評審、出版及保存，早已受到認可；開放取用模式下，這些服務需要付費。對資料也應採取同樣的思考方式。資料是研究的寶貴成果，無論是否打算根據資料撰寫文章，有時還不只一篇，都應獨立「發布」。顯然，資料描述必須足夠豐富，才能讓他人真正再次使用。這意味著要考量可發現性，包括良好的後設資料與持續識別碼，以及可取用性，包括開放取用、限制、授權條款，還有供分析使用的「可下載性」或「*原地*取用」。在「文章」領域，成果的可相互操作性，大致關乎「其他人是否讀得懂」，而這又主要取決於適當的語言、修辭及格式；這些問題通常會在「同儕評審」過程中一併評估與改善。然而，資料的可相互操作性更為複雜。如前所述，文字對電腦而言是場惡夢，因此，機器可讀且可處理的後設資料格式與資料格式至關重要。大多數資料類型已有標準格式，後設資料格式也愈來愈多，應盡可能採用。人類評審將愈來愈無法「逐行檢查」大型資料集，因此必須仰賴您使用的格式與標準。我們預期，資料領域會有愈來愈多可由電腦執行的「品質檢查與完整性檢查」工具，但目前並非所有資料類型都有這類工具。\n\n這表示，研究方案或研究計畫書，應為以符合 FAIR 原則的格式發布資料，編列充分預算。目前正在發展用來認證資料及後設資料是否符合 FAIR 原則的工具，但仍處於起步階段，因此，您可能需要投入大量時間、工作與經費，才能將資料整理成正確格式、接受檢查並實際發布。好消息是，這些發布成本大多屬於研究計畫書中可列支的費用，也包含資料的長期典藏。資料一旦採用正確格式，且大小與形式維持「固定」，通常就能容易地估算長期儲存預算並說明其必要性。\n\n## 建議做法\n\n- 審慎編列資料發布預算。\n- 查核不同的資料發布服務提供者是否可信賴，例如是否獲研究資助者認可或認證。\n- 比較不同發布者的價格，並特別確認是否包含已發布資料的長期保存。\n- 將這部分預算規劃限定於實際「典藏」，作為基本保存成本。\n- 另外編列可能在 HPR 環境中儲存資料及其副本的預算；這可能十分值得，因為能增加資料的再次使用及引用，進而提高「影響力」。\n- 查核機構是否設有資料取用委員會或類似單位。\n\n## 應避免的做法\n\n- 將一次性的格式整理、審查、品質檢查等工作，與真正以符合 FAIR 原則的格式及環境「發布」資料混為一談。這裡的主要考量仍是機器，因為機器是數位大型資料集的主要「使用者」。\n- 假定採用開放原始碼、提供開放取用的學術儲存庫，對資助者及資料的實際再次使用而言，永遠是最佳選擇。這類儲存庫中，有許多無法被找到，或無法持續維護，而這兩者都是符合 FAIR 原則的前提。\n- 將發布費用與預算，和他人再次使用資料的預算混在一起。希望再次使用資料的第三方，應在自己的補助申請中，編列下載費用、重新整理格式等再次使用成本。您沒有責任分擔這些成本；您的責任，是在明確條件下提供資料供人再次使用，而這些條件在某些情況下可能非常嚴格，甚至是商業性的。\n\n---\n\n[**開放科學的資料託管：第 2.5.4.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/0bf99136-74c7-4b3c-a4f4-1468ebb673c0/title
+#, fuzzy
 msgid "Determine needs in Memory/CPU/IO ratios"
 msgstr "確定記憶體／CPU／I/O 的配置比例需求"
 
 #: resourcePage/0bf99136-74c7-4b3c-a4f4-1468ebb673c0/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8482,10 +8488,12 @@ msgid ""
 msgstr "## 背景說明\n\n儲存與運算相關資源的比例，會隨計畫及資料與分析方式的組合而異。不過，整體而言，這種比例通常只會在一定範圍內變動，當然也總有例外。無論是在本地蒐集、儲存龐大資料集，並以大量 CPU 處理，還是讓工作流程前往數千個分散的資料集，執行相對簡單的運算作業，都必須先確定資料大小、各項運算作業的複雜度，進而決定儲存與運算資源的平衡。如果未妥善研究、進行先導測試與試跑，並依據現有專業知識與證據作決定，就可能買進不需要的設備，為機構與同事帶來沉重的維護負擔。反之，如果低估這些問題的複雜性，研究日後就可能遭遇嚴重障礙與延誤，甚至發生資料遺失或毀損。因此，請投入適當時間並採取必要措施，確保依據目前的知識與經費，做出最合適的決定。\n\n## 建議做法\n\n- 仔細研究所需儲存與運算資源的雲端選項，並尋求諮詢。\n- 比較不同雲端服務提供者的價格、服務與安全性；規模較大不一定比較好。\n- 決定透過傳送資料來處理之前，先確認這樣做是被允許的。\n- 請留意，處理非常龐大的資料集時，一般雲端服務提供者的上傳與下載費用可能相當可觀。\n- 權衡使用雲端服務提供者與使用本地設施的成本。\n- 也評估機構內部設備與基礎設施的採購、維護、支援、專業能力及汰換風險。\n- 為每個工作空間及每一批分析，選擇合適的本地或分散式處理方式，不要以單一方式套用所有情況。\n\n## 應避免的做法\n\n- 沒有充分理由，就假定儲存與資料處理都會在機構內部進行，忽略其中龐大的成本與資源調度需求。\n- 購買或租用遠超過實際需求的電腦儲存空間與運算能力。\n- 認為每項運算作業都必須讓運算資源與資料位於同一處。\n- 將「大規模運算問題」與「大規模本地基礎設施」混為一談。\n\n---\n\n[**開放科學的資料託管：第 2.8.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/title
+#, fuzzy
 msgid "Capacity and harmonisation planning"
 msgstr "容量與資料調和規劃"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
