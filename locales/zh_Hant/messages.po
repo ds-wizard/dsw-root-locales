@@ -973,10 +973,12 @@ msgid "Will you need existing data from Agricultural Sciences?"
 msgstr "您是否需要農業科學領域的既有資料"
 
 #: question/b19eab58-3b7f-4b66-b6f2-7e9c2c3c3e27/title
+#, fuzzy
 msgid "Will you need existing data from Social Sciences?"
 msgstr "您是否需要社會科學領域的既有資料"
 
 #: question/849cb43b-8622-4da0-9ef3-ae845dfe58f1/title
+#, fuzzy
 msgid "Will you need existing data from Humanities?"
 msgstr "您是否需要人文學科領域的既有資料"
 
@@ -1250,6 +1252,7 @@ msgid "Will the rightsholder of this dataset work with you on this study?"
 msgstr "此資料集的權利人是否會與您共同進行這項研究？"
 
 #: question/f59d2d89-fe27-4a8a-b3e6-2782bcc2fb97/title
+#, fuzzy
 msgid "Do you need to request access to the data?"
 msgstr "您是否需要申請資料取用權限"
 
@@ -1435,6 +1438,7 @@ msgid "What will you use this non-reference data set for?"
 msgstr "您將把這個非參考資料集用於什麼目的？"
 
 #: question/8cedcf93-7676-4397-b3fc-a81167ff1853/title
+#, fuzzy
 msgid "Do you need to harmonise different sources of existing data?"
 msgstr "您是否需要調和不同來源的既有資料？"
 
