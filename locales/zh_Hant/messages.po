@@ -3784,7 +3784,7 @@ msgstr "只有計畫成員可以讀取及寫入資料"
 
 #: answer/154cd5fc-a79f-4c2e-be67-6985813bbc8d/label
 msgid "Anyone in the institute has read access to the data; all project members have read/write access"
-msgstr "機構內的任何人都可以讀取資料；所有計畫成員皆有讀與寫的權限。"
+msgstr ""
 
 #: answer/b21c9f70-78e7-4975-b776-59e372285662/label
 msgid "Only project members will have read access; only selected project members will be able to write data"
