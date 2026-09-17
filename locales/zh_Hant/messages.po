@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 04:28+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 04:28+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7111,6 +7111,7 @@ msgid "How will you make sure the analysis is best suited to answer your biologi
 msgstr "您將如何確保分析最適合回答您的生物學問題？"
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7130,7 +7131,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 6.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n選擇最合適的分析方法與工具，大致超出本書的範圍，因為這正是資料分析本身的核心。不過，這個問題也涉及資料託管。首先，在步驟 1 就與您能找到的最合適的統計專家討論，為回答研究問題，需要什麼性質的資料，以及多大的資料量或樣本數，顯然非常重要。這是針對目前實驗將新產生的資料而言。從資料託管的角度來看，另一項重要議題是：在資料驅動的研究中，往往需要共同分析 OPEDAS 或多個新資料集，才能找到所要的答案。因此，除了資料集本身的大小、範圍、品質，以及實驗與對照的考量之外，如何與其他資料進行功能整合或連結，也是一項重大挑戰。為了最終詮釋研究中的模式與現象而需要的其他資料，可能會影響您在資料擷取與儲存時所選擇的大小、格式、資訊豐富程度（包括後設資料）及資料模型。\n\n## 建議做法\n\n- 在步驟 1 與團隊討論新產生資料的「功能整合與連結需求」。\n- 盡可能讓新資料採用與需要相互配合的資料相同的資料格式、後設資料標準、詞彙及資料模型。\n- 考慮並安排可能需要的對映、解析與轉換工作，將其他資料整理成能與您的資料進行功能連結及相互操作的格式。FAIR 資料的一項重要特性，是機器應盡可能將資料解析或轉換成任何其他合適格式，例如某個工具所要求的格式，且不產生錯誤，或將錯誤降至最低。\n\n## 應避免的做法\n\n- 將資料視為僅供單次實驗使用的一次性資產；大多數資料都會在原本範圍或研究之內或之外被再次使用。\n- 將後設資料限制在原先產生資料之研究的預期需求內。應盡可能蒐集可取得且可能有意義的後設資料。\n\n---\n\n[**開放科學的資料託管：第 6.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3adbe8d2-932c-4f71-be4e-b044c83331ef/title
 msgid "Will you be building Kinetic Models?"
@@ -7532,6 +7533,7 @@ msgid "Who are the customers that use your workflows?"
 msgstr "誰會使用您的工作流程？"
 
 #: resourcePage/5bbc391e-a75a-4f0b-8335-1d0a7029d69a/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7552,7 +7554,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n許多工作流程最初是由電腦科學家、資料科學家或從事科學研究的程式設計師開發。最初的版本通常屬於學術原型軟體（professorware），但仍可能是您能取得的最佳選擇；此外，這些工作流程往往不容易讓團隊中的實驗科學家使用。這表示，如果選擇這類開發初期的管線與工作流程，而在某些情況下它們也可能是唯一選項，就可能必須在其他團隊成員需要執行工作流程時隨時待命，最壞的情況甚至是每次都只能由您親自執行。如果選用某個工作流程會讓您成為整個作業鏈中的「單一故障點」，那本來就不是理想的選擇。因此，若無法避免這種選擇，請盡可能訓練更多人使用該工作流程。能使用工作流程，與能共同開發新功能或客製功能，仍是不同的能力。\n\n## 建議做法\n\n- 優先選擇最成熟、容易使用，且研究團隊中盡可能多人都能操作的工作流程。\n- 也考慮商業與專有解決方案，但仍應依照選擇任何工作流程時所述的相同原則進行權衡。\n- 如果有不同工作流程可選，請讓研究團隊其他成員參與試跑，並共同選出最合適的選項。\n\n## 應避免的做法\n\n- 選擇對身為資料專家的您而言似乎很容易，但其他團隊成員可能無法操作的工作流程。\n- 過度著迷於「可以自己動手修改」的選項，而犧牲易用性與穩定性。\n- 高估團隊其他成員使用複雜或偏向技術人員的介面的能力，即使您覺得這些介面容易操作且直覺。許多團隊成員在筆記型電腦上看到陌生的電腦訊息時，可能會不知所措。\n\n---\n\n[**開放科學的資料託管：第 4.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/f942da0b-a7ae-49fe-880b-0cc0a7198bb4/title
 msgid "How will you describe your data format?"
