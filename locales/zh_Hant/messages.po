@@ -298,7 +298,6 @@ msgid "Specify the funding grant ID"
 msgstr "請指定補助編號"
 
 #: question/7a6f224d-b787-495f-8310-8a89d2f41774/text
-#, fuzzy
 msgid "Select from the previously mentioned funding grants that will be used to cover this cost."
 msgstr "請從前述補助計畫中，選擇將用於支付此項費用的項目。"
 
@@ -863,7 +862,6 @@ msgid "What specific hard/software do you need, and why?"
 msgstr "您具體需要哪些硬體／軟體？原因為何？"
 
 #: question/87964502-4401-45e5-9084-d6c84a417acf/title
-#, fuzzy
 msgid "Describe national / funder / sectorial / departmental policies and procedures for data management that you will be using"
 msgstr "請說明您將採用國家層級的 / 資助單位的 / 領域別的 / 或部門層級的資料管理相關政策與程序。"
 
