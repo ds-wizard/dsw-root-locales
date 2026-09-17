@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:21+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:22+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -3021,12 +3021,10 @@ msgid "Criminal convictions and offences"
 msgstr "前科與犯罪資料"
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/title
-#, fuzzy
 msgid "What are the exemptions to the prohibition for processing of special categories of data (such as health and genetic data) under Art. 9 GDPR used?"
 msgstr "您依據 GDPR 第 9 條的哪些例外規定，處理特殊類別資料（例如健康及基因資料）？"
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/text
-#, fuzzy
 msgid ""
 "Processing of certain categories of personal data is not allowed unless there are exemptions in law to allow this. Among these categories (“sensitive data”) are *“‘[...] data revealing racial or ethnic origin, [...] genetic data, [...] data concerning health’”*. Most types of personal data collected in biomedical research will fall under these categories. [Article 9](https://gdpr-info.eu/art-9-gdpr/) (2) lists a number of exemptions that apply, of which *consent* and *scientific research* are most likely to be relevant for research. Please consult with your Data Protection Officer of your organisation.\n"
 "State cohort/dataset for each type of exemption."
@@ -3113,7 +3111,6 @@ msgid "Please reconsider"
 msgstr "請重新考量"
 
 #: question/8cc50031-87d5-4b0e-8c3c-c7ded35fd263/title
-#, fuzzy
 msgid "List DPIAs done and for which parts of the data"
 msgstr "請列出已完成的 DPIA，以及各項 DPIA 涵蓋資料的哪些部分。"
 
@@ -3134,37 +3131,30 @@ msgid "Below listed are 9 criteria - provided by the EC - that might indicate th
 msgstr "以下列出由歐盟執委會提供的 9 項準則，這些準則可能顯示您的計畫構成**高風險處理**。請勾選適用於您計畫的指標。各項指標的詳細說明，請參閱連結中的 EC 指南。"
 
 #: choice/7dd41e34-b8fb-4d4a-9dde-eb0954d9718f/label
-#, fuzzy
 msgid "Data concerning vulnerable data subjects including minors, employees, elderly, mentally incapacitated, patients receiving care"
 msgstr "這筆資料涉及弱勢的資料對象，如未成年人、受僱者、高齡者、心智能力受限者，以及正在接受照護的病患。"
 
 #: choice/1b4fef4e-73ba-4f59-8234-92879a6f09d9/label
-#, fuzzy
 msgid "Sensitive data or data of a highly personal nature: which includes racial or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; genetic data; data concerning health; biometric data; sexual orientation"
 msgstr "敏感資料或高度涉及個人隱私性質的資料：包括種族或族裔出身、政治觀點、宗教或哲學信仰、工會會員身分、基因資料、健康相關資料、生物特徵資料，以及性傾向。"
 
 #: choice/63285783-9635-4c55-a781-33f81eff6e9d/label
-#, fuzzy
 msgid "Data processed on a large scale: data of proportion of the relevant population, long term processing, wide geographical scale, large volume or range of data"
 msgstr "大規模資料處理：涉及相關族群中有一定比例的資料、長期的資料處理、跨地理範圍，以及資料量大或資料類型範圍很廣。"
 
 #: choice/cee31df6-624a-4569-ae32-fad3d74dc169/label
-#, fuzzy
 msgid "Automated-decision making with legal or similar significant effect on data subjects"
 msgstr "對資料主體具有法律效果或類似重大影響的自動化決策。"
 
 #: choice/5c331845-fc91-40a0-b8b0-4d55a0664b7b/label
-#, fuzzy
 msgid "Evaluation or scoring on aspects concerning the data subject's performance at work, economic situation, health, personal preferences or interests, reliability or behavior, location or movements"
 msgstr "針對資料主體之工作表現、經濟狀況、健康情形、個人偏好或興趣、可靠性或行為、地理位置或行蹤等面向進行評估或評分。"
 
 #: choice/41d2caa6-14b5-4536-86d6-63f54999e604/label
-#, fuzzy
 msgid "Systematic monitoring, processing used to observe, monitor or control data subjects, including data collected through networks"
 msgstr "系統性監控：用於觀察、監測或控制資料主體的處理作業，包括透過網路蒐集的資料。"
 
 #: choice/fcf05e2f-b25b-45a3-a2fe-460618e3ee7f/label
-#, fuzzy
 msgid "Matching or combining datasets, for example originating from two or more data processing operations performed for different purposes"
 msgstr "比對或合併資料集，例如來自兩個或多個為不同目的執行的資料處理作業。"
 
