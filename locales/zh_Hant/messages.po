@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:47+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:48+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -4280,6 +4280,7 @@ msgid "We are using a different licence"
 msgstr "我們會使用其他授權條款"
 
 #: question/6b5d7d2e-c117-4e61-a597-5207bc7fc057/title
+#, fuzzy
 msgid "What other licence?"
 msgstr "其他授權條款為何？"
 
@@ -4288,6 +4289,7 @@ msgid "Preferably give a web pointer to the license."
 msgstr "最好提供指向該授權條款的網頁連結。"
 
 #: question/c83097bb-e057-4cde-848d-a2e57d6ee3c9/title
+#, fuzzy
 msgid "Is this a recognised reusable open source licence?"
 msgstr "這是否是一種公認且可再次使用的開源授權？"
 
@@ -4456,6 +4458,7 @@ msgid "Do you need to be able to export/import workflows (e.g. in the Common Wor
 msgstr "您是否需要能夠匯出或匯入工作流程，例如以通用工作流程語言 (CWL) 格式？"
 
 #: question/75af1eb3-1e0e-4be8-b0b6-cdb0883c791b/title
+#, fuzzy
 msgid "Do you want your workflow engine to be professionally hosted by a specialised party?"
 msgstr "您是否希望由專業第三方代管您的工作流程引擎？"
 
@@ -4544,6 +4547,7 @@ msgid "Consider changing this!"
 msgstr "考慮修改這部分！"
 
 #: question/4b4d5878-970b-41aa-bbf5-15072e704417/title
+#, fuzzy
 msgid "Will you only use well-scrutinised open source tools?"
 msgstr "您是否只會使用經過充分審查的開源工具？"
 
@@ -4904,6 +4908,7 @@ msgid "Do project members send project data or reports per e-mail or other messa
 msgstr "計畫成員是否會透過電子郵件或其他即時通訊服務傳送計畫資料或報告？"
 
 #: question/a454fffd-f4a4-426d-b758-6d70bc4ee96b/title
+#, fuzzy
 msgid "Do all data centres where project data is stored carry sufficient certifications?"
 msgstr "所有存放計畫資料的資料中心，是否皆取得符合需求的相關認證？"
 
@@ -4920,28 +4925,33 @@ msgid "Project members may need to know about passwords (not sharing accounts, u
 msgstr "計畫成員可能需要了解密碼相關事項（例如不共用帳號、每項服務使用不同密碼，以及雙因素身分驗證）、隨身攜帶資料的安全性（加密、備份）、儲存在自己實驗室與個人雲端帳號中的資料，以及開放式 Wi-Fi 與 HTTPS 的使用。"
 
 #: question/67c34ee1-2e71-423c-97a7-fe6aa3723465/title
+#, fuzzy
 msgid "Did you consider the possible impact to the project or organisation if information is lost?"
 msgstr "您是否考量了資訊遺失可能對計畫或組織造成的影響？"
 
 #: answer/a8a4dc7d-bf8c-44e3-b8b2-3e04f206f460/label
 #: answer/7c9c8543-b8f8-47b0-8279-757dbc14922f/label
 #: answer/ae0c3b93-f054-4052-91c0-fa9c518f5ca8/label
+#, fuzzy
 msgid "Yes; the impact is negligible"
 msgstr "是；影響可忽略不計"
 
 #: answer/a0ec7128-1c2d-4034-b621-211bd01a9839/label
 #: answer/6306207c-7be6-4cdf-86c4-33e0d9898479/label
 #: answer/b1e1861b-b55f-406f-b915-b440c64d8747/label
+#, fuzzy
 msgid "Yes; the impact is acceptably low"
 msgstr "是；影響程度低且可接受"
 
 #: answer/928db5fa-e16f-4c28-a321-ad62e1849b90/label
 #: answer/efec7b38-d9a9-4495-8ba7-625dd7da6a09/label
 #: answer/e8943baf-4c0c-4f30-8b57-88c06f3bc4ad/label
+#, fuzzy
 msgid "Yes; the impact is significant and requires action"
 msgstr "是；影響重大，需要採取行動"
 
 #: question/a20ddc5d-e883-4bc4-9948-36a2cb477d10/title
+#, fuzzy
 msgid "Did you consider the possible impact to the project or organisation if information leaks?"
 msgstr "您是否已考量若資訊外洩可能對計畫或組織造成的影響？"
 
@@ -4950,6 +4960,7 @@ msgid "Your institute may have a generic risk assessment; you should be informed
 msgstr "您的機構可能已有通用的風險評估機制；您應了解相關內容。"
 
 #: question/8cd49d8f-9af0-4ea9-985a-5d45142ac388/title
+#, fuzzy
 msgid "Did you consider the possible impact to the project or organisation if information is vandalised?"
 msgstr "您是否已考量若資訊遭到破壞，可能對計畫或組織造成的影響？"
 
