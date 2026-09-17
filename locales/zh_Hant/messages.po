@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:51+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:52+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6849,18 +6849,22 @@ msgid "Software package:"
 msgstr "軟體套件："
 
 #: question/1024bb15-aaf5-4696-9b49-42898b72a16d/text
+#, fuzzy
 msgid "Provide a title or a name for the software you will be publishing."
 msgstr "請提供您將發布之軟體的標題或名稱。"
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/title
+#, fuzzy
 msgid "Will you be adding an open-source licence?"
 msgstr "您是否會套用開源授權條款？"
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/text
+#, fuzzy
 msgid "Specify whether the software will be distributed under a recognised open-source licence to clarify conditions for reuse, modification, and redistribution. Open Source licenses give a series of permissions (and guarantees) to users of your software. There are a number of different open source licences to choose from."
 msgstr "請說明此軟體是否將以公認的開源授權條款散布，以釐清再次使用、修改與再散布的條件。開源授權條款會賦予軟體使用者一系列權限（及保障）。有多種不同的開源授權條款可供選擇。"
 
 #: question/0184bfcc-69ab-48c8-9d62-e23ae73a60be/title
+#, fuzzy
 msgid "What is the licence?"
 msgstr "授權條款為何？"
 
@@ -6877,6 +6881,7 @@ msgid "Where will the software package be available?"
 msgstr "這個軟體套件將在哪裡提供？"
 
 #: question/87b45400-169d-424d-8e71-d2034618dab5/text
+#, fuzzy
 msgid "Specify where the software will be hosted or distributed, for example GitHub, GitLab, Bitbucket, institutional repositories, Zenodo, or domain-specific repositories."
 msgstr "請指定軟體將託管或散布的位置，例如 GitHub、GitLab、Bitbucket、機構資料儲存庫、Zenodo，或特定領域的資料儲存庫。"
 
@@ -6885,6 +6890,7 @@ msgid "Will this software be listed in a catalogue?"
 msgstr "這個軟體套件是否會列入目錄？"
 
 #: question/3effd452-f0ae-4c25-b971-2b5762889ca4/text
+#, fuzzy
 msgid "Examples include [Software Heritage](https://www.softwareheritage.org/), [bio.tools](http://bio.tools), institutional catalogues, EOSC catalogues, or domain-specific software registries."
 msgstr "例如 [Software Heritage](https://www.softwareheritage.org/)、[bio.tools](http://bio.tools)、機構目錄、EOSC 目錄，或特定領域的軟體登錄冊。"
 
@@ -6893,6 +6899,7 @@ msgid "Are there any other outputs of your project, besides software, that could
 msgstr "除了軟體之外，您的計畫產出是否還有可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question/ee81402b-aefa-4cb6-9743-bb5de655e76d/text
+#, fuzzy
 msgid ""
 "Are there any other outputs of your project, besides software, that could be valuable to other entities (such as researchers, research groups, or institutes)?  \n"
 "Examples may include workflows, protocols, training materials, documentation, ontologies, metadata schemas, curated collections, benchmarks, questionnaires, educational resources, or policy recommendations."
@@ -6907,6 +6914,7 @@ msgid "What is the output?"
 msgstr "這項成果是什麼？"
 
 #: question/88a92e66-ae03-485e-90f4-5c9d67970cd9/text
+#, fuzzy
 msgid "Provide the name or type of the output, for example “metadata schema”, “training manual”, “workflow documentation”, or “benchmark dataset description”."
 msgstr "請提供成果的名稱或類型，例如「後設資料綱要」、「訓練手冊」、「工作流程文件」或「基準測試資料集說明」。"
 
@@ -6915,6 +6923,7 @@ msgid "Why is it valuable?"
 msgstr "這項成果為什麼有再次使用價值？"
 
 #: question/e1b36d54-c7b1-40ba-be4f-c96798fc8187/text
+#, fuzzy
 msgid "Explain how the output may support reproducibility, interoperability, education, validation, standardisation, future research, or reuse by others."
 msgstr "請說明此成果可能如何提升可重現性與可相互操作性、支援教育、驗證、標準化及未來研究，或供其他人再次使用。"
 
@@ -6923,6 +6932,7 @@ msgid "By whom it might be reused?"
 msgstr "哪些對象可能會再次使用這項成果？"
 
 #: question/349c806a-6527-4d58-933a-dd53a31d831f/text
+#, fuzzy
 msgid "Identify potential reusers such as researchers in the same field, interdisciplinary researchers, clinicians, industry partners, educators, policy makers, or infrastructure providers."
 msgstr "請指出可能再次使用這項成果的對象，例如同領域研究人員、跨領域研究人員、臨床醫療人員、產業合作夥伴、教育工作者、政策制定者或基礎設施提供者。"
 
@@ -6931,10 +6941,12 @@ msgid "Is this output available?"
 msgstr "這項成果是否可以取得？"
 
 #: question/04b92f1a-2045-475f-b988-5d2d397fcbe3/text
+#, fuzzy
 msgid "Indicate whether the output is already publicly accessible, restricted, embargoed, or still under development."
 msgstr "請說明此成果目前是已可公開取用、限制取用、處於延後開放期限內，還是仍在開發中。"
 
 #: question/5cf47d97-d32f-4cb4-8fb3-49f3717f0980/text
+#, fuzzy
 msgid "Possible reasons include ongoing development, embargo periods, intellectual property restrictions, privacy or security concerns, contractual obligations, or lack of resources for publication."
 msgstr "可能的原因包括仍在開發中、尚在延後開放期限內、智慧財產權限制、隱私或安全疑慮、契約義務，或缺乏發布所需的資源。"
 
@@ -6943,6 +6955,7 @@ msgid "Where is this output available?"
 msgstr "這項成果可以在哪裡取得？"
 
 #: question/ee3c29ee-1b93-42c7-b369-69c5efdd75b7/text
+#, fuzzy
 msgid "Provide a repository name, catalogue, persistent identifier (PID/DOI), institutional webpage, or another stable access location where the output can be accessed."
 msgstr "請提供可取用此成果的資料儲存庫名稱、目錄、持續識別碼 (PID/DOI)、機構網頁，或其他穩定的取用位置。"
 
