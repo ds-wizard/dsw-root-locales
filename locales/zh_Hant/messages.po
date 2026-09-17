@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 00:31+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 00:32+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6676,6 +6676,7 @@ msgid "Who will take care of authorisation of potential users?"
 msgstr "誰會負責授權潛在使用者取用資料？"
 
 #: answer/ed47c9b7-9c2b-48ab-bdf4-efd8913f673e/label
+#, fuzzy
 msgid "One of the project members will authorise"
 msgstr "由其中一位計畫成員負責授權"
 
@@ -6804,6 +6805,7 @@ msgid "Other outputs"
 msgstr "其他成果"
 
 #: chapter/70cc627a-779b-432e-b928-fd263f1ab24f/text
+#, fuzzy
 msgid ""
 "Projects may produce valuable outputs beyond datasets, such as software, workflows, protocols, documentation, training materials, ontologies, or metadata schemas.\n"
 "\n"
@@ -6815,6 +6817,7 @@ msgid "How do you decide which additional research outputs should be retained?"
 msgstr "您如何決定哪些額外的研究成果需要保留？"
 
 #: question/eb698404-004a-4cdf-a599-be01e0eb7fd2/text
+#, fuzzy
 msgid "This question refers to research outputs beyond datasets, such as code, documentation, lab protocols, questionnaires, reference data, software, or workflows. Please explain how you decide which of these outputs are important to keep, for example, because they are necessary for reproducibility, reuse by others, legal compliance, or future reference. You can also describe any criteria, policies, or team practices used to make these decisions."
 msgstr "這個問題指的是資料集以外的研究成果，例如程式碼、文件、實驗協定、問卷、參考資料、軟體或工作流程。請說明您如何判斷哪些成果重要且需要保留，例如因為它們對研究結果的可重現性、他人再次使用、法規遵循或未來參考而言不可或缺。您也可以描述用來做出這些決定的準則、政策或團隊慣例。"
 
@@ -6823,14 +6826,17 @@ msgid "Are there any other outputs of your project that might be valuable to som
 msgstr "您的計畫成果是否可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question/426bdcb5-d012-4f1d-b99e-36dc3efe6e50/text
+#, fuzzy
 msgid "Consider outputs beyond datasets and publications, such as software, workflows, protocols, ontologies, training materials, documentation, models, or curated reference resources."
 msgstr "請考量資料集與出版品以外的成果，例如軟體、工作流程、協定、知識本體、訓練教材、文件、模型，或經過策展的參考資源。"
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/title
+#, fuzzy
 msgid "Are there any software packages you will be publishing?"
 msgstr "您是否將發布任何軟體套件？"
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/text
+#, fuzzy
 msgid "Include software, scripts, pipelines, notebooks, APIs, plugins, or analysis tools developed or substantially modified within the project."
 msgstr "請納入在計畫中開發或大幅修改的軟體、腳本、管線、程式筆記本（notebook）、API、外掛程式或分析工具。"
 
@@ -6843,18 +6849,22 @@ msgid "Software package:"
 msgstr "軟體套件："
 
 #: question/1024bb15-aaf5-4696-9b49-42898b72a16d/text
+#, fuzzy
 msgid "Provide a title or a name for the software you will be publishing."
 msgstr "請提供您將發布之軟體的標題或名稱。"
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/title
+#, fuzzy
 msgid "Will you be adding an open-source licence?"
 msgstr "您是否會套用開源授權條款？"
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/text
+#, fuzzy
 msgid "Specify whether the software will be distributed under a recognised open-source licence to clarify conditions for reuse, modification, and redistribution. Open Source licenses give a series of permissions (and guarantees) to users of your software. There are a number of different open source licences to choose from."
 msgstr "請說明此軟體是否將以公認的開源授權條款散布，以釐清再次使用、修改與再散布的條件。開源授權條款會賦予軟體使用者一系列權限（及保障）。有多種不同的開源授權條款可供選擇。"
 
 #: question/0184bfcc-69ab-48c8-9d62-e23ae73a60be/title
+#, fuzzy
 msgid "What is the licence?"
 msgstr "授權條款為何？"
 
@@ -6871,6 +6881,7 @@ msgid "Where will the software package be available?"
 msgstr "這個軟體套件將在哪裡提供？"
 
 #: question/87b45400-169d-424d-8e71-d2034618dab5/text
+#, fuzzy
 msgid "Specify where the software will be hosted or distributed, for example GitHub, GitLab, Bitbucket, institutional repositories, Zenodo, or domain-specific repositories."
 msgstr "請指定軟體將託管或散布的位置，例如 GitHub、GitLab、Bitbucket、機構資料儲存庫、Zenodo，或特定領域的資料儲存庫。"
 
@@ -6879,6 +6890,7 @@ msgid "Will this software be listed in a catalogue?"
 msgstr "這個軟體套件是否會列入目錄？"
 
 #: question/3effd452-f0ae-4c25-b971-2b5762889ca4/text
+#, fuzzy
 msgid "Examples include [Software Heritage](https://www.softwareheritage.org/), [bio.tools](http://bio.tools), institutional catalogues, EOSC catalogues, or domain-specific software registries."
 msgstr "例如 [Software Heritage](https://www.softwareheritage.org/)、[bio.tools](http://bio.tools)、機構目錄、EOSC 目錄，或特定領域的軟體登錄冊。"
 
@@ -6887,6 +6899,7 @@ msgid "Are there any other outputs of your project, besides software, that could
 msgstr "除了軟體之外，您的計畫產出是否還有可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question/ee81402b-aefa-4cb6-9743-bb5de655e76d/text
+#, fuzzy
 msgid ""
 "Are there any other outputs of your project, besides software, that could be valuable to other entities (such as researchers, research groups, or institutes)?  \n"
 "Examples may include workflows, protocols, training materials, documentation, ontologies, metadata schemas, curated collections, benchmarks, questionnaires, educational resources, or policy recommendations."
@@ -6901,6 +6914,7 @@ msgid "What is the output?"
 msgstr "這項成果是什麼？"
 
 #: question/88a92e66-ae03-485e-90f4-5c9d67970cd9/text
+#, fuzzy
 msgid "Provide the name or type of the output, for example “metadata schema”, “training manual”, “workflow documentation”, or “benchmark dataset description”."
 msgstr "請提供成果的名稱或類型，例如「後設資料綱要」、「訓練手冊」、「工作流程文件」或「基準測試資料集說明」。"
 
@@ -6909,6 +6923,7 @@ msgid "Why is it valuable?"
 msgstr "這項成果為什麼有再次使用價值？"
 
 #: question/e1b36d54-c7b1-40ba-be4f-c96798fc8187/text
+#, fuzzy
 msgid "Explain how the output may support reproducibility, interoperability, education, validation, standardisation, future research, or reuse by others."
 msgstr "請說明此成果可能如何提升可重現性與可相互操作性、支援教育、驗證、標準化及未來研究，或供其他人再次使用。"
 
@@ -6917,6 +6932,7 @@ msgid "By whom it might be reused?"
 msgstr "哪些對象可能會再次使用這項成果？"
 
 #: question/349c806a-6527-4d58-933a-dd53a31d831f/text
+#, fuzzy
 msgid "Identify potential reusers such as researchers in the same field, interdisciplinary researchers, clinicians, industry partners, educators, policy makers, or infrastructure providers."
 msgstr "請指出可能再次使用這項成果的對象，例如同領域研究人員、跨領域研究人員、臨床醫療人員、產業合作夥伴、教育工作者、政策制定者或基礎設施提供者。"
 
@@ -6925,10 +6941,12 @@ msgid "Is this output available?"
 msgstr "這項成果是否可以取得？"
 
 #: question/04b92f1a-2045-475f-b988-5d2d397fcbe3/text
+#, fuzzy
 msgid "Indicate whether the output is already publicly accessible, restricted, embargoed, or still under development."
 msgstr "請說明此成果目前是已可公開取用、限制取用、處於延後開放期限內，還是仍在開發中。"
 
 #: question/5cf47d97-d32f-4cb4-8fb3-49f3717f0980/text
+#, fuzzy
 msgid "Possible reasons include ongoing development, embargo periods, intellectual property restrictions, privacy or security concerns, contractual obligations, or lack of resources for publication."
 msgstr "可能的原因包括仍在開發中、尚在延後開放期限內、智慧財產權限制、隱私或安全疑慮、契約義務，或缺乏發布所需的資源。"
 
@@ -6937,6 +6955,7 @@ msgid "Where is this output available?"
 msgstr "這項成果可以在哪裡取得？"
 
 #: question/ee3c29ee-1b93-42c7-b369-69c5efdd75b7/text
+#, fuzzy
 msgid "Provide a repository name, catalogue, persistent identifier (PID/DOI), institutional webpage, or another stable access location where the output can be accessed."
 msgstr "請提供可取用此成果的資料儲存庫名稱、目錄、持續識別碼 (PID/DOI)、機構網頁，或其他穩定的取用位置。"
 
@@ -6945,10 +6964,12 @@ msgid "Findability"
 msgstr "可發現性"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/abbreviation
+#, fuzzy
 msgid "F"
 msgstr "F"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/description
+#, fuzzy
 msgid "The Findability metric describes how easily data can be located. The score associated with an answer will be higher if it makes it easier for humans or for computers to locate your data set, e.g. if it ends up in an index or has a unique resolvable identifier."
 msgstr "可發現性指標描述資料被找到的難易程度。如果某個答案所代表的做法能讓人類或電腦更容易找到您的資料集，該答案對應的得分就會較高，例如將資料集收錄於索引，或為其指定可解析的唯一識別碼。"
 
@@ -6957,10 +6978,12 @@ msgid "Accessibility"
 msgstr "可取用性"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/abbreviation
+#, fuzzy
 msgid "A"
 msgstr "A"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/description
+#, fuzzy
 msgid "The Accessibility metric describes how well the access to the database is described and how easy it is to implement. The score associated with an answer will be higher if it makes it easier for humans and computers to get to the data. This is determined by e.g. the protocol for accessing the data or for authenticating users, and also by the guaranteed longevity of the repository. Note that this is different from the Openness metric!"
 msgstr "可取用性指標描述資料庫取用方式的說明是否完善，以及實際取用的難易程度。如果某個答案所代表的做法能讓人類和電腦更容易取得資料，該答案對應的得分就會較高。影響因素包括資料取用或使用者身分驗證所採用的通訊協定，以及儲存庫能保證持續運作多久。請注意，這與開放性指標不同！"
 
@@ -6969,10 +6992,12 @@ msgid "Interoperability"
 msgstr "可相互操作性"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/abbreviation
+#, fuzzy
 msgid "I"
 msgstr "I"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/description
+#, fuzzy
 msgid "The Interoperability metric describes how well the data interoperates with other data. The score associated with an answer will be higher if it makes it easier for humans and computers to couple the data with other data and 'understand' relationships. This is influenced by the use of standard ontologies for different fields and proper descriptions of the relations. It is also influenced by proper standard metadata that is agreed by the community."
 msgstr "可相互操作性指標描述資料與其他資料相互操作的程度。如果某個答案所代表的做法能讓人類和電腦更容易將資料與其他資料串聯，並「理解」彼此的關係，該答案對應的得分就會較高。影響因素包括是否採用不同領域的標準知識本體、是否妥善描述彼此的關係，以及是否使用適當且獲社群認可的標準後設資料。"
 
@@ -6981,6 +7006,7 @@ msgid "Reusability"
 msgstr "可再次使用性"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/abbreviation
+#, fuzzy
 msgid "R"
 msgstr "R"
 
@@ -6993,10 +7019,12 @@ msgid "Good DMP Practice"
 msgstr "良好的資料管理方案實踐"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/abbreviation
+#, fuzzy
 msgid "G"
 msgstr "G"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/description
+#, fuzzy
 msgid "The Good DMP Practice metric describes how appreciated a process is among Data Stewards. A score associated with an answer will be high if a practice would be considered preferable over alternatives, generally a good idea."
 msgstr "良好的資料管理方案實踐指標描述某項流程受到資料託管員認同的程度。如果某項實踐相較於其他做法更值得採用，且普遍被認為是良好的選擇，相關答案的得分就會較高。"
 
@@ -7005,10 +7033,12 @@ msgid "Openness"
 msgstr "開放性"
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/abbreviation
+#, fuzzy
 msgid "O"
 msgstr "O"
 
 #: metric/cc02c5a0-9754-4432-a7e0-ce0f3cf7a0a0/description
+#, fuzzy
 msgid "The Openness metric describes how Open the data are available. Note that this is different from the Accessibility metric. A score associated with an answer will be high if the data will be as open as possible, and low if voluntary restrictions apply to access and re-use."
 msgstr "開放性指標描述資料的開放程度。請注意，這與可取用性指標不同。如果資料會盡可能開放，該答案對應的得分就會較高；若自行對取用與再次使用設定限制，得分則會較低。"
 
@@ -7025,6 +7055,7 @@ msgid "Before Submitting the DMP"
 msgstr "提交資料管理方案前"
 
 #: phase/1796fa3c-9f53-475f-89ff-c66a0453c42e/description
+#, fuzzy
 msgid "In many research projects, the finished data management plan is one of the early deliverables. Questions that should be addressed in those early months of the project are highlighted as desirable when this phase is selected."
 msgstr "在許多研究計畫中，完成的資料管理方案是早期應交付的成果之一。選擇此階段時，應在計畫初期幾個月內處理的問題，會醒目標示為「適合 (desirable) 於此階段填寫」。"
 
@@ -7033,6 +7064,7 @@ msgid "Before Finishing the Project"
 msgstr "計畫結束前"
 
 #: phase/adc9133d-afcd-4616-9aea-db5f475898a2/description
+#, fuzzy
 msgid "When a project rounds up, this means that all data has found its final spots. In this phase, questions that document the final state of affairs will be labeled as desirable.\n"
 msgstr "計畫進入收尾階段時，所有資料都已有最終的存放位置。在此階段，用來記錄最終狀態的問題會被標記為「適合 (desirable) 於此階段填寫」。\n"
 
@@ -7041,46 +7073,57 @@ msgid "After Finishing the Project"
 msgstr "計畫結束後"
 
 #: phase/1ace0fc6-a949-495f-a32e-e948f3f6bed1/description
+#, fuzzy
 msgid "After a project is finished, the team conducts a comprehensive project review to evaluate its overall success and identify areas for future improvement and followup. Relevant feedback is gathered from stakeholders, and the team is finalizing reports and archiving project documentation. Finally, lessons learned are being documented for future reference. Questions relevant for these processes will be labeled as desirable in this phase."
 msgstr "計畫結束後，團隊會全面檢討計畫，評估整體成果，並找出未來可改進及後續追蹤的事項。團隊會蒐集利害關係人的相關回饋，完成報告並典藏計畫文件。最後，記錄所得經驗，供未來參考。在此階段，與這些流程相關的問題會被標記為「適合 (desirable) 於此階段填寫」。"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/name
+#, fuzzy
 msgid "Science Europe DMP"
 msgstr "Science Europe 資料管理方案"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/description
+#, fuzzy
 msgid "Questions related to Science Europe DMP."
 msgstr "與 Science Europe 資料管理方案相關的問題。"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/name
+#, fuzzy
 msgid "maDMP"
 msgstr "maDMP"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/description
+#, fuzzy
 msgid "Questions related to the DMP Common Standard (RDA) for machine-actionable DMPs."
 msgstr "與 RDA 的資料管理方案通用標準相關的問題，該標準適用於機器可操作的資料管理方案。"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/name
+#, fuzzy
 msgid "Horizon 2020 DMP"
 msgstr "Horizon 2020 資料管理方案"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/description
+#, fuzzy
 msgid "Questions related to Horizon 2020 DMP."
 msgstr "與 Horizon 2020 資料管理方案相關的問題。"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/name
+#, fuzzy
 msgid "Horizon Europe DMP"
 msgstr "Horizon Europe 資料管理方案"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/description
+#, fuzzy
 msgid "Questions related to the Horizon Europe DMP"
 msgstr "與 Horizon Europe 資料管理方案相關的問題。"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/name
+#, fuzzy
 msgid "ELSI"
 msgstr "ELSI"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/description
+#, fuzzy
 msgid "Ethical, legal, and social implications / aspects"
 msgstr "倫理、法律與社會的影響／面向"
 
@@ -7089,10 +7132,12 @@ msgid "Data Stewardship for Open Science"
 msgstr "開放科學的資料託管"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/title
+#, fuzzy
 msgid "Submit to an existing database?"
 msgstr "是否要提交至既有資料庫？"
 
 #: resourcePage/9b9544d5-78c8-402b-8805-f89ead205ad2/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7118,10 +7163,12 @@ msgid ""
 msgstr "## 背景說明\n\n在某些情況下，將您的資料加入既有集合，例如國際典藏庫，可能是明智的做法。愈來愈多資助機構與出版者也會提出這項要求。這個過程本身通常相當直接，因為這類公共典藏庫通常由專責機構或聯盟維護，並訂有規則、規範及格式要求，許多也提供清楚的資料上傳與取回說明。請注意，其中有些環境是「靜置」、無法相互操作的典藏庫，或僅供人類再次使用；有些則可能屬於 HPR 環境。對資料產生者而言，兩者可能帶來截然不同的挑戰；也請參考前面針對持續增加或變動的資料集與資源，所討論的更新及版本控制問題。\n\n進一步要考量的是，您是否將自己的資料視為可供策展的「參考」資料，並納入 UniProt 等核心資料資源。在這種情況下，程序可能相當不同，通常應主動與核心資料資源的託管員互動。目前，許多這類資源仍須透過*人工目視擷取*（閱讀），或文字與資料探勘，費力取得要納入策展及加值資源的資料；這兩種方法都很繁瑣，也容易出錯。以適當且無歧義的格式，將您的資料*直接加入*這些核心資源，是良好資料託管實踐的一部分。\n\n## 建議做法\n\n- 務必考量資料的「潛在參考價值」，例如自己的新發現能否豐富 Chembl、UniProt 或 Earthcube 等參考資料來源。\n- 將全部或部分資料提交至合適的「典藏庫」；在適當時，也將選定的資料提供給核心參考資料庫。\n- 使用這些資料資源要求的正確格式與標準，必要時與其聯絡。\n- （請參閱網站中按類別列出的資源、資料庫等？）\n\n## 應避免的做法\n\n- 僅將資料作為文章的「補充檔案」發布，就假定典藏庫、HPR 環境與核心參考資料庫的託管員會自行找到並使用。\n- 上傳資料至這些資源時，未附上適當的後設資料與溯源資訊。\n\n---\n\n[**開放科學的資料託管：第 7.4.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/title
+#, fuzzy
 msgid "How will you document your interpretation steps?"
 msgstr "您將如何記錄詮釋步驟？"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7145,10 +7192,12 @@ msgid ""
 msgstr "## 背景說明\n\n這裡可以簡要說明。前幾個階段，也就是資料擷取與處理階段，所有與文件記錄及溯源資訊相關的議題，同樣適用於資料託管週期的這個階段。唯一可能不同的是，這個階段無可避免地會有人為介入，因此也會引入錯誤與偏差。良好的資料託管員應仔細追蹤並觀察詮釋過程；如果不同的人對實際資料的詮釋差異可能導致異常結果，就應提醒團隊，尤其是當詮釋步驟涉及資料策展、選取資料子集或閱讀非結構化文字時。再次強調，盡可能記錄過程中發生的事情，是良好資料託管的關鍵。\n\n## 建議做法\n\n- 在資料分析與詮釋過程中，扮演「方法把關者」的角色，並記錄「所有事情」。\n- 確保所有參與詮釋的人員，都充分了解評估結果與資料時，哪些「關鍵點」可能出現人為偏差與錯誤；這些問題無法在資料或機器工作流程層級加以控制。\n- 鼓勵每個人仔細記錄這些關鍵點究竟發生了什麼，尤其是資料經過「策展」或「轉換成其他格式」時。\n\n## 應避免的做法\n\n- 假定人類的行為也能像理想情況下的機器與工作流程一樣，具有「嚴格的可重現性」。\n- 在沒有人明顯誤解資料或其性質的情況下，介入詮釋過程本身。\n- 完全退出詮釋過程，導致無法回頭追查造成錯誤詮釋及結論無法重現的重大錯誤。\n\n---\n\n[**開放科學的資料託管：第 6.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/title
+#, fuzzy
 msgid "How are you going to interpret your data?"
 msgstr "您將如何詮釋資料？"
 
 #: resourcePage/0d5b1f09-3ab4-41fb-beb1-8416d184f577/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7172,6 +7221,7 @@ msgid ""
 msgstr "## 背景說明\n\n資料詮釋會導向特定領域的科學假說、結論與應用，但這並不是資料託管員的核心專業。不過，具備與資料詮釋相關領域的基本知識，仍然十分重要。良好的資料託管員需要對「領域專家」的工作有基本了解，而這些專家愈來愈常來自多個不同領域的團隊。研究團隊的選擇，尤其是他們打算如何詮釋資料，可能大幅影響資料格式及「立即可用」的需求。如果詮釋主要仰賴「人工閱讀」，資料輸出與格式的需求，顯然會不同於先大規模走訪圖結構以找出連結模式，再閱讀外部連結的文獻與資料庫內容加以確認的做法。此外，當中間結果出現明顯「不可能」的重大異常時，您需要能夠在下一次全體工作會議揭露這些問題之前，就先辨識出來。\n\n## 建議做法\n\n- 在很早的階段，也就是步驟 1，就考慮預定採用的資料詮釋方法，因為這些方法會影響資料擷取、前處理、策展及功能整合中的許多其他步驟。\n- 確保您對研究團隊成員所具備的領域知識有基本了解。\n- 在資料處理、連結與分析過程中，檢查所有「中間產出」是否有明顯的重大異常，因為這可能表示參數設定等環節有誤。\n- 仔細記錄資料詮釋程序之前及其中採取的所有步驟，包括哪些環節可能引入人為錯誤與偏差。\n\n## 應避免的做法\n\n- 把自己的角色當成「等資料出現後才加入，妥善處理資料，再交付漂亮的圖表與圖片」。\n- 試圖成為領域專家。結果的最終詮釋應交由團隊中的專家負責。尤其當研究涉及多個領域時，不可能精通所有領域；勉強嘗試，可能適得其反，也可能使真正的專家感到不悅。\n\n---\n\n[**開放科學的資料託管：第 6.5.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/53a1b4c5-1966-4686-b758-d4c2ba6b80bf/title
+#, fuzzy
 msgid "Will you use Reference Data?"
 msgstr "您是否會使用參考資料？"
 
