@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:49+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 05:49+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -4988,14 +4988,17 @@ msgid "We pseudonymise inside the project, only limited people can access the ke
 msgstr "我們會在計畫內進行擬匿名化，且只有少數人可以取用金鑰"
 
 #: answer/1653a04e-20e2-4929-9fd5-8c35402ac359/label
+#, fuzzy
 msgid "Pseudonymisation is handled by an independent party in order to allow data coupling"
 msgstr "由獨立第三方處理擬匿名化，以便進行資料串接"
 
 #: question/5d51a103-ec07-4c20-b269-f2f59f26d2cd/title
+#, fuzzy
 msgid "Who is the independent party that keeps the pseudonymisation keys?"
 msgstr "負責保存擬匿名化金鑰的獨立第三方是誰？"
 
 #: answer/c5bdfb9d-33a7-4d0b-82cf-cde1911ad5bc/label
+#, fuzzy
 msgid "We have another way of pseudonymisation"
 msgstr "我們有其他擬匿名化方式"
 
@@ -5021,6 +5024,7 @@ msgid "Note that it is very hard to make data anonymous, and GDPR requires that 
 msgstr "請注意，要將資料真正匿名化非常困難；GDPR 也要求您定期確認資料仍維持匿名狀態。"
 
 #: answer/44348fa8-fd12-49ea-ad7f-48ff88215829/label
+#, fuzzy
 msgid "Yes, all data will be anonymised as early as possible"
 msgstr "是，所有資料都會盡早匿名化"
 
