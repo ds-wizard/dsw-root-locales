@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:15+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:16+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6473,7 +6473,6 @@ msgid "You will be presented with suggestions from [Wikidata](https://www.wikida
 msgstr "系統會提供來自 [Wikidata](https://www.wikidata.org/) 的建議，但您也可以手動輸入未列於其中的授權條款。"
 
 #: reference/6c277217-8bc7-4768-94e2-be019571c94b/label
-#, fuzzy
 msgid "FAIRCookbook on Data Licences"
 msgstr "FAIRCookbook 的資料授權條款頁面"
 
@@ -6528,7 +6527,6 @@ msgid "You will need to explain!"
 msgstr "您需要說明原因！"
 
 #: question/3f3e9c5a-c112-41a6-9084-62c1c266fed6/title
-#, fuzzy
 msgid "Will the data be accessible through a free and standardised access protocol?"
 msgstr "資料是否可透過免費且標準化的取用協定取得？"
 
@@ -6569,7 +6567,6 @@ msgid "Yes, they must stay in the same institute"
 msgstr "是，資料必須留在同一機構內"
 
 #: question/a25b30f4-2d0f-4132-9b8e-0950f0b0ed66/title
-#, fuzzy
 msgid "Could pseudonymisation be used to make the data more openly available?"
 msgstr "是否可以透過假名化（pseudonymization）使資料更加公開可用？"
 
@@ -6578,17 +6575,14 @@ msgid "Legally, pseudonymous data (which means that someone has the key to rever
 msgstr "從法律上而言，擬匿名化資料（亦即仍有人持有可逆轉處理過程之金鑰的資料）仍被視為涉及隱私的敏感資訊。不過，歐盟目前正研議特殊情況：只要金鑰的可取得性受到充分限制，這類資料仍可公開提供。"
 
 #: question/5db6bd58-5d1d-4d02-9497-972cbef64c16/title
-#, fuzzy
 msgid "Can you make use of an existing 'trusted third party' for pseudonymisation?"
 msgstr "您是否能利用現有的「信任的第三方」進行擬匿名化 (pseudonymization)？"
 
 #: question/5db6bd58-5d1d-4d02-9497-972cbef64c16/text
-#, fuzzy
 msgid "Making use of the same pseudonymisation for different studies makes it possible to integrate information later. Obviously it also raises the risk of re-identification."
 msgstr "在不同研究中採用同一套擬匿名化機制，可讓日後整合資訊成為可能。不過，這顯然也會提高資料被重新識別的風險。"
 
 #: question/15ee1921-1fea-4f22-b462-b3cf7cdd4646/title
-#, fuzzy
 msgid "Could anonymisation be used to make the data more openly available?"
 msgstr "是否可以透過匿名化（Anonymization）使資料更加公開可用？"
 
@@ -6613,7 +6607,6 @@ msgid "Explain the procedure for authorized users to access private (e.g., perso
 msgstr "請說明獲得授權的使用者取用非公開資料（例如個人資料）的程序（像是哪些人可取用、需符合哪些條件等）。"
 
 #: question/a18d79d2-74b1-4524-a3c7-2c1a87b66a75/title
-#, fuzzy
 msgid "Are there intellectual property reasons why your data can not be open?"
 msgstr "是否有智慧財產權方面的原因，使您的資料無法開放？"
 
@@ -6671,12 +6664,10 @@ msgid "We will make other arrangements"
 msgstr "我們會另作安排"
 
 #: question/23909308-55cf-4e94-a616-2a74c809aa48/title
-#, fuzzy
 msgid "Who will take care of authorisation of potential users?"
 msgstr "誰會負責授權潛在使用者取用資料？"
 
 #: answer/ed47c9b7-9c2b-48ab-bdf4-efd8913f673e/label
-#, fuzzy
 msgid "One of the project members will authorise"
 msgstr "由其中一位計畫成員負責授權"
 
@@ -6805,7 +6796,6 @@ msgid "Other outputs"
 msgstr "其他成果"
 
 #: chapter/70cc627a-779b-432e-b928-fd263f1ab24f/text
-#, fuzzy
 msgid ""
 "Projects may produce valuable outputs beyond datasets, such as software, workflows, protocols, documentation, training materials, ontologies, or metadata schemas.\n"
 "\n"
