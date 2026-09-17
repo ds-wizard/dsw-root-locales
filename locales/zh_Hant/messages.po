@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:14+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 06:15+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6817,7 +6817,6 @@ msgid "How do you decide which additional research outputs should be retained?"
 msgstr "您如何決定哪些額外的研究成果需要保留？"
 
 #: question/eb698404-004a-4cdf-a599-be01e0eb7fd2/text
-#, fuzzy
 msgid "This question refers to research outputs beyond datasets, such as code, documentation, lab protocols, questionnaires, reference data, software, or workflows. Please explain how you decide which of these outputs are important to keep, for example, because they are necessary for reproducibility, reuse by others, legal compliance, or future reference. You can also describe any criteria, policies, or team practices used to make these decisions."
 msgstr "這個問題指的是資料集以外的研究成果，例如程式碼、文件、實驗協定、問卷、參考資料、軟體或工作流程。請說明您如何判斷哪些成果重要且需要保留，例如因為它們對研究結果的可重現性、他人再次使用、法規遵循或未來參考而言不可或缺。您也可以描述用來做出這些決定的準則、政策或團隊慣例。"
 
@@ -6826,12 +6825,10 @@ msgid "Are there any other outputs of your project that might be valuable to som
 msgstr "您的計畫成果是否可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question/426bdcb5-d012-4f1d-b99e-36dc3efe6e50/text
-#, fuzzy
 msgid "Consider outputs beyond datasets and publications, such as software, workflows, protocols, ontologies, training materials, documentation, models, or curated reference resources."
 msgstr "請考量資料集與出版品以外的成果，例如軟體、工作流程、協定、知識本體、訓練教材、文件、模型，或經過策展的參考資源。"
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/title
-#, fuzzy
 msgid "Are there any software packages you will be publishing?"
 msgstr "您是否將發布任何軟體套件？"
 
@@ -6849,22 +6846,18 @@ msgid "Software package:"
 msgstr "軟體套件："
 
 #: question/1024bb15-aaf5-4696-9b49-42898b72a16d/text
-#, fuzzy
 msgid "Provide a title or a name for the software you will be publishing."
 msgstr "請提供您將發布之軟體的標題或名稱。"
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/title
-#, fuzzy
 msgid "Will you be adding an open-source licence?"
 msgstr "您是否會套用開源授權條款？"
 
 #: question/36938ca8-e22d-47a6-8859-a52f536101c5/text
-#, fuzzy
 msgid "Specify whether the software will be distributed under a recognised open-source licence to clarify conditions for reuse, modification, and redistribution. Open Source licenses give a series of permissions (and guarantees) to users of your software. There are a number of different open source licences to choose from."
 msgstr "請說明此軟體是否將以公認的開源授權條款散布，以釐清再次使用、修改與再散布的條件。開源授權條款會賦予軟體使用者一系列權限（及保障）。有多種不同的開源授權條款可供選擇。"
 
 #: question/0184bfcc-69ab-48c8-9d62-e23ae73a60be/title
-#, fuzzy
 msgid "What is the licence?"
 msgstr "授權條款為何？"
 
@@ -6881,7 +6874,6 @@ msgid "Where will the software package be available?"
 msgstr "這個軟體套件將在哪裡提供？"
 
 #: question/87b45400-169d-424d-8e71-d2034618dab5/text
-#, fuzzy
 msgid "Specify where the software will be hosted or distributed, for example GitHub, GitLab, Bitbucket, institutional repositories, Zenodo, or domain-specific repositories."
 msgstr "請指定軟體將託管或散布的位置，例如 GitHub、GitLab、Bitbucket、機構資料儲存庫、Zenodo，或特定領域的資料儲存庫。"
 
@@ -6890,7 +6882,6 @@ msgid "Will this software be listed in a catalogue?"
 msgstr "這個軟體套件是否會列入目錄？"
 
 #: question/3effd452-f0ae-4c25-b971-2b5762889ca4/text
-#, fuzzy
 msgid "Examples include [Software Heritage](https://www.softwareheritage.org/), [bio.tools](http://bio.tools), institutional catalogues, EOSC catalogues, or domain-specific software registries."
 msgstr "例如 [Software Heritage](https://www.softwareheritage.org/)、[bio.tools](http://bio.tools)、機構目錄、EOSC 目錄，或特定領域的軟體登錄冊。"
 
@@ -6899,7 +6890,6 @@ msgid "Are there any other outputs of your project, besides software, that could
 msgstr "除了軟體之外，您的計畫產出是否還有可能對其他對象有再利用的價值（如研究人員、研究團隊或研究機構）？"
 
 #: question/ee81402b-aefa-4cb6-9743-bb5de655e76d/text
-#, fuzzy
 msgid ""
 "Are there any other outputs of your project, besides software, that could be valuable to other entities (such as researchers, research groups, or institutes)?  \n"
 "Examples may include workflows, protocols, training materials, documentation, ontologies, metadata schemas, curated collections, benchmarks, questionnaires, educational resources, or policy recommendations."
@@ -6914,7 +6904,6 @@ msgid "What is the output?"
 msgstr "這項成果是什麼？"
 
 #: question/88a92e66-ae03-485e-90f4-5c9d67970cd9/text
-#, fuzzy
 msgid "Provide the name or type of the output, for example “metadata schema”, “training manual”, “workflow documentation”, or “benchmark dataset description”."
 msgstr "請提供成果的名稱或類型，例如「後設資料綱要」、「訓練手冊」、「工作流程文件」或「基準測試資料集說明」。"
 
