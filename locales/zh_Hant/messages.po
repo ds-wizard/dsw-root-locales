@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 00:29+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 00:29+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -968,14 +968,17 @@ msgid "RDMkit on Toxicology"
 msgstr "RDMkit 中的毒理學"
 
 #: question/17464e0f-f477-4a45-a556-687a97b0e826/title
+#, fuzzy
 msgid "Will you need existing data from Agricultural Sciences?"
 msgstr "您是否需要農業科學領域的既有資料"
 
 #: question/b19eab58-3b7f-4b66-b6f2-7e9c2c3c3e27/title
+#, fuzzy
 msgid "Will you need existing data from Social Sciences?"
 msgstr "您是否需要社會科學領域的既有資料"
 
 #: question/849cb43b-8622-4da0-9ef3-ae845dfe58f1/title
+#, fuzzy
 msgid "Will you need existing data from Humanities?"
 msgstr "您是否需要人文學科領域的既有資料"
 
@@ -1249,6 +1252,7 @@ msgid "Will the rightsholder of this dataset work with you on this study?"
 msgstr "此資料集的權利人是否會與您共同進行這項研究？"
 
 #: question/f59d2d89-fe27-4a8a-b3e6-2782bcc2fb97/title
+#, fuzzy
 msgid "Do you need to request access to the data?"
 msgstr "您是否需要申請資料取用權限"
 
@@ -1434,6 +1438,7 @@ msgid "What will you use this non-reference data set for?"
 msgstr "您將把這個非參考資料集用於什麼目的？"
 
 #: question/8cedcf93-7676-4397-b3fc-a81167ff1853/title
+#, fuzzy
 msgid "Do you need to harmonise different sources of existing data?"
 msgstr "您是否需要調和不同來源的既有資料？"
 
@@ -1442,6 +1447,7 @@ msgid "If you are combining data from different sources, harmonization may be re
 msgstr "如果您正在整合來自不同來源的資料，可能需要進行資料調和。您也可能需要重新分析部分原始資料。"
 
 #: question/1d1ac8bb-66c8-4b9e-bfc9-4c26f3598062/title
+#, fuzzy
 msgid "Will you be making your harmonisation results available to others?"
 msgstr "您是否會將資料調和的結果提供給他人？"
 
@@ -1565,6 +1571,7 @@ msgid "Samples will receive a universally unique persistent identifier (PID)"
 msgstr "樣本將會取得一組全域唯一的持續識別碼 (PID)"
 
 #: question/d488b314-2b5c-4e79-be1e-c5742205d2a5/title
+#, fuzzy
 msgid "Where will the physical samples be stored?"
 msgstr "實體樣本將存放在哪裡"
 
@@ -1631,11 +1638,13 @@ msgid "There are a few different standards that are often used to give basic inf
 msgstr "有幾種不同標準常用於提供資料集的基本資訊。您將使用其中哪些標準？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/title
+#, fuzzy
 msgid "What standard will you use to specify author/title/keyword information?"
 msgstr "您將使用哪些標準來指定作者、標題與關鍵字資訊？"
 
 #: question/da1d96bb-3eb4-41ca-8629-c9e6b34c63c3/text
 #: question/127bc0d5-8de6-4021-9a95-22b97ed3c308/text
+#, fuzzy
 msgid "You will be presented with suggestions from [FAIRsharing](https://fairsharing.org/), but you also have the option to manually enter the metadata standard that is not listed there."
 msgstr "系統會顯示來自 [FAIRSharing](https://fairsharing.org/) 的建議項目，但您也可以手動輸入未列於其中的後設資料標準。"
 
@@ -1708,6 +1717,7 @@ msgid "Adding more than the strict minimum metadata about your experiment will p
 msgstr "為您的實驗新增超過最低需求的後設資料，有機會讓您的資料被更廣泛地再次使用，並可能提高資料引用率。要預想他人未來可能以哪些方式再次使用您的資料並不容易，因此提供較完整的後設資料尤為重要。"
 
 #: answer/b2ca0d26-7fdd-44f1-b064-bc4cd4c45661/label
+#, fuzzy
 msgid "I will only add the metadata that is \"required\" in the standard"
 msgstr "我僅會新增標準中「必要」的後設資料。"
 
@@ -1744,10 +1754,12 @@ msgid "Do you need to exchange your data with others?"
 msgstr "您的資料是否需要與他人交換？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/title
+#, fuzzy
 msgid "Will a licence be assigned to your datasets?"
 msgstr "您的資料集是否會指定授權條款？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/text
+#, fuzzy
 msgid "It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. It is helpful to associate each data set with a licence as early as possible in the project. A data licence should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable licence."
 msgstr "計畫成員和計畫外部人士不一定都清楚資料集可以如何使用，以及哪些用途不被允許。因此，最好在計畫初期就為每個資料集指定授權條款。理想情況下，資料授權條款應盡可能寬鬆；例如「僅限非商業使用」或「必須標明出處」等限制，都可能降低資料再次使用的可能性，進而減少引用次數。若可行，請採用機器可讀且可由機器處理的授權條款。"
 
@@ -1756,6 +1768,7 @@ msgid "Please consider adding licenses to all datasets you are collecting as soo
 msgstr "請考慮盡快為您正在蒐集的所有資料集指定授權條款。"
 
 #: question/0551adc9-7faa-4ddc-a07b-08fbde2a247b/title
+#, fuzzy
 msgid "Will you store the licences with the data at all time?"
 msgstr "您是否會始終將授權條款與資料一併保存？"
 
