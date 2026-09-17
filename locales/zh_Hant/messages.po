@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-16 01:50+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-17 00:29+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -163,6 +163,7 @@ msgid "Project acronym"
 msgstr "計畫簡稱"
 
 #: question/56163eb0-0101-40b4-b1c1-580875196b5c/title
+#, fuzzy
 msgid "Project ID"
 msgstr "計畫編號"
 
@@ -292,10 +293,12 @@ msgid "Funding grant"
 msgstr "補助計畫"
 
 #: question/7a6f224d-b787-495f-8310-8a89d2f41774/title
+#, fuzzy
 msgid "Specify the funding grant ID"
 msgstr "請指定補助編號"
 
 #: question/7a6f224d-b787-495f-8310-8a89d2f41774/text
+#, fuzzy
 msgid "Select from the previously mentioned funding grants that will be used to cover this cost."
 msgstr "請從前述補助計畫中，選擇將用於支付此項費用的項目。"
 
@@ -860,6 +863,7 @@ msgid "What specific hard/software do you need, and why?"
 msgstr "您具體需要哪些硬體／軟體？原因為何？"
 
 #: question/87964502-4401-45e5-9084-d6c84a417acf/title
+#, fuzzy
 msgid "Describe national / funder / sectorial / departmental policies and procedures for data management that you will be using"
 msgstr "請說明您將採用國家層級的 / 資助單位的 / 領域別的 / 或部門層級的資料管理相關政策與程序。"
 
@@ -935,22 +939,27 @@ msgstr ""
 "* [CERN 開放資料平台](https://opendata.cern.ch/)"
 
 #: question/f2bcb8d2-6a73-43a4-a2d3-16f50e4577a5/title
+#, fuzzy
 msgid "Will you need existing data from Engineering and Technology?"
 msgstr "您是否需要工程與技術領域的既有資料"
 
 #: question/2130427b-2e5e-4282-b703-ee00f1f735c9/title
+#, fuzzy
 msgid "Will you need existing data from Medical and Health Sciences?"
 msgstr "您是否需要醫學與健康科學領域的既有資料"
 
 #: answer/929cbf88-d270-493f-b821-2b62247ba159/advice
+#, fuzzy
 msgid "There are pointers to resources in life sciences at [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)."
 msgstr "生命科學相關資源可參考 [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)。"
 
 #: question/a781badf-f7ee-4588-9478-d31470f00c38/title
+#, fuzzy
 msgid "Will you need existing data for toxicology research?"
 msgstr "您是否需要毒理學研究的既有資料"
 
 #: answer/f971efd1-b0a5-4bc5-829d-148ef9362d37/advice
+#, fuzzy
 msgid "Information about resources for human assays is available on the [RDMkit Toxicology page – human assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies), for animal assays on the [RDMkit Toxicology page – animal assays](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies), and for ecotoxicology on the [RDMkit Toxicology page – ecotoxicology](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)."
 msgstr "人類毒理學資料的相關資源資訊可參考 [RDMkit 毒理學頁面－人類資料（human assays）](https://rdmkit.elixir-europe.org/toxicology_data#data-from-human-assays---existing-data-and-vocabularies)；動物試驗可參考 [RDMkit 毒理學頁面－動物試驗](https://rdmkit.elixir-europe.org/toxicology_data#data-from-animal-assays---existing-data-and-vocabularies)；生態毒理學則可參考 [RDMkit 毒理學頁面－生態毒理學](https://rdmkit.elixir-europe.org/toxicology_data#ecotoxicology-data---existing-data)。"
 
