@@ -163,6 +163,7 @@ msgid "Project acronym"
 msgstr "計畫簡稱"
 
 #: question/56163eb0-0101-40b4-b1c1-580875196b5c/title
+#, fuzzy
 msgid "Project ID"
 msgstr "計畫編號"
 
@@ -292,10 +293,12 @@ msgid "Funding grant"
 msgstr "補助計畫"
 
 #: question/7a6f224d-b787-495f-8310-8a89d2f41774/title
+#, fuzzy
 msgid "Specify the funding grant ID"
 msgstr "請指定補助編號"
 
 #: question/7a6f224d-b787-495f-8310-8a89d2f41774/text
+#, fuzzy
 msgid "Select from the previously mentioned funding grants that will be used to cover this cost."
 msgstr "請從前述補助計畫中，選擇將用於支付此項費用的項目。"
 
@@ -860,6 +863,7 @@ msgid "What specific hard/software do you need, and why?"
 msgstr "您具體需要哪些硬體／軟體？原因為何？"
 
 #: question/87964502-4401-45e5-9084-d6c84a417acf/title
+#, fuzzy
 msgid "Describe national / funder / sectorial / departmental policies and procedures for data management that you will be using"
 msgstr "請說明您將採用國家層級的 / 資助單位的 / 領域別的 / 或部門層級的資料管理相關政策與程序。"
 
@@ -935,10 +939,12 @@ msgstr ""
 "* [CERN 開放資料平台](https://opendata.cern.ch/)"
 
 #: question/f2bcb8d2-6a73-43a4-a2d3-16f50e4577a5/title
+#, fuzzy
 msgid "Will you need existing data from Engineering and Technology?"
 msgstr "您是否需要工程與技術領域的既有資料"
 
 #: question/2130427b-2e5e-4282-b703-ee00f1f735c9/title
+#, fuzzy
 msgid "Will you need existing data from Medical and Health Sciences?"
 msgstr "您是否需要醫學與健康科學領域的既有資料"
 
@@ -948,6 +954,7 @@ msgid "There are pointers to resources in life sciences at [ELIXIR Data resource
 msgstr "生命科學相關資源可參考 [ELIXIR Data resources](https://elixir-europe.org/services/tag/data-resources)。"
 
 #: question/a781badf-f7ee-4588-9478-d31470f00c38/title
+#, fuzzy
 msgid "Will you need existing data for toxicology research?"
 msgstr "您是否需要毒理學研究的既有資料"
 
@@ -961,14 +968,17 @@ msgid "RDMkit on Toxicology"
 msgstr "RDMkit 中的毒理學"
 
 #: question/17464e0f-f477-4a45-a556-687a97b0e826/title
+#, fuzzy
 msgid "Will you need existing data from Agricultural Sciences?"
 msgstr "您是否需要農業科學領域的既有資料"
 
 #: question/b19eab58-3b7f-4b66-b6f2-7e9c2c3c3e27/title
+#, fuzzy
 msgid "Will you need existing data from Social Sciences?"
 msgstr "您是否需要社會科學領域的既有資料"
 
 #: question/849cb43b-8622-4da0-9ef3-ae845dfe58f1/title
+#, fuzzy
 msgid "Will you need existing data from Humanities?"
 msgstr "您是否需要人文學科領域的既有資料"
 
@@ -1242,6 +1252,7 @@ msgid "Will the rightsholder of this dataset work with you on this study?"
 msgstr "此資料集的權利人是否會與您共同進行這項研究？"
 
 #: question/f59d2d89-fe27-4a8a-b3e6-2782bcc2fb97/title
+#, fuzzy
 msgid "Do you need to request access to the data?"
 msgstr "您是否需要申請資料取用權限"
 
@@ -1427,6 +1438,7 @@ msgid "What will you use this non-reference data set for?"
 msgstr "您將把這個非參考資料集用於什麼目的？"
 
 #: question/8cedcf93-7676-4397-b3fc-a81167ff1853/title
+#, fuzzy
 msgid "Do you need to harmonise different sources of existing data?"
 msgstr "您是否需要調和不同來源的既有資料？"
 
@@ -1435,6 +1447,7 @@ msgid "If you are combining data from different sources, harmonization may be re
 msgstr "如果您正在整合來自不同來源的資料，可能需要進行資料調和。您也可能需要重新分析部分原始資料。"
 
 #: question/1d1ac8bb-66c8-4b9e-bfc9-4c26f3598062/title
+#, fuzzy
 msgid "Will you be making your harmonisation results available to others?"
 msgstr "您是否會將資料調和的結果提供給他人？"
 
@@ -6728,6 +6741,7 @@ msgid "Are there any software packages you will be publishing?"
 msgstr "您是否將發布任何軟體套件？"
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/text
+#, fuzzy
 msgid "Include software, scripts, pipelines, notebooks, APIs, plugins, or analysis tools developed or substantially modified within the project."
 msgstr "請納入在計畫中開發或大幅修改的軟體、腳本、管線、程式筆記本（notebook）、API、外掛程式或分析工具。"
 
@@ -6870,6 +6884,7 @@ msgid "I"
 msgstr "I"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/description
+#, fuzzy
 msgid "The Interoperability metric describes how well the data interoperates with other data. The score associated with an answer will be higher if it makes it easier for humans and computers to couple the data with other data and 'understand' relationships. This is influenced by the use of standard ontologies for different fields and proper descriptions of the relations. It is also influenced by proper standard metadata that is agreed by the community."
 msgstr "可相互操作性指標描述資料與其他資料相互操作的程度。如果某個答案所代表的做法能讓人類和電腦更容易將資料與其他資料串聯，並「理解」彼此的關係，該答案對應的得分就會較高。影響因素包括是否採用不同領域的標準知識本體、是否妥善描述彼此的關係，以及是否使用適當且獲社群認可的標準後設資料。"
 
@@ -7109,6 +7124,7 @@ msgid "How will you make sure the analysis is best suited to answer your biologi
 msgstr "您將如何確保分析最適合回答您的生物學問題？"
 
 #: resourcePage/8dcefe03-6ddb-4b5c-82eb-f5f75d4bf005/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7530,6 +7546,7 @@ msgid "Who are the customers that use your workflows?"
 msgstr "誰會使用您的工作流程？"
 
 #: resourcePage/5bbc391e-a75a-4f0b-8335-1d0a7029d69a/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7557,6 +7574,7 @@ msgid "How will you describe your data format?"
 msgstr "您將如何描述資料格式？"
 
 #: resourcePage/f942da0b-a7ae-49fe-880b-0cc0a7198bb4/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7667,6 +7685,7 @@ msgid "Are you using data types used by others too?"
 msgstr "您使用的資料類型是否也被其他人使用？"
 
 #: resourcePage/cb8ef5c5-bb34-4084-b55d-aead8dc188ae/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
