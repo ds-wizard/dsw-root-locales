@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:05+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:05+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8148,6 +8148,7 @@ msgid "Is all software for steps in your work flow properly maintained?"
 msgstr "工作流程各步驟使用的軟體是否都獲得妥善維護？"
 
 #: resourcePage/8bc8338d-d07d-44c5-a4a5-d65595361401/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8173,7 +8174,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.4.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n資料前處理或分析所使用的軟體存在差異，是造成錯誤與缺乏可重現性的常見原因。回顧導論中「學術原型軟體（professorware）」一詞，許多軟體套件與演算法甚至還達不到那種程度，只是由部門的資訊人員使用自己碰巧熟悉的程式語言，所撰寫的客製程式。\n\n學術文化要求資料科學家與工程師發表新的演算法及軟體套件，促使大家傾向為相同研究步驟開發多套客製工作流程。然而，要讓相同資料產生可重現的結果，工作流程及其使用的所有元素，例如文字探勘用的敘詞表、參考資料清單等，都必須完全相同。但在許多情況下，一個或多個元件的文件、維護或版本管理並不完善，甚至由不受您控制的人決定更新，卻未通知您。因此，應將沒有必要卻自行撰寫資料分析軟體或演算法，視為良好資料託管的首要大忌。除非您是第一個進行某種實驗的人，否則所需處理與分析類型的軟體、工作流程或管線，很可能早已存在。\n\n即使使用科學社群開發的既有開放原始碼（OS）軟體，也應先確認程式碼有妥善的支援、版本管理與文件。否則，您很可能很快就會面臨無法補救的可重現性問題。公部門工作流程逐漸失效，在許多情況下是相當嚴重的問題。此外，許多開放原始碼工作流程是由網路服務型元件依序執行而成。如果其中某個元件離線，或在未妥善管理及通知的情況下改變，工作流程就可能無法正常執行，或產生無法解釋的結果差異。因此，確保所選軟體元件具有足夠的穩定性與品質，足以承擔將珍貴資料交由它們處理的風險，是資料託管員極為重要的核心工作。即使是商業供應且經過專業開發的軟體與管線，也始終存在風險：提供工具支援的公司可能沒有完善的版本管理與支援協議，甚至可能退出市場。已有充分證據顯示，某些工具即使被評估為不適合執行所用的任務，之後仍會被持續使用多年，相關研究也仍能通過同儕審查。\n\n## 建議做法\n\n- 確實調查有哪些工具與服務，能在效能、穩定性、版本管理、文件及可持續性方面符合您的品質標準。有些領域設有工具登錄冊，並提供特定工具或工作流程問題的評論。\n- 只選擇可取得的工具中最常用且經過驗證者。即使如此，也仍應為自己仔細記錄在資料處理作業中使用工具的日期、版本與條件。\n- 也檢查底層元件與外掛程式的穩定性等因素。如前所述，如果文字探勘模組在兩次執行之間更換術語系統的版本，即使文字探勘軟體本身完全穩定，結果也會大不相同。\n- 對上述任何面向只要有一絲疑慮，就應聯絡軟體或工具的擁有者，並確保日後能使用完全相同的組合與版本。如果工作流程或工具才剛發布，且沒有證據顯示未來會妥善開放原始碼，或以其他方式持續提供，使用前請三思。\n\n## 應避免的做法\n\n- 對工具的重視程度不如對資料本身。這表示應擷取並妥善託管工具的後設資料，包括如何使用、所用版本與元件、使用時間，以及確切的輸入與輸出資料，其細心程度應與託管資料本身相同。\n- 在仍有其他可行選項時，開發軟體或其他資料工具。例如，只為了興趣或發表，就打造比商業替代品快 20% 的新工具，並在*評估工具本身*以外的用途上，用此工具處理珍貴資料，應被視為資料託管員不可涉足的做法。\n- 僅因工具是開放原始碼，就認為工具及您可能加入的功能會獲得良好支援。除非有具備一定可持續性的基金會或公司提供支援，否則無論工具是否開放原始碼，都很可能在一段時間後，隨著「開發它的博士生離開」，直接離線，或產生品質低劣、與先前大不相同的結果。\n\n---\n\n[**開放科學的資料託管：第 2.4.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/8165f045-5855-43e1-b858-0966dedf2965/title
 #, fuzzy
@@ -8333,6 +8334,7 @@ msgid "Re-use considerations: Will the archive need to be online?"
 msgstr "再次使用考量：典藏庫是否需要保持在線上？"
 
 #: resourcePage/c7356236-356f-43cc-9bc8-7c1e09c84634/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8354,7 +8356,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.5.3**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n「離線」典藏庫，當然仍須在線上提供符合 FAIR 原則的後設資料，與在線上提供、可立即再次使用的資料典藏庫，兩者有很大的差異。實際上，較好的做法是將「典藏庫」一詞保留給這種情況：實際資料處於「離線」狀態，使用者透過符合 FAIR 原則的後設資料找到資料後，可以從典藏庫取回，並「依需求提供再次使用」。這類典藏庫應與「高效能再次使用」（HPR）環境區分；後者將資料維持在適合頻繁再次使用的格式。HPR 環境對提供資料之基礎設施的頻寬、持續運作時間與支援，有高得多的要求。\n\n## 建議做法\n\n- 務必區分依請求取回資料供再次使用的「離線典藏」，與「高效能再次使用」（HPR）環境。\n- 了解後者的成本可能比前者高出一個數量級。\n- 為資料最初產生與詮釋所涉及的實驗及分析結束後，採用上述任一形式的「典藏」編列足夠預算。\n- 考量使用者可能需要全天候取用資料；這通常超出學術機構的能力與職責範圍。\n\n## 應避免的做法\n\n- 尚無充分理由預期資料會被頻繁再次使用，也沒有相關證據，卻將資料長期存放於 HPR 環境中。\n- 假定只要把資料「放在某處讓人下載」，就算提供資料供再次使用。提供可再次使用的資料，也伴隨資料託管責任，有時還會帶來許多問題，您必須事先做好準備。\n- 在沒有明確授權與人員配置的情況下，將自己的團隊視為「本地 HPR」節點。您可能需要編列預算，將資料「移交」給可信賴且專業的儲存庫或 HPR 環境。\n\n---\n\n[**開放科學的資料託管：第 2.5.3 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/5333b844-4ba4-4d8d-a039-f4473e1d2b07/title
 #, fuzzy
