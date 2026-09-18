@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:09+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:20+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -5593,14 +5593,13 @@ msgid "What repository will this data be stored in?"
 msgstr "這份資料會儲存在哪一個資料儲存庫？"
 
 #: question/80a682bd-8a5c-4a52-935d-680509838a4e/text
-#, fuzzy
 msgid ""
 "Domain repositories often have the best functionality to make the data findable and reusable: even though it may look like a database that could be reused in a completely different field would be better findable in a generic repository, the limited availability of domain-specific metadata make that less valuable.\n"
 "\n"
 "Many repositories are listed in [FAIRsharing](https://fairsharing.org/)\n"
 "\n"
 "If a repository offers to give your data set a DOI or alternative persistent identifier it is a good idea to use that option."
-msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 https://fairsharing.org/\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
+msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 [FAIRsharing](https://fairsharing.org/)\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
 
 #: answer/1dc412c6-da92-4cc2-8639-316c0c6ec5ff/label
 msgid "A domain-specific repository"
