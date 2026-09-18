@@ -6837,7 +6837,7 @@ msgstr "您是否將發布任何軟體套件？"
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/text
 msgid "Include software, scripts, pipelines, notebooks, APIs, plugins, or analysis tools developed or substantially modified within the project."
-msgstr "請納入在計畫中開發或大幅修改的軟體、腳本、管線、程式筆記本（notebook）、API、外掛程式或分析工具。"
+msgstr ""
 
 #: question/1ae8d7b0-4bcd-4914-aaea-fa389fc056f4/title
 msgid "Specify a list of software packages you will be publishing"
