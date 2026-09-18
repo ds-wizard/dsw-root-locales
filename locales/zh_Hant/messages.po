@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:07+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:08+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8882,7 +8882,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 7.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr "## 背景說明\n\n「開放取用」一詞常與「科學 1.0」相連結；當時，學術溝通仍主要透過學術期刊進行，後來才*擴展*至一併發布「補充資料」。新的主張及其論證，都包含在文章文字中。出版制度逐漸變得扭曲：研究人員「免費」發表，文字卻被藏在防火牆後，讀者得付費才能閱讀。我們所知的開放取用，只是另一種採「污染者付費」邏輯的商業模式；換句話說，改由作者支付出版費，所有人都能免費閱讀文章。這雖然是一項改善，但在根本上，並不比舊制度更能支持開放科學。首先，資源較匱乏機構的作者不容易負擔出版費，因此再次處於不利位置。其次，原本要讀的東西就已經太多，現在又更多了。第三，資料是開放科學的關鍵資產，但開放取用文章中的資料，不一定比非開放文章中的資料更容易被找到；TIFF 圖像形成的阻隔與失效連結，也不一定有所改善。因此，以開放取用方式*獨立發布資料*極為重要，也是良好資料託管員的核心工作。這裡也必須清楚區分後設資料與實際資料。可以主張，任何研究物件的後設資料，不論物件是文章、資料集或軟體，都應符合 FAIR 原則並提供開放取用；如前所述，FAIR 中的 A 與開放並不相同。然而，可能有充分理由，讓文字或資料僅能在明確但受限制的條件下取用。這可能源自病人隱私或國家安全考量，也可能是為了競爭優勢，尤其是私部門產生的資料。不過，對公帑產生的資料而言，後者很難成為充分理由。這類資料預設應視為公共財；若要阻止他人再次使用，就必須在資料託管方案中提出非常有力的理由。前面也已討論過，將龐大的原始資料與符合 FAIR 原則的後設資料分開的理由。原始資料可能太大，不適合放在高效能再次使用（HPR）環境中；這類環境的成本通常比磁帶等儲存方式高出數個數量級。因此，一般而言，符合 FAIR 原則的後設資料，能讓您的資料與工具參與 FAIR 開放科學生態系統。\n\n## 建議做法\n\n- 清楚考量每個資料集是由公部門、私部門，還是兩者共同資助產生。\n- 預設後設資料始終符合 FAIR 原則，且其中的 A 採取不受任何限制的開放取用。\n- 與研究團隊審慎決定，每個資料集的實際資料元素，最適合採用何種授權條款。\n- 在資料託管方案中納入預定的限制程度，即使仍在研究計畫書階段，也應如此。再次提醒，多數資助者預設資料應開放，因此，若要主張採用較嚴格的授權條款，必須極為審慎地準備理由，因為這可能影響計畫獲得補助的機會。\n- 盡可能使用開放原始碼軟體，但絕不能因此犧牲專業品質、版本控制、文件、永續性，以及服務層級協議（SLA）所保障的支援。\n- 處理軟體時，應以明確的授權條款開放程式碼，但在此之前，先考量永續性問題。沒有適當社群支援或授權支援的開放原始碼，對社群而言是「有毒的禮物」，因為它可能嚴重損害研究的可重現性。\n\n## 應避免的做法\n\n- 將沒有適當授權條款的資料或軟體，視為「開放」且「可再次使用」。它們並不是；企業通常不會使用授權與支援情況尚未明確的資料或軟體。\n- 以超過實際所需限制程度的授權條款，發布資料或軟體。\n- 在沒有隱私、安全或永續性方面的實際需要時，仍為資料或軟體採用限制性授權條款；若確有這些需要，應在未來的資料託管方案中充分論證。\n- 在尚未確認資料能被團隊以外的人找到、能在明確條件下被取用，且機器只需稍作調整就能與之相互操作之前，就將資料稱為「開放」且「可再次使用」。只要缺少其中任何一項，資料仍然「無法有效再次使用」。\n- 發布資料或軟體時，未附上能讓人正確引用的屬性與說明。\n\n---\n\n[**開放科學的資料託管：第 7.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
+msgstr ""
 
 #: resourcePage/fec3540d-b6fb-42f2-8119-50e02d94edb1/content
 #, fuzzy
