@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:05+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:07+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8658,7 +8658,6 @@ msgid "Tools and data Directory (for the experiment)"
 msgstr "實驗工具與資料目錄"
 
 #: resourcePage/a272393c-5298-444e-8eb8-fdec0d965720/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8681,7 +8680,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr "## 背景說明\n\n實驗中使用的所有工具、工作流程與資料集合，都應列入完整目錄，讓研究團隊所有成員隨時可以取用。\n\n在研究與資料週期的資料處理階段，除了應避免讓自己成為單點失效的風險，也應為每項實驗使用的所有資料處理工具，維護專業且容易取用的目錄；這十分重要，也能節省時間。最好的做法是建立總目錄，提供工具及其元件完整的後設資料與溯源資訊。每項工具或元件，包括各個不同版本，都應有唯一識別碼。如此，每項實驗都能透過這份總目錄，指明實際使用哪些工具，以及在何時、如何使用。這對分散式研究計畫尤其重要。請選取部分工作流程與資料的組合，在所有基礎設施上執行，以確保一致性。讓管線能在不同工作空間間移植，最終可採用 VM 類型的容器，有助於降低分散式團隊在不同子工作空間中產生不同結果的風險。\n\n## 建議做法\n\n- 為所有實驗使用的全部工具維護總目錄，並確保團隊成員都知道這份目錄。\n- 確保所有團隊成員都能取用目錄，並在實驗室筆記本及其他需要的場合適當引用。\n- 確保目錄足夠穩定且專業，能作為正式的工具資源庫，供審查與可重現性檢查使用。\n- 為工作流程錯誤制定應變方案，納入替代選項，例如叢集、網格或雲端。\n\n## 應避免的做法\n\n- 在資料上執行工作流程，卻未引用目錄中該工作流程的通用描述。\n- 執行工作流程時，未記錄使用的確切版本；較好的做法是讓總目錄中每項工具的每個版本，都有自己的 PID。\n- 在總目錄中用自己的文字描述第三方工具，卻未提供足夠的後設資料、溯源資訊與連結，讓所有團隊成員都能追查工具的來源。\n---\n\n[**開放科學的資料託管：第 4.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
+msgstr ""
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/title
 #, fuzzy
