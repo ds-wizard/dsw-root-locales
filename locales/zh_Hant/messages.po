@@ -8683,9 +8683,8 @@ msgid ""
 msgstr ""
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/title
-#, fuzzy
 msgid "Will you use a workflow e.g. with tools for database access or conversion?"
-msgstr "您是否會使用工作流程，例如包含資料庫取用或轉換工具的工作流程？"
+msgstr ""
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/content
 #, fuzzy
