@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 00:56+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:04+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7857,7 +7857,6 @@ msgid "Are you using data types used by others too?"
 msgstr "您使用的資料類型是否也被其他人使用？"
 
 #: resourcePage/cb8ef5c5-bb34-4084-b55d-aead8dc188ae/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7880,7 +7879,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr "## 背景說明\n\n除非您從事的是全新類型的研究，否則通常已有多種資料格式，可用於擷取、處理及整理您所產生的資料。有些格式可能較為少見，且未被社群中的多數人採用，或已不再使用。這往往意味著，這類資料不易被找到、建立對映、相互操作及再次使用，標準工作流程也較不可能支援處理這些格式。尤其當您打算將所產生的資料與 OPEDAS 結合，進行組合或整合實驗時，資料格式更為重要。在許多情況下，專有或少見格式的資料可以經過整理，轉換成較常用的格式，但這些過程相當繁瑣且容易出錯。因此，務必諮詢專家社群，讓資料採用最適合後續分析的格式，最終也便於您自己的團隊及其他人再次使用。\n\n## 建議做法\n\n- 只要可行，始終採用符合社群慣例、有支援且能長期維持的資料格式。\n- 請專家建議，您將建立的特定資料類型最適合使用哪些格式。\n- 確保您已準備好回答有關資料用途的問題，例如會用哪些工作流程來處理資料。\n- 選擇能表達最豐富資訊的格式。先留白，比日後擴充表達能力不足的格式更容易。\n\n## 應避免的做法\n\n- 假定您的資料如此獨特，必須使用全新的格式。\n- 認為以自由文字作為名稱的試算表，或您自行開發的資料庫，就是儲存及再次使用資料的最佳方式。\n- 將資料整理並儲存為任何格式，卻未保留豐富且相關的後設資料及溯源資訊。\n- 丟棄原始資料，除非您完全確定保留它們不再具有額外價值，例如無須用於審查實驗及分析程序。缺少某些預先格式化的資料，可能會使他人無法發表、再次使用或引用您的原始資料，也可能妨礙相關論文的發表。\n\n---\n\n[**開放科學的資料託管：第 2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
+msgstr ""
 
 #: resourcePage/2c756697-f341-4acf-8c13-dba8368420d0/title
 #, fuzzy
