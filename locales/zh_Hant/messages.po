@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:09+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:09+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -9409,8 +9409,9 @@ msgid ""
 msgstr "## 背景說明\n\n文字探勘，也就是從非結構化文字擷取結構化資訊，本身就是一門專業。這裡提供一些文獻，供您需要時進一步閱讀。過去，主要文字資源尚未經過妥善探勘，個別研究人員必須自行從文字擷取概念及其關係。不過，如今許多文字語料已有專業聯盟運用先進方法，建立設計完善的概念、共現資訊與關係集合。即使是這些專業團隊，精確率（precision）與召回率（recall）也大約只能各達到 80%，但這很可能已是您能取得的最佳成果。當然，仍可能有內部或少為人知的文字及文字集合尚未經過探勘。如果這些資訊來源對研究至關重要，您可以考慮將文字探勘步驟納入自己的研究協定。不過，仍須留意，這是非常複雜的領域；您最後可能把時間花在消除歧義、機器學習、敘詞表及概念標記工具等工作，而非原本的研究。\n\n## 建議做法\n\n- 再次查核，確認您準備探勘的文字語料是否已由他人探勘，且結果已可取得（請見外部資源）。\n- 確定文字探勘確實無法省略。如果您希望找出的關聯，已因先前的文字探勘或人工策展而收錄於公共資料庫，嘗試做得更好，很可能只是浪費大部分時間。\n- 若確實需要文字探勘，可考慮委託專業團隊或公司處理；他們很可能比您自行開發的探勘演算法取得更好的成果。\n- 如果無法或不打算委外，請使用現成的文字探勘軟體。\n- 確保輸出中術語與概念的對映正確，且能與您打算結合的資料相容。\n- 若文字探勘是工作流程中不可省略的步驟，請在研究計畫中編列預算。\n\n## 應避免的做法\n\n- 低估文字探勘方法的複雜性。\n- 從任何文字中探勘概念或關係時，未考量其他資料類型同樣需要處理的資料託管問題。文字探勘成果的產製需要大量投入，因此可能是有價值的資料。\n- 未經團隊確認現有的眾多系統都不適用，就開發新的文字探勘演算法。\n\n---\n\n[**開放科學的資料託管：第 1.11.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/54c516de-193c-452f-bb8a-0e4ad57bfbeb/title
+#, fuzzy
 msgid "Do you need to integrate or link to a different type of data?"
-msgstr ""
+msgstr "您是否需要將資料與其他類型的資料整合或連結？"
 
 #: resourcePage/54c516de-193c-452f-bb8a-0e4ad57bfbeb/content
 #, fuzzy
