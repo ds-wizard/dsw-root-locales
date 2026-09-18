@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:05+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:05+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8493,7 +8493,6 @@ msgid "Capacity and harmonisation planning"
 msgstr "容量與資料調和規劃"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8514,7 +8513,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 3.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr "## 背景說明\n\n確切掌握實驗或研究預計產生的資料類型與資料量後，就需要規劃擷取、儲存、處理、分析，以及提供資料供再次使用所需的資源容量。前面已概略討論過這些面向，但這裡要強調，資料託管員的任務是預防未預期的硬體容量及人力不足問題，以免實驗啟動後造成延誤，甚至浪費已產生的資料。這不只涉及原始資料的擷取，儘管那是最迫切需要處理的問題。您也應充分了解實驗各步驟所產生資料與樣本的穩定性。例如，取自物理或生物系統的樣本，通常只能在相當有限的時間內保持穩定；從取樣到實際量測樣本特徵與數值之間的時間間隔，可能大幅影響量測結果。這主要屬於一般良好研究實踐的一部分，也是整個團隊的共同責任；但資料託管員的角色，是盡可能確保由時間間隔或其他實驗條件造成的變異，有妥善記錄且可供追查。例如，每個樣本在量測容器（如 96 孔盤）中的確切位置，以及完成整個孔盤量測程序所需的時間，都可能對後續資料處理與分析極為重要。如果已知某個標記的螢光會隨時間以特定方式衰減，就可能必須先針對孔盤第一孔與最後一孔之間的差異進行校正，才能進一步處理資料並得到有意義的結果。\n\n## 建議做法\n\n- 確實了解目前實驗研究相關的潛在變異來源，並建議研究團隊應擷取哪些後設資料及描述程序的資料，以盡量降低資料遺失，或缺乏調和、校準及校正程序的風險。\n- 盡合理可能擷取所有與實驗室程序相關的後設資料及資料，仍遵循「寧可日後捨棄，也不要後悔當初未保留」的原則。\n- 確保資料校正、調和與校準程序也被視為實驗過程的一部分，並加以監控與記錄。\n\n## 應避免的做法\n\n- 在實際實驗期間置身事外，將自己僅視為實驗工作流程產出資料後的接收者。\n- 認為深入了解實驗程序只是實驗人員的事，與自己無關；這裡不一定是指了解正在檢驗或提出的假說。在資料週期的這個階段，您也應以研究團隊核心成員的角色參與。\n- 尚未盡可能了解資料未來的用途，以及如何讓資料能與 OPEDAS 比較、避免繁瑣且容易出錯的*事後*調和程序所需的條件，就開始實際擷取資料。\n\n---\n\n[**開放科學的資料託管：第 3.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
+msgstr ""
 
 #: resourcePage/623c9c25-b0c0-4838-a8e7-26c06a3b708d/title
 #, fuzzy
