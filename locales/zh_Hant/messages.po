@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 00:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 00:55+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -5600,7 +5600,7 @@ msgid ""
 "Many repositories are listed in [FAIRsharing](https://fairsharing.org/)\n"
 "\n"
 "If a repository offers to give your data set a DOI or alternative persistent identifier it is a good idea to use that option."
-msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 [FAIRsharing](https://fairsharing.org/)\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
+msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 https://fairsharing.org/\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
 
 #: answer/1dc412c6-da92-4cc2-8639-316c0c6ec5ff/label
 msgid "A domain-specific repository"
@@ -6836,8 +6836,9 @@ msgid "Are there any software packages you will be publishing?"
 msgstr "您是否將發布任何軟體套件？"
 
 #: question/8df5fdb2-e358-4c27-bbe8-efdca150702b/text
+#, fuzzy
 msgid "Include software, scripts, pipelines, notebooks, APIs, plugins, or analysis tools developed or substantially modified within the project."
-msgstr ""
+msgstr "請納入在計畫中開發或大幅修改的軟體、腳本、管線、程式筆記本（notebook）、API、外掛程式或分析工具。"
 
 #: question/1ae8d7b0-4bcd-4914-aaea-fa389fc056f4/title
 msgid "Specify a list of software packages you will be publishing"
@@ -6996,8 +6997,9 @@ msgid "I"
 msgstr "I"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/description
+#, fuzzy
 msgid "The Interoperability metric describes how well the data interoperates with other data. The score associated with an answer will be higher if it makes it easier for humans and computers to couple the data with other data and 'understand' relationships. This is influenced by the use of standard ontologies for different fields and proper descriptions of the relations. It is also influenced by proper standard metadata that is agreed by the community."
-msgstr ""
+msgstr "可相互操作性指標描述資料與其他資料相互操作的程度。如果某個答案所代表的做法能讓人類和電腦更容易將資料與其他資料串聯，並「理解」彼此的關係，該答案對應的得分就會較高。影響因素包括是否採用不同領域的標準知識本體、是否妥善描述彼此的關係，以及是否使用適當且獲社群認可的標準後設資料。"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/title
 msgid "Reusability"
