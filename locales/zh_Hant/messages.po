@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 00:55+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 00:56+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -7711,7 +7711,6 @@ msgid "Who are the customers that use your workflows?"
 msgstr "誰會使用您的工作流程？"
 
 #: resourcePage/5bbc391e-a75a-4f0b-8335-1d0a7029d69a/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7732,7 +7731,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.2.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr "## 背景說明\n\n許多工作流程最初是由電腦科學家、資料科學家或從事科學研究的程式設計師開發。最初的版本通常屬於學術原型軟體（professorware），但仍可能是您能取得的最佳選擇；此外，這些工作流程往往不容易讓團隊中的實驗科學家使用。這表示，如果選擇這類開發初期的管線與工作流程，而在某些情況下它們也可能是唯一選項，就可能必須在其他團隊成員需要執行工作流程時隨時待命，最壞的情況甚至是每次都只能由您親自執行。如果選用某個工作流程會讓您成為整個作業鏈中的「單一故障點」，那本來就不是理想的選擇。因此，若無法避免這種選擇，請盡可能訓練更多人使用該工作流程。能使用工作流程，與能共同開發新功能或客製功能，仍是不同的能力。\n\n## 建議做法\n\n- 優先選擇最成熟、容易使用，且研究團隊中盡可能多人都能操作的工作流程。\n- 也考慮商業與專有解決方案，但仍應依照選擇任何工作流程時所述的相同原則進行權衡。\n- 如果有不同工作流程可選，請讓研究團隊其他成員參與試跑，並共同選出最合適的選項。\n\n## 應避免的做法\n\n- 選擇對身為資料專家的您而言似乎很容易，但其他團隊成員可能無法操作的工作流程。\n- 過度著迷於「可以自己動手修改」的選項，而犧牲易用性與穩定性。\n- 高估團隊其他成員應付困難或偏向技術專家介面的能力，即使您覺得這些介面很容易且直覺。許多團隊成員在筆記型電腦上看到陌生的電腦訊息時，可能會不知所措。\n\n---\n\n[**開放科學的資料託管：第 4.2.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
+msgstr ""
 
 #: resourcePage/f942da0b-a7ae-49fe-880b-0cc0a7198bb4/title
 #, fuzzy
