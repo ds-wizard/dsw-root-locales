@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:07+0000\nLast-Translator: Chun-Shih Chang <austin20463@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-18 01:07+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -8493,6 +8493,7 @@ msgid "Capacity and harmonisation planning"
 msgstr "容量與資料調和規劃"
 
 #: resourcePage/47905c52-3676-40c0-af31-01e9183855af/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8513,7 +8514,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 3.2**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n確切掌握實驗或研究預計產生的資料類型與資料量後，就需要規劃擷取、儲存、處理、分析，以及提供資料供再次使用所需的資源容量。前面已概略討論過這些面向，但這裡要強調，資料託管員的任務是預防未預期的硬體容量及人力不足問題，以免實驗啟動後造成延誤，甚至浪費已產生的資料。這不只涉及原始資料的擷取，儘管那是最迫切需要處理的問題。您也應充分了解實驗各步驟所產生資料與樣本的穩定性。例如，取自物理或生物系統的樣本，通常只能在相當有限的時間內保持穩定；從取樣到實際量測樣本特徵與數值之間的時間間隔，可能大幅影響量測結果。這主要屬於一般良好研究實踐的一部分，也是整個團隊的共同責任；但資料託管員的角色，是盡可能確保由時間間隔或其他實驗條件造成的變異，有妥善記錄且可供追查。例如，每個樣本在量測容器（如 96 孔盤）中的確切位置，以及完成整個孔盤量測程序所需的時間，都可能對後續資料處理與分析極為重要。如果已知某個標記的螢光會隨時間以特定方式衰減，就可能必須先針對孔盤第一孔與最後一孔之間的差異進行校正，才能進一步處理資料並得到有意義的結果。\n\n## 建議做法\n\n- 確實了解目前實驗研究相關的潛在變異來源，並建議研究團隊應擷取哪些後設資料及描述程序的資料，以盡量降低資料遺失，或缺乏調和、校準及校正程序的風險。\n- 在合理可行的範圍內，盡可能擷取與實驗室程序相關的所有後設資料及資料，仍遵循「寧可日後捨棄，也不要後悔當初未保留」的原則。\n- 確保資料校正、調和與校準程序也被視為實驗過程的一部分，並加以監控與記錄。\n\n## 應避免的做法\n\n- 在實際實驗期間置身事外，將自己僅視為實驗工作流程產出資料後的接收者。\n- 認為深入了解實驗程序只是實驗人員的事，與自己無關；這裡不一定是指了解正在檢驗或提出的假說。在資料週期的這個階段，您也應以研究團隊核心成員的角色參與。\n- 尚未盡可能了解資料未來的用途，以及如何讓資料能與 OPEDAS 比較、避免繁瑣且容易出錯的*事後*調和程序所需的條件，就開始實際擷取資料。\n\n---\n\n[**開放科學的資料託管：第 3.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/623c9c25-b0c0-4838-a8e7-26c06a3b708d/title
 #, fuzzy
@@ -8658,6 +8659,7 @@ msgid "Tools and data Directory (for the experiment)"
 msgstr "實驗工具與資料目錄"
 
 #: resourcePage/a272393c-5298-444e-8eb8-fdec0d965720/content
+#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -8680,11 +8682,12 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 4.4**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr ""
+msgstr "## 背景說明\n\n實驗中使用的所有工具、工作流程與資料集合，都應列入完整目錄，讓研究團隊所有成員隨時可以取用。\n\n在研究與資料週期的資料處理階段，除了應避免讓自己成為單點失效的風險，也應為每項實驗使用的所有資料處理工具，維護專業且容易取用的目錄；這十分重要，也能節省時間。最好的做法是建立總目錄，提供工具及其元件完整的後設資料與溯源資訊。每項工具或元件，包括各個不同版本，都應有唯一識別碼。如此，每項實驗都能透過這份總目錄，指明實際使用哪些工具，以及在何時、如何使用。這對分散式研究計畫尤其重要。請選取部分工作流程與資料的組合，在所有基礎設施上執行，以確保一致性。讓管線能在不同工作空間之間移植，最終可採用 VM 類型的容器，有助於降低分散式團隊在不同子工作空間中產生不同結果的風險。\n\n## 建議做法\n\n- 為所有實驗使用的全部工具維護總目錄，並確保團隊成員都知道這份目錄。\n- 確保所有團隊成員都能取用目錄，並在實驗室筆記本及其他需要的場合適當引用。\n- 確保目錄足夠穩定且專業，能作為正式的工具資源庫，供審查與可重現性檢查使用。\n- 為工作流程錯誤制定應變方案，納入替代選項，例如叢集、網格或雲端。\n\n## 應避免的做法\n\n- 在資料上執行工作流程，卻未引用目錄中該工作流程的通用描述。\n- 執行工作流程時，未記錄使用的確切版本；較好的做法是讓總目錄中每項工具的每個版本，都有自己的 PID。\n- 在總目錄中用自己的文字描述第三方工具，卻未提供足夠的後設資料、溯源資訊與連結，讓所有團隊成員都能追查工具的來源。\n---\n\n[**開放科學的資料託管：第 4.4 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/title
+#, fuzzy
 msgid "Will you use a workflow e.g. with tools for database access or conversion?"
-msgstr ""
+msgstr "您是否會使用工作流程，例如搭配資料庫取用或資料轉換工具？"
 
 #: resourcePage/7cee789e-414b-43fd-a718-49ea302852ee/content
 #, fuzzy
