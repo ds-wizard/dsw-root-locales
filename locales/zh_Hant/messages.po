@@ -2823,27 +2823,22 @@ msgid "For projects involving data collection from subjects, it must be ensured 
 msgstr "凡涉及向受試者蒐集資料的計畫，皆需確保受試者得以完整行使其相關權利。"
 
 #: choice/e63d7501-86b4-40b7-9b2a-43e7c1745ae1/label
-#, fuzzy
 msgid "They can access the data during the project"
 msgstr "他們可以在計畫期間查閱其資料。"
 
 #: choice/216661ca-3b33-4541-bfb7-d7578466e137/label
-#, fuzzy
 msgid "They can access the data after the project's completion"
 msgstr "他們可以在計畫完成後查閱其資料。"
 
 #: choice/f7a1854f-511e-44c8-b1e5-422d26024433/label
-#, fuzzy
 msgid "They can ask for the data to be modified after the project's completion (which may include the deletion of the data)"
 msgstr "他們可以在計畫完成後要求修改資料（這可能包括刪除資料）。"
 
 #: choice/dd1b03f1-2b1c-41f5-9e15-4eb14d46afcf/label
-#, fuzzy
 msgid "They can ask for data access to be modified during the project"
 msgstr "他們可以在計畫期間要求調整資料取用權限。"
 
 #: choice/31b7d794-e805-4364-9be8-e33b132f1c0c/label
-#, fuzzy
 msgid "They can ask for data access to be modified after the project's completion"
 msgstr "他們可以在計畫完成後要求調整資料取用權限。"
 
@@ -2906,12 +2901,10 @@ msgid "Controller"
 msgstr "控管者"
 
 #: question/b9619bee-6d69-4111-b1e0-6c3ea50e01f8/title
-#, fuzzy
 msgid "Organisation"
 msgstr "組織"
 
 #: question/b9619bee-6d69-4111-b1e0-6c3ea50e01f8/text
-#, fuzzy
 msgid "You will be presented with suggestions from [ROR](https://ror.org/), but you also have the option to manually enter the organisation that is not listed there."
 msgstr "系統會顯示來自 [ROR](https://ror.org/) 的建議項目；若組織未列於其中，您也可以手動輸入。"
 
@@ -2986,12 +2979,10 @@ msgid "Criminal convictions and offences"
 msgstr "前科與犯罪資料"
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/title
-#, fuzzy
 msgid "What are the exemptions to the prohibition for processing of special categories of data (such as health and genetic data) under Art. 9 GDPR used?"
 msgstr "您依據 GDPR 第 9 條的哪些例外規定，處理特殊類別資料（例如健康及基因資料）？"
 
 #: question/de72effc-807a-4081-b842-1e77ecc9c43f/text
-#, fuzzy
 msgid ""
 "Processing of certain categories of personal data is not allowed unless there are exemptions in law to allow this. Among these categories (“sensitive data”) are *“‘[...] data revealing racial or ethnic origin, [...] genetic data, [...] data concerning health’”*. Most types of personal data collected in biomedical research will fall under these categories. [Article 9](https://gdpr-info.eu/art-9-gdpr/) (2) lists a number of exemptions that apply, of which *consent* and *scientific research* are most likely to be relevant for research. Please consult with your Data Protection Officer of your organisation.\n"
 "State cohort/dataset for each type of exemption."
