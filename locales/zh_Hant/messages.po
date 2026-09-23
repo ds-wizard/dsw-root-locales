@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-23 17:37+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-23 17:37+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -3786,7 +3786,6 @@ msgid "Only all project members have read/write access to the data"
 msgstr "只有計畫成員可以讀取及寫入資料"
 
 #: answer/154cd5fc-a79f-4c2e-be67-6985813bbc8d/label
-#, fuzzy
 msgid "Anyone in the institute has read access to the data; all project members have read/write access"
 msgstr "機構內的任何人都可以讀取資料；所有計畫成員皆有讀與寫的權限。"
 
@@ -3856,7 +3855,6 @@ msgid "Output data"
 msgstr "輸出資料"
 
 #: answer/eaedc13a-242b-417d-b084-5ef152c352ab/label
-#, fuzzy
 msgid "There is no significant difference"
 msgstr "沒有顯著差異。"
 
@@ -4096,12 +4094,10 @@ msgid "Software component:"
 msgstr "軟體元件："
 
 #: question/996df4e8-90ea-4aaf-8c3d-d92b3d145dd3/title
-#, fuzzy
 msgid "Where are you getting this software from?"
 msgstr "您從何處取得此軟體？"
 
 #: question/996df4e8-90ea-4aaf-8c3d-d92b3d145dd3/text
-#, fuzzy
 msgid "Please specify a web address if available."
 msgstr "如有網址，請提供。"
 
@@ -4195,12 +4191,10 @@ msgid "This will be one of the prime distinctive outcomes of our project"
 msgstr "這會是我們計畫主要的特色成果之一"
 
 #: question/3b0f752e-e46b-4c8b-835f-14c426036ece/title
-#, fuzzy
 msgid "What licence will you use for your tool?"
-msgstr "您會為這個工具使用哪一種授權條款？"
+msgstr "您的工具將使用哪一種授權條款？"
 
 #: question/3b0f752e-e46b-4c8b-835f-14c426036ece/text
-#, fuzzy
 msgid "Make sure the licence is compatible with all components you use, and also make sure the licence is made explicit in the repository."
 msgstr "請確保該授權條款與您所使用的所有元件皆相容，並且也要確保該授權條款已在儲存庫中明確標示。"
 
@@ -4221,12 +4215,10 @@ msgid "LGPL 3.0 or later"
 msgstr "LGPL 3.0 或更新版本"
 
 #: answer/584339ee-b313-44ef-8aba-c0f252eb2ade/label
-#, fuzzy
 msgid "We are using a different licence"
 msgstr "我們會使用其他授權條款"
 
 #: question/6b5d7d2e-c117-4e61-a597-5207bc7fc057/title
-#, fuzzy
 msgid "What other licence?"
 msgstr "其他授權條款為何？"
 
@@ -4235,9 +4227,8 @@ msgid "Preferably give a web pointer to the license."
 msgstr "最好提供指向該授權條款的網頁連結。"
 
 #: question/c83097bb-e057-4cde-848d-a2e57d6ee3c9/title
-#, fuzzy
 msgid "Is this a recognised reusable open source licence?"
-msgstr "這是否是一種公認且可再次使用的開源授權？"
+msgstr "這是否是一種公認且可再次使用的開源授權 ( open source licence)？"
 
 #: question/a1c37c05-57ff-499c-b58c-e90f511241fa/title
 msgid "Did you choose the workflow engine you will be using?"
@@ -4404,9 +4395,8 @@ msgid "Do you need to be able to export/import workflows (e.g. in the Common Wor
 msgstr "您是否需要能夠匯出或匯入工作流程，例如以通用工作流程語言 (CWL) 格式？"
 
 #: question/75af1eb3-1e0e-4be8-b0b6-cdb0883c791b/title
-#, fuzzy
 msgid "Do you want your workflow engine to be professionally hosted by a specialised party?"
-msgstr "您是否希望由專業第三方代管您的工作流程引擎？"
+msgstr "您是否希望由專業第三方代管您的工作流程？"
 
 #: question/bdce5cee-2930-4b30-b3d5-d503ab0b5d1a/title
 msgid "Can you make a decision for the workflow engine based on the criteria deemed important?"
