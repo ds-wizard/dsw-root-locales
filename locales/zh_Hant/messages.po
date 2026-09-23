@@ -3114,19 +3114,16 @@ msgid "Systematic monitoring, processing used to observe, monitor or control dat
 msgstr "用於觀察、監控或控制資料當事人的系統性監控或處理活動，包括透過網路收集的資料。"
 
 #: choice/fcf05e2f-b25b-45a3-a2fe-460618e3ee7f/label
-#, fuzzy
 msgid "Matching or combining datasets, for example originating from two or more data processing operations performed for different purposes"
 msgstr "比對或合併資料集，例如來自兩個或多個為不同目的執行的資料處理作業。"
 
 #: choice/f2919725-27cf-4c43-a04b-69a47eb1f852/label
-#, fuzzy
 msgid "Innovative use or applying new technological or organisational solutions, like combining the use of fingerprint and face recognition for physical access control"
 msgstr "創新使用或採用新的技術或組織解決方案，例如結合指紋與臉部辨識進行實體門禁控制。"
 
 #: choice/9e3d02c8-3a93-4e95-b724-36ed315efb69/label
-#, fuzzy
 msgid "Processing that prevents data subjects from exercising a right or using a service or a contract"
-msgstr "該計畫涉及可能妨礙資料主體行使權利，或使用某項服務或契約的資料處理行為。"
+msgstr "該計畫涉及可能妨礙資料當事人行使權利，或使用某項服務或契約的資料處理行為。"
 
 #: reference/8fe4a165-09a6-4e5d-835d-3255db21d0de/label
 msgid "EC Guidelines on DPIAs"
@@ -3263,7 +3260,6 @@ msgid "Note: Be aware that different laws might define the mandatory content of 
 msgstr "注意：不同法律可能會以不同方式定義知情同意的必要內容。因此，依某一法律（例如倫理相關法規）有效的知情同意，依另一法律，例如 GDPR，不一定有效。若要以同意作為處理的法律依據，GDPR 生效前取得的知情同意可能並不有效。"
 
 #: question/63b6e695-2371-412c-bed3-f13e157da0b4/title
-#, fuzzy
 msgid "Are there any data use restrictions?"
 msgstr "資料的使用是否有任何限制？"
 
