@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-09-23 17:37+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-01 09:08+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -3845,10 +3845,7 @@ msgid ""
 "If the intermediate data is larger than either input or output data, you may consider minimizing the time it is stored. Make the balance between the CPU time needed if you need to re-calculate it versus the storage requirements. Sometimes it is possible to avoid storage at all by immediately running the whole analysis work flow.\n"
 "\n"
 "It may also be useful to consider storing the intermediate data on a separate data volume from the rest of the project storage, which may not be backed up. This can not only reduce the storage costs, but also if the backup needs to be used it is better if it strictly contains the data that is needed for a restore, otherwise a restore i case of a problem may take much longer than strictly necessary."
-msgstr ""
-"如果中間資料比輸入或輸出資料更大，可以考慮盡量縮短其保存時間。請在重新計算所需的 CPU 時間與儲存需求之間取得平衡。有時也可以透過立即執行完整分析工作流程，完全避免儲存中間資料。\n"
-"\n"
-"也可以考慮將中間資料存放在與其他計畫儲存空間分開的資料卷上，而且該資料卷可以不備份。這不僅能降低儲存成本；若日後需要使用備份，備份中最好只包含還原所必需的資料，否則發生問題時的還原作業可能會比必要時間長得多。"
+msgstr "如果中間資料比輸入或輸出資料更大，可以考慮盡量縮短其保存時間。請在重新計算所需的 CPU 時間與儲存需求之間取得平衡。有時也可以透過立即執行完整分析工作流程，完全避免儲存中間資料。\n\n也可以考慮將中間資料存放在與其他計畫儲存空間分開的資料儲存區上，而且該資料卷可以不備份。這不僅能降低儲存成本；若日後需要使用備份，備份中最好只包含還原所必需的資料，否則發生問題時的還原作業可能會比必要時間長得多。"
 
 #: answer/379327e3-485d-4121-a9ec-d790ae6f5bcf/label
 msgid "Output data"
