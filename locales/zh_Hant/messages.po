@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-01 09:08+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-16 17:07+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -1740,7 +1740,7 @@ msgstr "您的資料集是否會指定授權條款？"
 
 #: question/ae28a862-5020-44c2-8c78-3abc185b190f/text
 msgid "It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. It is helpful to associate each data set with a licence as early as possible in the project. A data licence should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable licence."
-msgstr "專案內外的人不一定都清楚某個資料集可以怎麼使用、又有哪些限制。因此，最好能在專案初期就為每個資料集指定授權條款。理想上，資料授權應該越自由越好；像是「僅限非商業用途」或「必須標示出處」這類限制，都可能降低資料的再次使用性，進而減少被引用的機會。如果可以，建議使用機器可讀、且可由電腦直接執行判讀的授權條款。"
+msgstr "計畫內外的人不一定都清楚某個資料集可以怎麼使用、又有哪些限制。因此，最好能在計畫初期就為每個資料集指定授權條款。理想上，資料授權應該越自由越好；像是「僅限非商業用途」或「必須標示出處」這類限制，都可能降低資料的再次使用性，進而減少被引用的機會。如果可以，建議使用機器可讀、且可由電腦直接執行判讀的授權條款。"
 
 #: answer/0b0e1e89-3b7b-4d9e-95f6-d96397b28c3b/advice
 msgid "Please consider adding licenses to all datasets you are collecting as soon as possible."
@@ -7424,7 +7424,6 @@ msgid "What is the volume of the anticipated data set?"
 msgstr "預期資料集的資料量有多大？"
 
 #: resourcePage/b0c16c49-0dd8-4652-ab7a-cf9a3aafc85b/content
-#, fuzzy
 msgid ""
 "## What's up?\n"
 "\n"
@@ -7446,7 +7445,7 @@ msgid ""
 "---\n"
 "\n"
 "[**Data Stewardship for Open Science: Chapter 1.15.1**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173) with kind permission of [CRC Press](https://taylorandfrancis.com/)"
-msgstr "## 背景說明\n\n資料量只是資料集的其中一個面向，其他面向還包括複雜度、隱私、多樣性等。不過，資料量本身就可能影響資料格式的選擇。有時，您可以只儲存部分資料，而不遺失重要資訊。例如，若已對一群人進行全基因組定序，您可以儲存一份參考基因組，當然也要附上豐富的溯源資訊，再只儲存各個人的序列相對於該參考基因組的差異。這可大幅縮減需要儲存的資料集，降至原始序列的 1% 以下；日後也可以隨時透過「從參考基因組檔案補入其餘序列」，重新產生每個人的完整基因組。\n\n## 建議做法\n\n- 務必先考量資料量，並確定它將如何影響以下選擇：\n- 資料前處理方式。\n- 溯源資訊的儲存方式，包括詳細記錄原始資料經歷了哪些處理，以及處理的方式、時間與原因。\n- 處理後資料的格式與解析度，依工作流程選擇、常用做法等因素決定。\n- 預先確認機構內部或外部的儲存與運算基礎設施，以及取用條件，足以妥善進行資料前處理、儲存及取用。\n- 盡可能預估團隊自身及其他潛在使用者未來對資料的使用需求（請見相關資源）。\n\n## 應避免的做法\n\n- 未經確認，就假定可使用的運算與儲存設施足以滿足需求。\n- 未事先提出充分論證，就建立任何檔案格式、詞彙表或其他資料相關資源。\n---\n\n[**開放科學的資料託管：第 1.15.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
+msgstr "## 背景說明\n\n資料量只是資料集的其中一個面向，其他面向還包括複雜度、隱私、多樣性等。不過，資料量本身就可能影響資料格式的選擇。有時，您可以只儲存部分資料，而不遺失重要資訊。例如，若已對一群人進行全基因組定序，您可以儲存一份參考基因組，當然也要附上豐富的溯源資訊，再只儲存各個人的序列相對於該參考基因組的差異。這可大幅縮減需要儲存的資料集，降至原始序列的 1% 以下；日後也可以隨時透過「從參考基因組檔案補入其餘序列」，重新產生每個人的完整基因組。\n\n## 建議做法\n\n- 務必先考量資料量，並確定它將如何影響以下選擇：\n- 資料前處理方式。\n- 溯源資訊的儲存方式，包括詳細記錄原始資料經歷了哪些處理，以及處理的方式、時間與原因。\n- 處理後資料的格式與解析度，依工作流程選擇、慣例等因素決定。\n- 預先確認機構內部或外部的儲存與運算基礎設施，以及取用條件，足以妥善進行資料前處理、儲存及取用。\n- 盡可能預估團隊自身及其他潛在使用者未來對資料的使用需求（請見相關資源）。\n\n## 應避免的做法\n\n- 未經確認，就假定可使用的運算與儲存設施足以滿足需求。\n- 未事先提出充分論證，就建立任何檔案格式、詞彙表或其他資料相關資源。\n---\n\n[**開放科學的資料託管：第 1.15.1 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/3ed446f5-b12c-43ea-bf1b-d02003d3ea2a/title
 #, fuzzy
