@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-20 17:41+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-21 08:37+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -4478,9 +4478,8 @@ msgid "Consider changing this!"
 msgstr "考慮修改這部分！"
 
 #: question/4b4d5878-970b-41aa-bbf5-15072e704417/title
-#, fuzzy
 msgid "Will you only use well-scrutinised open source tools?"
-msgstr "您是否只會使用經過充分審查的開源工具？"
+msgstr "您是否只會使用經過充分審查過的開源工具？"
 
 #: question/5ea8a4fd-4bed-48a9-aacf-71e2d4953eb4/title
 msgid "Will you have all changes checked by a second developer before deploying them?"
@@ -4839,9 +4838,8 @@ msgid "Do project members send project data or reports per e-mail or other messa
 msgstr "計畫成員是否會透過電子郵件或其他即時通訊服務傳送計畫資料或報告？"
 
 #: question/a454fffd-f4a4-426d-b758-6d70bc4ee96b/title
-#, fuzzy
 msgid "Do all data centres where project data is stored carry sufficient certifications?"
-msgstr "所有存放計畫資料的資料中心，是否皆取得符合需求的相關認證？"
+msgstr "所有存放計畫資料的資料中心，是否都具備足夠的相關認證？"
 
 #: question/39d8dad9-7666-405c-b35c-9e430c9691ed/title
 msgid "Are all project web services addressed via secure http (https://)?"
@@ -5507,14 +5505,13 @@ msgid "What repository will this data be stored in?"
 msgstr "這份資料會儲存在哪一個資料儲存庫？"
 
 #: question/80a682bd-8a5c-4a52-935d-680509838a4e/text
-#, fuzzy
 msgid ""
 "Domain repositories often have the best functionality to make the data findable and reusable: even though it may look like a database that could be reused in a completely different field would be better findable in a generic repository, the limited availability of domain-specific metadata make that less valuable.\n"
 "\n"
 "Many repositories are listed in [FAIRsharing](https://fairsharing.org/)\n"
 "\n"
 "If a repository offers to give your data set a DOI or alternative persistent identifier it is a good idea to use that option."
-msgstr "特定領域資料儲存庫通常最能讓資料可被找到、也可再次使用：即使某個資料庫看似可供其他領域再次使用，放在通用型資料儲存庫中似乎也比較容易被找到，但由於缺乏領域特定的後設資料，反而會降低其應用價值。\n\n許多資料儲存庫都收錄於 [FAIRsharing](https://fairsharing.org/)\n\n如果資料儲存庫提供 DOI 或其他持續識別碼給您的資料集，建議務必採用該選項。"
+msgstr "領域型資料儲存庫通常最能提供有助於資料被找到與再次使用的功能：即使某個資料庫看起來也可供其他領域再次使用，放在通用型資料儲存庫似乎也比較容易被找到，但由於通用型儲存庫通常缺乏領域專屬的後設資料，實際效益反而可能較低。\n\n許多資料儲存庫都收錄於 [FAIRsharing](https://fairsharing.org/)\n\n如果資料儲存庫可以為您的資料集提供 DOI 或其他持續識別碼，這會是一個好的選項。"
 
 #: answer/1dc412c6-da92-4cc2-8639-316c0c6ec5ff/label
 msgid "A domain-specific repository"
