@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-27 06:36+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-27 06:49+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -5790,7 +5790,6 @@ msgid "No, the data will be stored in a repository that is the prime source of d
 msgstr "否，資料會儲存在該領域供資料再次使用的主要資料儲存庫中"
 
 #: reference/b128903f-a545-4323-b127-f4a0ff998608/label
-#, fuzzy
 msgid "What is a data catalogue (Dataversity)"
 msgstr "什麼是資料目錄（Dataversity）"
 
@@ -6564,12 +6563,10 @@ msgid "We will make other arrangements"
 msgstr "我們會另作安排"
 
 #: question/23909308-55cf-4e94-a616-2a74c809aa48/title
-#, fuzzy
 msgid "Who will take care of authorisation of potential users?"
-msgstr "誰會負責授權潛在使用者取用資料？"
+msgstr "誰負責審核潛在使用者的取用權限？"
 
 #: answer/ed47c9b7-9c2b-48ab-bdf4-efd8913f673e/label
-#, fuzzy
 msgid "One of the project members will authorise"
 msgstr "由其中一位計畫成員負責授權"
 
