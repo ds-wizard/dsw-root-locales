@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-27 06:36+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-10-27 06:36+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -5634,7 +5634,6 @@ msgid "Who will the data in this place be shared with?"
 msgstr "此處的資料會與誰共享？"
 
 #: answer/1fd3e838-f92a-4086-8308-de17f6fa9d73/label
-#, fuzzy
 msgid "Open: The data will be shared with anyone, as long as they obey conditions of the licence"
 msgstr "開放：資料將與任何人共享，只要其遵守授權條款的條件即可"
 
@@ -5651,9 +5650,8 @@ msgid "Note that there are questions later specific to archival."
 msgstr "請注意，後面還有一些專門針對典藏的問題。"
 
 #: question/3d89e23d-ff5c-45da-97a8-169ad8c39be6/title
-#, fuzzy
 msgid "Licences under which this distribution of the data set will be available"
-msgstr "此資料集的本次發布版本所適用的授權條款"
+msgstr "此資料集將可採哪些授權條款提供使用"
 
 #: question/3d89e23d-ff5c-45da-97a8-169ad8c39be6/text
 msgid "Please add each license that this data set will be available as. For each license you will be able to specify when it starts being applicable, so that you can e.g. specify that the data is restricted for a few months and open afterwards."
