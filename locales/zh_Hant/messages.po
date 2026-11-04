@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-11-04 07:09+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-11-04 09:19+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6950,52 +6950,42 @@ msgid "After a project is finished, the team conducts a comprehensive project re
 msgstr "計畫結束後，團隊會全面檢討計畫，評估整體成果，並找出未來可改進及後續追蹤的事項。團隊會蒐集利害關係人的相關回饋，完成報告並典藏計畫文件。最後，記錄所得經驗，供未來參考。在此階段，與這些流程相關的問題會被標記為「適合 (desirable) 於此階段填寫」。"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/name
-#, fuzzy
 msgid "Science Europe DMP"
 msgstr "Science Europe 資料管理方案"
 
 #: tag/fd4637a2-a117-460a-a7fa-c03760c42629/description
-#, fuzzy
 msgid "Questions related to Science Europe DMP."
 msgstr "與 Science Europe 資料管理方案相關的問題。"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/name
-#, fuzzy
 msgid "maDMP"
 msgstr "maDMP"
 
 #: tag/19b0fe70-a884-4539-96b9-a0aaf8c9b884/description
-#, fuzzy
 msgid "Questions related to the DMP Common Standard (RDA) for machine-actionable DMPs."
-msgstr "與 RDA 的資料管理方案通用標準相關的問題，該標準適用於機器可操作的資料管理方案。"
+msgstr "與機器可操作資料管理方案（machine-actionable DMPs）的 DMP Common Standard（RDA）相關的問題。"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/name
-#, fuzzy
 msgid "Horizon 2020 DMP"
 msgstr "Horizon 2020 資料管理方案"
 
 #: tag/3c7bdc90-8ed3-4b34-90ec-7945d14cc443/description
-#, fuzzy
 msgid "Questions related to Horizon 2020 DMP."
 msgstr "與 Horizon 2020 資料管理方案相關的問題。"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/name
-#, fuzzy
 msgid "Horizon Europe DMP"
 msgstr "Horizon Europe 資料管理方案"
 
 #: tag/87bb2042-8e3c-4733-ba1e-84509d7b1cf4/description
-#, fuzzy
 msgid "Questions related to the Horizon Europe DMP"
 msgstr "與 Horizon Europe 資料管理方案相關的問題。"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/name
-#, fuzzy
 msgid "ELSI"
 msgstr "ELSI"
 
 #: tag/4fa6f10d-b593-4b00-84cf-00d7f916147f/description
-#, fuzzy
 msgid "Ethical, legal, and social implications / aspects"
 msgstr "倫理、法律與社會的影響／面向"
 
