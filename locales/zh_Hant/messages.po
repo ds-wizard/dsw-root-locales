@@ -10,7 +10,7 @@
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 # Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>, 2026.
 msgid ""
-msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-11-11 19:56+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
+msgstr "Project-Id-Version: Common DSW Knowledge Model 2.7.0\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2026-09-12 06:21+0000\nPO-Revision-Date: 2026-11-11 19:56+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/knowledge-models/common-dsw-knowledge-model/zh_Hant/>\nLanguage: zh_Hant\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\nGenerated-By: Babel 2.17.0\n"
 
 #: chapter/1e85da40-bbfc-4180-903e-6c569ed2da38/title
 msgid "Administrative information"
@@ -6828,7 +6828,6 @@ msgid "Where is this output available?"
 msgstr "這項成果可以在哪裡取得？"
 
 #: question/ee3c29ee-1b93-42c7-b369-69c5efdd75b7/text
-#, fuzzy
 msgid "Provide a repository name, catalogue, persistent identifier (PID/DOI), institutional webpage, or another stable access location where the output can be accessed."
 msgstr "請提供可取用此成果的資料儲存庫名稱、目錄、持續識別碼 (PID/DOI)、機構網頁，或其他穩定的取用位置。"
 
@@ -6841,44 +6840,38 @@ msgid "F"
 msgstr "F"
 
 #: metric/8db30660-d4e5-4c0a-bf3e-553f3f0f997a/description
-#, fuzzy
 msgid "The Findability metric describes how easily data can be located. The score associated with an answer will be higher if it makes it easier for humans or for computers to locate your data set, e.g. if it ends up in an index or has a unique resolvable identifier."
-msgstr "可發現性指標描述資料被找到的難易程度。如果某個答案所代表的做法能讓人類或電腦更容易找到您的資料集，該答案對應的得分就會較高，例如將資料集收錄於索引，或為其指定可解析的唯一識別碼。"
+msgstr "可發現性（Findability）指標用來描述資料是否容易被找到。若某個回答能讓人或電腦更容易找到您的資料集，例如資料集被收錄在索引中，或為其指定可解析的唯一識別碼，該回答所對應的分數就會越高。"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/title
 msgid "Accessibility"
 msgstr "可取用性"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/abbreviation
-#, fuzzy
 msgid "A"
 msgstr "A"
 
 #: metric/0feac7e6-add4-4723-abae-be5ce7864c63/description
-#, fuzzy
 msgid "The Accessibility metric describes how well the access to the database is described and how easy it is to implement. The score associated with an answer will be higher if it makes it easier for humans and computers to get to the data. This is determined by e.g. the protocol for accessing the data or for authenticating users, and also by the guaranteed longevity of the repository. Note that this is different from the Openness metric!"
-msgstr "可取用性指標描述資料庫取用方式的說明是否完善，以及實際取用的難易程度。如果某個答案所代表的做法能讓人類和電腦更容易取得資料，該答案對應的得分就會較高。影響因素包括資料取用或使用者身分驗證所採用的通訊協定，以及儲存庫能保證持續運作多久。請注意，這與開放性指標不同！"
+msgstr "可取用性（Accessibility）指標用來描述資料庫的取用方式是否有清楚說明，以及實際取用是否容易。若某個回答能讓人或電腦更容易取得資料，該回答所對應的分數就會越高。這會受到多種因素影響，例如資料取用所使用的協定、使用者身分驗證方式，以及儲存庫是否能確保長期持續運作。請注意，這與開放性（Openness）指標並不相同！"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/title
 msgid "Interoperability"
 msgstr "可相互操作性"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/abbreviation
-#, fuzzy
 msgid "I"
 msgstr "I"
 
 #: metric/a42bded3-a085-45f8-b384-32b4a77c8385/description
-#, fuzzy
 msgid "The Interoperability metric describes how well the data interoperates with other data. The score associated with an answer will be higher if it makes it easier for humans and computers to couple the data with other data and 'understand' relationships. This is influenced by the use of standard ontologies for different fields and proper descriptions of the relations. It is also influenced by proper standard metadata that is agreed by the community."
-msgstr "可相互操作性指標描述資料與其他資料相互操作的程度。如果某個答案所代表的做法能讓人類和電腦更容易將資料與其他資料串聯，並「理解」彼此的關係，該答案對應的得分就會較高。影響因素包括是否採用不同領域的標準知識本體、是否妥善描述彼此的關係，以及是否使用適當且獲社群認可的標準後設資料。"
+msgstr "可相互操作性（Interoperability）指標描述資料與其他資料相互操作的程度。如果某個答案所代表的做法能讓人類和電腦更容易將資料與其他資料串聯，並「理解」彼此的關係，該答案對應的得分就會較高。影響因素包括是否採用不同領域的標準知識本體（ontologies）、是否妥善描述彼此的關係，以及是否使用適當且獲社群認可的標準後設資料。"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/title
 msgid "Reusability"
 msgstr "可再次使用性"
 
 #: metric/0bafe0c2-a8f2-4c74-80c8-dbf3a5b8e9b7/abbreviation
-#, fuzzy
 msgid "R"
 msgstr "R"
 
@@ -6891,7 +6884,6 @@ msgid "Good DMP Practice"
 msgstr "良好的資料管理方案實踐"
 
 #: metric/8845fe2b-79df-4138-baea-3a035bf5e249/abbreviation
-#, fuzzy
 msgid "G"
 msgstr "G"
 
@@ -7025,7 +7017,6 @@ msgid ""
 msgstr "## 背景說明\n\n在某些情況下，將您的資料加入既有集合，例如國際典藏庫，可能是明智的做法。愈來愈多資助機構與出版者也會提出這項要求。這個過程本身通常相當直接，因為這類公共典藏庫通常由專責機構或聯盟維護，並訂有規則、規範及格式要求，許多也提供清楚的資料上傳與取回說明。請注意，其中有些環境是「靜置」、無法相互操作的典藏庫，或僅供人類再次使用；有些則可能屬於 HPR 環境。對資料產生者而言，兩者可能帶來截然不同的挑戰；也請參考前面針對持續增加或變動的資料集與資源，所討論的更新及版本控制問題。\n\n進一步要考量的是，您是否將自己的資料視為可供策展的「參考」資料，並納入 UniProt 等核心資料資源。在這種情況下，程序可能相當不同，通常應主動與核心資料資源的託管員互動。目前，許多這類資源仍須透過*人工目視擷取*（閱讀），或文字與資料探勘，費力取得要納入策展及加值資源的資料；這兩種方法都很繁瑣，也容易出錯。以適當且無歧義的格式，將您的資料*直接加入*這些核心資源，是良好資料託管實踐的一部分。\n\n## 建議做法\n\n- 務必考量資料的「潛在參考價值」，例如自己的新發現能否豐富 Chembl、UniProt 或 Earthcube 等參考資料來源。\n- 將全部或部分資料提交至合適的「典藏庫」；在適當時，也將選定的資料提供給核心參考資料庫。\n- 使用這些資料資源要求的正確格式與標準，必要時與其聯絡。\n- （請參閱網站中按類別列出的資源、資料庫等？）\n\n## 應避免的做法\n\n- 僅將資料作為文章的「補充檔案」發布，就假定典藏庫、HPR 環境與核心參考資料庫的託管員會自行找到並使用。\n- 上傳資料至這些資源時，未附上適當的後設資料與溯源資訊。\n\n---\n\n[**開放科學的資料託管：第 7.4.2 章**](https://www.routledge.com/Data-Stewardship-for-Discovery-A-Practical-Guide-for-Data-Experts/Mons/p/book/9781498753173)，經 [CRC Press](https://taylorandfrancis.com/) 惠允使用。"
 
 #: resourcePage/b79095c3-db8e-4d7d-9e25-d2f9dd9c88dd/title
-#, fuzzy
 msgid "How will you document your interpretation steps?"
 msgstr "您將如何記錄詮釋步驟？"
 
